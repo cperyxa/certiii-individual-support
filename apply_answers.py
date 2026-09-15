@@ -252,25 +252,37 @@ def apply_answers(answers_file, input_docx, output_docx):
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Apply answers to AWB docx documents.")
-    parser.add_argument("--answers", required=True, help="Path to YAML or JSON answer file")
-    parser.add_argument("--input", required=True, help="Path to input AWB docx")
-    parser.add_argument("--output", required=True, help="Path to output filled docx")
+    parser.add_argument("--answers", help="Path to YAML or JSON answer file")
+    parser.add_argument("--input", help="Path to input AWB docx")
+    parser.add_argument("--output", help="Path to output filled docx")
+    parser.add_argument("--unit", help="Specific unit code to apply (e.g. CHCCCS040, CHCCOM005, HLTINF006, CHCAGE013)")
     args = parser.parse_args()
     
-    apply_answers(args.answers, args.input, args.output)
+    BATCH_CONFIGS = [
+        # Initial 2 units
+        ("CHCDIS020", "answers_CHCDIS020.yaml", "Assignment Materials-20260914/CHCDIS020-AWB-F-v1.0.docx", "Assignment Materials-20260914/CHCDIS020-AWB-Filled.docx"),
+        ("CHCPAL003", "answers_CHCPAL003.yaml", "Assignment Materials-20260915/CHCPAL003-AWB-F-v1.0 .docx", "Assignment Materials-20260915/CHCPAL003-AWB-Filled.docx"),
+        # Group 1 units
+        ("CHCCCS040", "answers_CHCCCS040.yaml", "Assignment Materials-20260915 (3)/CHCCCS040-AWB-F-v1.0.docx", "Assignment Materials-20260915 (3)/CHCCCS040-AWB-Filled.docx"),
+        ("CHCCOM005", "answers_CHCCOM005.yaml", "Assignment Materials-20260915 (5)/CHCCOM005-AWB-F-v1.1.docx", "Assignment Materials-20260915 (5)/CHCCOM005-AWB-Filled.docx"),
+        ("HLTINF006", "answers_HLTINF006.yaml", "Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx", "Assignment Materials-20260915 (8)/HLTINF006-AWB-Filled.docx"),
+        ("CHCAGE013", "answers_CHCAGE013.yaml", "Assignment Materials-20260915 (11)/CHCAGE013-AWB-F-v1.0.docx", "Assignment Materials-20260915 (11)/CHCAGE013-AWB-Filled.docx"),
+    ]
+
+    if args.answers and args.input and args.output:
+        apply_answers(args.answers, args.input, args.output)
+    elif args.unit:
+        matched = [c for c in BATCH_CONFIGS if c[0].lower() == args.unit.lower()]
+        if matched:
+            _, ans, inp, out = matched[0]
+            apply_answers(ans, inp, out)
+        else:
+            print(f"Unknown unit code: {args.unit}")
+    else:
+        for code, ans, inp, out in BATCH_CONFIGS:
+            if os.path.exists(ans) and os.path.exists(inp):
+                print(f"\n{'='*25} Applying {code} {'='*25}")
+                apply_answers(ans, inp, out)
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        main()
-    else:
-        # Default batch run for both units
-        apply_answers(
-            "answers_CHCDIS020.yaml",
-            "Assignment Materials-20260914/CHCDIS020-AWB-F-v1.0.docx",
-            "Assignment Materials-20260914/CHCDIS020-AWB-Filled.docx"
-        )
-        apply_answers(
-            "answers_CHCPAL003.yaml",
-            "Assignment Materials-20260915/CHCPAL003-AWB-F-v1.0 .docx",
-            "Assignment Materials-20260915/CHCPAL003-AWB-Filled.docx"
-        )
+    main()

@@ -87,5 +87,15 @@ def clean_model_answer(raw_text, item_index=None):
     return '\n'.join(items)
 
 
+def get_all_tables_recursive(container):
+    """Recursively collect all top-level and nested tables."""
+    tables = []
+    for t in container.tables:
+        tables.append(t)
+        for r in t.rows:
+            for c in r.cells:
+                if c.tables:
+                    tables.extend(get_all_tables_recursive(c))
+    return tables
 
 print("Extractor helper functions loaded successfully.")

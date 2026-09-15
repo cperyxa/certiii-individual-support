@@ -1,0 +1,4624 @@
+unit: CHCCCS040
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@email.com.au
+  date: 15/09/2026
+  state: New South Wales
+  workplace: Care Connect Services
+  rto: Care Connect College
+  rto_phone: 1300 123 456
+  rto_email: info@careconnectcollege.edu.au
+fields:
+- field_id: CHCCCS040_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: First and Last Name - CHCCCS040
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36DD8154
+  value: Alex Chen
+- field_id: CHCCCS040_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Phone - CHCCCS040
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 03F782DD
+  value: 0412 345 678
+- field_id: CHCCCS040_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Email - CHCCCS040
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 24752FAC
+  value: alex.chen@email.com.au
+- field_id: CHCCCS040_TXT_2_1_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Name:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 602B0F0F
+  value: Alex Chen
+- field_id: CHCCCS040_TXT_2_1_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Signature:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6EED9427
+  value: Alex Chen
+- field_id: CHCCCS040_TXT_2_1_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Date signed:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F091D23
+  value: 15/09/2026
+- field_id: CHCCCS040_CB_3_3_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 20
+  label: Australian Capital Territory
+  table_idx: 3
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-866288860'
+  value: false
+- field_id: CHCCCS040_CB_3_3_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 20
+  label: South Australia
+  table_idx: 3
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1825582306'
+  value: false
+- field_id: CHCCCS040_CB_3_4_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 20
+  label: New South Wales
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '532159646'
+  value: true
+- field_id: CHCCCS040_CB_3_4_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 20
+  label: Tasmania
+  table_idx: 3
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '735286758'
+  value: false
+- field_id: CHCCCS040_CB_3_5_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 20
+  label: Northern Territory
+  table_idx: 3
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '367031501'
+  value: false
+- field_id: CHCCCS040_CB_3_5_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 20
+  label: Victoria
+  table_idx: 3
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1363557391'
+  value: false
+- field_id: CHCCCS040_CB_3_6_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 20
+  label: Queensland
+  table_idx: 3
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2006784169'
+  value: false
+- field_id: CHCCCS040_CB_3_6_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 20
+  label: Western Australia
+  table_idx: 3
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1828745876'
+  value: false
+- field_id: CHCCCS040_TXT_4_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Physical - List two examples for each of the following types of basic human
+    needs in the table provi
+  table_idx: 4
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 27686F83
+  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
+    Safety Warmth'
+- field_id: CHCCCS040_TXT_4_3_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Physical - List two examples for each of the following types of basic human
+    needs in the table provi
+  table_idx: 4
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 32537C5B
+  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
+    Safety Warmth'
+- field_id: CHCCCS040_TXT_4_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: 'Psychological - List two examples for each of the following types of basic
+    human needs in the table '
+  table_idx: 4
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6FC143BE
+  value: 'Only two are required: Need to feel safe and secure Need to feel love and
+    belonging Need for developing one’s self-esteem, confidence and self-image'
+- field_id: CHCCCS040_TXT_4_4_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: 'Psychological - List two examples for each of the following types of basic
+    human needs in the table '
+  table_idx: 4
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 6450CFED
+  value: 'Only two are required: Need to feel safe and secure Need to feel love and
+    belonging Need for developing one’s self-esteem, confidence and self-image'
+- field_id: CHCCCS040_TXT_4_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Spiritual - List two examples for each of the following types of basic human
+    needs in the table prov
+  table_idx: 4
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3DA6709A
+  value: 'Only two are required: To express one’s spirituality in an open and non-judgemental
+    environment To maintain important religious/spiritual practices and beliefs'
+- field_id: CHCCCS040_TXT_4_5_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Spiritual - List two examples for each of the following types of basic human
+    needs in the table prov
+  table_idx: 4
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 071E96C8
+  value: 'Only two are required: To express one’s spirituality in an open and non-judgemental
+    environment To maintain important religious/spiritual practices and beliefs'
+- field_id: CHCCCS040_TXT_4_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Cultural - List two examples for each of the following types of basic human
+    needs in the table provi
+  table_idx: 4
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 307343C4
+  value: 'Only two are required: To express one’s cultural identity in an open and
+    non-judgemental environment To maintain important cultural practices, beliefs
+    and customs Dietary requirements Appearance/clothing'
+- field_id: CHCCCS040_TXT_4_6_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Cultural - List two examples for each of the following types of basic human
+    needs in the table provi
+  table_idx: 4
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 2A59282A
+  value: 'Only two are required: To express one’s cultural identity in an open and
+    non-judgemental environment To maintain important cultural practices, beliefs
+    and customs Dietary requirements Appearance/clothing'
+- field_id: CHCCCS040_TXT_4_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Sexual - List two examples for each of the following types of basic human
+    needs in the table provide
+  table_idx: 4
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1148ABCB
+  value: Need for sexual intimacy Maintain healthy sexual relationships
+- field_id: CHCCCS040_TXT_4_7_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Sexual - List two examples for each of the following types of basic human
+    needs in the table provide
+  table_idx: 4
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 1
+  para_id: '20946158'
+  value: Need for sexual intimacy Maintain healthy sexual relationships
+- field_id: CHCCCS040_TXT_5_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is the concept of self-actualisation?
+  table_idx: 5
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 45590C48
+  value: What is the concept of self-actualisation? For a satisfactory performance,
+    although the wording may slightly vary, the candidate’s responses must be consistent
+    with the benchmark answer provided below. Self-actualisation is the inherent desire
+    in human beings for self-fulfilment and the motivation to realise one’s own potential
+    and possibilities.
+- field_id: CHCCCS040_TXT_5_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Identify two ways you can support an individual to become self-actualised:'
+  table_idx: 5
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 16561E64
+  value: Answer the following questions about the concept of self-actualisation.
+- field_id: CHCCCS040_TXT_5_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Identify two ways you can support an individual to become self-actualised:'
+  table_idx: 5
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: '14406446'
+  value: Answer the following questions about the concept of self-actualisation.
+- field_id: CHCCCS040_TXT_6_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Infancy - Describe the human development that happens in each stage of life.
+  table_idx: 6
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6B1DB22C
+  value: The child is completely dependent on others during the first stage of life
+- field_id: CHCCCS040_TXT_6_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Early childhood - Describe the human development that happens in each stage
+    of life.
+  table_idx: 6
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4A248BC3
+  value: The child’s growing self-control is expressed through climbing, touching,
+    exploring etc. They develop a general desire to do things for themselves.
+- field_id: CHCCCS040_TXT_6_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: School-age - Describe the human development that happens in each stage of
+    life.
+  table_idx: 6
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 352DBE88
+  value: In school, the child begins to learn skills valued by society, and success
+    or failure can have a lasting effect on their feelings of adequacy.
+- field_id: CHCCCS040_TXT_6_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Adolescence - Describe the human development that happens in each stage of
+    life.
+  table_idx: 6
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1619CF11
+  value: Mental and physical maturation brings with it new feelings, a new body and
+    new attitudes.
+- field_id: CHCCCS040_TXT_6_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Adulthood - Describe the human development that happens in each stage of
+    life.
+  table_idx: 6
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3FF71401
+  value: The person strives to create or nurture things that will outlast them, generally
+    through parenting or contributing positive changes that benefit other people.
+- field_id: CHCCCS040_TXT_6_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Maturity - Describe the human development that happens in each stage of life.
+  table_idx: 6
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 516EA129
+  value: The person reflects back on the life they have lived and either acquire a
+    sense of fulfilment from a life well-lived or a sense of regret over a life misspent.
+- field_id: CHCCCS040_TXT_7_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Physical - Define the following aspects of a person’s wellbeing.
+  table_idx: 7
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 53722E1C
+  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
+    Safety Warmth'
+- field_id: CHCCCS040_TXT_7_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Psychological - Define the following aspects of a person’s wellbeing.
+  table_idx: 7
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 153B1089
+  value: 'Only two are required: Need to feel safe and secure Need to feel love and
+    belonging Need for developing one’s self-esteem, confidence and self-image'
+- field_id: CHCCCS040_TXT_7_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Social - Define the following aspects of a person’s wellbeing.
+  table_idx: 7
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2A7FB9B7
+  value: The ability to have meaningful and satisfying interpersonal relationships
+    with others. It also relates to the ability to adapt comfortably to different
+    social situations and act appropriately in a variety of settings.
+- field_id: CHCCCS040_TXT_7_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Spiritual - Define the following aspects of a person’s wellbeing.
+  table_idx: 7
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6CA00DE0
+  value: 'Only two are required: To express one’s spirituality in an open and non-judgemental
+    environment To maintain important religious/spiritual practices and beliefs'
+- field_id: CHCCCS040_TXT_7_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Cultural - Define the following aspects of a person’s wellbeing.
+  table_idx: 7
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 79E617A4
+  value: 'Only two are required: To express one’s cultural identity in an open and
+    non-judgemental environment To maintain important cultural practices, beliefs
+    and customs Dietary requirements Appearance/clothing'
+- field_id: CHCCCS040_TXT_7_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Financial - Define the following aspects of a person’s wellbeing.
+  table_idx: 7
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E170C00
+  value: Being able to meet current and ongoing financial obligations, feeling secure
+    in their financial future and can make choices to enjoy life.
+- field_id: CHCCCS040_TXT_7_9_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Career or occupation - Define the following aspects of a person’s wellbeing.
+  table_idx: 7
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 37A7BBC6
+  value: A state of wholeness that results from bringing into balance life, work,
+    people and money.
+- field_id: CHCCCS040_TXT_8_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three traits that contribute to an individual’s unique differences.
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 742D5FAB
+  value: List three traits that contribute to an individual’s unique differences.
+    Responses will vary. For a satisfactory performance, the candidate’s response
+    must include three of the following model answers. Capabilities Experiences Background
+    Spirituality/religion Culture Sexuality Social interactions and activities Other
+    responses are still acceptable, provided that they are things that can vary between
+    different individuals.
+- field_id: CHCCCS040_TXT_8_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three traits that contribute to an individual’s unique differences.
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7914AE20
+  value: List three traits that contribute to an individual’s unique differences.
+    Responses will vary. For a satisfactory performance, the candidate’s response
+    must include three of the following model answers. Capabilities Experiences Background
+    Spirituality/religion Culture Sexuality Social interactions and activities Other
+    responses are still acceptable, provided that they are things that can vary between
+    different individuals.
+- field_id: CHCCCS040_TXT_8_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three traits that contribute to an individual’s unique differences.
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 698868A9
+  value: List three traits that contribute to an individual’s unique differences.
+    Responses will vary. For a satisfactory performance, the candidate’s response
+    must include three of the following model answers. Capabilities Experiences Background
+    Spirituality/religion Culture Sexuality Social interactions and activities Other
+    responses are still acceptable, provided that they are things that can vary between
+    different individuals.
+- field_id: CHCCCS040_TXT_8_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How are individual differences interrelated?
+  table_idx: 8
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 23810BE0
+  value: How are individual differences interrelated? For a satisfactory performance,
+    although wording may vary slightly, the candidate’s response must be consistent
+    with the benchmark answer below. Traits such as a person’s culture can affect
+    other traits, such as the way a person communicates or expresses their sexuality.
+    It is impossible to target one trait without affecting other personal traits.
+- field_id: CHCCCS040_TXT_8_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How do individual differences impact how support is provided to the individual?
+  table_idx: 8
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 049EF580
+  value: How are individual differences interrelated? For a satisfactory performance,
+    although wording may vary slightly, the candidate’s response must be consistent
+    with the benchmark answer below. Traits such as a person’s culture can affect
+    other traits, such as the way a person communicates or expresses their sexuality.
+    It is impossible to target one trait without affecting other personal traits.
+- field_id: CHCCCS040_TXT_9_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Mental health - Identify two requirements that contribute to a person’s health
+    and wellbeing for eac
+  table_idx: 9
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 15FC6D00
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Follow the individual’s care plan Use safe and predictable
+    routines Demonstrate respect and sensitivity in all interactions with the person
+    Support their independence and social activities'
+- field_id: CHCCCS040_TXT_9_3_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Mental health - Identify two requirements that contribute to a person’s health
+    and wellbeing for eac
+  table_idx: 9
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 5EF14BA0
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Follow the individual’s care plan Use safe and predictable
+    routines Demonstrate respect and sensitivity in all interactions with the person
+    Support their independence and social activities'
+- field_id: CHCCCS040_TXT_9_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Nutrition - Identify two requirements that contribute to a person’s health
+    and wellbeing for each ar
+  table_idx: 9
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5BC513FA
+  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
+    Safety Warmth'
+- field_id: CHCCCS040_TXT_9_4_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Nutrition - Identify two requirements that contribute to a person’s health
+    and wellbeing for each ar
+  table_idx: 9
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 1D9055B1
+  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
+    Safety Warmth'
+- field_id: CHCCCS040_TXT_9_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Hydration - Identify two requirements that contribute to a person’s health
+    and wellbeing for each ar
+  table_idx: 9
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1E9AE10B
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Regularly offer fluids Monitor fluid intake in line with
+    the individual’s care plan'
+- field_id: CHCCCS040_TXT_9_5_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Hydration - Identify two requirements that contribute to a person’s health
+    and wellbeing for each ar
+  table_idx: 9
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 36B8205D
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Regularly offer fluids Monitor fluid intake in line with
+    the individual’s care plan'
+- field_id: CHCCCS040_TXT_9_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Exercise - Identify two requirements that contribute to a person’s health
+    and wellbeing for each are
+  table_idx: 9
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7E1F6DD4
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Encourage regular physical movement Make physical activities
+    a part of their daily routine'
+- field_id: CHCCCS040_TXT_9_6_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Exercise - Identify two requirements that contribute to a person’s health
+    and wellbeing for each are
+  table_idx: 9
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 2C386331
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Encourage regular physical movement Make physical activities
+    a part of their daily routine'
+- field_id: CHCCCS040_TXT_9_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Hygiene - Identify two requirements that contribute to a person’s health
+    and wellbeing for each area
+  table_idx: 9
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0543755C
+  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
+    Safety Warmth'
+- field_id: CHCCCS040_TXT_9_7_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Hygiene - Identify two requirements that contribute to a person’s health
+    and wellbeing for each area
+  table_idx: 9
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 31BE7BD6
+  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
+    Safety Warmth'
+- field_id: CHCCCS040_TXT_9_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Lifestyle - Identify two requirements that contribute to a person’s health
+    and wellbeing for each ar
+  table_idx: 9
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 431DE840
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Support quality sleep and rest through routine Facilitate
+    social activities, e.g. organising transport Support individuals in engaging in
+    their likes and hobbies, e.g. reading, crafts'
+- field_id: CHCCCS040_TXT_9_8_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Lifestyle - Identify two requirements that contribute to a person’s health
+    and wellbeing for each ar
+  table_idx: 9
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 1
+  para_id: '36155808'
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Support quality sleep and rest through routine Facilitate
+    social activities, e.g. organising transport Support individuals in engaging in
+    their likes and hobbies, e.g. reading, crafts'
+- field_id: CHCCCS040_TXT_9_9_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Oral health - Identify two requirements that contribute to a person’s health
+    and wellbeing for each '
+  table_idx: 9
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 11B55706
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Maintain a regular routine of brushing teeth Organise
+    and facilitate visits to the dentist for check-ups'
+- field_id: CHCCCS040_TXT_9_9_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Oral health - Identify two requirements that contribute to a person’s health
+    and wellbeing for each '
+  table_idx: 9
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 784C5297
+  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
+    must be requirements that: Contribute to a person’s mental health and wellbeing
+    Applies to community service workers who provide frontline support services through
+    an individualised plan Model answers are provided below for the assessor’s reference
+    (only two are required): Maintain a regular routine of brushing teeth Organise
+    and facilitate visits to the dentist for check-ups'
+- field_id: CHCCCS040_TXT_11_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Depression - Definition
+  table_idx: 11
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 31A80989
+  value: Only two are required Regular physical, mental and social activity Connections
+    with others Quality sleep Healthy diet Interactions with family and friends Active
+    participation in community events
+- field_id: CHCCCS040_TXT_11_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Depression - Risk factor
+  table_idx: 11
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1682A4F7
+  value: Only two are required Regular physical, mental and social activity Connections
+    with others Quality sleep Healthy diet Interactions with family and friends Active
+    participation in community events
+- field_id: CHCCCS040_TXT_11_1_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Depression - Risk factor
+  table_idx: 11
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 51378A15
+  value: Only two are required Regular physical, mental and social activity Connections
+    with others Quality sleep Healthy diet Interactions with family and friends Active
+    participation in community events
+- field_id: CHCCCS040_TXT_11_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Depression - Protective factor
+  table_idx: 11
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 5AB91FE5
+  value: Only two are required Regular physical, mental and social activity Connections
+    with others Quality sleep Healthy diet Interactions with family and friends Active
+    participation in community events
+- field_id: CHCCCS040_TXT_11_1_3_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Depression - Protective factor
+  table_idx: 11
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 1
+  para_id: 5DBD09B8
+  value: Only two are required Regular physical, mental and social activity Connections
+    with others Quality sleep Healthy diet Interactions with family and friends Active
+    participation in community events
+- field_id: CHCCCS040_TXT_11_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Substance abuse - Definition
+  table_idx: 11
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3D609FED
+  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
+    check-ups Exercise Connections and interactions with others Quality sleep'
+- field_id: CHCCCS040_TXT_11_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Substance abuse - Risk factor
+  table_idx: 11
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3EE42608
+  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
+    check-ups Exercise Connections and interactions with others Quality sleep'
+- field_id: CHCCCS040_TXT_11_2_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Substance abuse - Risk factor
+  table_idx: 11
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 1072AE14
+  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
+    check-ups Exercise Connections and interactions with others Quality sleep'
+- field_id: CHCCCS040_TXT_11_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Substance abuse - Protective factor
+  table_idx: 11
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1A8CF7BB
+  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
+    check-ups Exercise Connections and interactions with others Quality sleep'
+- field_id: CHCCCS040_TXT_11_2_3_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: Substance abuse - Protective factor
+  table_idx: 11
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 1
+  para_id: 3B9C41D8
+  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
+    check-ups Exercise Connections and interactions with others Quality sleep'
+- field_id: CHCCCS040_TXT_12_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe what constitutes a restrictive practice.
+  table_idx: 12
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3096B3A2
+  value: Describe what constitutes a restrictive practice. The candidate must describe
+    what constitutes a restrictive practice. For a satisfactory performance, although
+    wording may slightly vary, the candidate’s response must be consistent with the
+    benchmark answer below. At a minimum, the underlined phrase must appear in the
+    candidate’s response. A restrictive practice is any process or intervention that
+    limits rights or freedom.
+- field_id: CHCCCS040_TXT_13_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Table 13 Row 0 Col 0
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 61FD7F66
+  value: Aged Care Act 1997 / Quality of Care Principles 2014 (Part 4A)
+- field_id: CHCCCS040_TXT_13_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Table 13 Row 0 Col 0
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 550D4764
+  value: Restrictive practices must only be used as a last resort, for the shortest
+    possible duration, after exhausting positive behaviour support alternatives. Clinical
+    assessment and informed consent from the consumer or substitute decision-maker
+    are mandatory.
+- field_id: CHCCCS040_TXT_13_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Table 13 Row 0 Col 0
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 2635C47D
+  value: Part 4A, Quality of Care Principles 2014
+- field_id: CHCCCS040_TXT_13_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Table 13 Row 0 Col 0
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 77BFC533
+  value: Care workers must prioritize non-restrictive interventions, adhere strictly
+    to approved behaviour support plans, and maintain constant monitoring and documentation.
+- field_id: CHCCCS040_TXT_13_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Table 13 Row 0 Col 0
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 2FCD3EE7
+  value: National Disability Insurance Scheme (Restrictive Practices and Behaviour
+    Support) Rules 2018
+- field_id: CHCCCS040_TXT_13_0_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Table 13 Row 0 Col 0
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 6FF2EE05
+  value: Regulated restrictive practices must be clearly identified, authorised in
+    accordance with state/territory legislation, included in a Behaviour Support Plan
+    lodged with the NDIS Quality and Safeguards Commission, and subject to regular
+    clinical review.
+- field_id: CHCCCS040_TXT_13_0_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Table 13 Row 0 Col 0
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 48F12728
+  value: Part 2, Sections 6-12
+- field_id: CHCCCS040_TXT_13_0_0_8
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Table 13 Row 0 Col 0
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 7
+  para_id: 6677F5CE
+  value: Workers must only use authorized practices as a last resort, never use prohibited
+    practices, and complete mandatory incident reports to the NDIS Commission if unauthorized
+    use occurs.
+- field_id: CHCCCS040_TXT_14_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five forms of restrictive practices regulated by law.
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3AE6CF17
+  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
+    must identify the five forms of restrictive practices regulated by law. For a
+    satisfactory performance, the candidate’s responses must be the five below (in
+    no particular order): Chemical restraint Mechanical restraint Environmental restraint
+    Physical restraint Seclusion'
+- field_id: CHCCCS040_TXT_14_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five forms of restrictive practices regulated by law.
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 43A3815E
+  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
+    must identify the five forms of restrictive practices regulated by law. For a
+    satisfactory performance, the candidate’s responses must be the five below (in
+    no particular order): Chemical restraint Mechanical restraint Environmental restraint
+    Physical restraint Seclusion'
+- field_id: CHCCCS040_TXT_14_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five forms of restrictive practices regulated by law.
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 72A6CF15
+  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
+    must identify the five forms of restrictive practices regulated by law. For a
+    satisfactory performance, the candidate’s responses must be the five below (in
+    no particular order): Chemical restraint Mechanical restraint Environmental restraint
+    Physical restraint Seclusion'
+- field_id: CHCCCS040_TXT_14_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five forms of restrictive practices regulated by law.
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 046353F7
+  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
+    must identify the five forms of restrictive practices regulated by law. For a
+    satisfactory performance, the candidate’s responses must be the five below (in
+    no particular order): Chemical restraint Mechanical restraint Environmental restraint
+    Physical restraint Seclusion'
+- field_id: CHCCCS040_TXT_14_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five forms of restrictive practices regulated by law.
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 72796F0E
+  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
+    must identify the five forms of restrictive practices regulated by law. For a
+    satisfactory performance, the candidate’s responses must be the five below (in
+    no particular order): Chemical restraint Mechanical restraint Environmental restraint
+    Physical restraint Seclusion'
+- field_id: CHCCCS040_TXT_14_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'What are the seven conditions of registration that service providers must
+    meet when using regulated '
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2D326E11
+  value: 'What are the seven conditions of registration that service providers must
+    meet when using regulated restrictive practices according to NDIS. The candidate
+    must identify the five forms of restrictive practices. For a satisfactory performance,
+    although the wording may slightly vary, their response the candidate’s responses
+    must be the seven below (in no particular order): A restrictive practice is only
+    possible in a behaviour support plan. An NDIS behaviour support practitioner must
+    have developed the plan. When using a restrictive practice, it must be the least
+    restrictive response possible in the circumstances When using a restrictive practice,
+    it must reduce the risk of harm to the person or others When using a restrictive
+    practice, it must last for the shortest possible time to ensure the safety of
+    the person or others. Where required, the implementing provider must have authorisation.
+    The authorisation comes from the State or Territory. The implementing provider
+    must follow monthly reporting requirements.'
+- field_id: CHCCCS040_TXT_14_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'What are the seven conditions of registration that service providers must
+    meet when using regulated '
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 02B55354
+  value: 'What are the seven conditions of registration that service providers must
+    meet when using regulated restrictive practices according to NDIS. The candidate
+    must identify the five forms of restrictive practices. For a satisfactory performance,
+    although the wording may slightly vary, their response the candidate’s responses
+    must be the seven below (in no particular order): A restrictive practice is only
+    possible in a behaviour support plan. An NDIS behaviour support practitioner must
+    have developed the plan. When using a restrictive practice, it must be the least
+    restrictive response possible in the circumstances When using a restrictive practice,
+    it must reduce the risk of harm to the person or others When using a restrictive
+    practice, it must last for the shortest possible time to ensure the safety of
+    the person or others. Where required, the implementing provider must have authorisation.
+    The authorisation comes from the State or Territory. The implementing provider
+    must follow monthly reporting requirements.'
+- field_id: CHCCCS040_TXT_14_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'What are the seven conditions of registration that service providers must
+    meet when using regulated '
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 014A6622
+  value: 'What are the seven conditions of registration that service providers must
+    meet when using regulated restrictive practices according to NDIS. The candidate
+    must identify the five forms of restrictive practices. For a satisfactory performance,
+    although the wording may slightly vary, their response the candidate’s responses
+    must be the seven below (in no particular order): A restrictive practice is only
+    possible in a behaviour support plan. An NDIS behaviour support practitioner must
+    have developed the plan. When using a restrictive practice, it must be the least
+    restrictive response possible in the circumstances When using a restrictive practice,
+    it must reduce the risk of harm to the person or others When using a restrictive
+    practice, it must last for the shortest possible time to ensure the safety of
+    the person or others. Where required, the implementing provider must have authorisation.
+    The authorisation comes from the State or Territory. The implementing provider
+    must follow monthly reporting requirements.'
+- field_id: CHCCCS040_TXT_14_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'What are the seven conditions of registration that service providers must
+    meet when using regulated '
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 1E3CC4B4
+  value: 'What are the seven conditions of registration that service providers must
+    meet when using regulated restrictive practices according to NDIS. The candidate
+    must identify the five forms of restrictive practices. For a satisfactory performance,
+    although the wording may slightly vary, their response the candidate’s responses
+    must be the seven below (in no particular order): A restrictive practice is only
+    possible in a behaviour support plan. An NDIS behaviour support practitioner must
+    have developed the plan. When using a restrictive practice, it must be the least
+    restrictive response possible in the circumstances When using a restrictive practice,
+    it must reduce the risk of harm to the person or others When using a restrictive
+    practice, it must last for the shortest possible time to ensure the safety of
+    the person or others. Where required, the implementing provider must have authorisation.
+    The authorisation comes from the State or Territory. The implementing provider
+    must follow monthly reporting requirements.'
+- field_id: CHCCCS040_TXT_14_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'What are the seven conditions of registration that service providers must
+    meet when using regulated '
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 1C52E728
+  value: 'What are the seven conditions of registration that service providers must
+    meet when using regulated restrictive practices according to NDIS. The candidate
+    must identify the five forms of restrictive practices. For a satisfactory performance,
+    although the wording may slightly vary, their response the candidate’s responses
+    must be the seven below (in no particular order): A restrictive practice is only
+    possible in a behaviour support plan. An NDIS behaviour support practitioner must
+    have developed the plan. When using a restrictive practice, it must be the least
+    restrictive response possible in the circumstances When using a restrictive practice,
+    it must reduce the risk of harm to the person or others When using a restrictive
+    practice, it must last for the shortest possible time to ensure the safety of
+    the person or others. Where required, the implementing provider must have authorisation.
+    The authorisation comes from the State or Territory. The implementing provider
+    must follow monthly reporting requirements.'
+- field_id: CHCCCS040_TXT_14_1_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'What are the seven conditions of registration that service providers must
+    meet when using regulated '
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 5
+  para_id: '65548455'
+  value: 'What are the seven conditions of registration that service providers must
+    meet when using regulated restrictive practices according to NDIS. The candidate
+    must identify the five forms of restrictive practices. For a satisfactory performance,
+    although the wording may slightly vary, their response the candidate’s responses
+    must be the seven below (in no particular order): A restrictive practice is only
+    possible in a behaviour support plan. An NDIS behaviour support practitioner must
+    have developed the plan. When using a restrictive practice, it must be the least
+    restrictive response possible in the circumstances When using a restrictive practice,
+    it must reduce the risk of harm to the person or others When using a restrictive
+    practice, it must last for the shortest possible time to ensure the safety of
+    the person or others. Where required, the implementing provider must have authorisation.
+    The authorisation comes from the State or Territory. The implementing provider
+    must follow monthly reporting requirements.'
+- field_id: CHCCCS040_TXT_14_1_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'What are the seven conditions of registration that service providers must
+    meet when using regulated '
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 3F647A08
+  value: 'What are the seven conditions of registration that service providers must
+    meet when using regulated restrictive practices according to NDIS. The candidate
+    must identify the five forms of restrictive practices. For a satisfactory performance,
+    although the wording may slightly vary, their response the candidate’s responses
+    must be the seven below (in no particular order): A restrictive practice is only
+    possible in a behaviour support plan. An NDIS behaviour support practitioner must
+    have developed the plan. When using a restrictive practice, it must be the least
+    restrictive response possible in the circumstances When using a restrictive practice,
+    it must reduce the risk of harm to the person or others When using a restrictive
+    practice, it must last for the shortest possible time to ensure the safety of
+    the person or others. Where required, the implementing provider must have authorisation.
+    The authorisation comes from the State or Territory. The implementing provider
+    must follow monthly reporting requirements.'
+- field_id: CHCCCS040_TXT_14_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three positive strategies that can be used in place of restrictive practices.
+  table_idx: 14
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 180620AE
+  value: 'List three positive strategies that can be used in place of restrictive
+    practices. The candidate must three positive strategies that can be used in place
+    of restrictive practices. For a satisfactory performance, although the wording
+    may slightly vary, the candidate’s responses, the candidate’s response must include
+    three of the following: Individualised planning Environmental changes Strengths-based
+    approach Early assessment and intervention Other responses are acceptable provided
+    that they are generally accepted positive strategies that can be used instead
+    of restrictive practices'
+- field_id: CHCCCS040_TXT_14_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three positive strategies that can be used in place of restrictive practices.
+  table_idx: 14
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0D31D39C
+  value: 'List three positive strategies that can be used in place of restrictive
+    practices. The candidate must three positive strategies that can be used in place
+    of restrictive practices. For a satisfactory performance, although the wording
+    may slightly vary, the candidate’s responses, the candidate’s response must include
+    three of the following: Individualised planning Environmental changes Strengths-based
+    approach Early assessment and intervention Other responses are acceptable provided
+    that they are generally accepted positive strategies that can be used instead
+    of restrictive practices'
+- field_id: CHCCCS040_TXT_14_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three positive strategies that can be used in place of restrictive practices.
+  table_idx: 14
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 70EAFA0C
+  value: 'List three positive strategies that can be used in place of restrictive
+    practices. The candidate must three positive strategies that can be used in place
+    of restrictive practices. For a satisfactory performance, although the wording
+    may slightly vary, the candidate’s responses, the candidate’s response must include
+    three of the following: Individualised planning Environmental changes Strengths-based
+    approach Early assessment and intervention Other responses are acceptable provided
+    that they are generally accepted positive strategies that can be used instead
+    of restrictive practices'
+- field_id: CHCCCS040_TXT_14_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the two things to take into account for a careful clinical and ethical
+    consideration.
+  table_idx: 14
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 66AFBCA5
+  value: 'List three positive strategies that can be used in place of restrictive
+    practices. The candidate must three positive strategies that can be used in place
+    of restrictive practices. For a satisfactory performance, although the wording
+    may slightly vary, the candidate’s responses, the candidate’s response must include
+    three of the following: Individualised planning Environmental changes Strengths-based
+    approach Early assessment and intervention Other responses are acceptable provided
+    that they are generally accepted positive strategies that can be used instead
+    of restrictive practices'
+- field_id: CHCCCS040_TXT_14_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the two things to take into account for a careful clinical and ethical
+    consideration.
+  table_idx: 14
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4C333308
+  value: 'List three positive strategies that can be used in place of restrictive
+    practices. The candidate must three positive strategies that can be used in place
+    of restrictive practices. For a satisfactory performance, although the wording
+    may slightly vary, the candidate’s responses, the candidate’s response must include
+    three of the following: Individualised planning Environmental changes Strengths-based
+    approach Early assessment and intervention Other responses are acceptable provided
+    that they are generally accepted positive strategies that can be used instead
+    of restrictive practices'
+- field_id: CHCCCS040_TXT_15_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the two ethical considerations relevant to restrictive practices.
+  table_idx: 15
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 62A019C1
+  value: 'Identify the two ethical considerations relevant to restrictive practices.
+    The candidate must identify the two ethical considerations relevant to restrictive
+    practices. For a satisfactory performance, although the wording may slightly vary,
+    the candidate’s response must include two of the following: Restrictive practices
+    must only be used as a last resort, where the physical and mental integrity of
+    the patient is in serious and imminent danger The use of restrictive practices
+    must be discontinued if there is a decreasing trend in a patient’s negative behaviour.
+    The use of restrictive practices must be based on a consideration of both the
+    carer’s duty of care and the patient’s dignity of risk Before considering how
+    to deal with difficult symptoms and challenging behaviour, it should be determined
+    for whom such symptoms and behaviour are disturbing The restraint of a patient
+    who is unable to consent should be permitted only after discussion within a multidisciplinary
+    care team and with the relatives, carers and advocates Other responses are acceptable
+    provided that they are considerations consistent with typical ethical principles
+    or values upheld in the community services and health industry.'
+- field_id: CHCCCS040_TXT_15_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the two ethical considerations relevant to restrictive practices.
+  table_idx: 15
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: '66849921'
+  value: 'Identify the two ethical considerations relevant to restrictive practices.
+    The candidate must identify the two ethical considerations relevant to restrictive
+    practices. For a satisfactory performance, although the wording may slightly vary,
+    the candidate’s response must include two of the following: Restrictive practices
+    must only be used as a last resort, where the physical and mental integrity of
+    the patient is in serious and imminent danger The use of restrictive practices
+    must be discontinued if there is a decreasing trend in a patient’s negative behaviour.
+    The use of restrictive practices must be based on a consideration of both the
+    carer’s duty of care and the patient’s dignity of risk Before considering how
+    to deal with difficult symptoms and challenging behaviour, it should be determined
+    for whom such symptoms and behaviour are disturbing The restraint of a patient
+    who is unable to consent should be permitted only after discussion within a multidisciplinary
+    care team and with the relatives, carers and advocates Other responses are acceptable
+    provided that they are considerations consistent with typical ethical principles
+    or values upheld in the community services and health industry.'
+- field_id: CHCCCS040_TXT_15_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List all the documentation requirements needed when using restrictive practices
+    according to the Age
+  table_idx: 15
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '14757369'
+  value: 'List all the documentation requirements needed when using restrictive practices
+    according to the Aged Care Act 1997. The candidate must all the documentation
+    requirements needed when using restrictive practices according to the Aged Care
+    Act 1997. For a satisfactory performance, the candidate’s response must include
+    all of the following: The care recipient’s behaviours that were relevant to the
+    need for the use of the restrictive practice; The alternative strategies that
+    were considered or used (if any) before the use of the restrictive practice; The
+    reasons the use of the restrictive practice was necessary; The care to be provided
+    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
+    practices substitute decision‑maker for the restrictive practice was informed
+    about the use of the restrictive practice under paragraph (a)—a record of the
+    restrictive practices substitute decision‑maker being so informed'
+- field_id: CHCCCS040_TXT_15_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List all the documentation requirements needed when using restrictive practices
+    according to the Age
+  table_idx: 15
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 059CA084
+  value: 'List all the documentation requirements needed when using restrictive practices
+    according to the Aged Care Act 1997. The candidate must all the documentation
+    requirements needed when using restrictive practices according to the Aged Care
+    Act 1997. For a satisfactory performance, the candidate’s response must include
+    all of the following: The care recipient’s behaviours that were relevant to the
+    need for the use of the restrictive practice; The alternative strategies that
+    were considered or used (if any) before the use of the restrictive practice; The
+    reasons the use of the restrictive practice was necessary; The care to be provided
+    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
+    practices substitute decision‑maker for the restrictive practice was informed
+    about the use of the restrictive practice under paragraph (a)—a record of the
+    restrictive practices substitute decision‑maker being so informed'
+- field_id: CHCCCS040_TXT_15_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List all the documentation requirements needed when using restrictive practices
+    according to the Age
+  table_idx: 15
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 158863A4
+  value: 'List all the documentation requirements needed when using restrictive practices
+    according to the Aged Care Act 1997. The candidate must all the documentation
+    requirements needed when using restrictive practices according to the Aged Care
+    Act 1997. For a satisfactory performance, the candidate’s response must include
+    all of the following: The care recipient’s behaviours that were relevant to the
+    need for the use of the restrictive practice; The alternative strategies that
+    were considered or used (if any) before the use of the restrictive practice; The
+    reasons the use of the restrictive practice was necessary; The care to be provided
+    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
+    practices substitute decision‑maker for the restrictive practice was informed
+    about the use of the restrictive practice under paragraph (a)—a record of the
+    restrictive practices substitute decision‑maker being so informed'
+- field_id: CHCCCS040_TXT_15_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List all the documentation requirements needed when using restrictive practices
+    according to the Age
+  table_idx: 15
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 1E8FFB47
+  value: 'List all the documentation requirements needed when using restrictive practices
+    according to the Aged Care Act 1997. The candidate must all the documentation
+    requirements needed when using restrictive practices according to the Aged Care
+    Act 1997. For a satisfactory performance, the candidate’s response must include
+    all of the following: The care recipient’s behaviours that were relevant to the
+    need for the use of the restrictive practice; The alternative strategies that
+    were considered or used (if any) before the use of the restrictive practice; The
+    reasons the use of the restrictive practice was necessary; The care to be provided
+    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
+    practices substitute decision‑maker for the restrictive practice was informed
+    about the use of the restrictive practice under paragraph (a)—a record of the
+    restrictive practices substitute decision‑maker being so informed'
+- field_id: CHCCCS040_TXT_15_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List all the documentation requirements needed when using restrictive practices
+    according to the Age
+  table_idx: 15
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 6C36E7AB
+  value: 'List all the documentation requirements needed when using restrictive practices
+    according to the Aged Care Act 1997. The candidate must all the documentation
+    requirements needed when using restrictive practices according to the Aged Care
+    Act 1997. For a satisfactory performance, the candidate’s response must include
+    all of the following: The care recipient’s behaviours that were relevant to the
+    need for the use of the restrictive practice; The alternative strategies that
+    were considered or used (if any) before the use of the restrictive practice; The
+    reasons the use of the restrictive practice was necessary; The care to be provided
+    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
+    practices substitute decision‑maker for the restrictive practice was informed
+    about the use of the restrictive practice under paragraph (a)—a record of the
+    restrictive practices substitute decision‑maker being so informed'
+- field_id: CHCCCS040_TXT_15_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Summarise the documentation requirements stated in Sections 14 and 15 of
+    the NDIS Restrictive Practi
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 71D12769
+  value: 'List all the documentation requirements needed when using restrictive practices
+    according to the Aged Care Act 1997. The candidate must all the documentation
+    requirements needed when using restrictive practices according to the Aged Care
+    Act 1997. For a satisfactory performance, the candidate’s response must include
+    all of the following: The care recipient’s behaviours that were relevant to the
+    need for the use of the restrictive practice; The alternative strategies that
+    were considered or used (if any) before the use of the restrictive practice; The
+    reasons the use of the restrictive practice was necessary; The care to be provided
+    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
+    practices substitute decision‑maker for the restrictive practice was informed
+    about the use of the restrictive practice under paragraph (a)—a record of the
+    restrictive practices substitute decision‑maker being so informed'
+- field_id: CHCCCS040_TXT_17_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Physical abuse - Physical indicators
+  table_idx: 17
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7243A76F
+  value: 'Only two are required: Explanation inconsistent with the injury; explanation
+    varies Avoidance or fearfulness of a particular person Sleep disturbance, e.g.
+    nightmares, bedwetting Changes in behaviour, e.g. out of character aggression,
+    withdrawal, excessive compliance Over or under-use of sedation Fear or anxiety'
+- field_id: CHCCCS040_TXT_17_1_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Physical abuse - Physical indicators
+  table_idx: 17
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 131E5F84
+  value: 'Only two are required: Explanation inconsistent with the injury; explanation
+    varies Avoidance or fearfulness of a particular person Sleep disturbance, e.g.
+    nightmares, bedwetting Changes in behaviour, e.g. out of character aggression,
+    withdrawal, excessive compliance Over or under-use of sedation Fear or anxiety'
+- field_id: CHCCCS040_TXT_17_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Physical abuse - Behavioural indicators
+  table_idx: 17
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 39A4D9BE
+  value: 'Only two are required: Explanation inconsistent with the injury; explanation
+    varies Avoidance or fearfulness of a particular person Sleep disturbance, e.g.
+    nightmares, bedwetting Changes in behaviour, e.g. out of character aggression,
+    withdrawal, excessive compliance Over or under-use of sedation Fear or anxiety'
+- field_id: CHCCCS040_TXT_17_1_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Physical abuse - Behavioural indicators
+  table_idx: 17
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 074BEC24
+  value: 'Only two are required: Explanation inconsistent with the injury; explanation
+    varies Avoidance or fearfulness of a particular person Sleep disturbance, e.g.
+    nightmares, bedwetting Changes in behaviour, e.g. out of character aggression,
+    withdrawal, excessive compliance Over or under-use of sedation Fear or anxiety'
+- field_id: CHCCCS040_TXT_17_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Physical neglect - Physical indicators
+  table_idx: 17
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1D4AE5F2
+  value: 'Only two are required: Requesting, begging, scavenging or stealing food
+    Constant fatigue, listlessness or falling asleep Direct or indirect disclosure
+    Extreme longing for company Social isolation Anxiety about being alone or abandoned
+    Displaying inappropriate or excessive self-comforting behaviours'
+- field_id: CHCCCS040_TXT_17_2_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Physical neglect - Physical indicators
+  table_idx: 17
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 01FD7B59
+  value: 'Only two are required: Requesting, begging, scavenging or stealing food
+    Constant fatigue, listlessness or falling asleep Direct or indirect disclosure
+    Extreme longing for company Social isolation Anxiety about being alone or abandoned
+    Displaying inappropriate or excessive self-comforting behaviours'
+- field_id: CHCCCS040_TXT_17_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Physical neglect - Behavioural indicators
+  table_idx: 17
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 71C84BD8
+  value: 'Only two are required: Requesting, begging, scavenging or stealing food
+    Constant fatigue, listlessness or falling asleep Direct or indirect disclosure
+    Extreme longing for company Social isolation Anxiety about being alone or abandoned
+    Displaying inappropriate or excessive self-comforting behaviours'
+- field_id: CHCCCS040_TXT_17_2_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Physical neglect - Behavioural indicators
+  table_idx: 17
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 56B3CEE9
+  value: 'Only two are required: Requesting, begging, scavenging or stealing food
+    Constant fatigue, listlessness or falling asleep Direct or indirect disclosure
+    Extreme longing for company Social isolation Anxiety about being alone or abandoned
+    Displaying inappropriate or excessive self-comforting behaviours'
+- field_id: CHCCCS040_TXT_17_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Sexual abuse - Physical indicators
+  table_idx: 17
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3F49A5C5
+  value: 'Only two are required: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive
+    behaviour, self-mutilation Sudden changes to behaviour or general nature, e.g.,
+    depression, agitation, crying, anger, violence, absconding, or seeking comfort
+    and security beyond the usual amount Making inappropriate advances towards others
+    Sleep disturbances, refusing to go to bed, going to bed fully clothed Eating disorders
+    Refusing to shower or constant showering Changes in social patterns, refusing
+    to attend usual places (work, respite) Anxiety when near suspected abuser or when
+    they can foresee contact with the suspected abuser'
+- field_id: CHCCCS040_TXT_17_3_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Sexual abuse - Physical indicators
+  table_idx: 17
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 43F04F15
+  value: 'Only two are required: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive
+    behaviour, self-mutilation Sudden changes to behaviour or general nature, e.g.,
+    depression, agitation, crying, anger, violence, absconding, or seeking comfort
+    and security beyond the usual amount Making inappropriate advances towards others
+    Sleep disturbances, refusing to go to bed, going to bed fully clothed Eating disorders
+    Refusing to shower or constant showering Changes in social patterns, refusing
+    to attend usual places (work, respite) Anxiety when near suspected abuser or when
+    they can foresee contact with the suspected abuser'
+- field_id: CHCCCS040_TXT_17_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Sexual abuse - Behavioural indicators
+  table_idx: 17
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0A95E8F6
+  value: 'Only two are required: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive
+    behaviour, self-mutilation Sudden changes to behaviour or general nature, e.g.,
+    depression, agitation, crying, anger, violence, absconding, or seeking comfort
+    and security beyond the usual amount Making inappropriate advances towards others
+    Sleep disturbances, refusing to go to bed, going to bed fully clothed Eating disorders
+    Refusing to shower or constant showering Changes in social patterns, refusing
+    to attend usual places (work, respite) Anxiety when near suspected abuser or when
+    they can foresee contact with the suspected abuser'
+- field_id: CHCCCS040_TXT_17_3_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Sexual abuse - Behavioural indicators
+  table_idx: 17
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 7516AFB1
+  value: 'Only two are required: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive
+    behaviour, self-mutilation Sudden changes to behaviour or general nature, e.g.,
+    depression, agitation, crying, anger, violence, absconding, or seeking comfort
+    and security beyond the usual amount Making inappropriate advances towards others
+    Sleep disturbances, refusing to go to bed, going to bed fully clothed Eating disorders
+    Refusing to shower or constant showering Changes in social patterns, refusing
+    to attend usual places (work, respite) Anxiety when near suspected abuser or when
+    they can foresee contact with the suspected abuser'
+- field_id: CHCCCS040_TXT_17_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Psychological or Emotional abuse - Physical indicators
+  table_idx: 17
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2A461B50
+  value: 'Only two are required: Feelings of worthlessness about life and self; extremely
+    low self-esteem, self-abuse, or self-destructive behaviour Extreme attention-seeking
+    behaviour and other behavioural disorders (e.g. disruptiveness, aggressiveness,
+    bullying) Excessive compliance Depression, withdrawal, crying Low mood Confusion
+    Loneliness Feeling of helplessness Fear'
+- field_id: CHCCCS040_TXT_17_4_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Psychological or Emotional abuse - Physical indicators
+  table_idx: 17
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 5F76040D
+  value: 'Only two are required: Feelings of worthlessness about life and self; extremely
+    low self-esteem, self-abuse, or self-destructive behaviour Extreme attention-seeking
+    behaviour and other behavioural disorders (e.g. disruptiveness, aggressiveness,
+    bullying) Excessive compliance Depression, withdrawal, crying Low mood Confusion
+    Loneliness Feeling of helplessness Fear'
+- field_id: CHCCCS040_TXT_17_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Psychological or Emotional abuse - Behavioural indicators
+  table_idx: 17
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 07DF7063
+  value: 'Only two are required: Feelings of worthlessness about life and self; extremely
+    low self-esteem, self-abuse, or self-destructive behaviour Extreme attention-seeking
+    behaviour and other behavioural disorders (e.g. disruptiveness, aggressiveness,
+    bullying) Excessive compliance Depression, withdrawal, crying Low mood Confusion
+    Loneliness Feeling of helplessness Fear'
+- field_id: CHCCCS040_TXT_17_4_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Psychological or Emotional abuse - Behavioural indicators
+  table_idx: 17
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 4D864C40
+  value: 'Only two are required: Feelings of worthlessness about life and self; extremely
+    low self-esteem, self-abuse, or self-destructive behaviour Extreme attention-seeking
+    behaviour and other behavioural disorders (e.g. disruptiveness, aggressiveness,
+    bullying) Excessive compliance Depression, withdrawal, crying Low mood Confusion
+    Loneliness Feeling of helplessness Fear'
+- field_id: CHCCCS040_TXT_17_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Financial abuse - Physical indicators
+  table_idx: 17
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 203DFD6A
+  value: 'Only two are required: Stealing from others Borrowing money Begging Fear,
+    stress and anxiety'
+- field_id: CHCCCS040_TXT_17_5_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Financial abuse - Physical indicators
+  table_idx: 17
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 1
+  para_id: '20015593'
+  value: 'Only two are required: Stealing from others Borrowing money Begging Fear,
+    stress and anxiety'
+- field_id: CHCCCS040_TXT_17_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Financial abuse - Behavioural indicators
+  table_idx: 17
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 42C8C858
+  value: 'Only two are required: Stealing from others Borrowing money Begging Fear,
+    stress and anxiety'
+- field_id: CHCCCS040_TXT_17_5_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Financial abuse - Behavioural indicators
+  table_idx: 17
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 6E3CB43A
+  value: 'Only two are required: Stealing from others Borrowing money Begging Fear,
+    stress and anxiety'
+- field_id: CHCCCS040_TXT_18_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 18 Row 2 Col 0
+  table_idx: 18
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5E9AABD0
+  value: Workers must immediately report any allegations, disclosures, or reasonable
+    suspicions of abuse, neglect, or exploitation to their supervisor and the relevant
+    statutory authority (e.g. NDIS Commission / Police / NSW Ageing and Disability
+    Commission) within 24 hours in accordance with mandatory reporting policies.
+- field_id: CHCCCS040_TXT_19_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Briefly define
+  label: Palliative care - Briefly define the following service models.
+  table_idx: 19
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1956C100
+  value: Palliative care is a service that aims to optimise quality of life and minimise
+    suffering for people with serious complex illnesses.
+- field_id: CHCCCS040_TXT_19_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Briefly define
+  label: Residential care - Briefly define the following service models.
+  table_idx: 19
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 57F37E8B
+  value: Residential care is a service model that offers ongoing care in a residential
+    care facility tailored to an individual’s needs.
+- field_id: CHCCCS040_TXT_19_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Briefly define
+  label: Home and community care - Briefly define the following service models.
+  table_idx: 19
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6DA299DF
+  value: Home and community care provides care and support services to assist individuals
+    in continuing living independently at home.
+- field_id: CHCCCS040_TXT_20_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Table 20 Row 2 Col 0
+  table_idx: 20
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 55B4AB9A
+  value: 'Standard 1: Consumer dignity and choice'
+- field_id: CHCCCS040_TXT_20_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Table 20 Row 3 Col 0
+  table_idx: 20
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 69C9D1C2
+  value: 'Standard 2: Ongoing assessment and planning with consumers'
+- field_id: CHCCCS040_TXT_20_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Table 20 Row 4 Col 0
+  table_idx: 20
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 69F443D1
+  value: 'Standard 3: Personal care and clinical care'
+- field_id: CHCCCS040_TXT_20_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Table 20 Row 5 Col 0
+  table_idx: 20
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 28B4EDE2
+  value: 'Standard 4: Services and supports for daily living'
+- field_id: CHCCCS040_TXT_20_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Table 20 Row 6 Col 0
+  table_idx: 20
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1B32DF97
+  value: 'Standard 5: Organisation''s service environment'
+- field_id: CHCCCS040_TXT_20_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Table 20 Row 7 Col 0
+  table_idx: 20
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 02E39BCE
+  value: 'Standard 6: Feedback and complaints'
+- field_id: CHCCCS040_TXT_20_8_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Table 20 Row 8 Col 0
+  table_idx: 20
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3C6DA2CA
+  value: 'Standard 7: Human resources'
+- field_id: CHCCCS040_TXT_20_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Table 20 Row 9 Col 0
+  table_idx: 20
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 45FE50CC
+  value: 'Standard 8: Organisational governance'
+- field_id: CHCCCS040_TXT_21_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  label: Rights - Briefly explain how the six National Standards provided below are
+    applied or upheld by disa
+  table_idx: 21
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 227904F9
+  value: 'Please read the Candidate Declaration below, and if you agree to the terms
+    of the declaration, sign and indicate the date in the spaces provided. By submitting
+    this work, I declare that: I have been advised of the assessment requirements,
+    have been made aware of my rights and responsibilities as an assessment candidate,
+    and choose to be assessed at this time. I am aware that there is a limit to the
+    number of submissions that I can make for each assessment, and I am submitting
+    all documents required to complete this Assessment Workbook. I have organised
+    and named the files I am submitting according to the instructions provided. I
+    am aware that my assessor will not assess work that cannot be identified and may
+    request the work be resubmitted according to the correct process. This work is
+    my own and contains no material written by another person except where due reference
+    is made. I am aware that a false declaration may lead to the withdrawal of qualification
+    or statement of attainment. I am aware that there is a policy of checking the
+    validity of qualifications that I submit as evidence, as well as the qualifications/evidence
+    of parties who verify my performance or observable skills. I give my consent to
+    contact these parties for verification purposes.'
+- field_id: CHCCCS040_TXT_21_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  label: Participation and inclusion - Briefly explain how the six National Standards
+    provided below are appl
+  table_idx: 21
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0744C12D
+  value: The service works with individuals and their families, friends and carers
+    to promote opportunities for meaningful participation and active inclusion in
+    society.
+- field_id: CHCCCS040_TXT_21_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  label: Individual outcomes - Briefly explain how the six National Standards provided
+    below are applied or u
+  table_idx: 21
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '35344790'
+  value: Services and supports are assessed, planned, delivered and reviewed to build
+    on individual strengths and enable individuals to reach their goals.
+- field_id: CHCCCS040_TXT_21_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  label: 'Feedback and complaints - Briefly explain how the six National Standards
+    provided below are applied '
+  table_idx: 21
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 58A1009E
+  value: Feedback and complaints
+- field_id: CHCCCS040_TXT_21_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  label: Service access - Briefly explain how the six National Standards provided
+    below are applied or upheld
+  table_idx: 21
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 66F66FA1
+  value: The service manages access, commencement and leaving a service in a transparent,
+    fair, equal and responsive way.
+- field_id: CHCCCS040_TXT_21_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  label: Service management - Briefly explain how the six National Standards provided
+    below are applied or up
+  table_idx: 21
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0919C70D
+  value: The service has effective and accountable service management and leadership
+    to maximise outcomes for individuals.
+- field_id: CHCCCS040_TXT_22_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Briefly define
+  label: National Disability insurance Scheme (NDIS) - Briefly define the following
+    funding models relevant t
+  table_idx: 22
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0D4185B2
+  value: The service provides financial and individualised support to people with
+    permanent and significant disability, their families and carers. It is jointly
+    funded and governed by the national and state/territory governments.
+- field_id: CHCCCS040_TXT_22_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Briefly define
+  label: Commonwealth Home Support Programme (CHSP) - Briefly define the following
+    funding models relevant to
+  table_idx: 22
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 71907A07
+  value: The Commonwealth home support programme helps older Australians in accessing
+    entry-level support services to live independently and safely at home.
+- field_id: CHCCCS040_TXT_23_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Table 23 Row 2 Col 0
+  table_idx: 23
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4FC6F8AC
+  value: Chronic medical illness and unmanaged physical pain
+- field_id: CHCCCS040_TXT_23_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Table 23 Row 3 Col 0
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2219EB56
+  value: Social isolation, loneliness, and lack of community engagement
+- field_id: CHCCCS040_TXT_23_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Table 23 Row 4 Col 0
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 11AE9CCA
+  value: Mental health conditions (e.g. major depression, anxiety disorders)
+- field_id: CHCCCS040_TXT_23_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Table 23 Row 5 Col 0
+  table_idx: 23
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 621262A3
+  value: Cognitive impairment, dementia, or progressive neurological decline
+- field_id: CHCCCS040_TXT_23_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Table 23 Row 6 Col 0
+  table_idx: 23
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 36DB1F0E
+  value: Financial hardship, inadequate housing, or lack of transport access
+- field_id: CHCCCS040_TXT_24_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How can incorporating the values of a person’s community impact the care
+    and support they receive?
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0C0026BE
+  value: How can incorporating the values of a person’s community impact the care
+    and support they receive? For a satisfactory performance, although the wording
+    may slightly vary, their response must be consistent with the benchmark answer
+    below. The values of a community can provide comfort, familiarity and full expression
+    of a person’s identity. Incorporating these values into the care of an individual
+    provides an environment for them to express their identity and preferences comfortably
+    and without judgement.
+- field_id: CHCCCS040_TXT_24_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How can understanding the attitudes of a person’s community impact the care
+    and support they receive
+  table_idx: 24
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AD71335
+  value: How can understanding the attitudes of a person’s community impact the care
+    and support they receive? For a satisfactory performance, although the wording
+    may slightly vary, their response must be consistent with the benchmark answer
+    below. Having a greater understanding of community attitudes can improve interactions
+    and minimise misunderstandings in communications and interactions between the
+    support worker and the client.
+- field_id: CHCCCS040_TXT_24_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Describe the possible impact of the following myth about childcare centres:
+    ‘Childcare centres can n'
+  table_idx: 24
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 41D6CD40
+  value: 'Describe the possible impact of the following myth about childcare centres:
+    ‘Childcare centres can negatively affect the relationship between parent and child’.
+    For a satisfactory performance, although the wording may slightly vary, their
+    response must be consistent with the benchmark answer below. This myth can cause
+    anxiety in parents dropping their children at a childcare centre. It can cause
+    worry and feelings of concern that they are leaving their child in the care of
+    someone else to the detriment of their relationship with their child.'
+- field_id: CHCCCS040_TXT_24_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Describe the possible impact of the following myth about older people: ‘Older
+    people can’t learn or '
+  table_idx: 24
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3A7AF451
+  value: 'Describe the possible impact of the following myth about childcare centres:
+    ‘Childcare centres can negatively affect the relationship between parent and child’.
+    For a satisfactory performance, although the wording may slightly vary, their
+    response must be consistent with the benchmark answer below. This myth can cause
+    anxiety in parents dropping their children at a childcare centre. It can cause
+    worry and feelings of concern that they are leaving their child in the care of
+    someone else to the detriment of their relationship with their child.'
+- field_id: CHCCCS040_TXT_25_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: 'Describe the possible impact of the following stereotype about people with
+    a disability: ‘People wit'
+  table_idx: 25
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 30BF9E33
+  value: 'Describe the possible impact of the following myth about childcare centres:
+    ‘Childcare centres can negatively affect the relationship between parent and child’.
+    For a satisfactory performance, although the wording may slightly vary, their
+    response must be consistent with the benchmark answer below. This myth can cause
+    anxiety in parents dropping their children at a childcare centre. It can cause
+    worry and feelings of concern that they are leaving their child in the care of
+    someone else to the detriment of their relationship with their child.'
+- field_id: CHCCCS040_TXT_25_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: 'Describe the possible impact of the following stereotype about older people:
+    ‘Older people can’t con'
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 40F13097
+  value: 'Describe the possible impact of the following myth about childcare centres:
+    ‘Childcare centres can negatively affect the relationship between parent and child’.
+    For a satisfactory performance, although the wording may slightly vary, their
+    response must be consistent with the benchmark answer below. This myth can cause
+    anxiety in parents dropping their children at a childcare centre. It can cause
+    worry and feelings of concern that they are leaving their child in the care of
+    someone else to the detriment of their relationship with their child.'
+- field_id: CHCCCS040_TXT_26_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: List down
+  label: Issues affecting sexuality
+  table_idx: 26
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 545FD3BC
+  value: Issues affecting sexuality Body image after undergoing surgery Unhealthy
+    sexual obsessions
+- field_id: CHCCCS040_TXT_26_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: List down
+  label: Issues affecting sexuality
+  table_idx: 26
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 440B34AC
+  value: Issues affecting sexuality Body image after undergoing surgery Unhealthy
+    sexual obsessions
+- field_id: CHCCCS040_TXT_26_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: List down
+  label: Issues affecting sexual expression
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A0D5EAA
+  value: Issues affecting sexual expression Lack of privacy in nursing and residential
+    homes Traumatic experiences causing anxiety during intimate physical contact
+- field_id: CHCCCS040_TXT_26_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: List down
+  label: Issues affecting sexual expression
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 67FBA162
+  value: Issues affecting sexual expression Lack of privacy in nursing and residential
+    homes Traumatic experiences causing anxiety during intimate physical contact
+- field_id: CHCCCS040_TXT_27_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 27 Row 3 Col 0
+  table_idx: 27
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 255E25E3
+  value: Anxiety / apprehension
+- field_id: CHCCCS040_TXT_27_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Identify and define two indicators of emotional concern and two indicators
+    of emotional issues that '
+  table_idx: 27
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 25767DA5
+  value: Identify and define two indicators of emotional concern and two indicators
+    of emotional issues that can impact a person’s wellbeing. Identify and define
+    two indicators of emotional concern and two indicators of emotional issues that
+    can impact a person’s wellbeing.
+- field_id: CHCCCS040_TXT_27_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 27 Row 4 Col 0
+  table_idx: 27
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 313C8A1E
+  value: Grief / sadness
+- field_id: CHCCCS040_TXT_27_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Identify and define two indicators of emotional concern and two indicators
+    of emotional issues that '
+  table_idx: 27
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 50A07C7C
+  value: Identify and define two indicators of emotional concern and two indicators
+    of emotional issues that can impact a person’s wellbeing. Identify and define
+    two indicators of emotional concern and two indicators of emotional issues that
+    can impact a person’s wellbeing.
+- field_id: CHCCCS040_TXT_28_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  label: Indicators of emotional issue
+  table_idx: 28
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3529A140
+  value: Major depressive disorder
+- field_id: CHCCCS040_TXT_28_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  label: Definition
+  table_idx: 28
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0765BAB6
+  value: Persistent low mood, profound loss of interest or pleasure, sleep disturbances,
+    and feelings of worthlessness lasting longer than two weeks.
+- field_id: CHCCCS040_TXT_28_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  label: Indicators of emotional issue
+  table_idx: 28
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 16239FA7
+  value: Severe anger / emotional dysregulation
+- field_id: CHCCCS040_TXT_28_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  label: Definition
+  table_idx: 28
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 633BE967
+  value: Intense frustration, irritability, or aggressive outbursts arising from unmet
+    needs or cognitive impairment.
+- field_id: CHCCCS040_TXT_29_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Table 29 Row 3 Col 0
+  table_idx: 29
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '55760867'
+  value: Person-centred activity scheduling
+- field_id: CHCCCS040_TXT_29_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 'Complete the tables below by listing down and defining:
+
+    Two examples of support strategies.
+
+    Two exam'
+  table_idx: 29
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 31B05213
+  value: 'Complete the tables below by listing down and defining: Two examples of
+    support strategies. Two examples of support resources Two examples of support
+    networks'
+- field_id: CHCCCS040_TXT_29_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Table 29 Row 4 Col 0
+  table_idx: 29
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2112A468
+  value: Positive behaviour support
+- field_id: CHCCCS040_TXT_29_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 'Complete the tables below by listing down and defining:
+
+    Two examples of support strategies.
+
+    Two exam'
+  table_idx: 29
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4011E5D1
+  value: 'Complete the tables below by listing down and defining: Two examples of
+    support strategies. Two examples of support resources Two examples of support
+    networks'
+- field_id: CHCCCS040_TXT_30_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: Support resource
+  table_idx: 30
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 06EDE92F
+  value: Assistive technology devices
+- field_id: CHCCCS040_TXT_30_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: Definition
+  table_idx: 30
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 24735E77
+  value: Equipment, communication boards, and mobility aids designed to enhance independent
+    daily living and safety.
+- field_id: CHCCCS040_TXT_30_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: Support resource
+  table_idx: 30
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6F3B66F2
+  value: Plain-language health educational materials
+- field_id: CHCCCS040_TXT_30_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: Definition
+  table_idx: 30
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 141D3060
+  value: Written brochures, guides, and visual prompts explaining care procedures
+    and available community services.
+- field_id: CHCCCS040_TXT_31_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Support network
+  table_idx: 31
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2E97982E
+  value: Family and informal carer networks
+- field_id: CHCCCS040_TXT_31_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Definition
+  table_idx: 31
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6B726B6E
+  value: Close relatives, partners, and friends providing ongoing social connection,
+    advocacy, and emotional support.
+- field_id: CHCCCS040_TXT_31_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Support network
+  table_idx: 31
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7E2341BA
+  value: Community peer support groups
+- field_id: CHCCCS040_TXT_31_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Definition
+  table_idx: 31
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 299D8517
+  value: Organised group sessions connecting individuals who share similar lived experiences
+    and challenges.
+- field_id: CHCCCS040_TXT_33_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Definition: - Duty of Care'
+  table_idx: 33
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 501C76E4
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_33_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Legal or ethical requirement - Duty of Care
+  table_idx: 33
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0E903ADB
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_33_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Source: (legislation, code, standard, etc.) - Duty of Care'
+  table_idx: 33
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 300CC47C
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_33_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Section: - Duty of Care'
+  table_idx: 33
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4965A1EE
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_33_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Link: - Duty of Care'
+  table_idx: 33
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4E840045
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_33_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'How the requirement is applied in an organisation: - Duty of Care'
+  table_idx: 33
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5FF7708F
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_33_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'How the requirement is applied in individual practice: - Duty of Care'
+  table_idx: 33
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 03015CFE
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_34_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Definition: - Dignity of Risk'
+  table_idx: 34
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4B6170BB
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_34_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: Legal or ethical requirement - Dignity of Risk
+  table_idx: 34
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 03D343DC
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_34_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Source: (legislation, code, standard, etc.) - Dignity of Risk'
+  table_idx: 34
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3D39E802
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_34_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Section: - Dignity of Risk'
+  table_idx: 34
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 21ABC3D5
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_34_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Link: - Dignity of Risk'
+  table_idx: 34
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6DB1240E
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_34_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'How the requirement is applied in an organisation: - Dignity of Risk'
+  table_idx: 34
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0631F344
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_34_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'How the requirement is applied in individual practice: - Dignity of Risk'
+  table_idx: 34
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 38FFB47D
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_35_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Definition: - Human Rights'
+  table_idx: 35
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1B69E069
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_35_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: Legal or ethical requirement - Human Rights
+  table_idx: 35
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6F3BDA02
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_35_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Source: (legislation, code, standard, etc.) - Human Rights'
+  table_idx: 35
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 637F8643
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_35_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Section: - Human Rights'
+  table_idx: 35
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6C3C11BC
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_35_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Link: - Human Rights'
+  table_idx: 35
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2946D491
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_35_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'How the requirement is applied in an organisation: - Human Rights'
+  table_idx: 35
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 00930545
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_35_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'How the requirement is applied in individual practice: - Human Rights'
+  table_idx: 35
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 57AFC612
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_36_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  label: 'Definition: - Discrimination'
+  table_idx: 36
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0A8001BD
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_36_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  label: Legal or ethical requirement - Discrimination
+  table_idx: 36
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4779AED3
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_36_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  label: 'Source: (legislation, code, standard, etc.) - Discrimination'
+  table_idx: 36
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2C721BF9
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_36_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  label: 'Section: - Discrimination'
+  table_idx: 36
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 02C3B95C
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_36_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  label: 'Link: - Discrimination'
+  table_idx: 36
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 76756D78
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_36_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  label: 'How the requirement is applied in an organisation: - Discrimination'
+  table_idx: 36
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4EC5E94E
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_36_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  label: 'How the requirement is applied in individual practice: - Discrimination'
+  table_idx: 36
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0AEEE07E
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_37_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Definition: - Mandatory Reporting'
+  table_idx: 37
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1963D198
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_37_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Legal or ethical requirement - Mandatory Reporting
+  table_idx: 37
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4B943FE5
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_37_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Source: (legislation, code, standard, etc.) - Mandatory Reporting'
+  table_idx: 37
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 44467B71
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_37_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Section: - Mandatory Reporting'
+  table_idx: 37
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '53712941'
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_37_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Link: - Mandatory Reporting'
+  table_idx: 37
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0D5FC2B5
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_37_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'How the requirement is applied in an organisation: - Mandatory Reporting'
+  table_idx: 37
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 532751CB
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_37_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'How the requirement is applied in individual practice: - Mandatory Reporting'
+  table_idx: 37
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 05C84295
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_38_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: 'Definition: - Privacy'
+  table_idx: 38
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1F22E8A4
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_38_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: Legal or ethical requirement - Privacy
+  table_idx: 38
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 58A3556E
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_38_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: 'Source: (legislation, code, standard, etc.) - Privacy'
+  table_idx: 38
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 62A3729A
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_38_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: 'Section: - Privacy'
+  table_idx: 38
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 38C6967B
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_38_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: 'Link: - Privacy'
+  table_idx: 38
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 15C8ADD8
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_38_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: 'How the requirement is applied in an organisation: - Privacy'
+  table_idx: 38
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 43AA6C95
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_38_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: 'How the requirement is applied in individual practice: - Privacy'
+  table_idx: 38
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6BB70BFC
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_39_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Definition: - Confidentiality'
+  table_idx: 39
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36B48825
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_39_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Legal or ethical requirement - Confidentiality
+  table_idx: 39
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 039BA660
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_39_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Source: (legislation, code, standard, etc.) - Confidentiality'
+  table_idx: 39
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 55C97BA3
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_39_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Section: - Confidentiality'
+  table_idx: 39
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 456FC95F
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_39_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Link: - Confidentiality'
+  table_idx: 39
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A871F0F
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_39_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'How the requirement is applied in an organisation: - Confidentiality'
+  table_idx: 39
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7C2039E9
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_39_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'How the requirement is applied in individual practice: - Confidentiality'
+  table_idx: 39
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 21C60EF8
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_40_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: 'Definition: - Disclosure'
+  table_idx: 40
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 210D61CB
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_40_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: Legal or ethical requirement - Disclosure
+  table_idx: 40
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 651F0142
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_40_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: 'Source: (legislation, code, standard, etc.) - Disclosure'
+  table_idx: 40
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7BBED424
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_40_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: 'Section: - Disclosure'
+  table_idx: 40
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3FF52D50
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_40_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: 'Link: - Disclosure'
+  table_idx: 40
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B21F316
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_40_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: 'How the requirement is applied in an organisation: - Disclosure'
+  table_idx: 40
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5196700E
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_40_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: 'How the requirement is applied in individual practice: - Disclosure'
+  table_idx: 40
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6F52903B
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_41_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'Definition: - Work Role Boundaries - Responsibilities'
+  table_idx: 41
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1EDC7E4E
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_41_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: Legal or ethical requirement - Work Role Boundaries - Responsibilities
+  table_idx: 41
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2509D65E
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_41_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'Source: (legislation, code, standard, etc.) - Work Role Boundaries - Responsibilities'
+  table_idx: 41
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5632BE54
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_41_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'Section: - Work Role Boundaries - Responsibilities'
+  table_idx: 41
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5F08BE3C
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_41_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'Link: - Work Role Boundaries - Responsibilities'
+  table_idx: 41
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7DBA6C69
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_41_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'How the requirement is applied in an organisation: - Work Role Boundaries
+    - Responsibilities'
+  table_idx: 41
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0B712C09
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_41_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'How the requirement is applied in individual practice: - Work Role Boundaries
+    - Responsibilities'
+  table_idx: 41
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0A3265A6
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_TXT_42_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: 'Definition: - Work Role Boundaries - Limitations'
+  table_idx: 42
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7C7171E3
+  value: Ensuring a person is safe, well and will not cause harm to themselves or
+    others.
+- field_id: CHCCCS040_TXT_42_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: Legal or ethical requirement - Work Role Boundaries - Limitations
+  table_idx: 42
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 21A06CC9
+  value: 'Complete the tables below by: Briefly defining each work consideration given
+    below. Identifying one legal or ethical requirement for each work consideration.
+    Identifying the names of the legislations, codes or standards containing each
+    requirement identified. Identifying the name of the section of each legislation,
+    code or standard where each requirement is located. Providing links to each code,
+    legislation or standard. Explaining how each requirement is applied in an organisation.
+    Explaining how each requirement is applied in individual practice.'
+- field_id: CHCCCS040_TXT_42_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: 'Source: (legislation, code, standard, etc.) - Work Role Boundaries - Limitations'
+  table_idx: 42
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12BACD79
+  value: Aged Care Quality Standards
+- field_id: CHCCCS040_TXT_42_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: 'Section: - Work Role Boundaries - Limitations'
+  table_idx: 42
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0DD2BB5E
+  value: Standard 4. Services and supports for daily living. Requirement (3)(g)
+- field_id: CHCCCS040_TXT_42_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: 'Link: - Work Role Boundaries - Limitations'
+  table_idx: 42
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 06F5351A
+  value: https://www.agedcarequality.gov.au/providers/standards/standard-4
+- field_id: CHCCCS040_TXT_42_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: 'How the requirement is applied in an organisation: - Work Role Boundaries
+    - Limitations'
+  table_idx: 42
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 56D8DB15
+  value: The organisation is responsible for making sure that third parties who may
+    be sub-contracted, have the equipment they need to meet this requirement. For
+    example, a sub-contracted transport service must have a safe and suitable wheelchair
+    ramp to access the vehicle if they provide services and supports to consumers
+    who use a wheelchair.
+- field_id: CHCCCS040_TXT_42_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: 'How the requirement is applied in individual practice: - Work Role Boundaries
+    - Limitations'
+  table_idx: 42
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 63C513A9
+  value: The individual can describe how the organisation has trained them to safely
+    use the equipment. They can also describe any responsibilities they share with
+    the consumer for safety, cleanliness and maintenance.
+- field_id: CHCCCS040_CB_43_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_43
+  label: You have completed all the Knowledge Assessments Questions.
+  table_idx: 43
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1172607243'
+  value: true
+- field_id: CHCCCS040_CB_43_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_43
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 43
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '94379991'
+  value: true
+- field_id: CHCCCS040_CB_43_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_43
+  label: This completed workbook
+  table_idx: 43
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1472658093'
+  value: true
+- field_id: CHCCCS040_CB_43_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_43
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 43
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1961214800'
+  value: true
+- field_id: CHCCCS040_CB_45_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_45
+  label: The candidate has completed all the Knowledge Assessments Questions.
+  table_idx: 45
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-579901534'
+  value: false
+- field_id: CHCCCS040_CB_45_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_45
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 45
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1280181623'
+  value: false
+- field_id: CHCCCS040_CB_45_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_45
+  label: This completed workbook
+  table_idx: 45
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1016224711'
+  value: false
+- field_id: CHCCCS040_CB_45_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_45
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 45
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2008746071'
+  value: false
+- field_id: CHCCCS040_TXT_47_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_47
+  label: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 47
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 730A0435
+  value: Alex Chen
+- field_id: CHCCCS040_TXT_47_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_47
+  label: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 47
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F1CA79
+  value: Care Connect College
+- field_id: CHCCCS040_TXT_47_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_47
+  label: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 47
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A6CEC60
+  value: 1300 123 456
+- field_id: CHCCCS040_TXT_47_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_47
+  label: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 47
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6127D83D
+  value: info@careconnectcollege.edu.au
+- field_id: CHCCCS040_TXT_47_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_47
+  label: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 47
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 165860A4
+  value: ''
+- field_id: CHCCCS040_CB_48_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 48
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1628122573'
+  value: false
+- field_id: CHCCCS040_CB_48_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 48
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '41869887'
+  value: false
+- field_id: CHCCCS040_CB_48_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 48
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1085990598'
+  value: false
+- field_id: CHCCCS040_CB_48_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 48
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1484276261'
+  value: false
+- field_id: CHCCCS040_CB_48_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 48
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631007055'
+  value: false
+- field_id: CHCCCS040_CB_48_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 48
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '132760661'
+  value: false
+- field_id: CHCCCS040_CB_48_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 48
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1814549610'
+  value: false
+- field_id: CHCCCS040_CB_48_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 48
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1261265825'
+  value: false
+- field_id: CHCCCS040_CB_48_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 1
+  table_idx: 48
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '725570037'
+  value: false
+- field_id: CHCCCS040_CB_48_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 2
+  table_idx: 48
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1166288856'
+  value: false
+- field_id: CHCCCS040_CB_48_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 1
+  table_idx: 48
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1241401644'
+  value: false
+- field_id: CHCCCS040_CB_48_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 2
+  table_idx: 48
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1015576993'
+  value: false
+- field_id: CHCCCS040_CB_48_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 1
+  table_idx: 48
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2141447646'
+  value: false
+- field_id: CHCCCS040_CB_48_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 2
+  table_idx: 48
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-676887717'
+  value: false
+- field_id: CHCCCS040_CB_48_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 1
+  table_idx: 48
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1895878625'
+  value: false
+- field_id: CHCCCS040_CB_48_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 2
+  table_idx: 48
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '2021737177'
+  value: false
+- field_id: CHCCCS040_CB_48_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 1
+  table_idx: 48
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-815728007'
+  value: false
+- field_id: CHCCCS040_CB_48_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 2
+  table_idx: 48
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1910029653'
+  value: false
+- field_id: CHCCCS040_CB_48_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 1
+  table_idx: 48
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1123764847'
+  value: false
+- field_id: CHCCCS040_CB_48_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 2
+  table_idx: 48
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-354580058'
+  value: false
+- field_id: CHCCCS040_CB_48_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 1
+  table_idx: 48
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '775138469'
+  value: false
+- field_id: CHCCCS040_CB_48_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 2
+  table_idx: 48
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1487007027'
+  value: false
+- field_id: CHCCCS040_CB_48_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 1
+  table_idx: 48
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1921163801'
+  value: false
+- field_id: CHCCCS040_CB_48_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 2
+  table_idx: 48
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1219978278'
+  value: false
+- field_id: CHCCCS040_CB_48_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 13 Col 1
+  table_idx: 48
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1545714769'
+  value: false
+- field_id: CHCCCS040_CB_48_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 13 Col 2
+  table_idx: 48
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1020845472'
+  value: false
+- field_id: CHCCCS040_CB_49_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 1 Col 1
+  table_idx: 49
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '282236639'
+  value: false
+- field_id: CHCCCS040_CB_49_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 1 Col 2
+  table_idx: 49
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1339350262'
+  value: false
+- field_id: CHCCCS040_CB_49_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 2 Col 1
+  table_idx: 49
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '943888838'
+  value: false
+- field_id: CHCCCS040_CB_49_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 2 Col 2
+  table_idx: 49
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1866893043'
+  value: false
+- field_id: CHCCCS040_CB_49_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 3 Col 1
+  table_idx: 49
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1364976192'
+  value: false
+- field_id: CHCCCS040_CB_49_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 3 Col 2
+  table_idx: 49
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1489321764'
+  value: false
+- field_id: CHCCCS040_CB_49_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 4 Col 1
+  table_idx: 49
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1441365942'
+  value: false
+- field_id: CHCCCS040_CB_49_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 4 Col 2
+  table_idx: 49
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-67805140'
+  value: false
+- field_id: CHCCCS040_CB_49_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 5 Col 1
+  table_idx: 49
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1289473892'
+  value: false
+- field_id: CHCCCS040_CB_49_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 5 Col 2
+  table_idx: 49
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1726671391'
+  value: false
+- field_id: CHCCCS040_CB_49_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 6 Col 1
+  table_idx: 49
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '961077020'
+  value: false
+- field_id: CHCCCS040_CB_49_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 6 Col 2
+  table_idx: 49
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1566068728'
+  value: false
+- field_id: CHCCCS040_CB_49_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 7 Col 1
+  table_idx: 49
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-333460912'
+  value: false
+- field_id: CHCCCS040_CB_49_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 7 Col 2
+  table_idx: 49
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '684558770'
+  value: false
+- field_id: CHCCCS040_CB_50_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_50
+  label: Row 1 Col 1
+  table_idx: 50
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: CHCCCS040_CB_50_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_50
+  label: Row 1 Col 2
+  table_idx: 50
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: CHCCCS040_CB_50_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_50
+  label: Row 2 Col 1
+  table_idx: 50
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: CHCCCS040_CB_50_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_50
+  label: Row 2 Col 2
+  table_idx: 50
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: CHCCCS040_CB_50_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_50
+  label: Row 3 Col 1
+  table_idx: 50
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: CHCCCS040_CB_50_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_50
+  label: Row 3 Col 2
+  table_idx: 50
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: CHCCCS040_CB_50_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_50
+  label: Row 4 Col 1
+  table_idx: 50
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: CHCCCS040_CB_50_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_50
+  label: Row 4 Col 2
+  table_idx: 50
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: CHCCCS040_CB_51_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_51
+  label: Row 2 Col 1
+  table_idx: 51
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: CHCCCS040_CB_51_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_51
+  label: Row 3 Col 1
+  table_idx: 51
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: CHCCCS040_CB_51_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_51
+  label: Row 4 Col 1
+  table_idx: 51
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: CHCCCS040_TXT_53_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Name of Third-party Contacted
+  table_idx: 53
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A969C06
+  value: ''
+- field_id: CHCCCS040_TXT_53_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Role in the Candidate’s Assessment
+  table_idx: 53
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EEC833F
+  value: Alex Chen
+- field_id: CHCCCS040_TXT_53_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Contact Details (Phone number or email address)
+  table_idx: 53
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '29882929'
+  value: ''
+- field_id: CHCCCS040_TXT_53_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Date contacted
+  table_idx: 53
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CD14B2C
+  value: ''
+- field_id: CHCCCS040_CB_53_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_53
+  label: Yes       No   Assessor’s Notes
+  table_idx: 53
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: CHCCCS040_CB_53_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_53
+  label: Yes       No   Assessor’s Notes
+  table_idx: 53
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: CHCCCS040_TXT_53_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 53
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3273E566
+  value: ''
+- field_id: CHCCCS040_TXT_53_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Name of Third-party Contacted
+  table_idx: 53
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27B75E8F
+  value: ''
+- field_id: CHCCCS040_TXT_53_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Role in the Candidate’s Assessment
+  table_idx: 53
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40B34E2B
+  value: Alex Chen
+- field_id: CHCCCS040_TXT_53_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Contact Details (Phone number or email address)
+  table_idx: 53
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77A6665E
+  value: ''
+- field_id: CHCCCS040_TXT_53_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Date contacted
+  table_idx: 53
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1DAFA096
+  value: ''
+- field_id: CHCCCS040_CB_53_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_53
+  label: Yes       No   Assessor’s Notes
+  table_idx: 53
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: CHCCCS040_CB_53_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_53
+  label: Yes       No   Assessor’s Notes
+  table_idx: 53
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: CHCCCS040_TXT_53_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 53
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 39CAA6A2
+  value: ''
+- field_id: CHCCCS040_TXT_53_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Name of Third-party Contacted
+  table_idx: 53
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D25FAFA
+  value: ''
+- field_id: CHCCCS040_TXT_53_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Role in the Candidate’s Assessment
+  table_idx: 53
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451A30E5
+  value: Alex Chen
+- field_id: CHCCCS040_TXT_53_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Contact Details (Phone number or email address)
+  table_idx: 53
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E4BE0E3
+  value: ''
+- field_id: CHCCCS040_TXT_53_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Date contacted
+  table_idx: 53
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 08D6E752
+  value: ''
+- field_id: CHCCCS040_CB_53_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_53
+  label: Yes       No   Assessor’s Notes
+  table_idx: 53
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: CHCCCS040_CB_53_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_53
+  label: Yes       No   Assessor’s Notes
+  table_idx: 53
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: CHCCCS040_TXT_53_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 53
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18D2A67F
+  value: ''
+- field_id: CHCCCS040_TXT_53_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Name of Third-party Contacted
+  table_idx: 53
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AB2776E
+  value: ''
+- field_id: CHCCCS040_TXT_53_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Role in the Candidate’s Assessment
+  table_idx: 53
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B9C71C7
+  value: Alex Chen
+- field_id: CHCCCS040_TXT_53_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Contact Details (Phone number or email address)
+  table_idx: 53
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 23166DAF
+  value: ''
+- field_id: CHCCCS040_TXT_53_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: Date contacted
+  table_idx: 53
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19F6D647
+  value: ''
+- field_id: CHCCCS040_CB_53_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_53
+  label: Yes       No   Assessor’s Notes
+  table_idx: 53
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: CHCCCS040_CB_53_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_53
+  label: Yes       No   Assessor’s Notes
+  table_idx: 53
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: CHCCCS040_TXT_53_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_53
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 53
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3BC5CFB0
+  value: ''
+- field_id: CHCCCS040_CB_54_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_54
+  label: Row 1 Col 1
+  table_idx: 54
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: CHCCCS040_CB_54_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_54
+  label: Row 1 Col 2
+  table_idx: 54
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: CHCCCS040_CB_54_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_54
+  label: Row 2 Col 1
+  table_idx: 54
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '77255906'
+  value: false
+- field_id: CHCCCS040_CB_54_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_54
+  label: Row 2 Col 2
+  table_idx: 54
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1240757628'
+  value: false
+- field_id: CHCCCS040_CB_54_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_54
+  label: Row 3 Col 1
+  table_idx: 54
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1407533693'
+  value: false
+- field_id: CHCCCS040_CB_54_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_54
+  label: Row 3 Col 2
+  table_idx: 54
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1228602460'
+  value: false
+- field_id: CHCCCS040_CB_55_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_55
+  label: Row 1 Col 1
+  table_idx: 55
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: CHCCCS040_CB_55_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_55
+  label: Row 1 Col 2
+  table_idx: 55
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: CHCCCS040_TXT_56_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_56
+  label: Assessor’s comments/feedback
+  table_idx: 56
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E889375
+  value: ''
+- field_id: CHCCCS040_TXT_57_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_57
+  label: Assessor’s name
+  table_idx: 57
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D877E66
+  value: ''
+- field_id: CHCCCS040_TXT_57_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_57
+  label: Assessor’s signature
+  table_idx: 57
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
+- field_id: CHCCCS040_TXT_57_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_57
+  label: Date signed
+  table_idx: 57
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56908E91
+  value: ''
+- field_id: CHCCCS040_TXT_57_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_57
+  label: Assessor’s signature
+  table_idx: 57
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
