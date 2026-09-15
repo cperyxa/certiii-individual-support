@@ -176,7 +176,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 20D35A8E
-  value: Working with Children Check (WWCC) clearance and verification of ongoing clearance status.
+  value: Holding a valid Working with Children Check (WWCC) before starting work.
 - field_id: CHCLEG001_TXT_6_2_1_1
   type: text
   section: Knowledge Assessment
@@ -189,7 +189,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6FDDF914
-  value: Mandatory reporting of suspected risk of significant harm under Section 27 of the Children and Young Persons (Care and Protection) Act 1998 (NSW).
+  value: Reporting any suspected risk of significant harm to children to my supervisor and the Child Protection Helpline.
 - field_id: CHCLEG001_TXT_6_3_1_1
   type: text
   section: Knowledge Assessment
@@ -202,7 +202,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 68D95943
-  value: Supervising children at all times and ensuring child-safe environment policies are enforced.
+  value: Keeping children supervised at all times and making sure the workplace environment is safe.
 - field_id: CHCLEG001_TXT_6_4_1_1
   type: text
   section: Knowledge Assessment
@@ -215,7 +215,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: '66699375'
-  value: Criminal penalties, fines up to $11,000 for employers/workers, immediate termination, and prohibition from child-related work.
+  value: Fines, losing your job, and being banned from working with children.
 - field_id: CHCLEG001_TXT_6_5_1_1
   type: text
   section: Knowledge Assessment
@@ -267,7 +267,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3D02DEAD
-  value: Prioritizing the best interests of the child and upholding zero tolerance for emotional, physical, or neglectful abuse.
+  value: Always putting the child's safety and wellbeing first, with zero tolerance for any abuse or neglect.
 - field_id: CHCLEG001_TXT_8_2_1_1
   type: text
   section: Knowledge Assessment
@@ -280,7 +280,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1C4555BC
-  value: Ensuring child confidentiality while balancing child protection disclosure duties.
+  value: Keeping personal details confidential, except when I need to report safety concerns by law.
 - field_id: CHCLEG001_TXT_8_3_1_1
   type: text
   section: Knowledge Assessment
@@ -293,7 +293,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6B471C09
-  value: Treating all children with dignity, respect, and fairness regardless of background.
+  value: Treating every child with respect, kindness, and fairness regardless of their background.
 - field_id: CHCLEG001_TXT_8_4_1_1
   type: text
   section: Knowledge Assessment
@@ -306,7 +306,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3ABD62C6
-  value: Formal disciplinary action, professional deregistration, and workplace dismissal.
+  value: Disciplinary action, losing your job, and being deregistered.
 - field_id: CHCLEG001_TXT_10_2_1_1
   type: text
   section: Knowledge Assessment
@@ -317,7 +317,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1C26BE87
-  value: Provide services in a safe and ethical manner, respecting client autonomy and privacy.
+  value: Giving care safely and ethically, respecting client choices, dignity, and privacy.
 - field_id: CHCLEG001_TXT_10_2_2_1
   type: text
   section: Knowledge Assessment
@@ -328,7 +328,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1EEC5665
-  value: Provide services in a safe and ethical manner, respecting client autonomy and privacy.
+  value: Giving care safely and ethically, respecting client choices, dignity, and privacy.
 - field_id: CHCLEG001_TXT_10_3_1_1
   type: text
   section: Knowledge Assessment
@@ -339,7 +339,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0F11CA47
-  value: Prohibition of sexual or financial relationships between workers and clients.
+  value: Never having sexual, romantic, or financial relationships with clients.
 - field_id: CHCLEG001_TXT_10_3_2_1
   type: text
   section: Knowledge Assessment
@@ -350,7 +350,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4F7AA854
-  value: Prohibition of sexual or financial relationships between workers and clients.
+  value: Never having sexual, romantic, or financial relationships with clients.
 - field_id: CHCLEG001_TXT_10_4_1_1
   type: text
   section: Knowledge Assessment
@@ -361,7 +361,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 59EB4866
-  value: Prohibition order by the Health Care Complaints Commission (HCCC), public warning, and employment termination.
+  value: Being banned from practice by the HCCC, losing your job, and formal warnings.
 - field_id: CHCLEG001_TXT_10_4_2_1
   type: text
   section: Knowledge Assessment
@@ -372,7 +372,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6A223DA2
-  value: Prohibition order by the Health Care Complaints Commission (HCCC), public warning, and employment termination.
+  value: Being banned from practice by the HCCC, losing your job, and formal warnings.
 - field_id: CHCLEG001_TXT_10_5_1_1
   type: text
   section: Knowledge Assessment
@@ -420,7 +420,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 06E4D36B
-  value: Providing accessible, fully stocked first aid kits tailored to workplace hazards.
+  value: Keeping first aid kits fully stocked and easy to reach in an emergency.
 - field_id: CHCLEG001_TXT_12_3_1_1
   type: text
   section: Knowledge Assessment
@@ -433,7 +433,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 206E9E9A
-  value: Maintaining trained first aiders with current HLTAID011 certification on duty.
+  value: Having trained staff with current HLTAID011 first aid certificates on every shift.
 - field_id: CHCLEG001_TXT_12_4_1_1
   type: text
   section: Knowledge Assessment
@@ -446,7 +446,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 13E81FF3
-  value: Breach of WHS Act duty of care, regulatory improvement notices, and monetary fines.
+  value: Breaching WHS duty of care, safety warning notices from SafeWork NSW, and fines.
 - field_id: CHCLEG001_TXT_12_5_1_1
   type: text
   section: Knowledge Assessment
@@ -485,7 +485,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7FB93D94
-  value: Ensuring occupational noise exposure does not exceed 85 dB(A) over an 8-hour shift.
+  value: Keeping noise levels below 85 decibels over an 8-hour shift so hearing is not damaged.
 - field_id: CHCLEG001_TXT_14_3_1_1
   type: text
   section: Knowledge Assessment
@@ -498,7 +498,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 15BF2224
-  value: Implementing acoustic engineering controls and providing appropriate hearing PPE.
+  value: Using hearing protection (like earplugs or earmuffs) and maintaining quiet equipment.
 - field_id: CHCLEG001_TXT_14_4_1_1
   type: text
   section: Knowledge Assessment
@@ -511,7 +511,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3C052E20
-  value: Irreversible noise-induced hearing loss, SafeWork NSW prohibition notices, and worker compensation claims.
+  value: Permanent hearing loss for workers, safety notices, and compensation claims.
 - field_id: CHCLEG001_TXT_14_5_1_1
   type: text
   section: Knowledge Assessment
@@ -550,7 +550,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0000033A
-  value: Acknowledging complaints within 24–48 hours and resolving them without victimisation.
+  value: Listening to complaints, acknowledging them within 24 to 48 hours, and fixing issues fairly.
 - field_id: CHCLEG001_TXT_16_3_1_1
   type: text
   section: Knowledge Assessment
@@ -563,7 +563,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7CA7AF24
-  value: Documenting and investigating grievances transparently and fairly.
+  value: Writing down complaints accurately and passing them to management to investigate.
 - field_id: CHCLEG001_TXT_16_4_1_1
   type: text
   section: Knowledge Assessment
@@ -576,7 +576,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2469A523
-  value: Escalation to the Aged Care Quality and Safety Commission or NDIS Quality and Safeguards Commission.
+  value: Escalation to the Aged Care Quality and Safety Commission or NDIS Commission.
 - field_id: CHCLEG001_TXT_16_5_1_1
   type: text
   section: Knowledge Assessment
@@ -604,7 +604,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 56ED2A29
-  value: Loss of client trust, internal organizational conflict, and staff grievances.
+  value: Loss of client trust, anger, and damaged relationships between clients and staff.
 - field_id: CHCLEG001_TXT_17_4_2_1
   type: text
   section: Knowledge Assessment
@@ -617,7 +617,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 58DB022A
-  value: Disciplinary action for breach of confidentiality and professional conduct policy.
+  value: Formal warning and disciplinary action for breach of workplace confidentiality.
 - field_id: CHCLEG001_TXT_17_5_2_1
   type: text
   section: Knowledge Assessment
@@ -656,7 +656,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 34DDFA8C
-  value: Minimum 20 hours of validated continuing professional development per registration year.
+  value: Completing at least 20 hours of training and professional development each year.
 - field_id: CHCLEG001_TXT_18_2_0_2
   type: text
   section: Knowledge Assessment
@@ -667,7 +667,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 49CBB498
-  value: Minimum 20 hours of validated continuing professional development per registration year.
+  value: Completing at least 20 hours of training and professional development each year.
 - field_id: CHCLEG001_TXT_18_3_0_1
   type: text
   section: Knowledge Assessment
@@ -678,7 +678,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 60E2F649
-  value: Inability to re-register, suspension from practice, and non-compliance findings during audits.
+  value: Cannot renew registration, suspension from work, and failing audit checks.
 - field_id: CHCLEG001_TXT_18_4_0_1
   type: text
   section: Knowledge Assessment
@@ -700,7 +700,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '42373551'
-  value: Attending accredited seminars on dementia care and infection control.
+  value: Attending workshops on dementia care and infection control refreshers.
 - field_id: CHCLEG001_TXT_18_5_0_2
   type: text
   section: Knowledge Assessment
@@ -711,7 +711,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 5B05344C
-  value: Completing workplace e-learning modules on positive behaviour support and mandatory reporting.
+  value: Completing online training modules on manual handling and mandatory reporting.
 - field_id: CHCLEG001_TXT_18_5_0_3
   type: text
   section: Knowledge Assessment
@@ -722,7 +722,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 725DC5DB
-  value: Participating in peer practice review workshops and clinical skill simulations.
+  value: Joining practical skills practice sessions and CPR refreshers with my team.
 - field_id: CHCLEG001_TXT_18_6_0_1
   type: text
   section: Knowledge Assessment
@@ -733,7 +733,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4189E27F
-  value: Inability to renew annual professional registration, mandatory supervision requirements, formal disciplinary review, and potential suspension from client-facing care duties.
+  value: Not being allowed to work with clients until training is completed, plus formal warnings.
 - field_id: CHCLEG001_TXT_19_3_2_1
   type: text
   section: Knowledge Assessment
@@ -748,7 +748,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4F11CCD5
-  value: Undertake annual CPR updates, infection control refreshers, medication administration competencies, and dementia care seminars.
+  value: Do annual CPR updates, infection control refreshers, medication safety training, and dementia workshops.
 - field_id: CHCLEG001_TXT_19_4_2_1
   type: text
   section: Knowledge Assessment
@@ -761,7 +761,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 18E03F27
-  value: Undertake annual CPR updates, infection control refreshers, medication administration competencies, and dementia care seminars.
+  value: Do annual CPR updates, infection control refreshers, medication safety training, and dementia workshops.
 - field_id: CHCLEG001_TXT_19_5_2_1
   type: text
   section: Knowledge Assessment
@@ -774,7 +774,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '11503380'
-  value: Undertake annual CPR updates, infection control refreshers, medication administration competencies, and dementia care seminars.
+  value: Do annual CPR updates, infection control refreshers, medication safety training, and dementia workshops.
 - field_id: CHCLEG001_TXT_19_6_2_1
   type: text
   section: Knowledge Assessment
@@ -787,7 +787,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '48027145'
-  value: Undertake annual CPR updates, infection control refreshers, medication administration competencies, and dementia care seminars.
+  value: Do annual CPR updates, infection control refreshers, medication safety training, and dementia workshops.
 - field_id: CHCLEG001_TXT_21_2_1_1
   type: text
   section: Knowledge Assessment
@@ -798,7 +798,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 69BD11C5
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_2_2_1
   type: text
   section: Knowledge Assessment
@@ -809,7 +809,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4FDAD0E8
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_2_3_1
   type: text
   section: Knowledge Assessment
@@ -820,7 +820,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 24A1E796
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_2_4_1
   type: text
   section: Knowledge Assessment
@@ -831,7 +831,7 @@ fields:
   col_idx: 4
   index_in_cell: 0
   para_id: 3100408D
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_3_1_1
   type: text
   section: Knowledge Assessment
@@ -842,7 +842,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 46A0CC61
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_3_2_1
   type: text
   section: Knowledge Assessment
@@ -853,7 +853,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7EAE9899
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_3_3_1
   type: text
   section: Knowledge Assessment
@@ -864,7 +864,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 505DF7F7
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_3_4_1
   type: text
   section: Knowledge Assessment
@@ -875,7 +875,7 @@ fields:
   col_idx: 4
   index_in_cell: 0
   para_id: 16DF9971
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_4_1_1
   type: text
   section: Knowledge Assessment
@@ -886,7 +886,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3DECBF7D
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_4_2_1
   type: text
   section: Knowledge Assessment
@@ -897,7 +897,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 382C3695
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_4_3_1
   type: text
   section: Knowledge Assessment
@@ -908,7 +908,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 4686C196
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_4_4_1
   type: text
   section: Knowledge Assessment
@@ -919,7 +919,7 @@ fields:
   col_idx: 4
   index_in_cell: 0
   para_id: 111AC93D
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_5_1_1
   type: text
   section: Knowledge Assessment
@@ -930,7 +930,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6EBEC7E4
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_5_2_1
   type: text
   section: Knowledge Assessment
@@ -941,7 +941,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 650391DE
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_5_3_1
   type: text
   section: Knowledge Assessment
@@ -952,7 +952,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 4C6F893A
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_21_5_4_1
   type: text
   section: Knowledge Assessment
@@ -963,7 +963,7 @@ fields:
   col_idx: 4
   index_in_cell: 0
   para_id: 57BD647B
-  value: Duty of care is the legal and moral obligation of care workers to take reasonable care to avoid causing foreseeable harm or injury to clients.
+  value: Duty of care means taking reasonable steps as a support worker to keep clients safe and avoid doing anything that could cause foreseeable harm.
 - field_id: CHCLEG001_TXT_22_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1060,7 +1060,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 207B4A9E
-  value: 'Consumer dignity and choice: Upholds the consumer''s right to exercise choice and make decisions about their care, including taking calculated risks.'
+  value: 'Consumer dignity and choice: Upholds the consumer''s right to make decisions about their care, including taking calculated risks.'
 - field_id: CHCLEG001_TXT_24_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1099,7 +1099,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5CF77A7B
-  value: Workers must balance duty of care with client autonomy, conducting risk assessments collaboratively rather than imposing blanket restrictions.
+  value: Support workers should talk with the client about risks and find safe ways to support their wishes, rather than just saying no.
 - field_id: CHCLEG001_TXT_24_7_1_1
   type: text
   section: Knowledge Assessment
@@ -1112,7 +1112,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 565AFC5D
-  value: Unreasonable denial of client autonomy, breach of Aged Care Quality Standards, and sanctions against the provider.
+  value: Taking away client independence, breaching Aged Care Quality Standards, and sanctions.
 - field_id: CHCLEG001_TXT_25_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1127,7 +1127,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 63479D55
-  value: Negligence occurs when a worker breaches their duty of care through act or omission, causing actual, foreseeable harm or loss to the client.
+  value: Negligence happens when a worker fails to take proper care (by doing something wrong or forgetting to do something they should have), leading to harm or injury to the client.
 - field_id: CHCLEG001_TXT_25_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1140,7 +1140,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7BBAFDE5
-  value: Negligence occurs when a worker breaches their duty of care through act or omission, causing actual, foreseeable harm or loss to the client.
+  value: Negligence happens when a worker fails to take proper care (by doing something wrong or forgetting to do something they should have), leading to harm or injury to the client.
 - field_id: CHCLEG001_TXT_25_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1155,7 +1155,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5F3822D2
-  value: Negligence occurs when a worker breaches their duty of care through act or omission, causing actual, foreseeable harm or loss to the client.
+  value: Negligence happens when a worker fails to take proper care (by doing something wrong or forgetting to do something they should have), leading to harm or injury to the client.
 - field_id: CHCLEG001_TXT_25_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1170,7 +1170,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 54F6FFE5
-  value: Negligence occurs when a worker breaches their duty of care through act or omission, causing actual, foreseeable harm or loss to the client.
+  value: Negligence happens when a worker fails to take proper care (by doing something wrong or forgetting to do something they should have), leading to harm or injury to the client.
 - field_id: CHCLEG001_TXT_27_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1183,7 +1183,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0F6184C2
-  value: Informed consent requires providing comprehensive, understandable information regarding benefits, risks, and alternatives before obtaining voluntary agreement.
+  value: Informed consent means explaining what you plan to do, the benefits, and any risks in simple terms, and making sure the client willingly agrees before you start.
 - field_id: CHCLEG001_TXT_27_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1196,7 +1196,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0E80B86D
-  value: Informed consent requires providing comprehensive, understandable information regarding benefits, risks, and alternatives before obtaining voluntary agreement.
+  value: Informed consent means explaining what you plan to do, the benefits, and any risks in simple terms, and making sure the client willingly agrees before you start.
 - field_id: CHCLEG001_TXT_27_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1209,7 +1209,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 03FAD821
-  value: Informed consent requires providing comprehensive, understandable information regarding benefits, risks, and alternatives before obtaining voluntary agreement.
+  value: Informed consent means explaining what you plan to do, the benefits, and any risks in simple terms, and making sure the client willingly agrees before you start.
 - field_id: CHCLEG001_TXT_27_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1222,7 +1222,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 49B2028B
-  value: Informed consent requires providing comprehensive, understandable information regarding benefits, risks, and alternatives before obtaining voluntary agreement.
+  value: Informed consent means explaining what you plan to do, the benefits, and any risks in simple terms, and making sure the client willingly agrees before you start.
 - field_id: CHCLEG001_TXT_27_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1235,7 +1235,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 74C46DF5
-  value: Informed consent requires providing comprehensive, understandable information regarding benefits, risks, and alternatives before obtaining voluntary agreement.
+  value: Informed consent means explaining what you plan to do, the benefits, and any risks in simple terms, and making sure the client willingly agrees before you start.
 - field_id: CHCLEG001_TXT_27_6_1_1
   type: text
   section: Knowledge Assessment
@@ -1248,7 +1248,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6E18984D
-  value: Informed consent requires providing comprehensive, understandable information regarding benefits, risks, and alternatives before obtaining voluntary agreement.
+  value: Informed consent means explaining what you plan to do, the benefits, and any risks in simple terms, and making sure the client willingly agrees before you start.
 - field_id: CHCLEG001_TXT_27_7_1_1
   type: text
   section: Knowledge Assessment
@@ -1261,7 +1261,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 77115C63
-  value: Informed consent requires providing comprehensive, understandable information regarding benefits, risks, and alternatives before obtaining voluntary agreement.
+  value: Informed consent means explaining what you plan to do, the benefits, and any risks in simple terms, and making sure the client willingly agrees before you start.
 - field_id: CHCLEG001_TXT_28_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1365,7 +1365,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1227A399
-  value: Workers must treat every client with profound respect, avoid degrading or humiliating practices, and ensure zero tolerance for mistreatment.
+  value: Treating every client with dignity, never humiliating or talking down to them, and protecting them from harm or rough treatment.
 - field_id: CHCLEG001_TXT_30_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1378,7 +1378,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 232CF9A5
-  value: Breach of professional code of ethics, immediate termination of employment, and potential human rights commission investigation.
+  value: Immediate dismissal, loss of certificate/registration, and possible police investigation.
 - field_id: CHCLEG001_TXT_31_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1389,7 +1389,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 404220D9
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1400,7 +1400,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 747FD3D0
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1411,7 +1411,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7E63609D
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_4_0_2
   type: text
   section: Knowledge Assessment
@@ -1422,7 +1422,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 457E648A
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_4_0_3
   type: text
   section: Knowledge Assessment
@@ -1433,7 +1433,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 1CE3E591
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_4_0_4
   type: text
   section: Knowledge Assessment
@@ -1444,7 +1444,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 6DEAA093
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_4_0_5
   type: text
   section: Knowledge Assessment
@@ -1455,7 +1455,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 232DD3A2
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_5_0_1
   type: text
   section: Knowledge Assessment
@@ -1466,7 +1466,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1AAB5E38
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_5_0_2
   type: text
   section: Knowledge Assessment
@@ -1477,7 +1477,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 3F6EE2F3
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_6_0_1
   type: text
   section: Knowledge Assessment
@@ -1488,7 +1488,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 03FCD506
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_6_0_2
   type: text
   section: Knowledge Assessment
@@ -1499,7 +1499,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 492BA2B2
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_6_0_3
   type: text
   section: Knowledge Assessment
@@ -1510,7 +1510,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 33B4A14F
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_31_6_0_4
   type: text
   section: Knowledge Assessment
@@ -1521,7 +1521,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 38FA5AB3
-  value: Mandatory reporting requires workers to report suspected physical abuse, sexual abuse, severe neglect, or financial exploitation to supervisors and statutory bodies.
+  value: Mandatory reporting means by law I must immediately report any suspected physical, emotional, or sexual abuse, neglect, or financial exploitation to my supervisor and reporting bodies.
 - field_id: CHCLEG001_TXT_33_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1532,7 +1532,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 46400FEF
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1543,7 +1543,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 22B0204A
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_2_3_1
   type: text
   section: Knowledge Assessment
@@ -1554,7 +1554,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6B10C429
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1565,7 +1565,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 30495E67
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1576,7 +1576,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 09B76944
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_3_3_1
   type: text
   section: Knowledge Assessment
@@ -1587,7 +1587,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 713F156B
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1598,7 +1598,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 03D66411
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1609,7 +1609,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 52C98497
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_4_3_1
   type: text
   section: Knowledge Assessment
@@ -1620,7 +1620,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6A45804E
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1631,7 +1631,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0D64F1F3
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1642,7 +1642,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 74A2A249
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_33_5_3_1
   type: text
   section: Knowledge Assessment
@@ -1653,7 +1653,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 5A68310A
-  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) prohibit direct and indirect discrimination in community services.
+  value: Anti-Discrimination Act 1977 (NSW) and Disability Discrimination Act 1992 (Cth) make it unlawful to discriminate against clients or workers.
 - field_id: CHCLEG001_TXT_35_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1664,7 +1664,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0F31F2CD
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1675,7 +1675,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3F8F192B
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_2_3_1
   type: text
   section: Knowledge Assessment
@@ -1686,7 +1686,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6FC56C85
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1697,7 +1697,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 529437A6
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1708,7 +1708,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3D75657C
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_3_3_1
   type: text
   section: Knowledge Assessment
@@ -1719,7 +1719,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 5BC30E20
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1730,7 +1730,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 74A584E1
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1741,7 +1741,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1F6E4993
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_4_3_1
   type: text
   section: Knowledge Assessment
@@ -1752,7 +1752,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 65093D7A
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1763,7 +1763,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 19A5F344
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1774,7 +1774,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 061A1096
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_35_5_3_1
   type: text
   section: Knowledge Assessment
@@ -1785,7 +1785,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 30FAF74D
-  value: Freedom of association, freedom of speech, right to personal autonomy, and protection against degrading treatment.
+  value: Freedom to make your own choices, freedom of speech, right to privacy, and protection from abuse or degrading treatment.
 - field_id: CHCLEG001_TXT_36_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2005,7 +2005,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2A767D4C
-  value: Workers must notify the Child Protection Helpline immediately if they suspect child is at risk of significant harm.
+  value: Support workers must report any suspected risk of significant harm to the Child Protection Helpline right away.
 - field_id: CHCLEG001_TXT_38_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2016,7 +2016,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1EB19C69
-  value: Workers must handle personal and sensitive client information securely and only disclose with consent or under law.
+  value: Keep client information private and secure, only sharing details when required by law or with client consent.
 - field_id: CHCLEG001_TXT_38_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2027,7 +2027,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0104BC25
-  value: Criminal penalties, fines, professional deregistration, and workplace dismissal.
+  value: Fines, losing registration, and immediate termination of employment.
 - field_id: CHCLEG001_TXT_38_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2038,7 +2038,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2DB27C02
-  value: Disciplinary action, investigation by the Office of the Australian Information Commissioner (OAIC), and civil damages.
+  value: Disciplinary action, complaints to the Privacy Commissioner, and dismissal.
 - field_id: CHCLEG001_TXT_39_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2053,7 +2053,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 54BD9787
-  value: An ethical dilemma arises when a worker faces two competing ethical principles, such as client autonomy versus protecting them from potential harm.
+  value: An ethical dilemma happens when you face a tough choice between two principles, like respecting a client's choice to do something versus your duty to keep them safe from harm.
 - field_id: CHCLEG001_TXT_39_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2066,7 +2066,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2D3B176C
-  value: An ethical dilemma arises when a worker faces two competing ethical principles, such as client autonomy versus protecting them from potential harm.
+  value: An ethical dilemma happens when you face a tough choice between two principles, like respecting a client's choice to do something versus your duty to keep them safe from harm.
 - field_id: CHCLEG001_TXT_39_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2081,7 +2081,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6425871A
-  value: An ethical dilemma arises when a worker faces two competing ethical principles, such as client autonomy versus protecting them from potential harm.
+  value: An ethical dilemma happens when you face a tough choice between two principles, like respecting a client's choice to do something versus your duty to keep them safe from harm.
 - field_id: CHCLEG001_TXT_39_6_2_1
   type: text
   section: Knowledge Assessment
@@ -2096,7 +2096,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 406E7580
-  value: An ethical dilemma arises when a worker faces two competing ethical principles, such as client autonomy versus protecting them from potential harm.
+  value: An ethical dilemma happens when you face a tough choice between two principles, like respecting a client's choice to do something versus your duty to keep them safe from harm.
 - field_id: CHCLEG001_TXT_41_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2109,7 +2109,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 142952E8
-  value: Consult organizational policies, discuss with the clinical supervisor, engage the multidisciplinary team, and explore supported decision-making options.
+  value: Talk to my supervisor, check workplace policies, discuss options with the care team, and find safe ways to support the client's choice.
 - field_id: CHCLEG001_TXT_41_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2122,7 +2122,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 453C3E43
-  value: Consult organizational policies, discuss with the clinical supervisor, engage the multidisciplinary team, and explore supported decision-making options.
+  value: Talk to my supervisor, check workplace policies, discuss options with the care team, and find safe ways to support the client's choice.
 - field_id: CHCLEG001_TXT_41_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2135,7 +2135,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 758A2DAB
-  value: Consult organizational policies, discuss with the clinical supervisor, engage the multidisciplinary team, and explore supported decision-making options.
+  value: Talk to my supervisor, check workplace policies, discuss options with the care team, and find safe ways to support the client's choice.
 - field_id: CHCLEG001_TXT_41_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2148,7 +2148,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7972FE83
-  value: Consult organizational policies, discuss with the clinical supervisor, engage the multidisciplinary team, and explore supported decision-making options.
+  value: Talk to my supervisor, check workplace policies, discuss options with the care team, and find safe ways to support the client's choice.
 - field_id: CHCLEG001_TXT_41_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2161,7 +2161,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 663FFD31
-  value: Consult organizational policies, discuss with the clinical supervisor, engage the multidisciplinary team, and explore supported decision-making options.
+  value: Talk to my supervisor, check workplace policies, discuss options with the care team, and find safe ways to support the client's choice.
 - field_id: CHCLEG001_TXT_41_6_1_1
   type: text
   section: Knowledge Assessment
@@ -2174,7 +2174,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0439FED6
-  value: Consult organizational policies, discuss with the clinical supervisor, engage the multidisciplinary team, and explore supported decision-making options.
+  value: Talk to my supervisor, check workplace policies, discuss options with the care team, and find safe ways to support the client's choice.
 - field_id: CHCLEG001_TXT_41_7_1_1
   type: text
   section: Knowledge Assessment
@@ -2187,7 +2187,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 33864E68
-  value: Consult organizational policies, discuss with the clinical supervisor, engage the multidisciplinary team, and explore supported decision-making options.
+  value: Talk to my supervisor, check workplace policies, discuss options with the care team, and find safe ways to support the client's choice.
 - field_id: CHCLEG001_TXT_42_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2282,7 +2282,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7165D498
-  value: Each participant accesses supports that respect and protect their dignity and right to freedom of expression.
+  value: Each participant receives support that respects their dignity and right to make their own choices.
 - field_id: CHCLEG001_TXT_44_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2321,7 +2321,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1EAE9FA2
-  value: Support workers must actively involve participants in decisions and deliver care that honors individual cultural, spiritual, and personal values.
+  value: Support workers should actively involve participants in daily decisions and respect their personal and cultural choices.
 - field_id: CHCLEG001_TXT_44_7_1_1
   type: text
   section: Knowledge Assessment
@@ -2334,7 +2334,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 30653D49
-  value: Non-compliance notice by the NDIS Commission, loss of approved provider status, and worker retraining.
+  value: Warning notice from the NDIS Commission, losing approved provider status, and staff retraining.
 - field_id: CHCLEG001_TXT_45_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2345,7 +2345,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3A3524C6
-  value: Public Interest Disclosures Act 2022 (NSW) protects workers from detrimental reprisal or workplace bullying when reporting serious wrongdoing.
+  value: Public Interest Disclosures Act 2022 (NSW) protects workers from being bullied or punished when reporting serious workplace wrongdoing.
 - field_id: CHCLEG001_TXT_45_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2358,7 +2358,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1F33CF58
-  value: Public Interest Disclosures Act 2022 (NSW) protects workers from detrimental reprisal or workplace bullying when reporting serious wrongdoing.
+  value: Public Interest Disclosures Act 2022 (NSW) protects workers from being bullied or punished when reporting serious workplace wrongdoing.
 - field_id: CHCLEG001_TXT_45_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2371,7 +2371,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 70CBF8C9
-  value: Public Interest Disclosures Act 2022 (NSW) protects workers from detrimental reprisal or workplace bullying when reporting serious wrongdoing.
+  value: Public Interest Disclosures Act 2022 (NSW) protects workers from being bullied or punished when reporting serious workplace wrongdoing.
 - field_id: CHCLEG001_TXT_45_6_2_1
   type: text
   section: Knowledge Assessment
@@ -2384,7 +2384,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0ED3FD49
-  value: Public Interest Disclosures Act 2022 (NSW) protects workers from detrimental reprisal or workplace bullying when reporting serious wrongdoing.
+  value: Public Interest Disclosures Act 2022 (NSW) protects workers from being bullied or punished when reporting serious workplace wrongdoing.
 - field_id: CHCLEG001_TXT_47_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2397,7 +2397,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 69A49086
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2410,7 +2410,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '40976965'
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_2_3_1
   type: text
   section: Knowledge Assessment
@@ -2423,7 +2423,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 4340F761
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2436,7 +2436,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 004B646D
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2449,7 +2449,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '71651839'
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_3_3_1
   type: text
   section: Knowledge Assessment
@@ -2462,7 +2462,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 13F78116
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2475,7 +2475,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5E5E72F6
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2488,7 +2488,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 362F66A2
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_4_3_1
   type: text
   section: Knowledge Assessment
@@ -2501,7 +2501,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: '75656441'
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2514,7 +2514,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4AD65EB0
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2527,7 +2527,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1CA43C97
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_47_5_3_1
   type: text
   section: Knowledge Assessment
@@ -2540,7 +2540,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 769BA8B5
-  value: Maintain professional boundaries by declining personal gifts, avoiding dual relationships, and never sharing personal financial details.
+  value: Keep professional boundaries by politely declining personal gifts, avoiding personal relationships outside work, and never sharing bank or personal contact details.
 - field_id: CHCLEG001_TXT_49_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2551,7 +2551,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1F1C8BFD
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2562,7 +2562,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 43F0FD17
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_2_3_1
   type: text
   section: Knowledge Assessment
@@ -2573,7 +2573,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6397B631
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2584,7 +2584,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 02C5C319
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2595,7 +2595,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0EB48890
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_3_3_1
   type: text
   section: Knowledge Assessment
@@ -2606,7 +2606,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 5AE7D7B0
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2617,7 +2617,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2CF727BB
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2628,7 +2628,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 63E2DA0E
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_4_3_1
   type: text
   section: Knowledge Assessment
@@ -2639,7 +2639,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 38B885D1
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2650,7 +2650,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: '21422079'
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2661,7 +2661,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5DF8CA45
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_49_5_3_1
   type: text
   section: Knowledge Assessment
@@ -2672,7 +2672,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 353881D2
-  value: Advocacy represents and defends the client's rights, choices, and interests, ensuring their voice is heard in all care decisions.
+  value: Advocacy means supporting a client and standing up for their rights so their voice and wishes are heard in all care decisions.
 - field_id: CHCLEG001_TXT_51_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2685,7 +2685,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4018EA9E
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2698,7 +2698,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 28AB86CF
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2711,7 +2711,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 040F6F74
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2724,7 +2724,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3FA49A8C
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2737,7 +2737,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3F129010
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2750,7 +2750,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3CCA0A26
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2763,7 +2763,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7C132D3F
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2776,7 +2776,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 26003D3E
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2789,7 +2789,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2C746F16
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_51_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2802,7 +2802,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 44EBEB3E
-  value: Independent advocacy, family advocacy, self-advocacy, and legal/systemic advocacy.
+  value: Self-advocacy, family advocacy, independent advocacy, and systemic advocacy.
 - field_id: CHCLEG001_TXT_52_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2824,7 +2824,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3FF7E93E
-  value: Records must be retained for the minimum statutory periods prescribed by law (e.g. 7 years for financial/health records, or until age 25 for paediatric records).
+  value: Records must be kept for the required legal period (such as 7 years for adult health records, or until age 25 for children).
 - field_id: CHCLEG001_TXT_52_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2846,7 +2846,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5CCE14BF
-  value: Workers must record accurate, contemporaneous clinical notes and file them promptly in authorized secure storage systems.
+  value: Write clear, objective progress notes promptly after care and store them in secure, password-protected systems or locked filing cabinets.
 - field_id: CHCLEG001_TXT_52_6_0_1
   type: text
   section: Knowledge Assessment
@@ -2857,7 +2857,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0F34D5AB
-  value: Inability to defend against malpractice claims, privacy breaches, regulatory fines, and organizational compliance sanctions.
+  value: Loss of important medical history, privacy breaches, regulatory fines, and inability to defend against complaints.
 - field_id: CHCLEG001_TXT_53_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2868,7 +2868,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 67C8867C
-  value: Access and equity ensures that all individuals have fair and equal opportunity to access health and community services regardless of background.
+  value: Access and equity means making sure everyone has fair and equal access to community services regardless of their background, language, or abilities.
 - field_id: CHCLEG001_TXT_53_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2881,7 +2881,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '78710952'
-  value: Access and equity ensures that all individuals have fair and equal opportunity to access health and community services regardless of background.
+  value: Access and equity means making sure everyone has fair and equal access to community services regardless of their background, language, or abilities.
 - field_id: CHCLEG001_TXT_53_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2894,7 +2894,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 68D6861A
-  value: Access and equity ensures that all individuals have fair and equal opportunity to access health and community services regardless of background.
+  value: Access and equity means making sure everyone has fair and equal access to community services regardless of their background, language, or abilities.
 - field_id: CHCLEG001_TXT_53_6_2_1
   type: text
   section: Knowledge Assessment
@@ -2905,7 +2905,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7999F235
-  value: Access and equity ensures that all individuals have fair and equal opportunity to access health and community services regardless of background.
+  value: Access and equity means making sure everyone has fair and equal access to community services regardless of their background, language, or abilities.
 - field_id: CHCLEG001_TXT_54_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2916,7 +2916,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 58F26B71
-  value: Perform basic routine domestic and kitchen assistance under direct supervision.
+  value: Help with basic household tasks like cleaning, meal prep, and companionship under supervision.
 - field_id: CHCLEG001_TXT_54_3_3_1
   type: text
   section: Knowledge Assessment
@@ -2927,7 +2927,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 53710FFB
-  value: Cannot administer medications or perform complex clinical transfers.
+  value: Cannot administer medications or perform complex client transfers.
 - field_id: CHCLEG001_TXT_54_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2938,7 +2938,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6C56333C
-  value: Deliver personal care (showering, dressing) following established care plans under routine supervision.
+  value: Provide direct personal care like showering, dressing, and following care plans under general supervision.
 - field_id: CHCLEG001_TXT_54_4_3_1
   type: text
   section: Knowledge Assessment
@@ -2949,7 +2949,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 29E15774
-  value: Cannot alter care plan goals or assess complex wound care.
+  value: Cannot alter care plan goals or assess complex wounds.
 - field_id: CHCLEG001_TXT_54_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2960,7 +2960,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3782107E
-  value: Coordinate daily work rosters, supervise junior support staff, and administer prescribed oral medications.
+  value: Coordinate daily shift rosters, guide junior support workers, and assist with medication administration.
 - field_id: CHCLEG001_TXT_54_5_3_1
   type: text
   section: Knowledge Assessment
@@ -2971,7 +2971,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 0E0C89AD
-  value: Cannot conduct comprehensive clinical assessments reserved for Registered Nurses.
+  value: Cannot conduct registered nurse clinical assessments.
 - field_id: CHCLEG001_TXT_54_6_2_1
   type: text
   section: Knowledge Assessment
@@ -2982,7 +2982,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7CFE3278
-  value: Oversee team performance, manage service budgets, liaise with allied health specialists, and conduct staff appraisals.
+  value: Oversee team operations, manage client services, coordinate with doctors and allied health, and supervise staff.
 - field_id: CHCLEG001_TXT_54_6_3_1
   type: text
   section: Knowledge Assessment
@@ -2993,7 +2993,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 3EE32FE9
-  value: Cannot make medical diagnoses or prescribe pharmaceutical regimens.
+  value: Cannot make medical diagnoses or prescribe medications.
 - field_id: CHCLEG001_TXT_55_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3004,7 +3004,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7338D02B
-  value: Eliminate language barriers by using TIS National interpreters, providing wheelchair-accessible facilities, and delivering culturally safe care.
+  value: Using TIS National interpreters for clients who speak limited English, providing wheelchair ramps, and respecting cultural backgrounds.
 - field_id: CHCLEG001_TXT_55_3_3_1
   type: text
   section: Knowledge Assessment
@@ -3015,7 +3015,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 69AFD58B
-  value: Eliminate language barriers by using TIS National interpreters, providing wheelchair-accessible facilities, and delivering culturally safe care.
+  value: Using TIS National interpreters for clients who speak limited English, providing wheelchair ramps, and respecting cultural backgrounds.
 - field_id: CHCLEG001_TXT_55_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3026,7 +3026,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2BAE5171
-  value: Eliminate language barriers by using TIS National interpreters, providing wheelchair-accessible facilities, and delivering culturally safe care.
+  value: Using TIS National interpreters for clients who speak limited English, providing wheelchair ramps, and respecting cultural backgrounds.
 - field_id: CHCLEG001_TXT_55_4_3_1
   type: text
   section: Knowledge Assessment
@@ -3037,7 +3037,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 4D585DA1
-  value: Eliminate language barriers by using TIS National interpreters, providing wheelchair-accessible facilities, and delivering culturally safe care.
+  value: Using TIS National interpreters for clients who speak limited English, providing wheelchair ramps, and respecting cultural backgrounds.
 - field_id: CHCLEG001_TXT_55_5_2_1
   type: text
   section: Knowledge Assessment
@@ -3048,7 +3048,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 78DE062C
-  value: Eliminate language barriers by using TIS National interpreters, providing wheelchair-accessible facilities, and delivering culturally safe care.
+  value: Using TIS National interpreters for clients who speak limited English, providing wheelchair ramps, and respecting cultural backgrounds.
 - field_id: CHCLEG001_TXT_55_5_3_1
   type: text
   section: Knowledge Assessment
@@ -3059,7 +3059,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: '25494830'
-  value: Eliminate language barriers by using TIS National interpreters, providing wheelchair-accessible facilities, and delivering culturally safe care.
+  value: Using TIS National interpreters for clients who speak limited English, providing wheelchair ramps, and respecting cultural backgrounds.
 - field_id: CHCLEG001_TXT_55_6_2_1
   type: text
   section: Knowledge Assessment
@@ -3070,7 +3070,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4A4E0831
-  value: Eliminate language barriers by using TIS National interpreters, providing wheelchair-accessible facilities, and delivering culturally safe care.
+  value: Using TIS National interpreters for clients who speak limited English, providing wheelchair ramps, and respecting cultural backgrounds.
 - field_id: CHCLEG001_TXT_55_6_3_1
   type: text
   section: Knowledge Assessment
@@ -3081,7 +3081,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 5A8ECA07
-  value: Eliminate language barriers by using TIS National interpreters, providing wheelchair-accessible facilities, and delivering culturally safe care.
+  value: Using TIS National interpreters for clients who speak limited English, providing wheelchair ramps, and respecting cultural backgrounds.
 - field_id: CHCLEG001_TXT_56_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3092,7 +3092,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 707C8DFA
-  value: Never accept personal money, loans, or expensive gifts from clients or their families.
+  value: Never accept cash, personal loans, or expensive gifts from clients or their families.
 - field_id: CHCLEG001_TXT_56_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3103,7 +3103,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 755FA109
-  value: Avoid sharing personal phone numbers, home addresses, or social media profiles with clients.
+  value: Never share personal mobile numbers, home address, or social media accounts with clients.
 - field_id: CHCLEG001_TXT_56_2_0_3
   type: text
   section: Knowledge Assessment
@@ -3114,7 +3114,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 3767D813
-  value: Limit care activities strictly to the documented support plan and shift hours.
+  value: Only perform care tasks listed in the client's care plan during scheduled shift hours.
 - field_id: CHCLEG001_TXT_56_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3125,7 +3125,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1FA55440
-  value: Development of client dependency, loss of objectivity, conflict of interest, emotional exploitation, and professional dismissal.
+  value: Unhealthy dependency, loss of professional objectivity, conflict of interest, complaints, and dismissal.
 - field_id: CHCLEG001_TXT_56_4_0_1
   type: text
   section: Knowledge Assessment

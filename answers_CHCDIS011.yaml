@@ -86,7 +86,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 456C4C20
-  value: 'Preventive: Worker screening checks, NDIS Code of Conduct training, and proactive service quality standards.'
+  value: 'Preventive: Worker screening checks, NDIS Code of Conduct training, and clear service quality standards.'
 - field_id: CHCDIS011_TXT_2_2_0_2
   type: text
   section: Knowledge Assessment
@@ -97,7 +97,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 06AB9471
-  value: 'Preventive: Worker screening checks, NDIS Code of Conduct training, and proactive service quality standards.'
+  value: 'Preventive: Worker screening checks, NDIS Code of Conduct training, and clear service quality standards.'
 - field_id: CHCDIS011_TXT_2_2_0_3
   type: text
   section: Knowledge Assessment
@@ -108,7 +108,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 0EB5FECA
-  value: 'Preventive: Worker screening checks, NDIS Code of Conduct training, and proactive service quality standards.'
+  value: 'Preventive: Worker screening checks, NDIS Code of Conduct training, and clear service quality standards.'
 - field_id: CHCDIS011_TXT_2_3_0_1
   type: text
   section: Knowledge Assessment
@@ -119,7 +119,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1C038C90
-  value: 'Corrective: Complaints handling, incident management, and compliance enforcement by the NDIS Commission.'
+  value: 'Corrective: Handling complaints fairly, investigating incidents, and taking action when providers break rules.'
 - field_id: CHCDIS011_TXT_2_3_0_2
   type: text
   section: Knowledge Assessment
@@ -130,7 +130,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 05C1D893
-  value: 'Corrective: Complaints handling, incident management, and compliance enforcement by the NDIS Commission.'
+  value: 'Corrective: Handling complaints fairly, investigating incidents, and taking action when providers break rules.'
 - field_id: CHCDIS011_TXT_2_3_0_3
   type: text
   section: Knowledge Assessment
@@ -141,7 +141,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 68AC5308
-  value: 'Corrective: Complaints handling, incident management, and compliance enforcement by the NDIS Commission.'
+  value: 'Corrective: Handling complaints fairly, investigating incidents, and taking action when providers break rules.'
 - field_id: CHCDIS011_TXT_2_4_0_1
   type: text
   section: Knowledge Assessment
@@ -152,7 +152,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 18B300EB
-  value: 'NDIS Practice Standards: Core module specifying requirements for person-centred support and human rights.'
+  value: 'NDIS Practice Standards: Sets out the quality rules that providers must follow to protect human rights.'
 - field_id: CHCDIS011_TXT_2_4_0_2
   type: text
   section: Knowledge Assessment
@@ -163,7 +163,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 2636FB2F
-  value: 'NDIS Practice Standards: Core module specifying requirements for person-centred support and human rights.'
+  value: 'NDIS Practice Standards: Sets out the quality rules that providers must follow to protect human rights.'
 - field_id: CHCDIS011_TXT_2_4_0_3
   type: text
   section: Knowledge Assessment
@@ -174,7 +174,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 01C5C355
-  value: 'NDIS Practice Standards: Core module specifying requirements for person-centred support and human rights.'
+  value: 'NDIS Practice Standards: Sets out the quality rules that providers must follow to protect human rights.'
 - field_id: CHCDIS011_TXT_2_5_0_1
   type: text
   section: Knowledge Assessment
@@ -185,7 +185,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6CF20BC1
-  value: 'NDIS Code of Conduct: Sets ethical and safe practice standards for all registered and unregistered NDIS providers and workers.'
+  value: 'NDIS Code of Conduct: The ethical rules and standards all disability support workers must follow.'
 - field_id: CHCDIS011_TXT_3_0_0_1
   type: text
   section: Knowledge Assessment
@@ -196,7 +196,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 09195A80
-  value: Participants are engaged in supported decision-making, identifying potential hazards together, discussing safety alternatives, and balancing dignity of risk with duty of care.
+  value: Involving participants in decisions, talking through risks and benefits in simple language, finding safe alternatives, and respecting their right to take reasonable risks.
 - field_id: CHCDIS011_TXT_3_1_0_1
   type: text
   section: Knowledge Assessment
@@ -207,7 +207,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 50B84B89
-  value: Participants are engaged in supported decision-making, identifying potential hazards together, discussing safety alternatives, and balancing dignity of risk with duty of care.
+  value: Involving participants in decisions, talking through risks and benefits in simple language, finding safe alternatives, and respecting their right to take reasonable risks.
 - field_id: CHCDIS011_TXT_4_2_0_1
   type: text
   section: Knowledge Assessment
@@ -218,7 +218,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 29CAA9B0
-  value: Low expectations, loss of autonomy, limited access to mainstream community activities, and institutionalisation.
+  value: Low expectations from others, losing independence, being left out of community activities, and loneliness.
 - field_id: CHCDIS011_TXT_4_3_0_1
   type: text
   section: Knowledge Assessment
@@ -235,7 +235,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 529E9900
-  value: Disability support workers actively challenge devaluation by promoting social inclusion, valuing individual strengths, and supporting valued social roles.
+  value: Support workers challenge devaluation by focusing on people's strengths, treating them with respect, and helping them join in community life.
 - field_id: CHCDIS011_TXT_4_3_0_2
   type: text
   section: Knowledge Assessment
@@ -252,7 +252,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 4A6224CE
-  value: Disability support workers actively challenge devaluation by promoting social inclusion, valuing individual strengths, and supporting valued social roles.
+  value: Support workers challenge devaluation by focusing on people's strengths, treating them with respect, and helping them join in community life.
 - field_id: CHCDIS011_TXT_4_3_0_3
   type: text
   section: Knowledge Assessment
@@ -269,7 +269,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 02123D2F
-  value: Disability support workers actively challenge devaluation by promoting social inclusion, valuing individual strengths, and supporting valued social roles.
+  value: Support workers challenge devaluation by focusing on people's strengths, treating them with respect, and helping them join in community life.
 - field_id: CHCDIS011_TXT_5_0_0_1
   type: text
   section: Knowledge Assessment
@@ -280,7 +280,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 02C64445
-  value: Social Role Valorisation (SRV), developed by Wolf Wolfensberger, posits that people are much less likely to be devalued or abused if they occupy valued social roles (e.g. employee, student, friend, homeowner, artist) within their community.
+  value: Social Role Valorisation (SRV) means helping people with disability take on valued roles in the community (like employee, student, volunteer, friend, club member) so they are respected and valued by others.
 - field_id: CHCDIS011_TXT_5_1_0_1
   type: text
   section: Knowledge Assessment
@@ -291,7 +291,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 398FC240
-  value: Social Role Valorisation (SRV), developed by Wolf Wolfensberger, posits that people are much less likely to be devalued or abused if they occupy valued social roles (e.g. employee, student, friend, homeowner, artist) within their community.
+  value: Social Role Valorisation (SRV) means helping people with disability take on valued roles in the community (like employee, student, volunteer, friend, club member) so they are respected and valued by others.
 - field_id: CHCDIS011_TXT_5_2_0_1
   type: text
   section: Knowledge Assessment
@@ -302,7 +302,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 614A17A7
-  value: Social Role Valorisation (SRV), developed by Wolf Wolfensberger, posits that people are much less likely to be devalued or abused if they occupy valued social roles (e.g. employee, student, friend, homeowner, artist) within their community.
+  value: Social Role Valorisation (SRV) means helping people with disability take on valued roles in the community (like employee, student, volunteer, friend, club member) so they are respected and valued by others.
 - field_id: CHCDIS011_TXT_6_2_0_1
   type: text
   section: Knowledge Assessment
@@ -313,7 +313,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 118F971A
-  value: Respecting the participant as the primary decision-maker and director of their own support journey.
+  value: Listening to the participant as the main decision-maker in their own life and support plan.
 - field_id: CHCDIS011_TXT_6_3_0_1
   type: text
   section: Knowledge Assessment
@@ -324,7 +324,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 16C731F6
-  value: Focusing on capacity building, skill acquisition, and expanding independence rather than focusing on deficits.
+  value: Helping the person learn new practical skills to grow their independence, rather than focusing on what they can't do.
 - field_id: CHCDIS011_TXT_6_4_0_1
   type: text
   section: Knowledge Assessment
@@ -335,7 +335,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7DAB065A
-  value: Facilitating self-direction and supported decision-making, allowing participants to direct their own routines and community activities.
+  value: Supporting the person to make choices about their daily routines, hobbies, and activities.
 - field_id: CHCDIS011_TXT_7_2_0_1
   type: text
   section: Knowledge Assessment
@@ -346,7 +346,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2EC4738C
-  value: Strengths-based practice shifts the focus away from diagnostic deficits toward individual capabilities, resiliencies, personal aspirations, and community resource mobilization.
+  value: Strengths-based practice looks at what a person can do, their talents, and what they enjoy, instead of just seeing their medical diagnosis or limitations.
 - field_id: CHCDIS011_TXT_8_0_0_1
   type: text
   section: Knowledge Assessment
@@ -357,7 +357,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 082C096E
-  value: Focus on capacities and talents rather than deficits or medical diagnoses.
+  value: Focus on abilities and talents rather than medical labels or deficits.
 - field_id: CHCDIS011_TXT_8_0_0_2
   type: text
   section: Knowledge Assessment
@@ -368,7 +368,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 08F3992F
-  value: The person with disability is the expert in their own life and aspirations.
+  value: The participant is the expert in their own life and knows what they want.
 - field_id: CHCDIS011_TXT_8_0_0_3
   type: text
   section: Knowledge Assessment
@@ -379,7 +379,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 1C7275CA
-  value: Collaborative partnership between support worker and participant to foster independence.
+  value: Working as partners together to help the person build independence.
 - field_id: CHCDIS011_TXT_8_1_0_1
   type: text
   section: Knowledge Assessment
@@ -390,7 +390,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4C73BC27
-  value: Focus on capacities and talents rather than deficits or medical diagnoses.
+  value: Focus on abilities and talents rather than medical labels or deficits.
 - field_id: CHCDIS011_TXT_9_2_0_1
   type: text
   section: Knowledge Assessment
@@ -401,7 +401,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 75CF90B4
-  value: 'Human rights-based approach: PBS upholds participant dignity, autonomy, and actively works to eliminate restrictive practices.'
+  value: 'Human rights-based approach: PBS respects the person''s dignity and rights, aiming to eliminate the need for restrictive practices.'
 - field_id: CHCDIS011_TXT_9_3_0_1
   type: text
   section: Knowledge Assessment
@@ -412,7 +412,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 46B4BC95
-  value: 'Functional Behaviour Assessment (FBA): Identifies antecedent triggers, communicative functions of behaviour, and maintaining consequences.'
+  value: 'Functional Behaviour Assessment (FBA): Finds out what triggers the behaviour and what the person is trying to communicate.'
 - field_id: CHCDIS011_TXT_9_3_0_2
   type: text
   section: Knowledge Assessment
@@ -423,7 +423,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 16D6DC15
-  value: 'Functional Behaviour Assessment (FBA): Identifies antecedent triggers, communicative functions of behaviour, and maintaining consequences.'
+  value: 'Functional Behaviour Assessment (FBA): Finds out what triggers the behaviour and what the person is trying to communicate.'
 - field_id: CHCDIS011_TXT_9_3_0_3
   type: text
   section: Knowledge Assessment
@@ -434,7 +434,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 4F03CAD3
-  value: 'Functional Behaviour Assessment (FBA): Identifies antecedent triggers, communicative functions of behaviour, and maintaining consequences.'
+  value: 'Functional Behaviour Assessment (FBA): Finds out what triggers the behaviour and what the person is trying to communicate.'
 - field_id: CHCDIS011_TXT_10_2_0_1
   type: text
   section: Knowledge Assessment
@@ -445,7 +445,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6F7BA326
-  value: 'Every moment has potential: Transforming ordinary daily routines into opportunities for learning and engagement.'
+  value: 'Every moment has potential: Turning everyday tasks into fun opportunities to learn and join in.'
 - field_id: CHCDIS011_TXT_10_3_0_1
   type: text
   section: Knowledge Assessment
@@ -456,7 +456,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 29D4586A
-  value: 'Little and often: Breaking activities into small manageable components so the person can participate frequently.'
+  value: 'Little and often: Breaking activities into small steps so the person can participate throughout the day without getting tired.'
 - field_id: CHCDIS011_TXT_10_3_0_2
   type: text
   section: Knowledge Assessment
@@ -467,7 +467,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 2CD5AB94
-  value: 'Little and often: Breaking activities into small manageable components so the person can participate frequently.'
+  value: 'Little and often: Breaking activities into small steps so the person can participate throughout the day without getting tired.'
 - field_id: CHCDIS011_TXT_10_3_0_3
   type: text
   section: Knowledge Assessment
@@ -478,7 +478,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 6036A716
-  value: 'Little and often: Breaking activities into small manageable components so the person can participate frequently.'
+  value: 'Little and often: Breaking activities into small steps so the person can participate throughout the day without getting tired.'
 - field_id: CHCDIS011_TXT_11_2_0_1
   type: text
   section: Knowledge Assessment
@@ -489,7 +489,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2F1675E0
-  value: Task analysis breaks a complex multi-step skill (e.g. preparing breakfast or washing laundry) into discrete, observable sequential steps to facilitate targeted teaching.
+  value: Task analysis means breaking down a big task (like making a cup of tea or doing laundry) into small, step-by-step instructions so it is easier to teach and learn.
 - field_id: CHCDIS011_TXT_11_3_0_1
   type: text
   section: Knowledge Assessment
@@ -500,7 +500,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 030C1D53
-  value: Task analysis breaks a complex multi-step skill (e.g. preparing breakfast or washing laundry) into discrete, observable sequential steps to facilitate targeted teaching.
+  value: Task analysis means breaking down a big task (like making a cup of tea or doing laundry) into small, step-by-step instructions so it is easier to teach and learn.
 - field_id: CHCDIS011_TXT_11_3_0_2
   type: text
   section: Knowledge Assessment
@@ -511,7 +511,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 0C67B270
-  value: Task analysis breaks a complex multi-step skill (e.g. preparing breakfast or washing laundry) into discrete, observable sequential steps to facilitate targeted teaching.
+  value: Task analysis means breaking down a big task (like making a cup of tea or doing laundry) into small, step-by-step instructions so it is easier to teach and learn.
 - field_id: CHCDIS011_TXT_11_3_0_3
   type: text
   section: Knowledge Assessment
@@ -522,7 +522,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 645738A0
-  value: Task analysis breaks a complex multi-step skill (e.g. preparing breakfast or washing laundry) into discrete, observable sequential steps to facilitate targeted teaching.
+  value: Task analysis means breaking down a big task (like making a cup of tea or doing laundry) into small, step-by-step instructions so it is easier to teach and learn.
 - field_id: CHCDIS011_TXT_12_2_0_1
   type: text
   section: Knowledge Assessment
@@ -533,7 +533,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 62E82BFA
-  value: Forward chaining teaches steps in chronological order starting from step 1; backward chaining has the worker complete initial steps and teaches the final step first so the client experiences immediate completion and success.
+  value: Forward chaining teaches step 1 first and moves forward. Backward chaining has the worker do all the steps except the last one, so the client does the final step and feels success right away.
 - field_id: CHCDIS011_TXT_12_3_0_1
   type: text
   section: Knowledge Assessment
@@ -544,7 +544,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 710AB274
-  value: Forward chaining teaches steps in chronological order starting from step 1; backward chaining has the worker complete initial steps and teaches the final step first so the client experiences immediate completion and success.
+  value: Forward chaining teaches step 1 first and moves forward. Backward chaining has the worker do all the steps except the last one, so the client does the final step and feels success right away.
 - field_id: CHCDIS011_TXT_12_4_0_1
   type: text
   section: Knowledge Assessment
@@ -555,7 +555,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 024D9E6C
-  value: Forward chaining teaches steps in chronological order starting from step 1; backward chaining has the worker complete initial steps and teaches the final step first so the client experiences immediate completion and success.
+  value: Forward chaining teaches step 1 first and moves forward. Backward chaining has the worker do all the steps except the last one, so the client does the final step and feels success right away.
 - field_id: CHCDIS011_TXT_13_2_0_1
   type: text
   section: Knowledge Assessment
@@ -566,7 +566,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 29C8B277
-  value: Positive reinforcement involves immediately following a desired behavior with a reinforcing stimulus (verbal praise, preferred activity, tokens), increasing the likelihood of the behavior recurring.
+  value: Positive reinforcement means praising or rewarding a person right after they do a good job (like saying 'well done!' or high fives), which encourages them to do it again.
 - field_id: CHCDIS011_TXT_13_3_0_1
   type: text
   section: Knowledge Assessment
@@ -577,7 +577,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1174768F
-  value: Positive reinforcement involves immediately following a desired behavior with a reinforcing stimulus (verbal praise, preferred activity, tokens), increasing the likelihood of the behavior recurring.
+  value: Positive reinforcement means praising or rewarding a person right after they do a good job (like saying 'well done!' or high fives), which encourages them to do it again.
 - field_id: CHCDIS011_TXT_13_3_0_2
   type: text
   section: Knowledge Assessment
@@ -588,7 +588,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 163154DA
-  value: Positive reinforcement involves immediately following a desired behavior with a reinforcing stimulus (verbal praise, preferred activity, tokens), increasing the likelihood of the behavior recurring.
+  value: Positive reinforcement means praising or rewarding a person right after they do a good job (like saying 'well done!' or high fives), which encourages them to do it again.
 - field_id: CHCDIS011_TXT_13_3_0_3
   type: text
   section: Knowledge Assessment
@@ -599,7 +599,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 08F91E7C
-  value: Positive reinforcement involves immediately following a desired behavior with a reinforcing stimulus (verbal praise, preferred activity, tokens), increasing the likelihood of the behavior recurring.
+  value: Positive reinforcement means praising or rewarding a person right after they do a good job (like saying 'well done!' or high fives), which encourages them to do it again.
 - field_id: CHCDIS011_TXT_13_4_0_1
   type: text
   section: Knowledge Assessment
@@ -610,7 +610,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1E1199D6
-  value: Positive reinforcement involves immediately following a desired behavior with a reinforcing stimulus (verbal praise, preferred activity, tokens), increasing the likelihood of the behavior recurring.
+  value: Positive reinforcement means praising or rewarding a person right after they do a good job (like saying 'well done!' or high fives), which encourages them to do it again.
 - field_id: CHCDIS011_TXT_13_4_0_2
   type: text
   section: Knowledge Assessment
@@ -621,7 +621,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 48AA8F3C
-  value: Positive reinforcement involves immediately following a desired behavior with a reinforcing stimulus (verbal praise, preferred activity, tokens), increasing the likelihood of the behavior recurring.
+  value: Positive reinforcement means praising or rewarding a person right after they do a good job (like saying 'well done!' or high fives), which encourages them to do it again.
 - field_id: CHCDIS011_TXT_13_4_0_3
   type: text
   section: Knowledge Assessment
@@ -632,7 +632,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 436AE919
-  value: Positive reinforcement involves immediately following a desired behavior with a reinforcing stimulus (verbal praise, preferred activity, tokens), increasing the likelihood of the behavior recurring.
+  value: Positive reinforcement means praising or rewarding a person right after they do a good job (like saying 'well done!' or high fives), which encourages them to do it again.
 - field_id: CHCDIS011_TXT_14_2_0_1
   type: text
   section: Knowledge Assessment
@@ -643,7 +643,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1D5D08F5
-  value: SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound, ensuring objective tracking of skill acquisition.
+  value: SMART goals are Specific (clear), Measurable (can track progress), Achievable (realistic), Relevant (important to the person), and Time-bound (has a target date).
 - field_id: CHCDIS011_TXT_14_3_0_1
   type: text
   section: Knowledge Assessment
@@ -654,7 +654,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 09511147
-  value: SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound, ensuring objective tracking of skill acquisition.
+  value: SMART goals are Specific (clear), Measurable (can track progress), Achievable (realistic), Relevant (important to the person), and Time-bound (has a target date).
 - field_id: CHCDIS011_TXT_14_3_0_2
   type: text
   section: Knowledge Assessment
@@ -665,7 +665,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 1F81CEFA
-  value: SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound, ensuring objective tracking of skill acquisition.
+  value: SMART goals are Specific (clear), Measurable (can track progress), Achievable (realistic), Relevant (important to the person), and Time-bound (has a target date).
 - field_id: CHCDIS011_TXT_14_3_0_3
   type: text
   section: Knowledge Assessment
@@ -676,7 +676,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 18D6203A
-  value: SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound, ensuring objective tracking of skill acquisition.
+  value: SMART goals are Specific (clear), Measurable (can track progress), Achievable (realistic), Relevant (important to the person), and Time-bound (has a target date).
 - field_id: CHCDIS011_TXT_14_4_0_1
   type: text
   section: Knowledge Assessment
@@ -687,7 +687,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6375AC22
-  value: SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound, ensuring objective tracking of skill acquisition.
+  value: SMART goals are Specific (clear), Measurable (can track progress), Achievable (realistic), Relevant (important to the person), and Time-bound (has a target date).
 - field_id: CHCDIS011_TXT_14_4_0_2
   type: text
   section: Knowledge Assessment
@@ -698,7 +698,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 4A1EF7A9
-  value: SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound, ensuring objective tracking of skill acquisition.
+  value: SMART goals are Specific (clear), Measurable (can track progress), Achievable (realistic), Relevant (important to the person), and Time-bound (has a target date).
 - field_id: CHCDIS011_TXT_15_2_0_1
   type: text
   section: Knowledge Assessment
@@ -709,7 +709,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4846BBE9
-  value: Adaptive communication devices (speech-generating devices, AAC apps), picture exchange communication systems (PECS), adapted kitchen utensils, and electric wheelchairs.
+  value: Communication tablets (AAC apps), picture boards (PECS), easy-grip kitchen utensils, and electric wheelchairs.
 - field_id: CHCDIS011_TXT_15_3_0_1
   type: text
   section: Knowledge Assessment
@@ -720,7 +720,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 130A2ECB
-  value: Adaptive communication devices (speech-generating devices, AAC apps), picture exchange communication systems (PECS), adapted kitchen utensils, and electric wheelchairs.
+  value: Communication tablets (AAC apps), picture boards (PECS), easy-grip kitchen utensils, and electric wheelchairs.
 - field_id: CHCDIS011_TXT_16_0_0_1
   type: text
   section: Knowledge Assessment
@@ -731,7 +731,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 702EAB9E
-  value: Regular monitoring, data collection on task independence percentage, multidisciplinary reviews, and adjusting support strategies when progress plateaus.
+  value: Regular check-ins, tracking how many steps the client can do on their own, and updating support steps with the supervisor when needed.
 - field_id: CHCDIS011_TXT_16_0_0_2
   type: text
   section: Knowledge Assessment
@@ -742,7 +742,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 06CF760D
-  value: Regular monitoring, data collection on task independence percentage, multidisciplinary reviews, and adjusting support strategies when progress plateaus.
+  value: Regular check-ins, tracking how many steps the client can do on their own, and updating support steps with the supervisor when needed.
 - field_id: CHCDIS011_TXT_16_0_0_3
   type: text
   section: Knowledge Assessment
@@ -753,7 +753,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 695F2FE0
-  value: Regular monitoring, data collection on task independence percentage, multidisciplinary reviews, and adjusting support strategies when progress plateaus.
+  value: Regular check-ins, tracking how many steps the client can do on their own, and updating support steps with the supervisor when needed.
 - field_id: CHCDIS011_TXT_16_0_0_4
   type: text
   section: Knowledge Assessment
@@ -764,7 +764,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 1A54B70C
-  value: Regular monitoring, data collection on task independence percentage, multidisciplinary reviews, and adjusting support strategies when progress plateaus.
+  value: Regular check-ins, tracking how many steps the client can do on their own, and updating support steps with the supervisor when needed.
 - field_id: CHCDIS011_TXT_16_1_0_1
   type: text
   section: Knowledge Assessment
@@ -775,7 +775,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0F95E81A
-  value: Regular monitoring, data collection on task independence percentage, multidisciplinary reviews, and adjusting support strategies when progress plateaus.
+  value: Regular check-ins, tracking how many steps the client can do on their own, and updating support steps with the supervisor when needed.
 - field_id: CHCDIS011_TXT_18_1_1_1
   type: text
   section: Knowledge Assessment
@@ -786,7 +786,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3B845643
-  value: Collaborate with allied health professionals (Speech Pathologist, Occupational Therapist, Physiotherapist) to ensure consistent clinical methodologies.
+  value: Working together with allied health specialists (like Speech Pathologists and Occupational Therapists) to follow their advice and exercises.
 - field_id: CHCDIS011_TXT_18_1_2_1
   type: text
   section: Knowledge Assessment
@@ -797,7 +797,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5EEE0FD2
-  value: Collaborate with allied health professionals (Speech Pathologist, Occupational Therapist, Physiotherapist) to ensure consistent clinical methodologies.
+  value: Working together with allied health specialists (like Speech Pathologists and Occupational Therapists) to follow their advice and exercises.
 - field_id: CHCDIS011_TXT_18_2_1_1
   type: text
   section: Knowledge Assessment
@@ -808,7 +808,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 676914D2
-  value: Collaborate with allied health professionals (Speech Pathologist, Occupational Therapist, Physiotherapist) to ensure consistent clinical methodologies.
+  value: Working together with allied health specialists (like Speech Pathologists and Occupational Therapists) to follow their advice and exercises.
 - field_id: CHCDIS011_TXT_18_2_2_1
   type: text
   section: Knowledge Assessment
@@ -819,7 +819,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 45509AD9
-  value: Collaborate with allied health professionals (Speech Pathologist, Occupational Therapist, Physiotherapist) to ensure consistent clinical methodologies.
+  value: Working together with allied health specialists (like Speech Pathologists and Occupational Therapists) to follow their advice and exercises.
 - field_id: CHCDIS011_TXT_18_3_1_1
   type: text
   section: Knowledge Assessment
@@ -830,7 +830,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3F04AF05
-  value: Collaborate with allied health professionals (Speech Pathologist, Occupational Therapist, Physiotherapist) to ensure consistent clinical methodologies.
+  value: Working together with allied health specialists (like Speech Pathologists and Occupational Therapists) to follow their advice and exercises.
 - field_id: CHCDIS011_TXT_18_3_2_1
   type: text
   section: Knowledge Assessment
@@ -841,7 +841,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 31BB26E3
-  value: Collaborate with allied health professionals (Speech Pathologist, Occupational Therapist, Physiotherapist) to ensure consistent clinical methodologies.
+  value: Working together with allied health specialists (like Speech Pathologists and Occupational Therapists) to follow their advice and exercises.
 - field_id: CHCDIS011_TXT_19_1_1_1
   type: text
   section: Knowledge Assessment
@@ -852,7 +852,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3A3C3B45
-  value: Mutual reliance and interconnectedness between individuals, where a person with disability participates in reciprocal community relationships rather than one-way dependence.
+  value: People depending on and supporting each other equally in the community.
 - field_id: CHCDIS011_TXT_19_1_2_1
   type: text
   section: Knowledge Assessment
@@ -863,7 +863,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 33BA9484
-  value: Encourages the participant to learn interpersonal and teamwork skills, enhancing self-worth and belonging through equal social contribution.
+  value: Helps the person build friendships, teamwork skills, and feel like an equal part of the community.
 - field_id: CHCDIS011_TXT_19_2_1_1
   type: text
   section: Knowledge Assessment
@@ -874,7 +874,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2F23BC46
-  value: Unfair, prejudicial, or unequal treatment directed at a specific person with disability by another individual due to negative attitudes or bias.
+  value: Unfair treatment directed at a person with disability by someone else due to bias.
 - field_id: CHCDIS011_TXT_19_2_2_1
   type: text
   section: Knowledge Assessment
@@ -885,7 +885,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 08FA90EA
-  value: Damages self-confidence, creates emotional distress, and causes reluctance or avoidance in practicing skills in public settings.
+  value: Hurts their self-confidence and makes them feel afraid or embarrassed to go out and try new things.
 - field_id: CHCDIS011_TXT_19_3_1_1
   type: text
   section: Knowledge Assessment
@@ -896,7 +896,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2DE236B6
-  value: Systemic policies, physical obstacles, institutional practices, or rules that disadvantage or exclude people with disability as a group.
+  value: Rules, policies, or physical barriers that disadvantage people with disability.
 - field_id: CHCDIS011_TXT_19_3_2_1
   type: text
   section: Knowledge Assessment
@@ -907,7 +907,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5A59C17A
-  value: Directly blocks access to educational, recreational, and employment resources necessary for practicing and maintaining new functional skills.
+  value: Stops people from getting jobs, learning at school, or using public transport.
 - field_id: CHCDIS011_TXT_20_3_0_1
   type: text
   section: Knowledge Assessment

@@ -316,7 +316,7 @@ fields:
   index_in_cell: 0
   para_id: 1264FBB8
   value: The abilities of people with neurological impairment vary from person to
-    person. Most of them requires assistance in remembering things and performing
+    person. Most of them requires assistance in remembering things and performing
     daily tasks.
 - field_id: CHCDIS020_TXT_6_2_1_1
   type: text
@@ -340,7 +340,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 24B71189
-  value: A person with a physical disability requires physical adjustments to be made
+  value: A person with a physical disability requires physical adjustments to be made
     to their environment before they can function effectively.
 - field_id: CHCDIS020_TXT_6_3_1_1
   type: text
@@ -364,7 +364,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 55D38C1A
-  value: A person with a sensory disability requires assistive equipment or aid to
+  value: A person with a sensory disability requires assistive equipment or aid to
     assist them in performing daily activities.
 - field_id: CHCDIS020_TXT_6_4_1_1
   type: text
@@ -400,8 +400,10 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 453A85B7
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Mental health refers to our overall emotional and psychological wellbeing,
+    which everyone has and can fluctuate. Psychosocial disability occurs when a mental
+    health condition causes long-term impairments that significantly impact a person's
+    ability to participate in daily activities and community life.
 - field_id: CHCDIS020_CB_7_3_0_1
   type: checkbox
   section: Knowledge Assessment
@@ -919,8 +921,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4FBA0DCA
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Duty of care means taking reasonable steps as a support worker to ensure
+    the safety and wellbeing of the person with disability and prevent foreseeable
+    harm.
 - field_id: CHCDIS020_TXT_15_3_0_1
   type: text
   section: Knowledge Assessment
@@ -931,8 +934,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7A4DC2B6
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: It ensures workers deliver safe, responsible care that protects participants
+    from harm while still respecting their right to make choices and take reasonable
+    risks.
 - field_id: CHCDIS020_TXT_16_2_0_1
   type: text
   section: Knowledge Assessment
@@ -943,8 +947,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 72105E4A
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Dignity of risk means respecting a participant's right to make their own
+    choices, try new things, and learn from mistakes, even if there is some risk involved.
 - field_id: CHCDIS020_TXT_17_0_0_1
   type: text
   section: Knowledge Assessment
@@ -956,8 +960,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 482A7866
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'Standard 1: Rights'
 - field_id: CHCDIS020_TXT_17_0_0_2
   type: text
   section: Knowledge Assessment
@@ -969,8 +972,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 789C9ACC
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Promotes individual rights to freedom of expression and self-determination.
 - field_id: CHCDIS020_TXT_17_1_0_1
   type: text
   section: Knowledge Assessment
@@ -1153,7 +1155,7 @@ fields:
   value: These are actions or behaviours that reject, isolate, intimidate or frighten
     by threats, or the witnessing of family violence, to the extent that the person’s
     behaviour is disturbed, or their emotional/psychological wellbeing has been, or
-    is at risk of being, seriously impaired. Examples of emotional abuse are rejecting,
+    is at risk of being, seriously impaired. Examples of emotional abuse are rejecting,
     isolating, terrorising and ignoring behaviours.
 - field_id: CHCDIS020_TXT_23_2_2_1
   type: text
@@ -1178,7 +1180,7 @@ fields:
   index_in_cell: 0
   para_id: 51E5F112
   value: This involves misuse of a person’s assets, property, possessions and finances
-    without their consent. Examples of financial abuse are theft, fraud, exploitation
+    without their consent. Examples of financial abuse are theft, fraud, exploitation
     and pressure in relation to assets, property, possessions and finances.
 - field_id: CHCDIS020_TXT_23_3_2_1
   type: text
@@ -1295,8 +1297,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5A918C06
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Assist participant with prescribed mobility exercises and use of transfer
+    hoists.
 - field_id: CHCDIS020_TXT_26_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1329,8 +1331,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 699C16FF
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Support participant to practice communication board symbols during meal choices.
 - field_id: CHCDIS020_TXT_26_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1363,8 +1364,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1E9418A6
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Implement adaptive kitchen tools (weighted cutlery) recommended by the OT.
 - field_id: CHCDIS020_TXT_26_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1397,8 +1397,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2906020F
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Follow sensory modulation and calming strategies outlined in the behaviour
+    plan.
 - field_id: CHCDIS020_TXT_27_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1409,8 +1409,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 41528FAF
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Supervision is a supportive process where a senior worker, supervisor, or
+    allied health professional guides, monitors, and supports a support worker to
+    deliver safe, effective care.
 - field_id: CHCDIS020_TXT_27_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1422,8 +1423,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6B7B9CC5
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Direct clinical supervision (observing the worker perform a transfer or exercise
+    and giving immediate feedback).
 - field_id: CHCDIS020_TXT_27_3_0_2
   type: text
   section: Knowledge Assessment
@@ -1435,8 +1436,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 25F43947
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Indirect supervision (regular review meetings, reviewing client notes, and
+    discussing support strategies).
 - field_id: CHCDIS020_TXT_29_1_0_1
   type: text
   section: Knowledge Assessment
@@ -1458,8 +1459,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1C0571E1
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'Physiotherapist: Conducts transfer competence review every 6 months.'
 - field_id: CHCDIS020_TXT_29_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1470,8 +1470,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 345E1272
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Worker assists client with prescribed gentle walking program using 4-wheel
+    walker.
 - field_id: CHCDIS020_TXT_29_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1493,8 +1493,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 334E8094
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'Occupational Therapist: Approves adaptive seating adjustments.'
 - field_id: CHCDIS020_TXT_29_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1505,8 +1504,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6823CA4E
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Worker sets up wheelchair Roho cushion correctly before outings.
 - field_id: CHCDIS020_TXT_29_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1528,8 +1526,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4CD5D3E8
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'Speech Pathologist: Reviews mealtime texture modification plan.'
 - field_id: CHCDIS020_TXT_29_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1540,8 +1537,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2914381A
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Worker prepares thickened fluids and soft foods according to speech plan.
 - field_id: CHCDIS020_TXT_29_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1563,8 +1559,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5A050B66
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'Behaviour Support Practitioner: Monthly review of positive behaviour data.'
 - field_id: CHCDIS020_TXT_29_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1575,8 +1570,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3DFDFA90
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Worker records antecedent triggers and uses calming prompts during agitation.
 - field_id: CHCDIS020_TXT_30_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1612,8 +1606,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 385EC35C
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Australian Human Rights Commission Act 1986
 - field_id: CHCDIS020_TXT_30_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2080,8 +2073,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 365EDC16
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Ombudsman Act 1976
 - field_id: CHCDIS020_CB_38_3_0_1
   type: checkbox
   section: Knowledge Assessment
@@ -2117,8 +2109,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '45589987'
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'False'
 - field_id: CHCDIS020_TXT_38_4_0_1
   type: text
   section: Knowledge Assessment
@@ -3002,8 +2993,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 48077B6F
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Making decisions for a participant without asking them, assuming they can't
+    decide for themselves.
 - field_id: CHCDIS020_TXT_49_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3015,8 +3006,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 49E85A0E
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Speaking to a participant like they are a young child or overprotecting them
+    from normal experiences.
 - field_id: CHCDIS020_TXT_49_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3052,8 +3043,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 649598C8
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Assuming people with disability cannot work, live independently, or contribute
+    to the community.
 - field_id: CHCDIS020_TXT_50_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3064,8 +3055,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 1BBF4F6B
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Designing venues or events without ramps or accessible toilets, treating
+    accessibility as an afterthought.
 - field_id: CHCDIS020_TXT_50_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3101,8 +3092,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '31059597'
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Avoiding or staring at someone with a visible disability or mental health
+    condition in public.
 - field_id: CHCDIS020_TXT_51_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3113,8 +3104,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 440E5475
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Believing false stereotypes that people with psychosocial disability are
+    unpredictable or dangerous.
 - field_id: CHCDIS020_TXT_51_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3151,8 +3142,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7E38685F
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Assuming that someone who has a physical disability must also have an intellectual
+    disability.
 - field_id: CHCDIS020_TXT_52_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3164,8 +3155,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 2CCD50C2
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Believing that people with disability are always sad, suffering, or need
+    constant charity.
 - field_id: CHCDIS020_TXT_52_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3202,8 +3193,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 21A2C31B
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Deciding someone's life has less value just because they need personal care
+    assistance or use a wheelchair.
 - field_id: CHCDIS020_TXT_53_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3215,8 +3206,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 56BA74C2
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Denying medical treatment, social access, or rehabilitation based on someone's
+    perceived quality of life.
 - field_id: CHCDIS020_TXT_53_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3499,8 +3490,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 491945D2
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Working within my position description, following care plans and policies,
+    and having access to a supervisor for guidance, reporting, and debriefing.
 - field_id: CHCDIS020_TXT_58_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3511,8 +3502,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '72145867'
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Check my employment contract and position description.
 - field_id: CHCDIS020_TXT_58_3_0_2
   type: text
   section: Knowledge Assessment
@@ -3523,8 +3513,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 5C9BC9C0
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Check the workplace organizational chart or shift roster.
 - field_id: CHCDIS020_TXT_59_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3536,8 +3525,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 704AECB2
-  value: 'They are trained to work within certain limits to undertake a range of less
-    complex tasks, delegated to them by allied health professionals. Depending on
+  value: 'They are trained to work within certain limits to undertake a range of less
+    complex tasks, delegated to them by allied health professionals. Depending on
     qualification and skill level, tasks may include:'
 - field_id: CHCDIS020_TXT_59_4_2_1
   type: text
@@ -3608,8 +3597,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 187408B4
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: A group of different professionals (support workers, registered nurses, occupational
+    therapists, speech pathologists, and doctors) working together with the participant
+    to achieve their goals.
 - field_id: CHCDIS020_TXT_61_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3621,8 +3611,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 01F8064E
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'Support Worker: Provides direct daily care and community access according
+    to the individual support plan.'
 - field_id: CHCDIS020_TXT_61_3_0_2
   type: text
   section: Knowledge Assessment
@@ -3634,8 +3624,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 601949B2
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'Occupational Therapist: Assesses daily living skills and prescribes adaptive
+    equipment and home modifications.'
 - field_id: CHCDIS020_TXT_61_3_0_3
   type: text
   section: Knowledge Assessment
@@ -3647,8 +3637,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 619A6420
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: 'Speech Pathologist: Assesses swallowing, mealtime management, and prescribes
+    communication aids.'
 - field_id: CHCDIS020_TXT_62_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3732,8 +3722,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6511C94B
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Accreditation systems are formal quality processes where independent auditors
+    assess disability service providers against NDIS Practice Standards to ensure
+    quality and safety.
 - field_id: CHCDIS020_TXT_63_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3744,8 +3735,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5EF14940
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Funding systems provide financial resources (such as individual NDIS participant
+    budgets or government grants) so participants can pay for the supports they need.
 - field_id: CHCDIS020_TXT_63_4_0_1
   type: text
   section: Knowledge Assessment
@@ -3911,8 +3902,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 56B1E37F
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Date, start time, and finish time of the support session.
 - field_id: CHCDIS020_TXT_65_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3924,8 +3914,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 01716678
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Specific care tasks and activities provided according to the support plan.
 - field_id: CHCDIS020_TXT_65_2_0_3
   type: text
   section: Knowledge Assessment
@@ -3937,8 +3926,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 48E64D56
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Any progress, client feedback, or milestones achieved.
 - field_id: CHCDIS020_TXT_65_2_0_4
   type: text
   section: Knowledge Assessment
@@ -3950,8 +3938,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 36C069C8
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Any incidents, injuries, health changes, or concerns reported to the supervisor.
 - field_id: CHCDIS020_TXT_65_3_0_1
   type: text
   section: Knowledge Assessment
@@ -4151,8 +4138,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3A0B930D
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Identifying potential hazards during activities, assessing the likelihood
+    and severity of harm, and putting practical support controls in place to keep
+    the person safe while respecting their choice.
 - field_id: CHCDIS020_TXT_68_3_0_1
   type: text
   section: Knowledge Assessment
@@ -4292,8 +4280,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 290A8EBB
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Any practice or equipment that restricts the free movement or liberty of
+    a person with disability, used only as a last resort to prevent serious harm after
+    trying positive behaviour support.
 - field_id: CHCDIS020_TXT_70_3_0_1
   type: text
   section: Knowledge Assessment
@@ -6564,8 +6553,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: '15017190'
-  value: Additional marking guides and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Provide direct individualised care, assist with daily activities, adhere
+    to WHS and privacy protocols, document progress notes, and report hazards.
 - field_id: CHCDIS020_TXT_116_2_0_1
   type: text
   section: Practical Assessment
@@ -6602,8 +6591,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 5B92E6B9
-  value: Additional marking guides and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Support Person A with morning personal care and meal preparation.
 - field_id: CHCDIS020_TXT_116_2_0_4
   type: text
   section: Practical Assessment
@@ -6615,8 +6603,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 750D00A5
-  value: Additional marking guides and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Assist Person A with mobility exercises prescribed by the physiotherapist.
 - field_id: CHCDIS020_TXT_116_2_0_5
   type: text
   section: Practical Assessment
@@ -6628,8 +6615,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 12052A47
-  value: Additional marking guides and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Support Person B with travel training to the local community center.
 - field_id: CHCDIS020_TXT_116_2_0_6
   type: text
   section: Practical Assessment
@@ -6641,8 +6627,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 7BE509F5
-  value: Additional marking guides and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Facilitate Person B's participation in weekly arts and crafts workshop.
 - field_id: CHCDIS020_TXT_119_2_0_1
   type: text
   section: Practical Assessment

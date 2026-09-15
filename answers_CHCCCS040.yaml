@@ -175,8 +175,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 27686F83
-  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
-    Safety Warmth'
+  value: Food/nutrition Water/drink Shelter Sleep Hygiene Safety Warmth
 - field_id: CHCCCS040_TXT_4_3_2_2
   type: text
   section: Knowledge Assessment
@@ -188,8 +187,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 32537C5B
-  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
-    Safety Warmth'
+  value: Food/nutrition Water/drink Shelter Sleep Hygiene Safety Warmth
 - field_id: CHCCCS040_TXT_4_4_2_1
   type: text
   section: Knowledge Assessment
@@ -201,8 +199,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6FC143BE
-  value: 'Only two are required: Need to feel safe and secure Need to feel love and
-    belonging Need for developing one’s self-esteem, confidence and self-image'
+  value: Need to feel safe and secure
 - field_id: CHCCCS040_TXT_4_4_2_2
   type: text
   section: Knowledge Assessment
@@ -214,8 +211,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 6450CFED
-  value: 'Only two are required: Need to feel safe and secure Need to feel love and
-    belonging Need for developing one’s self-esteem, confidence and self-image'
+  value: Need to feel love and belonging
 - field_id: CHCCCS040_TXT_4_5_2_1
   type: text
   section: Knowledge Assessment
@@ -227,8 +223,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3DA6709A
-  value: 'Only two are required: To express one’s spirituality in an open and non-judgemental
-    environment To maintain important religious/spiritual practices and beliefs'
+  value: To express one’s spirituality in an open and non-judgemental environment
 - field_id: CHCCCS040_TXT_4_5_2_2
   type: text
   section: Knowledge Assessment
@@ -240,8 +235,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 071E96C8
-  value: 'Only two are required: To express one’s spirituality in an open and non-judgemental
-    environment To maintain important religious/spiritual practices and beliefs'
+  value: To maintain important religious/spiritual practices and beliefs
 - field_id: CHCCCS040_TXT_4_6_2_1
   type: text
   section: Knowledge Assessment
@@ -253,9 +247,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 307343C4
-  value: 'Only two are required: To express one’s cultural identity in an open and
-    non-judgemental environment To maintain important cultural practices, beliefs
-    and customs Dietary requirements Appearance/clothing'
+  value: To express one’s cultural identity in an open and non-judgemental environment
 - field_id: CHCCCS040_TXT_4_6_2_2
   type: text
   section: Knowledge Assessment
@@ -267,9 +259,8 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 2A59282A
-  value: 'Only two are required: To express one’s cultural identity in an open and
-    non-judgemental environment To maintain important cultural practices, beliefs
-    and customs Dietary requirements Appearance/clothing'
+  value: To maintain important cultural practices, beliefs and customs Dietary requirements
+    Appearance/clothing
 - field_id: CHCCCS040_TXT_4_7_2_1
   type: text
   section: Knowledge Assessment
@@ -304,11 +295,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 45590C48
-  value: What is the concept of self-actualisation? For a satisfactory performance,
-    although the wording may slightly vary, the candidate’s responses must be consistent
-    with the benchmark answer provided below. Self-actualisation is the inherent desire
-    in human beings for self-fulfilment and the motivation to realise one’s own potential
-    and possibilities.
+  value: What is the concept of self-actualisation?
 - field_id: CHCCCS040_TXT_5_3_0_1
   type: text
   section: Knowledge Assessment
@@ -416,8 +403,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 53722E1C
-  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
-    Safety Warmth'
+  value: Food/nutrition Water/drink Shelter Sleep Hygiene Safety Warmth
 - field_id: CHCCCS040_TXT_7_4_2_1
   type: text
   section: Knowledge Assessment
@@ -428,8 +414,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 153B1089
-  value: 'Only two are required: Need to feel safe and secure Need to feel love and
-    belonging Need for developing one’s self-esteem, confidence and self-image'
+  value: Need to feel safe and secure
 - field_id: CHCCCS040_TXT_7_5_2_1
   type: text
   section: Knowledge Assessment
@@ -453,8 +438,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6CA00DE0
-  value: 'Only two are required: To express one’s spirituality in an open and non-judgemental
-    environment To maintain important religious/spiritual practices and beliefs'
+  value: To express one’s spirituality in an open and non-judgemental environment
 - field_id: CHCCCS040_TXT_7_7_2_1
   type: text
   section: Knowledge Assessment
@@ -465,9 +449,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 79E617A4
-  value: 'Only two are required: To express one’s cultural identity in an open and
-    non-judgemental environment To maintain important cultural practices, beliefs
-    and customs Dietary requirements Appearance/clothing'
+  value: To express one’s cultural identity in an open and non-judgemental environment
 - field_id: CHCCCS040_TXT_7_8_2_1
   type: text
   section: Knowledge Assessment
@@ -502,12 +484,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 742D5FAB
-  value: List three traits that contribute to an individual’s unique differences.
-    Responses will vary. For a satisfactory performance, the candidate’s response
-    must include three of the following model answers. Capabilities Experiences Background
-    Spirituality/religion Culture Sexuality Social interactions and activities Other
-    responses are still acceptable, provided that they are things that can vary between
-    different individuals.
+  value: Capabilities Experiences Background Spirituality/religion Culture Sexuality
 - field_id: CHCCCS040_TXT_8_2_0_2
   type: text
   section: Knowledge Assessment
@@ -518,12 +495,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 7914AE20
-  value: List three traits that contribute to an individual’s unique differences.
-    Responses will vary. For a satisfactory performance, the candidate’s response
-    must include three of the following model answers. Capabilities Experiences Background
-    Spirituality/religion Culture Sexuality Social interactions and activities Other
-    responses are still acceptable, provided that they are things that can vary between
-    different individuals.
+  value: Social interactions and activities
 - field_id: CHCCCS040_TXT_8_2_0_3
   type: text
   section: Knowledge Assessment
@@ -534,12 +506,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 698868A9
-  value: List three traits that contribute to an individual’s unique differences.
-    Responses will vary. For a satisfactory performance, the candidate’s response
-    must include three of the following model answers. Capabilities Experiences Background
-    Spirituality/religion Culture Sexuality Social interactions and activities Other
-    responses are still acceptable, provided that they are things that can vary between
-    different individuals.
+  value: Other responses are still acceptable, provided that they are things that
+    can vary between different individuals.
 - field_id: CHCCCS040_TXT_8_3_0_1
   type: text
   section: Knowledge Assessment
@@ -550,11 +518,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 23810BE0
-  value: How are individual differences interrelated? For a satisfactory performance,
-    although wording may vary slightly, the candidate’s response must be consistent
-    with the benchmark answer below. Traits such as a person’s culture can affect
-    other traits, such as the way a person communicates or expresses their sexuality.
-    It is impossible to target one trait without affecting other personal traits.
+  value: Traits such as a person’s culture can affect other traits, such as the way
+    a person communicates or expresses their sexuality.
 - field_id: CHCCCS040_TXT_8_4_0_1
   type: text
   section: Knowledge Assessment
@@ -565,11 +530,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 049EF580
-  value: How are individual differences interrelated? For a satisfactory performance,
-    although wording may vary slightly, the candidate’s response must be consistent
-    with the benchmark answer below. Traits such as a person’s culture can affect
-    other traits, such as the way a person communicates or expresses their sexuality.
-    It is impossible to target one trait without affecting other personal traits.
+  value: Traits such as a person’s culture can affect other traits, such as the way
+    a person communicates or expresses their sexuality.
 - field_id: CHCCCS040_TXT_9_3_2_1
   type: text
   section: Knowledge Assessment
@@ -581,13 +543,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 15FC6D00
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Follow the individual’s care plan Use safe and predictable
-    routines Demonstrate respect and sensitivity in all interactions with the person
-    Support their independence and social activities'
+  value: 'requirements that:'
 - field_id: CHCCCS040_TXT_9_3_2_2
   type: text
   section: Knowledge Assessment
@@ -599,13 +555,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 5EF14BA0
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Follow the individual’s care plan Use safe and predictable
-    routines Demonstrate respect and sensitivity in all interactions with the person
-    Support their independence and social activities'
+  value: Contribute to a person’s mental health and wellbeing
 - field_id: CHCCCS040_TXT_9_4_2_1
   type: text
   section: Knowledge Assessment
@@ -617,8 +567,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5BC513FA
-  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
-    Safety Warmth'
+  value: Food/nutrition Water/drink Shelter Sleep Hygiene Safety Warmth
 - field_id: CHCCCS040_TXT_9_4_2_2
   type: text
   section: Knowledge Assessment
@@ -630,8 +579,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 1D9055B1
-  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
-    Safety Warmth'
+  value: Food/nutrition Water/drink Shelter Sleep Hygiene Safety Warmth
 - field_id: CHCCCS040_TXT_9_5_2_1
   type: text
   section: Knowledge Assessment
@@ -643,12 +591,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1E9AE10B
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Regularly offer fluids Monitor fluid intake in line with
-    the individual’s care plan'
+  value: 'requirements that:'
 - field_id: CHCCCS040_TXT_9_5_2_2
   type: text
   section: Knowledge Assessment
@@ -660,12 +603,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 36B8205D
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Regularly offer fluids Monitor fluid intake in line with
-    the individual’s care plan'
+  value: Contribute to a person’s mental health and wellbeing
 - field_id: CHCCCS040_TXT_9_6_2_1
   type: text
   section: Knowledge Assessment
@@ -677,12 +615,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7E1F6DD4
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Encourage regular physical movement Make physical activities
-    a part of their daily routine'
+  value: 'requirements that:'
 - field_id: CHCCCS040_TXT_9_6_2_2
   type: text
   section: Knowledge Assessment
@@ -694,12 +627,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 2C386331
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Encourage regular physical movement Make physical activities
-    a part of their daily routine'
+  value: Contribute to a person’s mental health and wellbeing
 - field_id: CHCCCS040_TXT_9_7_2_1
   type: text
   section: Knowledge Assessment
@@ -711,8 +639,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0543755C
-  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
-    Safety Warmth'
+  value: Food/nutrition Water/drink Shelter Sleep Hygiene Safety Warmth
 - field_id: CHCCCS040_TXT_9_7_2_2
   type: text
   section: Knowledge Assessment
@@ -724,8 +651,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 31BE7BD6
-  value: 'Only two are required: Food/nutrition Water/drink Shelter Sleep Hygiene
-    Safety Warmth'
+  value: Food/nutrition Water/drink Shelter Sleep Hygiene Safety Warmth
 - field_id: CHCCCS040_TXT_9_8_2_1
   type: text
   section: Knowledge Assessment
@@ -737,13 +663,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 431DE840
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Support quality sleep and rest through routine Facilitate
-    social activities, e.g. organising transport Support individuals in engaging in
-    their likes and hobbies, e.g. reading, crafts'
+  value: 'requirements that:'
 - field_id: CHCCCS040_TXT_9_8_2_2
   type: text
   section: Knowledge Assessment
@@ -755,13 +675,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: '36155808'
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Support quality sleep and rest through routine Facilitate
-    social activities, e.g. organising transport Support individuals in engaging in
-    their likes and hobbies, e.g. reading, crafts'
+  value: Contribute to a person’s mental health and wellbeing
 - field_id: CHCCCS040_TXT_9_9_2_1
   type: text
   section: Knowledge Assessment
@@ -773,12 +687,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 11B55706
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Maintain a regular routine of brushing teeth Organise
-    and facilitate visits to the dentist for check-ups'
+  value: 'requirements that:'
 - field_id: CHCCCS040_TXT_9_9_2_2
   type: text
   section: Knowledge Assessment
@@ -790,12 +699,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 784C5297
-  value: 'Responses will vary. For a satisfactory performance, the candidate’s response
-    must be requirements that: Contribute to a person’s mental health and wellbeing
-    Applies to community service workers who provide frontline support services through
-    an individualised plan Model answers are provided below for the assessor’s reference
-    (only two are required): Maintain a regular routine of brushing teeth Organise
-    and facilitate visits to the dentist for check-ups'
+  value: Contribute to a person’s mental health and wellbeing
 - field_id: CHCCCS040_TXT_11_1_1_1
   type: text
   section: Knowledge Assessment
@@ -806,9 +710,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 31A80989
-  value: Only two are required Regular physical, mental and social activity Connections
-    with others Quality sleep Healthy diet Interactions with family and friends Active
-    participation in community events
+  value: Regular physical, mental and social activity
 - field_id: CHCCCS040_TXT_11_1_2_1
   type: text
   section: Knowledge Assessment
@@ -819,9 +721,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1682A4F7
-  value: Only two are required Regular physical, mental and social activity Connections
-    with others Quality sleep Healthy diet Interactions with family and friends Active
-    participation in community events
+  value: Regular physical, mental and social activity
 - field_id: CHCCCS040_TXT_11_1_2_2
   type: text
   section: Knowledge Assessment
@@ -832,9 +732,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 51378A15
-  value: Only two are required Regular physical, mental and social activity Connections
-    with others Quality sleep Healthy diet Interactions with family and friends Active
-    participation in community events
+  value: Connections with others Quality sleep Healthy diet
 - field_id: CHCCCS040_TXT_11_1_3_1
   type: text
   section: Knowledge Assessment
@@ -845,9 +743,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 5AB91FE5
-  value: Only two are required Regular physical, mental and social activity Connections
-    with others Quality sleep Healthy diet Interactions with family and friends Active
-    participation in community events
+  value: Regular physical, mental and social activity
 - field_id: CHCCCS040_TXT_11_1_3_2
   type: text
   section: Knowledge Assessment
@@ -858,9 +754,7 @@ fields:
   col_idx: 3
   index_in_cell: 1
   para_id: 5DBD09B8
-  value: Only two are required Regular physical, mental and social activity Connections
-    with others Quality sleep Healthy diet Interactions with family and friends Active
-    participation in community events
+  value: Connections with others Quality sleep Healthy diet
 - field_id: CHCCCS040_TXT_11_2_1_1
   type: text
   section: Knowledge Assessment
@@ -871,8 +765,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3D609FED
-  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
-    check-ups Exercise Connections and interactions with others Quality sleep'
+  value: Healthy diet Relaxation activities
 - field_id: CHCCCS040_TXT_11_2_2_1
   type: text
   section: Knowledge Assessment
@@ -883,8 +776,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3EE42608
-  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
-    check-ups Exercise Connections and interactions with others Quality sleep'
+  value: Healthy diet Relaxation activities
 - field_id: CHCCCS040_TXT_11_2_2_2
   type: text
   section: Knowledge Assessment
@@ -895,8 +787,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 1072AE14
-  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
-    check-ups Exercise Connections and interactions with others Quality sleep'
+  value: Regular medical check-ups Exercise
 - field_id: CHCCCS040_TXT_11_2_3_1
   type: text
   section: Knowledge Assessment
@@ -907,8 +798,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1A8CF7BB
-  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
-    check-ups Exercise Connections and interactions with others Quality sleep'
+  value: Healthy diet Relaxation activities
 - field_id: CHCCCS040_TXT_11_2_3_2
   type: text
   section: Knowledge Assessment
@@ -919,8 +809,7 @@ fields:
   col_idx: 3
   index_in_cell: 1
   para_id: 3B9C41D8
-  value: 'Only two are required: Healthy diet Relaxation activities Regular medical
-    check-ups Exercise Connections and interactions with others Quality sleep'
+  value: Regular medical check-ups Exercise
 - field_id: CHCCCS040_TXT_12_2_0_1
   type: text
   section: Knowledge Assessment
@@ -931,12 +820,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3096B3A2
-  value: Describe what constitutes a restrictive practice. The candidate must describe
-    what constitutes a restrictive practice. For a satisfactory performance, although
-    wording may slightly vary, the candidate’s response must be consistent with the
-    benchmark answer below. At a minimum, the underlined phrase must appear in the
-    candidate’s response. A restrictive practice is any process or intervention that
-    limits rights or freedom.
+  value: At a minimum, the underlined phrase must appear in I’s response. A restrictive
+    practice is any process or intervention that limits rights or freedom.
 - field_id: CHCCCS040_TXT_13_0_0_1
   type: text
   section: Knowledge Assessment
@@ -1045,9 +930,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3AE6CF17
-  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
-    must identify the five forms of restrictive practices regulated by law. For a
-    satisfactory performance, the candidate’s responses must be the five below (in
+  value: 'For a satisfactory performance, I’s responses must be the five below (in
     no particular order): Chemical restraint Mechanical restraint Environmental restraint
     Physical restraint Seclusion'
 - field_id: CHCCCS040_TXT_14_0_0_2
@@ -1060,9 +943,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 43A3815E
-  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
-    must identify the five forms of restrictive practices regulated by law. For a
-    satisfactory performance, the candidate’s responses must be the five below (in
+  value: 'For a satisfactory performance, I’s responses must be the five below (in
     no particular order): Chemical restraint Mechanical restraint Environmental restraint
     Physical restraint Seclusion'
 - field_id: CHCCCS040_TXT_14_0_0_3
@@ -1075,9 +956,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 72A6CF15
-  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
-    must identify the five forms of restrictive practices regulated by law. For a
-    satisfactory performance, the candidate’s responses must be the five below (in
+  value: 'For a satisfactory performance, I’s responses must be the five below (in
     no particular order): Chemical restraint Mechanical restraint Environmental restraint
     Physical restraint Seclusion'
 - field_id: CHCCCS040_TXT_14_0_0_4
@@ -1090,9 +969,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 046353F7
-  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
-    must identify the five forms of restrictive practices regulated by law. For a
-    satisfactory performance, the candidate’s responses must be the five below (in
+  value: 'For a satisfactory performance, I’s responses must be the five below (in
     no particular order): Chemical restraint Mechanical restraint Environmental restraint
     Physical restraint Seclusion'
 - field_id: CHCCCS040_TXT_14_0_0_5
@@ -1105,9 +982,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 72796F0E
-  value: 'Identify the five forms of restrictive practices regulated by law. The candidate
-    must identify the five forms of restrictive practices regulated by law. For a
-    satisfactory performance, the candidate’s responses must be the five below (in
+  value: 'For a satisfactory performance, I’s responses must be the five below (in
     no particular order): Chemical restraint Mechanical restraint Environmental restraint
     Physical restraint Seclusion'
 - field_id: CHCCCS040_TXT_14_1_0_1
@@ -1121,19 +996,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2D326E11
-  value: 'What are the seven conditions of registration that service providers must
-    meet when using regulated restrictive practices according to NDIS. The candidate
-    must identify the five forms of restrictive practices. For a satisfactory performance,
-    although the wording may slightly vary, their response the candidate’s responses
-    must be the seven below (in no particular order): A restrictive practice is only
-    possible in a behaviour support plan. An NDIS behaviour support practitioner must
-    have developed the plan. When using a restrictive practice, it must be the least
-    restrictive response possible in the circumstances When using a restrictive practice,
-    it must reduce the risk of harm to the person or others When using a restrictive
-    practice, it must last for the shortest possible time to ensure the safety of
-    the person or others. Where required, the implementing provider must have authorisation.
-    The authorisation comes from the State or Territory. The implementing provider
-    must follow monthly reporting requirements.'
+  value: An NDIS behaviour support practitioner must have developed the plan.
 - field_id: CHCCCS040_TXT_14_1_0_2
   type: text
   section: Knowledge Assessment
@@ -1145,19 +1008,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 02B55354
-  value: 'What are the seven conditions of registration that service providers must
-    meet when using regulated restrictive practices according to NDIS. The candidate
-    must identify the five forms of restrictive practices. For a satisfactory performance,
-    although the wording may slightly vary, their response the candidate’s responses
-    must be the seven below (in no particular order): A restrictive practice is only
-    possible in a behaviour support plan. An NDIS behaviour support practitioner must
-    have developed the plan. When using a restrictive practice, it must be the least
-    restrictive response possible in the circumstances When using a restrictive practice,
-    it must reduce the risk of harm to the person or others When using a restrictive
-    practice, it must last for the shortest possible time to ensure the safety of
-    the person or others. Where required, the implementing provider must have authorisation.
-    The authorisation comes from the State or Territory. The implementing provider
-    must follow monthly reporting requirements.'
+  value: When using a restrictive practice, it must be the least restrictive response
+    possible in the circumstances
 - field_id: CHCCCS040_TXT_14_1_0_3
   type: text
   section: Knowledge Assessment
@@ -1169,19 +1021,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 014A6622
-  value: 'What are the seven conditions of registration that service providers must
-    meet when using regulated restrictive practices according to NDIS. The candidate
-    must identify the five forms of restrictive practices. For a satisfactory performance,
-    although the wording may slightly vary, their response the candidate’s responses
-    must be the seven below (in no particular order): A restrictive practice is only
-    possible in a behaviour support plan. An NDIS behaviour support practitioner must
-    have developed the plan. When using a restrictive practice, it must be the least
-    restrictive response possible in the circumstances When using a restrictive practice,
-    it must reduce the risk of harm to the person or others When using a restrictive
-    practice, it must last for the shortest possible time to ensure the safety of
-    the person or others. Where required, the implementing provider must have authorisation.
-    The authorisation comes from the State or Territory. The implementing provider
-    must follow monthly reporting requirements.'
+  value: When using a restrictive practice, it must reduce the risk of harm to the
+    person or others
 - field_id: CHCCCS040_TXT_14_1_0_4
   type: text
   section: Knowledge Assessment
@@ -1193,19 +1034,9 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 1E3CC4B4
-  value: 'What are the seven conditions of registration that service providers must
-    meet when using regulated restrictive practices according to NDIS. The candidate
-    must identify the five forms of restrictive practices. For a satisfactory performance,
-    although the wording may slightly vary, their response the candidate’s responses
-    must be the seven below (in no particular order): A restrictive practice is only
-    possible in a behaviour support plan. An NDIS behaviour support practitioner must
-    have developed the plan. When using a restrictive practice, it must be the least
-    restrictive response possible in the circumstances When using a restrictive practice,
-    it must reduce the risk of harm to the person or others When using a restrictive
-    practice, it must last for the shortest possible time to ensure the safety of
-    the person or others. Where required, the implementing provider must have authorisation.
-    The authorisation comes from the State or Territory. The implementing provider
-    must follow monthly reporting requirements.'
+  value: When using a restrictive practice, it must last for the shortest possible
+    time to ensure the safety of the person or others. Where required, the implementing
+    provider must have authorisation.
 - field_id: CHCCCS040_TXT_14_1_0_5
   type: text
   section: Knowledge Assessment
@@ -1217,19 +1048,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 1C52E728
-  value: 'What are the seven conditions of registration that service providers must
-    meet when using regulated restrictive practices according to NDIS. The candidate
-    must identify the five forms of restrictive practices. For a satisfactory performance,
-    although the wording may slightly vary, their response the candidate’s responses
-    must be the seven below (in no particular order): A restrictive practice is only
-    possible in a behaviour support plan. An NDIS behaviour support practitioner must
-    have developed the plan. When using a restrictive practice, it must be the least
-    restrictive response possible in the circumstances When using a restrictive practice,
-    it must reduce the risk of harm to the person or others When using a restrictive
-    practice, it must last for the shortest possible time to ensure the safety of
-    the person or others. Where required, the implementing provider must have authorisation.
-    The authorisation comes from the State or Territory. The implementing provider
-    must follow monthly reporting requirements.'
+  value: The authorisation comes from the State or Territory.
 - field_id: CHCCCS040_TXT_14_1_0_6
   type: text
   section: Knowledge Assessment
@@ -1241,19 +1060,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: '65548455'
-  value: 'What are the seven conditions of registration that service providers must
-    meet when using regulated restrictive practices according to NDIS. The candidate
-    must identify the five forms of restrictive practices. For a satisfactory performance,
-    although the wording may slightly vary, their response the candidate’s responses
-    must be the seven below (in no particular order): A restrictive practice is only
-    possible in a behaviour support plan. An NDIS behaviour support practitioner must
-    have developed the plan. When using a restrictive practice, it must be the least
-    restrictive response possible in the circumstances When using a restrictive practice,
-    it must reduce the risk of harm to the person or others When using a restrictive
-    practice, it must last for the shortest possible time to ensure the safety of
-    the person or others. Where required, the implementing provider must have authorisation.
-    The authorisation comes from the State or Territory. The implementing provider
-    must follow monthly reporting requirements.'
+  value: The implementing provider must follow monthly reporting requirements.
 - field_id: CHCCCS040_TXT_14_1_0_7
   type: text
   section: Knowledge Assessment
@@ -1265,19 +1072,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 3F647A08
-  value: 'What are the seven conditions of registration that service providers must
-    meet when using regulated restrictive practices according to NDIS. The candidate
-    must identify the five forms of restrictive practices. For a satisfactory performance,
-    although the wording may slightly vary, their response the candidate’s responses
-    must be the seven below (in no particular order): A restrictive practice is only
-    possible in a behaviour support plan. An NDIS behaviour support practitioner must
-    have developed the plan. When using a restrictive practice, it must be the least
-    restrictive response possible in the circumstances When using a restrictive practice,
-    it must reduce the risk of harm to the person or others When using a restrictive
-    practice, it must last for the shortest possible time to ensure the safety of
-    the person or others. Where required, the implementing provider must have authorisation.
-    The authorisation comes from the State or Territory. The implementing provider
-    must follow monthly reporting requirements.'
+  value: An NDIS behaviour support practitioner must have developed the plan.
 - field_id: CHCCCS040_TXT_14_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1288,14 +1083,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 180620AE
-  value: 'List three positive strategies that can be used in place of restrictive
-    practices. The candidate must three positive strategies that can be used in place
-    of restrictive practices. For a satisfactory performance, although the wording
-    may slightly vary, the candidate’s responses, the candidate’s response must include
-    three of the following: Individualised planning Environmental changes Strengths-based
-    approach Early assessment and intervention Other responses are acceptable provided
-    that they are generally accepted positive strategies that can be used instead
-    of restrictive practices'
+  value: 'For a satisfactory performance, although the wording may slightly vary,
+    I’s responses, I’s response must include three of the following: Individualised
+    planning Environmental changes Strengths-based approach'
 - field_id: CHCCCS040_TXT_14_2_0_2
   type: text
   section: Knowledge Assessment
@@ -1306,14 +1096,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 0D31D39C
-  value: 'List three positive strategies that can be used in place of restrictive
-    practices. The candidate must three positive strategies that can be used in place
-    of restrictive practices. For a satisfactory performance, although the wording
-    may slightly vary, the candidate’s responses, the candidate’s response must include
-    three of the following: Individualised planning Environmental changes Strengths-based
-    approach Early assessment and intervention Other responses are acceptable provided
-    that they are generally accepted positive strategies that can be used instead
-    of restrictive practices'
+  value: Early assessment and intervention
 - field_id: CHCCCS040_TXT_14_2_0_3
   type: text
   section: Knowledge Assessment
@@ -1324,14 +1107,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 70EAFA0C
-  value: 'List three positive strategies that can be used in place of restrictive
-    practices. The candidate must three positive strategies that can be used in place
-    of restrictive practices. For a satisfactory performance, although the wording
-    may slightly vary, the candidate’s responses, the candidate’s response must include
-    three of the following: Individualised planning Environmental changes Strengths-based
-    approach Early assessment and intervention Other responses are acceptable provided
-    that they are generally accepted positive strategies that can be used instead
-    of restrictive practices'
+  value: Other responses are acceptable provided that they are generally accepted
+    positive strategies that can be used instead of restrictive practices
 - field_id: CHCCCS040_TXT_14_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1343,14 +1120,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 66AFBCA5
-  value: 'List three positive strategies that can be used in place of restrictive
-    practices. The candidate must three positive strategies that can be used in place
-    of restrictive practices. For a satisfactory performance, although the wording
-    may slightly vary, the candidate’s responses, the candidate’s response must include
-    three of the following: Individualised planning Environmental changes Strengths-based
-    approach Early assessment and intervention Other responses are acceptable provided
-    that they are generally accepted positive strategies that can be used instead
-    of restrictive practices'
+  value: 'For a satisfactory performance, although the wording may slightly vary,
+    I’s responses, I’s response must include three of the following: Individualised
+    planning Environmental changes Strengths-based approach'
 - field_id: CHCCCS040_TXT_14_3_0_2
   type: text
   section: Knowledge Assessment
@@ -1362,14 +1134,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 4C333308
-  value: 'List three positive strategies that can be used in place of restrictive
-    practices. The candidate must three positive strategies that can be used in place
-    of restrictive practices. For a satisfactory performance, although the wording
-    may slightly vary, the candidate’s responses, the candidate’s response must include
-    three of the following: Individualised planning Environmental changes Strengths-based
-    approach Early assessment and intervention Other responses are acceptable provided
-    that they are generally accepted positive strategies that can be used instead
-    of restrictive practices'
+  value: Early assessment and intervention
 - field_id: CHCCCS040_TXT_15_0_0_1
   type: text
   section: Knowledge Assessment
@@ -1380,21 +1145,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 62A019C1
-  value: 'Identify the two ethical considerations relevant to restrictive practices.
-    The candidate must identify the two ethical considerations relevant to restrictive
-    practices. For a satisfactory performance, although the wording may slightly vary,
-    the candidate’s response must include two of the following: Restrictive practices
-    must only be used as a last resort, where the physical and mental integrity of
-    the patient is in serious and imminent danger The use of restrictive practices
-    must be discontinued if there is a decreasing trend in a patient’s negative behaviour.
-    The use of restrictive practices must be based on a consideration of both the
-    carer’s duty of care and the patient’s dignity of risk Before considering how
-    to deal with difficult symptoms and challenging behaviour, it should be determined
-    for whom such symptoms and behaviour are disturbing The restraint of a patient
-    who is unable to consent should be permitted only after discussion within a multidisciplinary
-    care team and with the relatives, carers and advocates Other responses are acceptable
-    provided that they are considerations consistent with typical ethical principles
-    or values upheld in the community services and health industry.'
+  value: The use of restrictive practices must be based on a consideration of both
+    the carer’s duty of care and the patient’s dignity of risk
 - field_id: CHCCCS040_TXT_15_0_0_2
   type: text
   section: Knowledge Assessment
@@ -1405,21 +1157,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: '66849921'
-  value: 'Identify the two ethical considerations relevant to restrictive practices.
-    The candidate must identify the two ethical considerations relevant to restrictive
-    practices. For a satisfactory performance, although the wording may slightly vary,
-    the candidate’s response must include two of the following: Restrictive practices
-    must only be used as a last resort, where the physical and mental integrity of
-    the patient is in serious and imminent danger The use of restrictive practices
-    must be discontinued if there is a decreasing trend in a patient’s negative behaviour.
-    The use of restrictive practices must be based on a consideration of both the
-    carer’s duty of care and the patient’s dignity of risk Before considering how
-    to deal with difficult symptoms and challenging behaviour, it should be determined
-    for whom such symptoms and behaviour are disturbing The restraint of a patient
-    who is unable to consent should be permitted only after discussion within a multidisciplinary
-    care team and with the relatives, carers and advocates Other responses are acceptable
-    provided that they are considerations consistent with typical ethical principles
-    or values upheld in the community services and health industry.'
+  value: Before considering how to deal with difficult symptoms and challenging behaviour,
+    it should be determined for whom such symptoms and behaviour are disturbing
 - field_id: CHCCCS040_TXT_15_1_0_1
   type: text
   section: Knowledge Assessment
@@ -1431,18 +1170,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '14757369'
-  value: 'List all the documentation requirements needed when using restrictive practices
-    according to the Aged Care Act 1997. The candidate must all the documentation
-    requirements needed when using restrictive practices according to the Aged Care
-    Act 1997. For a satisfactory performance, the candidate’s response must include
-    all of the following: The care recipient’s behaviours that were relevant to the
-    need for the use of the restrictive practice; The alternative strategies that
-    were considered or used (if any) before the use of the restrictive practice; The
-    reasons the use of the restrictive practice was necessary; The care to be provided
-    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
-    practices substitute decision‑maker for the restrictive practice was informed
-    about the use of the restrictive practice under paragraph (a)—a record of the
-    restrictive practices substitute decision‑maker being so informed'
+  value: 'For a satisfactory performance, I’s response must include all of the following:'
 - field_id: CHCCCS040_TXT_15_1_0_2
   type: text
   section: Knowledge Assessment
@@ -1454,18 +1182,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 059CA084
-  value: 'List all the documentation requirements needed when using restrictive practices
-    according to the Aged Care Act 1997. The candidate must all the documentation
-    requirements needed when using restrictive practices according to the Aged Care
-    Act 1997. For a satisfactory performance, the candidate’s response must include
-    all of the following: The care recipient’s behaviours that were relevant to the
-    need for the use of the restrictive practice; The alternative strategies that
-    were considered or used (if any) before the use of the restrictive practice; The
-    reasons the use of the restrictive practice was necessary; The care to be provided
-    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
-    practices substitute decision‑maker for the restrictive practice was informed
-    about the use of the restrictive practice under paragraph (a)—a record of the
-    restrictive practices substitute decision‑maker being so informed'
+  value: The care recipient’s behaviours that were relevant to the need for the use
+    of the restrictive practice;
 - field_id: CHCCCS040_TXT_15_1_0_3
   type: text
   section: Knowledge Assessment
@@ -1477,18 +1195,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 158863A4
-  value: 'List all the documentation requirements needed when using restrictive practices
-    according to the Aged Care Act 1997. The candidate must all the documentation
-    requirements needed when using restrictive practices according to the Aged Care
-    Act 1997. For a satisfactory performance, the candidate’s response must include
-    all of the following: The care recipient’s behaviours that were relevant to the
-    need for the use of the restrictive practice; The alternative strategies that
-    were considered or used (if any) before the use of the restrictive practice; The
-    reasons the use of the restrictive practice was necessary; The care to be provided
-    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
-    practices substitute decision‑maker for the restrictive practice was informed
-    about the use of the restrictive practice under paragraph (a)—a record of the
-    restrictive practices substitute decision‑maker being so informed'
+  value: The alternative strategies that were considered or used (if any) before the
+    use of the restrictive practice;
 - field_id: CHCCCS040_TXT_15_1_0_4
   type: text
   section: Knowledge Assessment
@@ -1500,18 +1208,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 1E8FFB47
-  value: 'List all the documentation requirements needed when using restrictive practices
-    according to the Aged Care Act 1997. The candidate must all the documentation
-    requirements needed when using restrictive practices according to the Aged Care
-    Act 1997. For a satisfactory performance, the candidate’s response must include
-    all of the following: The care recipient’s behaviours that were relevant to the
-    need for the use of the restrictive practice; The alternative strategies that
-    were considered or used (if any) before the use of the restrictive practice; The
-    reasons the use of the restrictive practice was necessary; The care to be provided
-    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
-    practices substitute decision‑maker for the restrictive practice was informed
-    about the use of the restrictive practice under paragraph (a)—a record of the
-    restrictive practices substitute decision‑maker being so informed'
+  value: The reasons the use of the restrictive practice was necessary;
 - field_id: CHCCCS040_TXT_15_1_0_5
   type: text
   section: Knowledge Assessment
@@ -1523,18 +1220,8 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 6C36E7AB
-  value: 'List all the documentation requirements needed when using restrictive practices
-    according to the Aged Care Act 1997. The candidate must all the documentation
-    requirements needed when using restrictive practices according to the Aged Care
-    Act 1997. For a satisfactory performance, the candidate’s response must include
-    all of the following: The care recipient’s behaviours that were relevant to the
-    need for the use of the restrictive practice; The alternative strategies that
-    were considered or used (if any) before the use of the restrictive practice; The
-    reasons the use of the restrictive practice was necessary; The care to be provided
-    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
-    practices substitute decision‑maker for the restrictive practice was informed
-    about the use of the restrictive practice under paragraph (a)—a record of the
-    restrictive practices substitute decision‑maker being so informed'
+  value: The care to be provided to the care recipient in relation to the care recipient’s
+    behaviour;
 - field_id: CHCCCS040_TXT_15_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1546,18 +1233,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 71D12769
-  value: 'List all the documentation requirements needed when using restrictive practices
-    according to the Aged Care Act 1997. The candidate must all the documentation
-    requirements needed when using restrictive practices according to the Aged Care
-    Act 1997. For a satisfactory performance, the candidate’s response must include
-    all of the following: The care recipient’s behaviours that were relevant to the
-    need for the use of the restrictive practice; The alternative strategies that
-    were considered or used (if any) before the use of the restrictive practice; The
-    reasons the use of the restrictive practice was necessary; The care to be provided
-    to the care recipient in relation to the care recipient’s behaviour; If the restrictive
-    practices substitute decision‑maker for the restrictive practice was informed
-    about the use of the restrictive practice under paragraph (a)—a record of the
-    restrictive practices substitute decision‑maker being so informed'
+  value: 'For a satisfactory performance, I’s response must include all of the following:'
 - field_id: CHCCCS040_TXT_17_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1568,10 +1244,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7243A76F
-  value: 'Only two are required: Explanation inconsistent with the injury; explanation
-    varies Avoidance or fearfulness of a particular person Sleep disturbance, e.g.
-    nightmares, bedwetting Changes in behaviour, e.g. out of character aggression,
-    withdrawal, excessive compliance Over or under-use of sedation Fear or anxiety'
+  value: Explanation inconsistent with the injury; explanation varies
 - field_id: CHCCCS040_TXT_17_1_1_2
   type: text
   section: Knowledge Assessment
@@ -1582,10 +1255,8 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 131E5F84
-  value: 'Only two are required: Explanation inconsistent with the injury; explanation
-    varies Avoidance or fearfulness of a particular person Sleep disturbance, e.g.
-    nightmares, bedwetting Changes in behaviour, e.g. out of character aggression,
-    withdrawal, excessive compliance Over or under-use of sedation Fear or anxiety'
+  value: Avoidance or fearfulness of a particular person Sleep disturbance, e.g. nightmares,
+    bedwetting
 - field_id: CHCCCS040_TXT_17_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1596,10 +1267,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 39A4D9BE
-  value: 'Only two are required: Explanation inconsistent with the injury; explanation
-    varies Avoidance or fearfulness of a particular person Sleep disturbance, e.g.
-    nightmares, bedwetting Changes in behaviour, e.g. out of character aggression,
-    withdrawal, excessive compliance Over or under-use of sedation Fear or anxiety'
+  value: Explanation inconsistent with the injury; explanation varies
 - field_id: CHCCCS040_TXT_17_1_2_2
   type: text
   section: Knowledge Assessment
@@ -1610,10 +1278,8 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 074BEC24
-  value: 'Only two are required: Explanation inconsistent with the injury; explanation
-    varies Avoidance or fearfulness of a particular person Sleep disturbance, e.g.
-    nightmares, bedwetting Changes in behaviour, e.g. out of character aggression,
-    withdrawal, excessive compliance Over or under-use of sedation Fear or anxiety'
+  value: Avoidance or fearfulness of a particular person Sleep disturbance, e.g. nightmares,
+    bedwetting
 - field_id: CHCCCS040_TXT_17_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1624,10 +1290,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1D4AE5F2
-  value: 'Only two are required: Requesting, begging, scavenging or stealing food
-    Constant fatigue, listlessness or falling asleep Direct or indirect disclosure
-    Extreme longing for company Social isolation Anxiety about being alone or abandoned
-    Displaying inappropriate or excessive self-comforting behaviours'
+  value: Requesting, begging, scavenging or stealing food Constant fatigue, listlessness
+    or falling asleep
 - field_id: CHCCCS040_TXT_17_2_1_2
   type: text
   section: Knowledge Assessment
@@ -1638,10 +1302,7 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 01FD7B59
-  value: 'Only two are required: Requesting, begging, scavenging or stealing food
-    Constant fatigue, listlessness or falling asleep Direct or indirect disclosure
-    Extreme longing for company Social isolation Anxiety about being alone or abandoned
-    Displaying inappropriate or excessive self-comforting behaviours'
+  value: Direct or indirect disclosure
 - field_id: CHCCCS040_TXT_17_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1652,10 +1313,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 71C84BD8
-  value: 'Only two are required: Requesting, begging, scavenging or stealing food
-    Constant fatigue, listlessness or falling asleep Direct or indirect disclosure
-    Extreme longing for company Social isolation Anxiety about being alone or abandoned
-    Displaying inappropriate or excessive self-comforting behaviours'
+  value: Requesting, begging, scavenging or stealing food Constant fatigue, listlessness
+    or falling asleep
 - field_id: CHCCCS040_TXT_17_2_2_2
   type: text
   section: Knowledge Assessment
@@ -1666,10 +1325,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 56B3CEE9
-  value: 'Only two are required: Requesting, begging, scavenging or stealing food
-    Constant fatigue, listlessness or falling asleep Direct or indirect disclosure
-    Extreme longing for company Social isolation Anxiety about being alone or abandoned
-    Displaying inappropriate or excessive self-comforting behaviours'
+  value: Direct or indirect disclosure
 - field_id: CHCCCS040_TXT_17_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1680,14 +1336,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3F49A5C5
-  value: 'Only two are required: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive
-    behaviour, self-mutilation Sudden changes to behaviour or general nature, e.g.,
-    depression, agitation, crying, anger, violence, absconding, or seeking comfort
-    and security beyond the usual amount Making inappropriate advances towards others
-    Sleep disturbances, refusing to go to bed, going to bed fully clothed Eating disorders
-    Refusing to shower or constant showering Changes in social patterns, refusing
-    to attend usual places (work, respite) Anxiety when near suspected abuser or when
-    they can foresee contact with the suspected abuser'
+  value: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive behaviour, self-mutilation
 - field_id: CHCCCS040_TXT_17_3_1_2
   type: text
   section: Knowledge Assessment
@@ -1698,14 +1347,9 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 43F04F15
-  value: 'Only two are required: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive
-    behaviour, self-mutilation Sudden changes to behaviour or general nature, e.g.,
-    depression, agitation, crying, anger, violence, absconding, or seeking comfort
-    and security beyond the usual amount Making inappropriate advances towards others
-    Sleep disturbances, refusing to go to bed, going to bed fully clothed Eating disorders
-    Refusing to shower or constant showering Changes in social patterns, refusing
-    to attend usual places (work, respite) Anxiety when near suspected abuser or when
-    they can foresee contact with the suspected abuser'
+  value: Sudden changes to behaviour or general nature, e.g., depression, agitation,
+    crying, anger, violence, absconding, or seeking comfort and security beyond the
+    usual amount
 - field_id: CHCCCS040_TXT_17_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1716,14 +1360,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0A95E8F6
-  value: 'Only two are required: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive
-    behaviour, self-mutilation Sudden changes to behaviour or general nature, e.g.,
-    depression, agitation, crying, anger, violence, absconding, or seeking comfort
-    and security beyond the usual amount Making inappropriate advances towards others
-    Sleep disturbances, refusing to go to bed, going to bed fully clothed Eating disorders
-    Refusing to shower or constant showering Changes in social patterns, refusing
-    to attend usual places (work, respite) Anxiety when near suspected abuser or when
-    they can foresee contact with the suspected abuser'
+  value: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive behaviour, self-mutilation
 - field_id: CHCCCS040_TXT_17_3_2_2
   type: text
   section: Knowledge Assessment
@@ -1734,14 +1371,9 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 7516AFB1
-  value: 'Only two are required: Repeat use of words, e.g. ‘bad’, ‘dirty’ Self-destructive
-    behaviour, self-mutilation Sudden changes to behaviour or general nature, e.g.,
-    depression, agitation, crying, anger, violence, absconding, or seeking comfort
-    and security beyond the usual amount Making inappropriate advances towards others
-    Sleep disturbances, refusing to go to bed, going to bed fully clothed Eating disorders
-    Refusing to shower or constant showering Changes in social patterns, refusing
-    to attend usual places (work, respite) Anxiety when near suspected abuser or when
-    they can foresee contact with the suspected abuser'
+  value: Sudden changes to behaviour or general nature, e.g., depression, agitation,
+    crying, anger, violence, absconding, or seeking comfort and security beyond the
+    usual amount
 - field_id: CHCCCS040_TXT_17_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1752,11 +1384,10 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2A461B50
-  value: 'Only two are required: Feelings of worthlessness about life and self; extremely
-    low self-esteem, self-abuse, or self-destructive behaviour Extreme attention-seeking
-    behaviour and other behavioural disorders (e.g. disruptiveness, aggressiveness,
-    bullying) Excessive compliance Depression, withdrawal, crying Low mood Confusion
-    Loneliness Feeling of helplessness Fear'
+  value: Feelings of worthlessness about life and self; extremely low self-esteem,
+    self-abuse, or self-destructive behaviour Extreme attention-seeking behaviour
+    and other behavioural disorders (e.g. disruptiveness, aggressiveness, bullying)
+    Excessive compliance Depression, withdrawal, crying Low mood Confusion Loneliness
 - field_id: CHCCCS040_TXT_17_4_1_2
   type: text
   section: Knowledge Assessment
@@ -1767,11 +1398,7 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 5F76040D
-  value: 'Only two are required: Feelings of worthlessness about life and self; extremely
-    low self-esteem, self-abuse, or self-destructive behaviour Extreme attention-seeking
-    behaviour and other behavioural disorders (e.g. disruptiveness, aggressiveness,
-    bullying) Excessive compliance Depression, withdrawal, crying Low mood Confusion
-    Loneliness Feeling of helplessness Fear'
+  value: Feeling of helplessness Fear
 - field_id: CHCCCS040_TXT_17_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1782,11 +1409,10 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 07DF7063
-  value: 'Only two are required: Feelings of worthlessness about life and self; extremely
-    low self-esteem, self-abuse, or self-destructive behaviour Extreme attention-seeking
-    behaviour and other behavioural disorders (e.g. disruptiveness, aggressiveness,
-    bullying) Excessive compliance Depression, withdrawal, crying Low mood Confusion
-    Loneliness Feeling of helplessness Fear'
+  value: Feelings of worthlessness about life and self; extremely low self-esteem,
+    self-abuse, or self-destructive behaviour Extreme attention-seeking behaviour
+    and other behavioural disorders (e.g. disruptiveness, aggressiveness, bullying)
+    Excessive compliance Depression, withdrawal, crying Low mood Confusion Loneliness
 - field_id: CHCCCS040_TXT_17_4_2_2
   type: text
   section: Knowledge Assessment
@@ -1797,11 +1423,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 4D864C40
-  value: 'Only two are required: Feelings of worthlessness about life and self; extremely
-    low self-esteem, self-abuse, or self-destructive behaviour Extreme attention-seeking
-    behaviour and other behavioural disorders (e.g. disruptiveness, aggressiveness,
-    bullying) Excessive compliance Depression, withdrawal, crying Low mood Confusion
-    Loneliness Feeling of helplessness Fear'
+  value: Feeling of helplessness Fear
 - field_id: CHCCCS040_TXT_17_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1812,8 +1434,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 203DFD6A
-  value: 'Only two are required: Stealing from others Borrowing money Begging Fear,
-    stress and anxiety'
+  value: Stealing from others Borrowing money Begging Fear, stress and anxiety
 - field_id: CHCCCS040_TXT_17_5_1_2
   type: text
   section: Knowledge Assessment
@@ -1824,8 +1445,7 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: '20015593'
-  value: 'Only two are required: Stealing from others Borrowing money Begging Fear,
-    stress and anxiety'
+  value: Stealing from others Borrowing money Begging Fear, stress and anxiety
 - field_id: CHCCCS040_TXT_17_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1836,8 +1456,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 42C8C858
-  value: 'Only two are required: Stealing from others Borrowing money Begging Fear,
-    stress and anxiety'
+  value: Stealing from others Borrowing money Begging Fear, stress and anxiety
 - field_id: CHCCCS040_TXT_17_5_2_2
   type: text
   section: Knowledge Assessment
@@ -1848,8 +1467,7 @@ fields:
   col_idx: 2
   index_in_cell: 1
   para_id: 6E3CB43A
-  value: 'Only two are required: Stealing from others Borrowing money Begging Fear,
-    stress and anxiety'
+  value: Stealing from others Borrowing money Begging Fear, stress and anxiety
 - field_id: CHCCCS040_TXT_18_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2173,13 +1791,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0C0026BE
-  value: How can incorporating the values of a person’s community impact the care
-    and support they receive? For a satisfactory performance, although the wording
-    may slightly vary, their response must be consistent with the benchmark answer
-    below. The values of a community can provide comfort, familiarity and full expression
-    of a person’s identity. Incorporating these values into the care of an individual
-    provides an environment for them to express their identity and preferences comfortably
-    and without judgement.
+  value: The values of a community can provide comfort, familiarity and full expression
+    of a person’s identity.
 - field_id: CHCCCS040_TXT_24_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2191,10 +1804,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0AD71335
-  value: How can understanding the attitudes of a person’s community impact the care
-    and support they receive? For a satisfactory performance, although the wording
-    may slightly vary, their response must be consistent with the benchmark answer
-    below. Having a greater understanding of community attitudes can improve interactions
+  value: Having a greater understanding of community attitudes can improve interactions
     and minimise misunderstandings in communications and interactions between the
     support worker and the client.
 - field_id: CHCCCS040_TXT_24_4_0_1
@@ -2208,13 +1818,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 41D6CD40
-  value: 'Describe the possible impact of the following myth about childcare centres:
-    ‘Childcare centres can negatively affect the relationship between parent and child’.
-    For a satisfactory performance, although the wording may slightly vary, their
-    response must be consistent with the benchmark answer below. This myth can cause
-    anxiety in parents dropping their children at a childcare centre. It can cause
-    worry and feelings of concern that they are leaving their child in the care of
-    someone else to the detriment of their relationship with their child.'
+  value: This myth can cause anxiety in parents dropping their children at a childcare
+    centre.
 - field_id: CHCCCS040_TXT_24_5_0_1
   type: text
   section: Knowledge Assessment
@@ -2226,13 +1831,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3A7AF451
-  value: 'Describe the possible impact of the following myth about childcare centres:
-    ‘Childcare centres can negatively affect the relationship between parent and child’.
-    For a satisfactory performance, although the wording may slightly vary, their
-    response must be consistent with the benchmark answer below. This myth can cause
-    anxiety in parents dropping their children at a childcare centre. It can cause
-    worry and feelings of concern that they are leaving their child in the care of
-    someone else to the detriment of their relationship with their child.'
+  value: This myth can cause anxiety in parents dropping their children at a childcare
+    centre.
 - field_id: CHCCCS040_TXT_25_0_0_1
   type: text
   section: Knowledge Assessment
@@ -2244,13 +1844,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 30BF9E33
-  value: 'Describe the possible impact of the following myth about childcare centres:
-    ‘Childcare centres can negatively affect the relationship between parent and child’.
-    For a satisfactory performance, although the wording may slightly vary, their
-    response must be consistent with the benchmark answer below. This myth can cause
-    anxiety in parents dropping their children at a childcare centre. It can cause
-    worry and feelings of concern that they are leaving their child in the care of
-    someone else to the detriment of their relationship with their child.'
+  value: This myth can cause anxiety in parents dropping their children at a childcare
+    centre.
 - field_id: CHCCCS040_TXT_25_1_0_1
   type: text
   section: Knowledge Assessment
@@ -2262,13 +1857,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 40F13097
-  value: 'Describe the possible impact of the following myth about childcare centres:
-    ‘Childcare centres can negatively affect the relationship between parent and child’.
-    For a satisfactory performance, although the wording may slightly vary, their
-    response must be consistent with the benchmark answer below. This myth can cause
-    anxiety in parents dropping their children at a childcare centre. It can cause
-    worry and feelings of concern that they are leaving their child in the care of
-    someone else to the detriment of their relationship with their child.'
+  value: This myth can cause anxiety in parents dropping their children at a childcare
+    centre.
 - field_id: CHCCCS040_TXT_26_2_0_1
   type: text
   section: Knowledge Assessment

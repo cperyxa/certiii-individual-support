@@ -509,8 +509,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2E4E361F
-  value: 'Listed in the table below are different cultural groups. For each of the
-    cultural groups indicated, provide the following:'
+  value: Provide culturally sensitive care respecting specific customs, rituals, and
+    dietary preferences.
 - field_id: CHCPAL003_TXT_9_0_0_2
   type: text
   section: Knowledge Assessment
@@ -546,8 +546,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 1B273B96
-  value: 'For each of the cultural groups listed in the table below, the candidate
-    must provide the following:'
+  value: 'For each of the cultural groups listed in the table below, I must provide
+    the following:'
 - field_id: CHCPAL003_TXT_9_0_0_5
   type: text
   section: Knowledge Assessment
@@ -583,8 +583,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 40E60AB0
-  value: 'Listed in the table below are different cultural groups. For each of the
-    cultural groups indicated, provide the following:'
+  value: Respect religious practices, prayer times, symbols, and spiritual leaders
+    requested by the person and family.
 - field_id: CHCPAL003_TXT_10_0_0_2
   type: text
   section: Knowledge Assessment
@@ -620,8 +620,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 58A2B4A5
-  value: 'For each of the cultural groups listed in the table below, the candidate
-    must provide the following:'
+  value: 'For each of the cultural groups listed in the table below, I must provide
+    the following:'
 - field_id: CHCPAL003_TXT_10_0_0_5
   type: text
   section: Knowledge Assessment
@@ -861,8 +861,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 735414D7
-  value: Examples of satisfactory responses are provided below for the assessor’s
-    reference.
+  value: An Advance Care Directive allows a person to write down their future medical
+    treatment preferences and values ahead of time, ensuring their wishes are respected
+    if they lose the ability to communicate.
 - field_id: CHCPAL003_TXT_15_5_0_1
   type: text
   section: Knowledge Assessment
@@ -873,8 +874,13 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '51877865'
-  value: Examples of satisfactory responses are provided below for the assessor’s
-    reference.
+  value: '1. Specific medical treatments the person consents to or refuses (such as
+    CPR, ventilation, or tube feeding).
+
+    2. Name and contact details of an appointed enduring guardian or substitute decision-maker.
+
+    3. Personal values, cultural or spiritual wishes, and preferred place of end-of-life
+    care.'
 - field_id: CHCPAL003_TXT_15_5_0_2
   type: text
   section: Knowledge Assessment
@@ -936,8 +942,9 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 60AA3600
-  value: 'Examples of satisfactory responses are provided below for the assessor’s
-    reference:'
+  value: Report any changes in condition, pain, or breathing immediately to the registered
+    nurse or palliative care team so care and comfort medications can be adjusted
+    promptly.
 - field_id: CHCPAL003_TXT_16_4_0_1
   type: text
   section: Knowledge Assessment
@@ -964,8 +971,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 1A682239
-  value: 'Examples of satisfactory responses are provided below for the assessor’s
-    reference:'
+  value: Listen with empathy, offer a quiet comforting presence, respect their grieving
+    process, and provide bereavement support brochures or contacts.
 - field_id: CHCPAL003_TXT_17_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1244,8 +1251,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '54009222'
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Soft or pureed foods and thickened fluids to make swallowing comfortable
+    and prevent choking.
 - field_id: CHCPAL003_TXT_21_2_0_2
   type: text
   section: Knowledge Assessment
@@ -1256,8 +1263,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 6A0588A0
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Small, frequent nourishing snacks and cool water sips for mouth moisture
+    rather than forcing large meals.
 - field_id: CHCPAL003_TXT_21_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1494,8 +1501,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 7AC6DCF8
-  value: 'For each of the cultural groups listed in the table below, the candidate
-    must provide the following:'
+  value: 'For each of the cultural groups listed in the table below, I must provide
+    the following:'
 - field_id: CHCPAL003_TXT_25_0_0_1
   type: text
   section: Knowledge Assessment
@@ -2021,8 +2028,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 74EF4BEF
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Respond calmly and compassionately, listen to the family's concerns, explain
+    what comfort care is being provided, and inform the supervisor or nurse.
 - field_id: CHCPAL003_TXT_29_0_0_1
   type: text
   section: Knowledge Assessment
@@ -2105,8 +2112,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7308F6FE
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Increasing drowsiness, fatigue, and sleeping for most of the day.
 - field_id: CHCPAL003_TXT_30_2_0_2
   type: text
   section: Knowledge Assessment
@@ -2117,8 +2123,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 39F867BC
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Decreased appetite and reduced intake of food and fluids.
 - field_id: CHCPAL003_TXT_30_2_0_3
   type: text
   section: Knowledge Assessment
@@ -2129,8 +2134,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 3FD9B942
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Changes in vital signs, increased weakness, and withdrawal from social conversation.
 - field_id: CHCPAL003_TXT_30_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2141,8 +2145,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 541C3DAB
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Irregular breathing patterns (Cheyne-Stokes breathing) or noisy 'death rattle'
+    chest secretions.
 - field_id: CHCPAL003_TXT_30_3_0_2
   type: text
   section: Knowledge Assessment
@@ -2153,8 +2157,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 5A76BBFC
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Mottled, cool, or pale hands, feet, and nail beds due to reduced circulation.
 - field_id: CHCPAL003_TXT_30_3_0_3
   type: text
   section: Knowledge Assessment
@@ -2165,8 +2168,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 1D7006B2
-  value: Additional marking guide and benchmark answers are provided below to guide
-    the assessor in assessing the candidate’s responses.
+  value: Complete unresponsiveness and profound relaxation of facial and body muscles.
 - field_id: CHCPAL003_TXT_31_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2529,8 +2531,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 4AFAC3EF
-  value: 'For each of the cultural groups listed in the table below, the candidate
-    must provide the following:'
+  value: 'For each of the cultural groups listed in the table below, I must provide
+    the following:'
 - field_id: CHCPAL003_TXT_37_0_0_5
   type: text
   section: Knowledge Assessment

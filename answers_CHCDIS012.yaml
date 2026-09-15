@@ -174,7 +174,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7034B999
-  value: 'Article 30 - Participation in cultural life, recreation, leisure and sport: Ensures equal access to cultural venues, sporting activities, and leisure pursuits.'
+  value: 'Article 30 - Joining in cultural life, recreation, and sports: Equal access to community sports, entertainment, and hobbies.'
 - field_id: CHCDIS012_TXT_3_3_2_1
   type: text
   section: Knowledge Assessment
@@ -187,7 +187,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5780404A
-  value: 'Article 30 - Participation in cultural life, recreation, leisure and sport: Ensures equal access to cultural venues, sporting activities, and leisure pursuits.'
+  value: 'Article 30 - Joining in cultural life, recreation, and sports: Equal access to community sports, entertainment, and hobbies.'
 - field_id: CHCDIS012_TXT_3_4_0_1
   type: text
   section: Knowledge Assessment
@@ -198,7 +198,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 36B41540
-  value: Upholds the fundamental dignity, autonomy, non-discrimination, and full societal participation of people with disability.
+  value: Treats people with disability with dignity, respects their choices, and makes sure they aren't left out.
 - field_id: CHCDIS012_TXT_3_4_2_1
   type: text
   section: Knowledge Assessment
@@ -211,7 +211,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 561CCDF8
-  value: Upholds the fundamental dignity, autonomy, non-discrimination, and full societal participation of people with disability.
+  value: Treats people with disability with dignity, respects their choices, and makes sure they aren't left out.
 - field_id: CHCDIS012_TXT_4_3_0_1
   type: text
   section: Knowledge Assessment
@@ -222,7 +222,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5F97DA40
-  value: Communicating personal preferences and dietary/mobility needs clearly to support workers.
+  value: Telling workers what food, routines, and support they prefer.
 - field_id: CHCDIS012_TXT_4_3_2_1
   type: text
   section: Knowledge Assessment
@@ -237,7 +237,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 19F25AF5
-  value: Enables support workers to deliver customized, person-centred support aligned with the individual's genuine choices.
+  value: Helps workers give personalised support based on what the client actually wants.
 - field_id: CHCDIS012_TXT_4_4_0_1
   type: text
   section: Knowledge Assessment
@@ -248,7 +248,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 370458FD
-  value: Treating service staff, fellow participants, and community members with courtesy and respect.
+  value: Treating staff, other participants, and the public with respect.
 - field_id: CHCDIS012_TXT_4_4_2_1
   type: text
   section: Knowledge Assessment
@@ -263,7 +263,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '13669803'
-  value: Maintains a safe, harmonious, and welcoming environment for everyone in shared community settings.
+  value: Keeps everyone safe and creates a friendly, welcoming environment.
 - field_id: CHCDIS012_TXT_5_3_0_1
   type: text
   section: Knowledge Assessment
@@ -274,7 +274,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 79AD49AC
-  value: Focusing on individual capabilities and potential rather than perceived limitations or medical deficits.
+  value: Focusing on what the person is good at instead of their limitations.
 - field_id: CHCDIS012_TXT_5_3_2_1
   type: text
   section: Knowledge Assessment
@@ -289,7 +289,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 26D9C49A
-  value: Builds self-efficacy, motivates the participant to attempt new community activities, and fosters positive self-identity.
+  value: Boosts confidence and encourages them to try new community activities.
 - field_id: CHCDIS012_TXT_5_4_0_1
   type: text
   section: Knowledge Assessment
@@ -300,7 +300,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1E80AAC4
-  value: Collaborative partnership where the participant is recognized as the expert in their own life.
+  value: Working together with the participant as a partner in their care.
 - field_id: CHCDIS012_TXT_5_4_2_1
   type: text
   section: Knowledge Assessment
@@ -315,7 +315,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0024178F
-  value: Ensures support plans reflect the participant's authentic goals and community inclusion desires.
+  value: Makes sure goals are what the person truly wants.
 - field_id: CHCDIS012_TXT_6_3_0_1
   type: text
   section: Knowledge Assessment
@@ -326,7 +326,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 64EC105E
-  value: Respect for personal autonomy and self-determination in all aspects of daily life.
+  value: Respecting the person's right to make their own choices in daily life.
 - field_id: CHCDIS012_TXT_6_3_2_1
   type: text
   section: Knowledge Assessment
@@ -341,7 +341,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 68AC7DEF
-  value: Empowers the participant to decide which community groups, hobbies, and social networks to join.
+  value: Lets the person choose their own hobbies, groups, and friends.
 - field_id: CHCDIS012_TXT_6_4_0_1
   type: text
   section: Knowledge Assessment
@@ -352,7 +352,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 19700C19
-  value: Holistic approach considering emotional, cultural, physical, and spiritual aspirations.
+  value: Looking at the whole person including emotional, physical, and cultural needs.
 - field_id: CHCDIS012_TXT_6_4_2_1
   type: text
   section: Knowledge Assessment
@@ -367,7 +367,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 06982FBB
-  value: Ensures community participation activities resonate with the person's overall lifestyle and wellbeing.
+  value: Makes sure activities fit well with the person's lifestyle and wellbeing.
 - field_id: CHCDIS012_TXT_8_1_0_1
   type: text
   section: Knowledge Assessment
@@ -378,7 +378,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '72888730'
-  value: 'Inherent dignity and individual autonomy: Respecting the person''s freedom to make their own choices.'
+  value: 'Dignity and personal choice: Respecting the person''s freedom to decide for themselves.'
 - field_id: CHCDIS012_TXT_8_1_1_1
   type: text
   section: Knowledge Assessment
@@ -389,7 +389,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5FB2D2F3
-  value: Ensures community participation is directed by the participant's own interests rather than passive scheduling.
+  value: Ensures community activities match the person's real interests.
 - field_id: CHCDIS012_TXT_8_2_0_1
   type: text
   section: Knowledge Assessment
@@ -400,7 +400,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 060ACABF
-  value: 'Non-discrimination and equality of opportunity: Ensuring equal access to public services and venues.'
+  value: 'Equal opportunity and fairness: Equal access to public services and facilities.'
 - field_id: CHCDIS012_TXT_8_2_1_1
   type: text
   section: Knowledge Assessment
@@ -411,7 +411,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 08252662
-  value: Breaks down societal stigma and guarantees equal access to recreational, educational, and civic spaces.
+  value: Helps stop stigma and opens up community places for everyone.
 - field_id: CHCDIS012_TXT_9_3_0_1
   type: text
   section: Knowledge Assessment
@@ -422,7 +422,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4B05F16B
-  value: 'Universal accessibility: Ensuring physical environments, communications, and transport are accessible to all.'
+  value: 'Universal accessibility: Making sure buildings, transport, and info are easy to access.'
 - field_id: CHCDIS012_TXT_9_3_2_1
   type: text
   section: Knowledge Assessment
@@ -437,7 +437,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 595BD8AF
-  value: Enables people with physical, sensory, or cognitive impairments to enter, navigate, and participate in venues independently.
+  value: Lets people with mobility, sensory, or learning needs join in independently.
 - field_id: CHCDIS012_TXT_9_4_0_1
   type: text
   section: Knowledge Assessment
@@ -448,7 +448,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 635283F1
-  value: 'Valued social participation: Active contribution and presence in mainstream community groups.'
+  value: 'Real community belonging: Being an active member of mainstream community groups.'
 - field_id: CHCDIS012_TXT_9_4_2_1
   type: text
   section: Knowledge Assessment
@@ -463,7 +463,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 669BE6A4
-  value: Fosters genuine social belonging, friendship building, and combats isolation and loneliness.
+  value: Builds genuine friendships and stops feelings of loneliness.
 - field_id: CHCDIS012_TXT_10_2_0_1
   type: text
   section: Knowledge Assessment
@@ -474,7 +474,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 71CC1EE1
-  value: Partnering with mainstream community clubs (e.g. local sports leagues, art studios) and providing individualized active travel training.
+  value: Partnering with local sports clubs and art centres, and doing travel training to get there.
 - field_id: CHCDIS012_TXT_10_3_0_1
   type: text
   section: Knowledge Assessment
@@ -485,7 +485,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6F968A5D
-  value: Implementing natural community mentorship programs and supported volunteer opportunities.
+  value: Connecting with community buddy programs and supported volunteering.
 - field_id: CHCDIS012_TXT_11_2_0_1
   type: text
   section: Knowledge Assessment
@@ -509,7 +509,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 463B84C0
-  value: Through strong social connections, reciprocal relationships, feelings of belonging, purpose, autonomy, and active participation in community life.
+  value: Having good friends, feeling like you belong, doing meaningful activities, and having choices in your life.
 - field_id: CHCDIS012_TXT_12_0_0_1
   type: text
   section: Knowledge Assessment
@@ -520,7 +520,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 67F02E35
-  value: Social isolation leads to chronic loneliness, depression, cognitive decline, and reduced self-worth.
+  value: Chronic loneliness, feeling down, and losing self-esteem.
 - field_id: CHCDIS012_TXT_12_0_0_2
   type: text
   section: Knowledge Assessment
@@ -531,7 +531,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 51B806D7
-  value: Stigma and discrimination generate feelings of alienation, fear of public judgment, anxiety, and low self-esteem.
+  value: Feeling judged, unwelcome, or embarrassed to go out in public due to negative attitudes.
 - field_id: CHCDIS012_TXT_12_0_0_3
   type: text
   section: Knowledge Assessment
@@ -542,7 +542,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 6B14E6D8
-  value: Lack of transport prevents access to social gatherings, employment, and healthcare, reinforcing seclusion.
+  value: Not being able to visit friends, work, or attend activities due to lack of accessible transport.
 - field_id: CHCDIS012_TXT_12_0_0_4
   type: text
   section: Knowledge Assessment
@@ -553,7 +553,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 3755B4CE
-  value: Unemployment or financial hardship restricts participation in fee-based social, cultural, and recreational activities.
+  value: Missing out on social activities and fun outings because of cost or lack of money.
 - field_id: CHCDIS012_TXT_12_1_0_1
   type: text
   section: Knowledge Assessment
@@ -564,7 +564,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 32F887D4
-  value: Social isolation leads to chronic loneliness, depression, cognitive decline, and reduced self-worth.
+  value: Chronic loneliness, feeling down, and losing self-esteem.
 - field_id: CHCDIS012_TXT_13_4_0_1
   type: text
   section: Knowledge Assessment
@@ -575,7 +575,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7EB7C571
-  value: Facilitating membership in local interest-based hobby groups (e.g. community choir, pottery class).
+  value: Helping the person join local hobby clubs (like a pottery class or choir).
 - field_id: CHCDIS012_TXT_13_4_2_1
   type: text
   section: Knowledge Assessment
@@ -586,7 +586,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 08B2D766
-  value: Encourages organic peer connections with individuals sharing mutual passions, fostering authentic friendships.
+  value: Lets them meet people with the same interests and build natural friendships.
 - field_id: CHCDIS012_TXT_13_5_0_1
   type: text
   section: Knowledge Assessment
@@ -597,7 +597,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0F30400B
-  value: Providing travel training to use local buses, trains, and light rail independently.
+  value: Doing bus and train travel training so they can get around independently.
 - field_id: CHCDIS012_TXT_13_5_2_1
   type: text
   section: Knowledge Assessment
@@ -608,7 +608,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5F28CC0C
-  value: Removes transport dependency, expanding access to broader community events and employment hubs.
+  value: Gives the person freedom to travel without always relying on support workers.
 - field_id: CHCDIS012_TXT_14_2_0_1
   type: text
   section: Knowledge Assessment
@@ -619,7 +619,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 574BD622
-  value: Local disability sports networks (e.g. Wheelchair Sports NSW).
+  value: Local disability sports clubs (like Wheelchair Sports NSW).
 - field_id: CHCDIS012_TXT_14_2_1_1
   type: text
   section: Knowledge Assessment
@@ -630,7 +630,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: '50862600'
-  value: Provides accessible competitive and social athletic opportunities, promoting fitness and peer bonding.
+  value: Offers fun accessible sports, exercise, and great team friendships.
 - field_id: CHCDIS012_TXT_14_3_0_1
   type: text
   section: Knowledge Assessment
@@ -641,7 +641,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2D78B290
-  value: Neighbourhood community centre social hubs.
+  value: Neighbourhood community centre activity groups.
 - field_id: CHCDIS012_TXT_14_3_1_1
   type: text
   section: Knowledge Assessment
@@ -652,7 +652,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2F58AA60
-  value: Offers weekly social gatherings, art workshops, computer literacy classes, and volunteering avenues.
+  value: Offers weekly social gatherings, art classes, computing, and social events.
 - field_id: CHCDIS012_TXT_15_2_0_1
   type: text
   section: Knowledge Assessment
@@ -663,7 +663,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2ADC690D
-  value: National Disability Insurance Scheme (NDIS) Local Area Coordination (LAC).
+  value: NDIS Local Area Coordinator (LAC).
 - field_id: CHCDIS012_TXT_15_2_1_1
   type: text
   section: Knowledge Assessment
@@ -674,7 +674,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 55C8FC3D
-  value: Connects participants to mainstream community programs, local services, and funded support.
+  value: Helps link participants with local community programs, groups, and funded supports.
 - field_id: CHCDIS012_TXT_15_3_0_1
   type: text
   section: Knowledge Assessment
@@ -696,7 +696,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 06EA2E0A
-  value: Provides accessible door-to-door transportation for individuals unable to access standard public transport.
+  value: Provides accessible door-to-door transport for people who cannot use standard buses or trains.
 - field_id: CHCDIS012_TXT_17_1_1_1
   type: text
   section: Knowledge Assessment
@@ -707,7 +707,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7D050C93
-  value: Community education campaigns
+  value: Community awareness talks
 - field_id: CHCDIS012_TXT_17_1_2_1
   type: text
   section: Knowledge Assessment
@@ -718,7 +718,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0240F179
-  value: Community education campaigns
+  value: Community awareness talks
 - field_id: CHCDIS012_TXT_17_2_1_1
   type: text
   section: Knowledge Assessment
@@ -729,7 +729,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 485EDA71
-  value: Community education campaigns
+  value: Community awareness talks
 - field_id: CHCDIS012_TXT_17_2_2_1
   type: text
   section: Knowledge Assessment
@@ -740,7 +740,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 61E1FA11
-  value: Community education campaigns
+  value: Community awareness talks
 - field_id: CHCDIS012_TXT_17_3_1_1
   type: text
   section: Knowledge Assessment
@@ -751,7 +751,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 59EEF560
-  value: Community education campaigns
+  value: Community awareness talks
 - field_id: CHCDIS012_TXT_17_3_2_1
   type: text
   section: Knowledge Assessment
@@ -762,7 +762,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 51EA41D9
-  value: Community education campaigns
+  value: Community awareness talks
 - field_id: CHCDIS012_TXT_17_4_1_1
   type: text
   section: Knowledge Assessment
@@ -773,7 +773,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 02523297
-  value: Community education campaigns
+  value: Community awareness talks
 - field_id: CHCDIS012_TXT_17_4_2_1
   type: text
   section: Knowledge Assessment
@@ -784,7 +784,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 05EB6845
-  value: Community education campaigns
+  value: Community awareness talks
 - field_id: CHCDIS012_TXT_18_3_2_1
   type: text
   section: Preliminary Task
@@ -951,7 +951,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2558AAD6
-  value: Active citizenship is the philosophy that individuals have rights and civic responsibilities to engage actively in democracy, public debate, and community decision-making.
+  value: Active citizenship means everyone has the right and opportunity to take part in community life, share their views, and have a say in society.
 - field_id: CHCDIS012_TXT_19_3_0_1
   type: text
   section: Knowledge Assessment
@@ -962,7 +962,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1F8788E8
-  value: It empowers people with disability to exercise their voting rights, participate in local councils, express opinions, and contribute to public policy.
+  value: It lets people with disability vote, attend local council meetings, and speak up about issues that matter to them.
 - field_id: CHCDIS012_TXT_20_3_0_1
   type: text
   section: Knowledge Assessment
@@ -973,7 +973,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7D178955
-  value: Supporting attendance at local community forums and council meetings.
+  value: Helping the person attend local council forums and community meetings.
 - field_id: CHCDIS012_TXT_20_3_2_1
   type: text
   section: Knowledge Assessment
@@ -988,7 +988,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '12036961'
-  value: Ensures the individual's voice and lived experience inform local urban and social planning.
+  value: Makes sure their voice and real-life experiences help shape local community decisions.
 - field_id: CHCDIS012_TXT_20_4_0_1
   type: text
   section: Knowledge Assessment
@@ -999,7 +999,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 324DF1FC
-  value: Assisting with Australian Electoral Commission voter registration and accessible voting options.
+  value: Helping the person register to vote with the Australian Electoral Commission and practice voting.
 - field_id: CHCDIS012_TXT_20_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1014,7 +1014,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 57E38109
-  value: Upholds the person's fundamental democratic right to vote independently and secretly.
+  value: Protects their democratic right to have their vote counted just like everyone else.
 - field_id: CHCDIS012_TXT_21_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1025,7 +1025,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0E5A0EAD
-  value: Connecting with independent disability advocacy services (e.g. People with Disability Australia).
+  value: Connecting with independent disability advocacy groups (like PWDA).
 - field_id: CHCDIS012_TXT_21_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1040,7 +1040,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 695943E3
-  value: Empowers the person to resolve housing, funding, or service delivery disputes effectively.
+  value: Gives the person support to resolve housing, funding, or service problems.
 - field_id: CHCDIS012_TXT_21_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1051,7 +1051,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 589B4529
-  value: Providing self-advocacy training workshops on asserting rights and effective communication.
+  value: Running self-advocacy practice sessions on speaking up and asking for help.
 - field_id: CHCDIS012_TXT_21_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1066,7 +1066,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 753267B6
-  value: Builds self-confidence in speaking up during medical consultations and planning meetings.
+  value: Builds confidence to speak up during doctor visits and care planning meetings.
 - field_id: CHCDIS012_TXT_22_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1077,7 +1077,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 172FD1D7
-  value: Providing accessible information in Easy Read, large print, or digital screen-reader formats.
+  value: Giving info in Easy Read, large print, or screen-reader formats.
 - field_id: CHCDIS012_TXT_22_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1092,7 +1092,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 171A5333
-  value: Ensures participants fully understand legal agreements, care options, and community resources.
+  value: Makes sure the person can read and understand documents on their own.
 - field_id: CHCDIS012_TXT_22_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1103,7 +1103,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5A2F0F99
-  value: Pre-meeting preparation to list questions and goals the client wants to discuss.
+  value: Helping the person prepare questions and goals before meetings.
 - field_id: CHCDIS012_TXT_22_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1118,7 +1118,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 081BAB56
-  value: Maximizes meaningful participation and ensures the client's priorities are central to the meeting.
+  value: Ensures the meeting focuses on what is most important to the person.
 - field_id: CHCDIS012_TXT_23_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1129,7 +1129,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6B351A03
-  value: Installing wheelchair access ramps, automatic wide doors, and height-adjustable desks.
+  value: Adding wheelchair ramps, wide automatic doors, and height-adjustable desks.
 - field_id: CHCDIS012_TXT_23_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1144,7 +1144,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 35605B06
-  value: Eliminates physical barriers, enabling unrestricted physical access to community buildings.
+  value: Removes physical barriers so people can move around the building easily.
 - field_id: CHCDIS012_TXT_23_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1155,7 +1155,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1933879E
-  value: Providing flexible scheduling and quiet sensory rest areas in community centers.
+  value: Offering flexible times and quiet break rooms in community centres.
 - field_id: CHCDIS012_TXT_23_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1170,7 +1170,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6DC1DFA5
-  value: Accommodates fatigue, sensory overload, and personal care routines comfortably.
+  value: Helps clients manage fatigue or sensory overload comfortably.
 - field_id: CHCDIS012_TXT_24_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1185,7 +1185,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7337F141
-  value: Adaptive dressing sticks and button hooks
+  value: Dressing stick and button hook
 - field_id: CHCDIS012_TXT_24_3_3_1
   type: text
   section: Knowledge Assessment
@@ -1200,7 +1200,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6624FC5C
-  value: Adaptive dressing sticks and button hooks
+  value: Dressing stick and button hook
 - field_id: CHCDIS012_TXT_24_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1215,7 +1215,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 06875D21
-  value: Adaptive dressing sticks and button hooks
+  value: Dressing stick and button hook
 - field_id: CHCDIS012_TXT_24_4_3_1
   type: text
   section: Knowledge Assessment
@@ -1230,7 +1230,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 02E5322C
-  value: Adaptive dressing sticks and button hooks
+  value: Dressing stick and button hook
 - field_id: CHCDIS012_TXT_24_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1245,7 +1245,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7C79C6B3
-  value: Adaptive dressing sticks and button hooks
+  value: Dressing stick and button hook
 - field_id: CHCDIS012_TXT_24_5_3_1
   type: text
   section: Knowledge Assessment
@@ -1260,7 +1260,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 4025351C
-  value: Adaptive dressing sticks and button hooks
+  value: Dressing stick and button hook
 - field_id: CHCDIS012_TXT_24_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1275,7 +1275,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1F966385
-  value: Adaptive dressing sticks and button hooks
+  value: Dressing stick and button hook
 - field_id: CHCDIS012_TXT_24_6_3_1
   type: text
   section: Knowledge Assessment
@@ -1290,7 +1290,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 7EFF7673
-  value: Adaptive dressing sticks and button hooks
+  value: Dressing stick and button hook
 - field_id: CHCDIS012_TXT_25_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1301,7 +1301,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 21B5A4F4
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1312,7 +1312,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3B3397E3
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1323,7 +1323,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 31E6C7B6
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1334,7 +1334,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 72852CD1
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1345,7 +1345,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7625D0AF
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1356,7 +1356,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2931E844
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1367,7 +1367,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 27172EEA
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1378,7 +1378,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 378341A0
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1389,7 +1389,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2BF6C006
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1400,7 +1400,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '65408894'
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_6_1_1
   type: text
   section: Knowledge Assessment
@@ -1411,7 +1411,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 57738F3B
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_25_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1422,7 +1422,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 568417FA
-  value: Swivel shower stool with backrest
+  value: Swivel shower chair with backrest
 - field_id: CHCDIS012_TXT_26_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1433,7 +1433,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5B83432F
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1444,7 +1444,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 25C5464D
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1455,7 +1455,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: '54574467'
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1466,7 +1466,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0BAEBED6
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1477,7 +1477,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 533E2E17
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1488,7 +1488,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 722F7CE7
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1499,7 +1499,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 220E41D5
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1510,7 +1510,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5C752D2F
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1521,7 +1521,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 12F6641B
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1532,7 +1532,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5451035F
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_6_1_1
   type: text
   section: Knowledge Assessment
@@ -1543,7 +1543,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7E3E2E5F
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_26_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1554,7 +1554,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 59F08EE1
-  value: Slide transfer board with low-friction coating
+  value: Slide transfer board
 - field_id: CHCDIS012_TXT_27_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1565,7 +1565,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0619BECF
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1576,7 +1576,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 046A694F
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1587,7 +1587,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5526E72A
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1598,7 +1598,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 379BE99B
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1609,7 +1609,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1C51E05A
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1620,7 +1620,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 255CE54A
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1631,7 +1631,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 74F0EDC7
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1642,7 +1642,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5545982E
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1653,7 +1653,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2AF4D597
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1664,7 +1664,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 20A8F897
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_6_1_1
   type: text
   section: Knowledge Assessment
@@ -1675,7 +1675,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4F8353EF
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_27_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1686,7 +1686,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 04145CB4
-  value: Screen-reading software (JAWS / NVDA)
+  value: Screen-reading software (like NVDA)
 - field_id: CHCDIS012_TXT_28_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1697,7 +1697,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 38CA79B0
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1708,7 +1708,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 24BE1380
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1719,7 +1719,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2A6B788F
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1730,7 +1730,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 38FA32E3
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1741,7 +1741,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4607AD1F
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1752,7 +1752,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 456153F5
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1763,7 +1763,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1BC47F6E
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1774,7 +1774,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6C404763
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1785,7 +1785,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 347B5B80
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1796,7 +1796,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5F10C327
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_6_1_1
   type: text
   section: Knowledge Assessment
@@ -1807,7 +1807,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 43F11437
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_28_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1818,7 +1818,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5426DA98
-  value: All-terrain power wheelchair with off-road tires
+  value: All-terrain electric wheelchair
 - field_id: CHCDIS012_TXT_29_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1829,7 +1829,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 636B91AD
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1840,7 +1840,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 648A1CEF
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1851,7 +1851,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2B983CEC
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1862,7 +1862,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 06AF6F90
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1873,7 +1873,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4AF043B8
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1884,7 +1884,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '30278928'
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1895,7 +1895,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 33F615AF
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1906,7 +1906,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 67AD5123
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1917,7 +1917,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 654D1E71
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1928,7 +1928,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3F8DA285
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_6_1_1
   type: text
   section: Knowledge Assessment
@@ -1939,7 +1939,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5589445F
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_29_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1950,7 +1950,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 36E77C95
-  value: Ergonomic vertical mouse and specialized split keyboard
+  value: Ergonomic mouse and split keyboard
 - field_id: CHCDIS012_TXT_30_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1961,7 +1961,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4946FA0D
-  value: Weighted utensils with thick ribbed handles
+  value: Weighted cutlery with thick rubber handles
 - field_id: CHCDIS012_TXT_30_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1972,7 +1972,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 168CD232
-  value: Weighted utensils with thick ribbed handles
+  value: Weighted cutlery with thick rubber handles
 - field_id: CHCDIS012_TXT_30_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1983,7 +1983,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 040AF4D0
-  value: Weighted utensils with thick ribbed handles
+  value: Weighted cutlery with thick rubber handles
 - field_id: CHCDIS012_TXT_30_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1994,7 +1994,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4AEA32E9
-  value: Weighted utensils with thick ribbed handles
+  value: Weighted cutlery with thick rubber handles
 - field_id: CHCDIS012_TXT_30_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2005,7 +2005,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3E212EEF
-  value: Weighted utensils with thick ribbed handles
+  value: Weighted cutlery with thick rubber handles
 - field_id: CHCDIS012_TXT_30_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2016,7 +2016,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4F1B9F88
-  value: Weighted utensils with thick ribbed handles
+  value: Weighted cutlery with thick rubber handles
 - field_id: CHCDIS012_TXT_30_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2027,7 +2027,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 61A855C7
-  value: Weighted utensils with thick ribbed handles
+  value: Weighted cutlery with thick rubber handles
 - field_id: CHCDIS012_TXT_30_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2038,7 +2038,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 31E8B647
-  value: Weighted utensils with thick ribbed handles
+  value: Weighted cutlery with thick rubber handles
 - field_id: CHCDIS012_TXT_31_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2049,7 +2049,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4D19031C
-  value: Alternating air pressure mattress overlay
+  value: Alternating air mattress
 - field_id: CHCDIS012_TXT_31_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2060,7 +2060,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3554020E
-  value: Alternating air pressure mattress overlay
+  value: Alternating air mattress
 - field_id: CHCDIS012_TXT_31_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2071,7 +2071,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0CFF9E5F
-  value: Alternating air pressure mattress overlay
+  value: Alternating air mattress
 - field_id: CHCDIS012_TXT_31_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2082,7 +2082,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 40F42669
-  value: Alternating air pressure mattress overlay
+  value: Alternating air mattress
 - field_id: CHCDIS012_TXT_31_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2093,7 +2093,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 60EF999E
-  value: Alternating air pressure mattress overlay
+  value: Alternating air mattress
 - field_id: CHCDIS012_TXT_31_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2104,7 +2104,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0B08DB5F
-  value: Alternating air pressure mattress overlay
+  value: Alternating air mattress
 - field_id: CHCDIS012_TXT_31_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2115,7 +2115,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7EA8B68A
-  value: Alternating air pressure mattress overlay
+  value: Alternating air mattress
 - field_id: CHCDIS012_TXT_31_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2126,7 +2126,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3D9AB80C
-  value: Alternating air pressure mattress overlay
+  value: Alternating air mattress
 - field_id: CHCDIS012_TXT_32_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2141,7 +2141,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 451676D9
-  value: Automated electronic pill dispenser with alarm
+  value: Automatic pill dispenser with timer
 - field_id: CHCDIS012_TXT_32_3_3_1
   type: text
   section: Knowledge Assessment
@@ -2156,7 +2156,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 16560D24
-  value: Automated electronic pill dispenser with alarm
+  value: Automatic pill dispenser with timer
 - field_id: CHCDIS012_TXT_32_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2171,7 +2171,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 00FCB555
-  value: Automated electronic pill dispenser with alarm
+  value: Automatic pill dispenser with timer
 - field_id: CHCDIS012_TXT_32_4_3_1
   type: text
   section: Knowledge Assessment
@@ -2186,7 +2186,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1B0F183D
-  value: Automated electronic pill dispenser with alarm
+  value: Automatic pill dispenser with timer
 - field_id: CHCDIS012_TXT_32_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2201,7 +2201,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 566A3FD4
-  value: Automated electronic pill dispenser with alarm
+  value: Automatic pill dispenser with timer
 - field_id: CHCDIS012_TXT_32_5_3_1
   type: text
   section: Knowledge Assessment
@@ -2216,7 +2216,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 68FB6FBB
-  value: Automated electronic pill dispenser with alarm
+  value: Automatic pill dispenser with timer
 - field_id: CHCDIS012_TXT_32_6_2_1
   type: text
   section: Knowledge Assessment
@@ -2231,7 +2231,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6A8A02D0
-  value: Automated electronic pill dispenser with alarm
+  value: Automatic pill dispenser with timer
 - field_id: CHCDIS012_TXT_32_6_3_1
   type: text
   section: Knowledge Assessment
@@ -2246,7 +2246,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 0F9B8B52
-  value: Automated electronic pill dispenser with alarm
+  value: Automatic pill dispenser with timer
 - field_id: CHCDIS012_TXT_33_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2257,7 +2257,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 52CCB897
-  value: Smartphone GPS public transit navigation app with voice alerts
+  value: Smartphone bus transit app with voice directions
 - field_id: CHCDIS012_TXT_33_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2268,7 +2268,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2C72E90A
-  value: Smartphone GPS public transit navigation app with voice alerts
+  value: Smartphone bus transit app with voice directions
 - field_id: CHCDIS012_TXT_33_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2279,7 +2279,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 16747B28
-  value: Smartphone GPS public transit navigation app with voice alerts
+  value: Smartphone bus transit app with voice directions
 - field_id: CHCDIS012_TXT_33_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2290,7 +2290,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1C875B67
-  value: Smartphone GPS public transit navigation app with voice alerts
+  value: Smartphone bus transit app with voice directions
 - field_id: CHCDIS012_TXT_33_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2301,7 +2301,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 64103BDB
-  value: Smartphone GPS public transit navigation app with voice alerts
+  value: Smartphone bus transit app with voice directions
 - field_id: CHCDIS012_TXT_33_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2312,7 +2312,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5470C092
-  value: Smartphone GPS public transit navigation app with voice alerts
+  value: Smartphone bus transit app with voice directions
 - field_id: CHCDIS012_TXT_33_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2323,7 +2323,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 27E8DEA4
-  value: Smartphone GPS public transit navigation app with voice alerts
+  value: Smartphone bus transit app with voice directions
 - field_id: CHCDIS012_TXT_33_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2334,7 +2334,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6852508B
-  value: Smartphone GPS public transit navigation app with voice alerts
+  value: Smartphone bus transit app with voice directions
 - field_id: CHCDIS012_TXT_35_1_1_1
   type: text
   section: Knowledge Assessment

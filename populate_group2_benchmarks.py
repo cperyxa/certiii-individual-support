@@ -22,37 +22,37 @@ def populate_chcccs031_parta(fields):
         # Table 15: Duty of care / Disclosure examples (col 5)
         if t == 15 and c == 5:
             if r in [1, 2]:
-                f['value'] = "Promptly notify the client when their personal information must be disclosed under statutory mandatory reporting requirements."
+                f['value'] = "Tell the client gently if I have to report safety or abuse concerns by law."
             elif r in [3, 4]:
-                f['value'] = "Consistently adhere to individual care plan safety protocols and report emerging hazards to supervisors while supporting client choice."
+                f['value'] = "Always follow the client's care plan, support their choices safely, and report any hazards to my supervisor."
                 
         # Table 30: Life domains (col 2 = how AT helps, col 3 = example)
         elif t == 30:
             if r == 3: # Self-care
-                f['value'] = "Assists client to dress, eat, and perform grooming tasks independently without fatigue." if c == 2 else "Button hook and long-handled shoe horn"
+                f['value'] = "Helps the client dress, eat, and groom themselves independently without getting tired." if c == 2 else "Button hook and long-handled shoe horn"
             elif r == 4: # Continence
-                f['value'] = "Maintains skin dignity and prevents embarrassing leaks or skin breakdown." if c == 2 else "Urinary sheath drainage bags and moisture-wicking mattress protectors"
+                f['value'] = "Protects skin, prevents leaks, and preserves personal dignity." if c == 2 else "Urinary drainage bags and waterproof mattress protector"
             elif r == 5: # Hygiene
-                f['value'] = "Enables safe, unassisted showering and teeth cleaning." if c == 2 else "Shower chair with backrest and electric toothbrush with wide grip"
+                f['value'] = "Enables safe, unassisted showering and teeth cleaning." if c == 2 else "Shower chair with backrest and easy-grip toothbrush"
             elif r == 6: # Communication
-                f['value'] = "Allows non-verbal clients or those with dysarthria to express choices and needs." if c == 2 else "AAC speech-generating tablet device with symbol grid"
+                f['value'] = "Helps clients who have trouble speaking to express their needs and choices." if c == 2 else "Communication tablet with picture symbols"
             elif r == 7: # Mobility
-                f['value'] = "Provides stability and endurance during indoor and outdoor walking." if c == 2 else "4-wheel walker with handbrakes and seat"
+                f['value'] = "Gives balance and support when walking indoors or outside." if c == 2 else "4-wheel walker with handbrakes and seat"
             elif r == 8: # Transferring
-                f['value'] = "Facilitates safe movement between bed, chair, and wheelchair without manual strain." if c == 2 else "Mechanical mobile standing hoist with harness"
+                f['value'] = "Helps move safely between bed, chair, and wheelchair without back strain." if c == 2 else "Mobile standing hoist with sling"
 
         # Table 31: Life domains
         elif t == 31:
             doms = {
-                1: ("Provides visual prompts and task organizers.", "Digital pictorial schedule tablet"),
-                2: ("Delivers automated voice reminders for medication and meals.", "Talking digital calendar day clock"),
-                3: ("Magnifies text and provides auditory readouts.", "Electronic video magnifier / Screen-reading software"),
-                4: ("Amplifies speech sounds and reduces background noise.", "Digital hearing aid with Bluetooth loop connectivity"),
-                5: ("Assists with cooking, cleaning, and meal prep.", "Ergonomic easy-grip kitchen utensils"),
-                6: ("Allows independent participation in games and hobbies.", "Adaptive card holders and large-print games"),
-                7: ("Facilitates reading and audio enjoyment.", "Audiobook player with high-contrast buttons"),
-                8: ("Supports digital learning, typing, and research.", "Voice-to-text software and adaptive keyboard"),
-                9: ("Enables accessible computer work and workspace ergonomics.", "Adjustable motorized sit-stand desk and trackball mouse")
+                1: ("Gives visual reminders and helps organise daily routines.", "Digital pictorial schedule tablet"),
+                2: ("Gives spoken reminders for medication and meal times.", "Talking digital calendar day clock"),
+                3: ("Magnifies small text and reads words aloud.", "Electronic video magnifier / Screen-reading software"),
+                4: ("Makes voices clearer and cuts down background noise.", "Digital hearing aid with Bluetooth connectivity"),
+                5: ("Makes cooking, peeling, and cutting food easier and safer.", "Ergonomic easy-grip kitchen utensils"),
+                6: ("Allows playing cards and board games independently.", "Adaptive card holders and large-print games"),
+                7: ("Lets the client listen to audiobooks easily.", "Audiobook player with high-contrast buttons"),
+                8: ("Helps with reading, typing, and using a computer.", "Voice typing software and adaptive keyboard"),
+                9: ("Makes desk work comfortable and accessible.", "Adjustable sit-stand desk and trackball mouse")
             }
             if r in doms:
                 f['value'] = doms[r][0] if c == 1 else doms[r][1]
@@ -60,29 +60,29 @@ def populate_chcccs031_parta(fields):
         # Table 32: Life domains
         elif t == 32:
             doms2 = {
-                1: ("Enables independent home entry and environmental control.", "Smart door lock with sensor and lever door handles"),
-                2: ("Provides rapid emergency alerting to support staff.", "Wearable wireless nurse call pendant"),
-                3: ("Allows safe navigation of uneven terrain and community spaces.", "All-terrain motorized mobility scooter"),
-                4: ("Prevents spills and facilitates self-feeding with tremors.", "Weighted adaptive cutlery and high-rim scooper plate"),
-                5: ("Enables controlled fluid intake without neck hyperextension.", "Two-handled weighted mug with dysphagia cut-out lid"),
-                6: ("Relieves sustained tissue pressure over bony prominences.", "Alternating air pressure mattress overlay"),
-                7: ("Reduces physical lifting strain on informal and formal carers.", "Slide sheets and ceiling track transfer hoist")
+                1: ("Lets the client unlock doors and enter home easily.", "Smart door lock with sensor and lever handles"),
+                2: ("Calls support staff quickly in an emergency.", "Wearable wireless call pendant"),
+                3: ("Helps travel safely around paths and the neighbourhood.", "Motorized mobility scooter"),
+                4: ("Steadies shaky hands so food doesn't spill.", "Weighted cutlery and high-rim scooper plate"),
+                5: ("Allows drinking comfortably without tilting the head back.", "Two-handled mug with nose cut-out lid"),
+                6: ("Relieves pressure on skin to prevent bedsores.", "Alternating air pressure mattress overlay"),
+                7: ("Stops back strain for carers when repositioning clients.", "Slide sheets and transfer hoist")
             }
             if r in doms2:
                 f['value'] = doms2[r][0] if c == 1 else doms2[r][1]
 
         # Table 33: R4 C0
         elif t == 33 and r == 4:
-            f['value'] = "By removing physical, sensory, and cognitive barriers, allowing individuals to engage actively in social, educational, and domestic activities with autonomy and confidence."
+            f['value'] = "By removing physical and communication barriers, assistive technology helps clients join in everyday activities and hobbies with confidence and independence."
 
         # Table 35: Risk strategies
         elif t == 35:
             if r == 3:
-                f['value'] = "Maintain strict adherence to code of conduct, conduct mandatory abuse reporting training, and implement open-door monitoring."
+                f['value'] = "Follow the workplace code of conduct, complete mandatory reporting training, and keep my supervisor informed."
             elif r == 4:
-                f['value'] = "Actively involve clients in all care conferences, respect their cultural/lifestyle choices, and uphold dignity of risk."
+                f['value'] = "Involve the client in all care discussions, respect their cultural background, and support their choices."
             elif r == 5:
-                f['value'] = "Ensure clear pathways free of clutter, install grab rails in bathrooms, provide adequate lighting, and encourage prescribed mobility aids."
+                f['value'] = "Keep walkways clear of clutter, make sure lighting is good, install grab rails, and ensure mobility aids are within reach."
 
     return fields
 
@@ -137,15 +137,15 @@ def populate_chcccs038(fields):
         
         # Table 18: Restrictive practices ALRC & human rights (Table 18)
         if t == 18:
-            if r == 2: f['value'] = "According to the ALRC, restrictive practices refer to any intervention that has the effect of restricting the free movement or liberty of a person with disability."
-            elif r == 3: f['value'] = "Authorised restrictive practices must only be used as a last resort to prevent serious harm after exhausting all positive behaviour support strategies."
+            if r == 2: f['value'] = "Restrictive practices are actions or equipment that stop a person from moving freely or doing what they want, used only as a last resort to keep them or others safe after positive support strategies have been tried."
+            elif r == 3: f['value'] = "Authorised restrictive practices must only be used as a last resort to prevent serious harm after trying positive behaviour support strategies."
             elif r == 4:
                 vals = [
                     "Chemical restraint: Using medication for the primary purpose of controlling behaviour.",
-                    "Mechanical restraint: Using devices or equipment to restrict free bodily movement.",
-                    "Physical restraint: Using physical force to restrict or subdue movement.",
-                    "Environmental restraint: Restricting free access to parts of the environment or personal items.",
-                    "Seclusion: Confinement of a person alone in a room from which free exit is denied."
+                    "Mechanical restraint: Using devices or straps to restrict free movement of the body.",
+                    "Physical restraint: Using hands or physical force to hold or restrict movement.",
+                    "Environmental restraint: Locking doors or restricting access to parts of the home or personal belongings.",
+                    "Seclusion: Keeping someone alone in a room that they are not free to leave."
                 ]
                 f['value'] = vals[idx] if idx < len(vals) else vals[-1]
             elif r == 5:
@@ -156,72 +156,72 @@ def populate_chcccs038(fields):
                 f['value'] = vals[idx] if idx < len(vals) else vals[-1]
             elif r == 6:
                 vals = [
-                    "Physical impacts: Muscle deconditioning, pressure sores, loss of functional mobility, and injury.",
-                    "Psychological impacts: Trauma, depression, loss of dignity, diminished trust, and heightened anxiety."
+                    "Physical impacts: Bruising, pressure sores, loss of muscle strength, and injuries.",
+                    "Psychological impacts: Fear, trauma, depression, loss of dignity, and losing trust in carers."
                 ]
                 f['value'] = vals[idx] if idx < len(vals) else vals[-1]
             elif r == 7:
                 vals = [
-                    "To prevent imminent, serious physical injury to the person or others after all proactive de-escalation strategies have been exhausted.",
-                    "During acute, severe behavioral crises as an emergency measure while awaiting clinical assistance."
+                    "Only to prevent immediate, serious physical injury to the person or others after all calming strategies have been tried.",
+                    "During an acute crisis as an emergency safety measure while waiting for clinical help."
                 ]
                 f['value'] = vals[idx] if idx < len(vals) else vals[-1]
 
         # Table 19: Risks of restrictive practices
         elif t == 19 and r == 2:
-            f['value'] = "Risks include physical injury, asphyxiation, cardiovascular distress, severe psychological trauma, and dehumanisation."
+            f['value'] = "Risks include physical injury, cuts and bruises, breathing difficulties, severe emotional distress, and loss of dignity."
             
         # Table 20: Behaviour support plan requirements
         elif t == 20:
-            if r == 2: f['value'] = "The Behaviour Support Plan must contain proactive strategies, functional behaviour assessment, explicit authorization, and fading protocols."
+            if r == 2: f['value'] = "The Behaviour Support Plan must contain proactive strategies, functional assessment, clear authorization, and steps to reduce and eliminate the restraint."
             elif r == 3: f['value'] = "1. Authorisation under state legislation. 2. Regular clinical review. 3. Monthly reporting to the NDIS Commission."
             
         # Table 21: Technology & choice
         elif t == 21:
-            if r == 2: f['value'] = "Smart home automation, voice-activated environmental controls, and tablet scheduling apps allow individuals to control their own environment and schedule independently."
-            elif r == 3: f['value'] = "1. Providing accessible, transparent information about service options. 2. Supporting the individual to run their own care meetings."
-            elif r == 4: f['value'] = "Providing choices empowers individuals, validates their identity and preferences, fosters self-esteem, and reduces frustration and feelings of helplessness."
+            if r == 2: f['value'] = "Smart home automation, voice-controlled lights, and picture schedule apps allow people to control their own room and daily routine independently."
+            elif r == 3: f['value'] = "1. Providing clear, easy-to-understand information about care options. 2. Supporting the client to run their own care meetings."
+            elif r == 4: f['value'] = "Giving clients choices validates their preferences, builds self-esteem, and helps them feel in control of their own life, reducing frustration."
             elif r == 5:
                 vals = [
-                    "Presenting daily options in accessible formats (visual cards, Easy Read) and explaining the benefits and risks of each option clearly.",
-                    "Allowing adequate time for the person to make their own decision without rushing, and upholding their dignity of risk."
+                    "Presenting daily options in simple formats (visual cards, Easy Read) and explaining benefits and risks clearly.",
+                    "Giving the person enough time to make their own decision without rushing them."
                 ]
                 f['value'] = vals[idx] if idx < len(vals) else vals[-1]
             
         # Table 22: Rights to planning
         elif t == 22:
-            if r == 2: f['value'] = "Under the NDIS Act 2013 and UNCRPD Article 12, persons with disability have the right to be central to planning and make decisions about their own lives."
+            if r == 2: f['value'] = "Under the NDIS Act 2013 and UNCRPD Article 12, people with disability have the right to be central to planning and make decisions about their own lives."
             elif r == 3: f['value'] = "Under the Charter of Aged Care Rights, consumers have the right to have control over and make decisions about their care, personal and social life."
             
         # Table 23: Strategies for planning
         elif t == 23:
-            f['value'] = "1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent advocacy support during decision-making."
+            f['value'] = "1. Preparing before meetings using visual tools. 2. Involving an independent advocate to support the client's decisions."
 
         # Tables 24-26: Assistive technologies
         elif t in [24, 25, 26]:
             at_dict = {
-                "self-care": ("Assists client to dress, eat, and perform grooming tasks independently without fatigue.", "Button hook and long-handled shoe horn"),
-                "continence": ("Maintains skin dignity and prevents embarrassing leaks or skin breakdown.", "Urinary sheath drainage bags and moisture-wicking mattress protectors"),
-                "hygiene": ("Enables safe, unassisted showering and teeth cleaning.", "Shower chair with backrest and electric toothbrush with wide grip"),
-                "communication": ("Allows non-verbal clients or those with dysarthria to express choices and needs.", "AAC speech-generating tablet device with symbol grid"),
-                "mobility": ("Provides stability and endurance during indoor and outdoor walking.", "4-wheel walker with handbrakes and seat"),
-                "transferring": ("Facilitates safe movement between bed, chair, and wheelchair without manual strain.", "Mechanical mobile standing hoist with harness"),
-                "cognition": ("Provides visual prompts and task organizers.", "Digital pictorial schedule tablet"),
-                "memory loss": ("Delivers automated voice reminders for medication and meals.", "Talking digital calendar day clock"),
-                "vision": ("Magnifies text and provides auditory readouts.", "Electronic video magnifier / Screen-reading software"),
-                "hearing": ("Amplifies speech sounds and reduces background noise.", "Digital hearing aid with Bluetooth loop connectivity"),
+                "self-care": ("Helps client dress, eat, and perform grooming independently.", "Button hook and long-handled shoe horn"),
+                "continence": ("Protects skin, prevents leaks, and maintains personal dignity.", "Urinary drainage bags and waterproof mattress protector"),
+                "hygiene": ("Enables safe, unassisted showering and teeth cleaning.", "Shower chair with backrest and easy-grip toothbrush"),
+                "communication": ("Helps clients who have trouble speaking to express choices.", "Communication tablet with symbol grid"),
+                "mobility": ("Provides balance and support during indoor and outdoor walking.", "4-wheel walker with handbrakes and seat"),
+                "transferring": ("Helps move safely between bed and wheelchair without back strain.", "Mobile standing hoist with harness"),
+                "cognition": ("Provides visual reminders and daily task organizers.", "Digital pictorial schedule tablet"),
+                "memory loss": ("Gives spoken reminders for medication and meal times.", "Talking digital calendar day clock"),
+                "vision": ("Magnifies small text and reads words aloud.", "Electronic video magnifier / Screen-reading software"),
+                "hearing": ("Makes voices clearer and cuts down background noise.", "Digital hearing aid with Bluetooth loop connectivity"),
                 "daily living activities": ("Assists with cooking, cleaning, and meal prep.", "Ergonomic easy-grip kitchen utensils"),
                 "recreation": ("Allows independent participation in games and hobbies.", "Adaptive card holders and large-print games"),
-                "leisure": ("Facilitates reading and audio enjoyment.", "Audiobook player with high-contrast buttons"),
-                "education": ("Supports digital learning, typing, and research.", "Voice-to-text software and adaptive keyboard"),
-                "employment": ("Enables accessible computer work and workspace ergonomics.", "Adjustable motorized sit-stand desk and trackball mouse"),
-                "home": ("Enables independent home entry and environmental control.", "Smart door lock with sensor and lever door handles"),
-                "care residence": ("Provides rapid emergency alerting to support staff.", "Wearable wireless nurse call pendant"),
-                "outdoors": ("Allows safe navigation of uneven terrain and community spaces.", "All-terrain motorized mobility scooter"),
-                "eating": ("Prevents spills and facilitates self-feeding with tremors.", "Weighted adaptive cutlery and high-rim scooper plate"),
-                "drinking": ("Enables controlled fluid intake without neck hyperextension.", "Two-handled weighted mug with dysphagia cut-out lid"),
-                "pressure area management": ("Relieves sustained tissue pressure over bony prominences.", "Alternating air pressure mattress overlay"),
-                "carer support": ("Reduces physical lifting strain on informal and formal carers.", "Slide sheets and ceiling track transfer hoist")
+                "leisure": ("Lets the client listen to audiobooks easily.", "Audiobook player with high-contrast buttons"),
+                "education": ("Supports reading, typing, and using a computer.", "Voice typing software and adaptive keyboard"),
+                "employment": ("Makes desk work comfortable and accessible.", "Adjustable sit-stand desk and trackball mouse"),
+                "home": ("Lets the client unlock doors and enter home easily.", "Smart door lock with sensor and lever door handles"),
+                "care residence": ("Calls support staff quickly in an emergency.", "Wearable wireless nurse call pendant"),
+                "outdoors": ("Helps travel safely around paths and the neighbourhood.", "All-terrain motorized mobility scooter"),
+                "eating": ("Steadies shaky hands so food doesn't spill.", "Weighted adaptive cutlery and high-rim scooper plate"),
+                "drinking": ("Allows drinking comfortably without tilting the head back.", "Two-handled mug with dysphagia cut-out lid"),
+                "pressure area management": ("Relieves pressure on skin to prevent bedsores.", "Alternating air pressure mattress overlay"),
+                "carer support": ("Stops back strain for carers when repositioning clients.", "Slide sheets and ceiling track transfer hoist")
             }
             lbl = f['label'].lower()
             matched = False
@@ -235,7 +235,7 @@ def populate_chcccs038(fields):
 
         # Table 27: AT maintaining independence
         elif t == 27:
-            f['value'] = "AT compensates for functional impairments, empowering individuals to perform domestic, educational, and vocational tasks on their own terms."
+            f['value'] = "Assistive technology helps people overcome physical limitations so they can do daily tasks, hobbies, and work on their own terms."
 
         # Table 28 & 29: Complaints & advocacy
         elif t == 28:
@@ -277,11 +277,11 @@ def populate_chcccs038(fields):
         # Table 37: Boundaries & responsibilities
         elif t == 37:
             if r == 0:
-                f['value'] = "Three work role boundaries: 1. No financial transactions/loans with clients. 2. Maintain strict professional detachment (no personal relationships). 3. Only perform delegated tasks within certified competencies."
+                f['value'] = "Three work boundaries: 1. Never accept gifts of money or lend money to clients. 2. Keep relationships strictly professional (not friends outside of work). 3. Only do tasks I have been trained and certified to perform."
             elif r == 1:
-                f['value'] = "Three responsibilities: 1. Deliver person-centred care aligned with care plan. 2. Maintain accurate daily progress notes. 3. Promptly report health deterioration or hazards."
+                f['value'] = "Three responsibilities: 1. Deliver care following the client's care plan. 2. Write clear, accurate daily progress notes. 3. Report any changes in client health or hazards to my supervisor."
             elif r == 2:
-                f['value'] = "Three limitations: 1. Cannot alter prescribed medications or clinical doses. 2. Cannot provide financial or legal advice. 3. Cannot perform invasive nursing procedures."
+                f['value'] = "Three limitations: 1. Cannot alter prescribed medications or dosages. 2. Cannot give legal or financial advice. 3. Cannot perform invasive nursing procedures."
 
         # Table 38: Standards
         elif t == 38:
@@ -303,15 +303,15 @@ def populate_chcccs038(fields):
             elif r == 2 and c == 1: f['value'] = "Osteoarthritis, hypertension, and mild cognitive impairment; history of osteoporosis."
             elif r == 3 and c == 1: f['value'] = "Robert M (Son and primary family contact)"
         elif t == 53:
-            f['value'] = "Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and high emotional distress."
+            f['value'] = "Bruising and a small skin tear on left forearm; Judith was very upset, crying, and in pain."
         elif t == 54:
-            f['value'] = "Judith disclosed rough handling by agency staff during morning transfer; emergency call buzzer was unplugged behind bedside table; client left unattended."
+            f['value'] = "Judith stated she was handled roughly by agency staff during morning transfer; call buzzer was left unplugged behind the bed."
         elif t == 55:
             f['value'] = "Alex Chen (Support Worker) and Sarah Jenkins (Registered Nurse)."
 
         # Table 67: Matilda strategies
         elif t == 67:
-            f['value'] = "Facilitate a consultation with a physiotherapist to design an individualised strength and balance mobility program." if r == 3 else "Encourage Matilda to join the weekly facility gardening group to foster friendships."
+            f['value'] = "Arrange for a physiotherapist to assess Matilda and design a gentle walking and balance exercise program." if r == 3 else "Invite Matilda to join the weekly facility gardening group to make friends and enjoy the outdoors."
 
     return fields
 
@@ -326,15 +326,15 @@ def populate_chcccs041(fields):
         
         # Table 5 & 6: Organ systems
         if t == 5 and r == 9 and c == 2:
-            f['value'] = "Produces female gametes (ova), secretes estrogen and progesterone, facilitates fertilization, and supports foetal gestation."
+            f['value'] = "Produces eggs (ova), makes female hormones (estrogen and progesterone), and carries and nourishes a baby during pregnancy."
         elif t == 6 and c == 1:
             systems = {
-                1: "Produces, maintains, and transports sperm and protective seminal fluid, and secretes male sex hormones (testosterone).",
-                2: "Forms a waterproof outer protective barrier against environmental pathogens, UV radiation, and dehydration; houses sensory receptors; and regulates body temperature.",
-                3: "Returns leaked interstitial fluid to the circulatory system, absorbs dietary fats, and filters foreign pathogens through lymph nodes.",
-                4: "Rapidly detects internal and external sensory stimuli, processes cognitive information, and coordinates voluntary and involuntary physiological responses.",
-                5: "Defends the body against infectious microorganisms (bacteria, viruses, fungi) and abnormal cells using innate physical barriers and adaptive antibody/cellular responses.",
-                6: "Filters metabolic wastes and toxins from blood, regulates systemic fluid and electrolyte balance, and maintains blood pH through urine excretion."
+                1: "Produces and carries sperm and makes male sex hormones (testosterone).",
+                2: "Protects the body against germs and dirt, helps control body temperature through sweating, and senses touch, heat, and pain.",
+                3: "Drains extra fluid from body tissues back to the blood and helps filter out germs through lymph nodes.",
+                4: "Senses changes inside and outside the body, sends messages through nerves to the brain, and controls our movements and reactions.",
+                5: "Fights off harmful germs like bacteria and viruses to protect the body from illness and infections.",
+                6: "Filters waste from the blood, balances fluid levels in the body, and gets rid of extra water and waste as urine."
             }
             if r in systems: f['value'] = systems[r]
 
@@ -343,7 +343,7 @@ def populate_chcccs041(fields):
             vals = ["cardiovascular", "respiratory", "muscular", "skeletal"]
             f['value'] = vals[idx] if idx < len(vals) else vals[-1]
         elif t == 38:
-            if idx == 0: f['value'] = "Through cutaneous sensory nerve endings and mechanoreceptors embedded in the dermis and epidermis."
+            if idx == 0: f['value'] = "Through tiny sensory nerve endings in the skin that detect touch, pressure, temperature, and pain."
             elif idx == 1: f['value'] = "sensory"
             elif idx == 2: f['value'] = "central nervous"
         elif t == 39:
@@ -353,132 +353,132 @@ def populate_chcccs041(fields):
         # Table 41: Sensory organs
         elif t == 41:
             exps = {
-                1: "Photoreceptors in the retina convert light waves into electrical nerve impulses sent to the visual cortex.",
-                2: "Mechanoreceptors in the cochlea translate acoustic vibrations into auditory signals, and semicircular canals maintain balance.",
-                3: "Chemoreceptors in the olfactory epithelium bind airborne odorant molecules, transmitting smell signals to the olfactory bulb.",
-                4: "Gustatory taste receptor cells detect dissolved chemical tastants (sweet, salty, sour, bitter, umami) and stimulate salivation."
+                1: "Light enters the eye and hits the retina, which sends visual messages through the optic nerve to the brain.",
+                2: "Sound waves enter the ear canal and make the eardrum vibrate, sending sound signals to the brain and helping us keep our balance.",
+                3: "Scent molecules in the air are detected by nerve cells in the nose, sending smell signals to the brain.",
+                4: "Taste buds on the tongue detect sweet, salty, sour, bitter, and savoury tastes and trigger saliva."
             }
             if r in exps: f['value'] = exps[r]
 
         # Tables 42-47: Homeostasis
         elif t == 42:
-            f['value'] = "The body promotes heat loss through cutaneous vasodilation (flushing) and eccrine sweating; when exposed to cold, it initiates peripheral vasoconstriction and shivering thermogenesis."
+            f['value'] = "When the body is hot, blood vessels widen (flushing) and we sweat so the skin cools down as sweat evaporates. When cold, blood vessels narrow to keep heat in and muscles shiver to create warmth."
         elif t == 43:
             vals = ["sweat normally", "sweat glands", "heat exhaustion", "hyperthermia", "core body temperature"]
             f['value'] = vals[idx] if idx < len(vals) else vals[-1]
         elif t == 44:
-            f['value'] = "The kidneys selectively reabsorb or excrete water, sodium, potassium, and chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone (ADH), and atrial natriuretic peptide."
+            f['value'] = "The kidneys balance water and minerals in the body, holding onto fluid if we are dehydrated or making more urine if we drink extra water."
         elif t == 45:
             vals = ["kidney", "large intestine", "lungs", "skin", "sweat", "urea", "carbon dioxide", "feces", "urine", "filtration"]
             f['value'] = vals[idx] if idx < len(vals) else vals[-1]
         elif t == 46:
-            f['value'] = "Systolic pressure is the maximum arterial pressure during ventricular myocardial contraction; diastolic pressure is the minimum resting pressure during ventricular relaxation. Regulated by baroreceptors."
+            f['value'] = "Systolic is the higher pressure when the heart contracts and pumps blood out. Diastolic is the lower resting pressure when the heart relaxes between beats."
         elif t == 47:
-            f['value'] = "White blood cells destroy invading pathogens via phagocytosis (neutrophils and macrophages) and antibody-mediated neutralization (B-lymphocytes)."
+            f['value'] = "White blood cells fight off infections by swallowing up germs or making antibodies to destroy harmful bacteria and viruses."
 
         # Tables 48-53: Physical activity & movement
         elif t == 48:
-            f['value'] = "Older adults with poor mobility should perform balance exercises, seated resistance training, and gentle walking for at least 30 minutes on most days to reduce fall risks."
+            f['value'] = "Older adults with poor mobility should do gentle balance exercises, seated exercises, and short walks for about 30 minutes on most days to prevent falls."
         elif t == 49:
-            f['value'] = "Active exercise is recommended for clients with voluntary muscle control to improve cardiovascular fitness; passive exercise is recommended for bedbound, paralyzed, or post-stroke clients to maintain joint range of motion."
+            f['value'] = "Active exercise is when the client moves their own body to stay fit. Passive exercise is when a carer gently moves a client's joints (for someone who is bedbound or had a stroke) to keep joints from getting stiff."
         elif t == 50:
-            f['value'] = "Providing balanced, nutrient-dense meals tailored to clinical dietary requirements, and supporting daily oral and personal hygiene routines."
+            f['value'] = "Giving balanced healthy meals that meet the client's dietary needs, and helping with daily teeth brushing and personal washing."
         elif t == 51:
-            f['value'] = "Nutrition supplies the essential proteins, vitamins, and fluids needed for tissue repair and immune vitality, while strict personal and food hygiene prevents pathogenic infection."
+            f['value'] = "Good nutrition gives the body vitamins and protein to heal skin and stay strong, while good hygiene stops germs from spreading."
         elif t == 52:
-            f['value'] = "Poor oral hygiene causes periodontitis, tooth loss, and severe mouth pain, making chewing difficult, leading to food avoidance, poor nutritional intake, and unintentional weight loss."
+            f['value'] = "Tooth decay and sore gums cause severe mouth pain, making it difficult to chew, leading to food avoidance, poor nutrition, and weight loss."
         elif t == 53:
-            f['value'] = "Disabilities such as hemiplegia, paraplegia, spasticity, or severe arthritis restrict physical mobility, requiring assistive mobility devices and regular passive/active physical support."
+            f['value'] = "Disabilities like stroke paralysis, arthritis, or muscle weakness make it hard to move around, needing walking aids, wheelchairs, and carer help."
 
         # Tables 54-58: Indicators of issues & ageing
         elif t == 54:
             inds = {
-                1: "Malnutrition: Unintentional clothes loosening, noticeable muscle wasting, lethargy, and dull skin/hair.",
-                2: "Dehydration: Dry cracked lips, sunken eyes, dark concentrated urine, and sudden postural dizziness.",
-                3: "Skin tear / wound: Epidermal separation, localized bleeding, erythema, and purulent exudate.",
-                4: "Incontinence: Strong ammonia odor, wet bedding/clothing, and excoriated perineal skin.",
-                5: "Respiratory infection: Productive cough with yellow/green sputum, wheezing, and fever.",
-                6: "Oral health: Bleeding swollen gums, loose teeth, severe halitosis, or painful mouth ulcers.",
-                7: "Appetite regulation: Unexplained sudden loss of appetite, skipping multiple meals consecutively, or leaving more than half of meal portions untouched."
+                1: "Malnutrition: Clothes fitting loosely, noticeable weight loss, low energy, and tired appearance.",
+                2: "Dehydration: Dry cracked lips, dark strong-smelling urine, sunken eyes, and feeling dizzy.",
+                3: "Skin tear / wound: A cut, scrape, redness, or bleeding on fragile skin.",
+                4: "Incontinence: Wet clothes or bedding, strong urine smell, and red sore skin around the groin.",
+                5: "Respiratory infection: Coughing with yellow or green phlegm, wheezing, shortness of breath, and fever.",
+                6: "Oral health: Bleeding or swollen gums, loose teeth, bad breath, or painful mouth ulcers.",
+                7: "Appetite: Leaving most food untouched, skipping meals, or refusing to eat."
             }
             if r in inds: f['value'] = inds[r]
         elif t == 55:
             inds2 = {
-                1: "Dysphagia: Persistent coughing, throat clearing, or choking during meals, and pocketing food.",
-                2: "Bone health: Gradual loss of height, stooped kyphotic posture, or fracture from minor bumps.",
-                3: "Food intolerance: Abdominal cramps, flatulence, nausea, diarrhea, or urticaria following meal intake.",
-                4: "Dementia: Disorientation to familiar surroundings, losing track of conversations, and impaired judgment.",
-                5: "Cognitive decline: Difficulty following multi-step instructions and sudden personality changes."
+                1: "Dysphagia: Coughing or choking while eating or drinking, clearing throat often, or holding food in cheeks.",
+                2: "Bone health: Loss of height, stooped posture, or fractures from minor bumps.",
+                3: "Food intolerance: Stomach cramps, bloating, nausea, or diarrhoea after eating certain foods.",
+                4: "Dementia: Getting lost in familiar places, forgetting recent conversations, and confusion with daily tasks.",
+                5: "Cognitive decline: Trouble following simple instructions, forgetting names, or sudden confusion."
             }
             if r in inds2: f['value'] = inds2[r]
         elif t == 56:
             if r == 6:
-                f['value'] = "Ageing causes dry mouth (xerostomia), receding gums, brittle teeth, and reduced taste bud sensitivity."
+                f['value'] = "Ageing causes dry mouth, receding gums, brittle teeth, and reduced taste bud sensitivity."
             elif r == 7:
-                f['value'] = "Dysphagia: Age-related pharyngeal muscle weakness, xerostomia (dry mouth), and delayed swallowing reflexes increase coughing and aspiration risks."
+                f['value'] = "Weakening throat muscles, dry mouth, and slower swallowing reflexes make older people more likely to cough or choke on food."
         elif t == 57:
-            f['value'] = "Decreased bone mineral density (osteopenia/osteoporosis), increasing vulnerability to low-trauma fractures." if r == 1 else "Age-related structural skin thinning, loss of subcutaneous fat, and impaired collagen synthesis."
+            f['value'] = "Thinning bones (osteoporosis), making bones break easily from minor falls." if r == 1 else "Skin becomes thinner, drier, and loses fat padding, making it tear easily."
         elif t == 58:
-            f['value'] = "Increased risk of depression, anxiety, social isolation, and grief associated with loss of independence and peers."
+            f['value'] = "Feeling lonely, anxious, or depressed after losing independence, moving out of home, or losing loved ones."
 
         # Tables 59-65: Wellbeing, pain, diseases
         elif t == 59:
-            f['value'] = "Reduced physical mobility reduces caloric expenditure, while certain psychiatric medications cause appetite stimulation, leading to weight gain and secondary cardiovascular strain."
+            f['value'] = "Less physical activity burns fewer calories, while some medications increase appetite, leading to weight gain and extra strain on the heart and joints."
         elif t == 60:
-            f['value'] = "Chronic physical illness induces ongoing pain, fatigue, and frustration, which can erode self-esteem and lead to depression, anxiety, and social withdrawal."
+            f['value'] = "Living with constant pain or sickness makes people feel tired and frustrated, which can lead to feeling down, anxious, or withdrawing from friends."
         elif t == 61:
-            f['value'] = "By observing deviations from the client's documented baseline: changes in posture, facial expressions, speech speed, appetite, gait balance, or sudden agitation."
+            f['value'] = "By watching for changes from the client's normal behaviour: looking pale or tired, grimacing, moving slower than usual, eating less, or sudden confusion."
         elif t == 62 and r == 5:
-            f['value'] = "Cognitive or communicative disability can impair the ability to articulate pain verbally, leading to behavioural expressions such as aggression, grimacing, or withdrawal."
+            f['value'] = "Clients who have trouble speaking or memory loss might not be able to say they are in pain, so they might show it by crying, grimacing, withdrawing, or becoming restless and agitated."
         elif t == 63:
             vals = ["Abbey Pain Scale", "Wong-Baker FACES Pain Rating Scale", "facial expression", "vocalisation", "body language", "physiological changes", "physical changes"]
             f['value'] = vals[idx] if idx < len(vals) else vals[-1]
         elif t == 64:
-            f['value'] = "Coronary heart disease: Narrowing of coronary arteries impairs myocardial blood supply, causing angina, shortness of breath, and risk of acute myocardial infarction."
+            f['value'] = "Coronary heart disease: Fatty deposits build up in the blood vessels supplying the heart, reducing blood flow and causing chest pain (angina) or a heart attack."
         elif t == 65:
-            f['value'] = "Poor oral hygiene produces constant dental pain, difficulty chewing, bad breath, and loss of teeth, destroying self-esteem, social confidence, and enjoyment of eating."
+            f['value'] = "Tooth decay and mouth pain make eating uncomfortable, cause bad breath, and stop people from smiling or socializing because of embarrassment."
         elif t == 67:
             exps = {
-                1: "Physical disability: Long-term impairment of the musculoskeletal or neurological systems limiting mobility or dexterity.",
-                2: "Sensory disability: Impairment affecting visual or auditory perception.",
-                3: "Intellectual disability: Significantly reduced ability to understand new concepts, solve problems, and learn new skills.",
-                4: "Cognitive disability: Impairment in memory, attention, executive functioning, or perception.",
-                5: "Psychiatric disability: Mental health conditions such as schizophrenia or bipolar disorder impacting emotion, thought, and behaviour.",
-                6: "Neurological disability: Damage to the central or peripheral nervous system (e.g. stroke, multiple sclerosis, Parkinson's disease).",
-                7: "Hearing impairment: Partial or total inability to perceive acoustic sounds due to damage to the auditory nerve, cochlea, or middle ear.",
-                8: "Vision impairment: Significant loss of sight not fully correctable by standard glasses (e.g. macular degeneration, cataracts, glaucoma)."
+                1: "Physical disability: Long-term physical condition that limits movement, strength, or coordination.",
+                2: "Sensory disability: Loss of sight or hearing that affects how someone takes in information.",
+                3: "Intellectual disability: Difficulty learning new things, understanding complex concepts, and problem-solving.",
+                4: "Cognitive disability: Impairment affecting memory, concentration, thinking, and planning.",
+                5: "Psychiatric disability: Mental health conditions (like depression, bipolar, or schizophrenia) that affect mood and daily functioning.",
+                6: "Neurological disability: Conditions affecting the brain and nerves, such as stroke, Parkinson's disease, or multiple sclerosis.",
+                7: "Hearing impairment: Partial or total hearing loss in one or both ears.",
+                8: "Vision impairment: Significant loss of eyesight that cannot be fully fixed by glasses."
             }
             if r in exps: f['value'] = exps[r]
 
         # Tables 70-73: Medical terminology & abbreviations
         elif t == 70 and r == 1:
-            f['value'] = "Abrasion: A superficial rubbing or scraping of the surface layers of the skin."
+            f['value'] = "Abrasion: A graze or scrape on the surface of the skin."
         elif t == 71 and r == 1:
-            f['value'] = "Febrile: Showing symptoms of a fever; having an abnormally high body temperature above 37.5°C."
+            f['value'] = "Febrile: Having a fever; body temperature above 37.5°C."
         elif t == 73:
             abbs = {
-                1: "Complete Blood Count: Measures red cells, white cells, hemoglobin, and platelets to detect infection or anemia.",
-                2: "Blood Pressure: Measures the pressure exerted by circulating blood against arterial walls.",
-                3: "Pro re nata (As needed): Medication taken only when required for specific symptoms.",
-                4: "Activities of Daily Living: Basic daily self-care tasks (bathing, dressing, eating, mobility).",
-                5: "Upper Respiratory Infection: An acute infection affecting the nose, throat, sinuses, or larynx (e.g. common cold, pharyngitis, sinusitis)."
+                1: "Full Blood Count: Blood test checking red and white blood cells and platelets to look for infection or anaemia.",
+                2: "Blood Pressure: Measures the pressure of blood pumping through the arteries.",
+                3: "PRN (Pro re nata): Medication given only when needed for specific symptoms.",
+                4: "ADLs (Activities of Daily Living): Everyday tasks like showering, dressing, eating, and walking.",
+                5: "URI: Upper Respiratory Infection (like a head cold, sinus infection, or sore throat)."
             }
             if r in abbs: f['value'] = abbs[r]
 
         # Tables 78-87: Case study 1 health monitoring
         elif t in range(78, 88):
-            f['value'] = "Follow organizational clinical protocols, check vital signs, report abnormal readings to the Registered Nurse, and record findings in the client health chart."
+            f['value'] = "Follow workplace care procedures, check vital signs, report unusual readings to the Registered Nurse, and record notes in the client's chart."
 
         # Tables 91-102: Case study 2 Madge fall report
         elif t == 91:
             if r == 3:
-                f['value'] = "To the Registered Nurse / Workplace Supervisor immediately, followed by the facility manager and treating doctor."
+                f['value'] = "Report immediately in person to RN Sarah Jenkins, followed by the facility manager and treating doctor."
             elif r == 4:
-                f['value'] = "Verbally in person or via telephone immediately, followed by formal written documentation in the organizational Incident Report Form."
+                f['value'] = "Verbally in person immediately, followed by completing the workplace Incident Report Form."
             elif r == 5:
-                f['value'] = "Immediately upon discovery or stabilization of the client, without delay."
+                f['value'] = "Immediately as soon as Madge is made safe and attended to."
         elif t == 93:
-            f['value'] = "Madge exhibited acute distress, confusion, crying, and severe anxiety about falling again."
+            f['value'] = "Madge was shaken up, crying, and anxious about falling again."
         elif t == 95:
             f['value'] = "CareConnect College Aged Care Facility - Room 22"
         elif t == 96:
@@ -486,11 +486,11 @@ def populate_chcccs041(fields):
         elif t == 97:
             f['value'] = "Madge Thompson (Resident, Room 22)"
         elif t == 98:
-            f['value'] = "Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness."
+            f['value'] = "Bruising on right hip and a small graze on right elbow."
         elif t == 99:
-            f['value'] = "First aid provided; Registered Nurse attended immediately; Triple Zero (000) dispatched; family notified."
+            f['value'] = "Gave first aid, called RN Sarah Jenkins immediately, checked vitals (BP 95/60, Pulse 92), made Madge comfortable, and called 000 ambulance."
         elif t == 101:
-            f['value'] = "At 08:00 AM on 11/03/2026, worker entered Room 22 and found resident Madge on the floor beside her bed. Madge stated she slipped while reaching for her glasses. First aid was administered, vital signs checked (BP 95/60, Pulse 92), RN took clinical charge, and ambulance arrived at 08:35 AM."
+            f['value'] = "At 08:00 AM on 11/03/2026, I walked into Room 22 and found resident Madge sitting on the floor beside her bed. She told me she slipped while reaching for her glasses. I stayed with her, called RN Sarah Jenkins, checked vital signs, applied first aid to her elbow graze, and ambulance arrived at 08:35 AM."
         elif t == 102:
             f['value'] = "Alex Chen, Support Worker, Care Connect Services"
 
@@ -507,16 +507,16 @@ def populate_chcdiv001(fields):
         
         # Table 4: Definitions
         if t == 4:
-            if r == 3: f['value'] = "Cultural awareness is the self-examination and understanding of one's own cultural beliefs and an openness to recognizing and respecting differences in others."
-            elif r == 4: f['value'] = "Cultural safety is an environment that is spiritually, socially, and emotionally safe, where there is no assault, challenge, or denial of an individual's cultural identity."
-            elif r == 5: f['value'] = "Cultural competence is the ability of individuals and systems to effectively communicate and collaborate with people across diverse cultural, ethnic, and linguistic backgrounds."
+            if r == 3: f['value'] = "Cultural awareness is being aware of my own cultural background and values, and respecting that others have different cultures and ways of life."
+            elif r == 4: f['value'] = "Cultural safety means creating a welcoming environment where clients feel respected, safe, and comfortable to be themselves without experiencing judgment or discrimination."
+            elif r == 5: f['value'] = "Cultural competence is the ability to communicate, work effectively, and build respectful relationships with people from all different cultural and language backgrounds."
 
         # Table 7: Policies
         elif t == 7:
             if r == 1:
-                f['value'] = "National Agreement on Closing the Gap (closingthegap.gov.au): Aims to overcome systemic health, justice, and economic inequality for First Nations peoples."
+                f['value'] = "National Agreement on Closing the Gap (closingthegap.gov.au): Aims to overcome health, education, and social gaps for Aboriginal and Torres Strait Islander peoples."
             elif r == 2:
-                f['value'] = "National Settlement Framework (homeaffairs.gov.au): Provides support for humanitarian refugees to integrate socially, economically, and linguistically."
+                f['value'] = "National Settlement Framework (homeaffairs.gov.au): Provides support for humanitarian refugees to settle, learn English, and join the community."
 
         # Tables 12-18 & 22-25: Anti-discrimination legislation
         elif t in [12, 13, 14, 15, 16, 17, 18, 22, 23, 24, 25]:
@@ -532,9 +532,9 @@ def populate_chcdiv001(fields):
                 elif "sex" in lbl: f['value'] = "Part 2, Division 1: Unlawful to discriminate on grounds of sex, gender identity, or marital status."
                 else: f['value'] = "Part 2, General prohibitions against discrimination in the workplace."
             elif "impact" in lbl:
-                f['value'] = "Workers must be provided with equal opportunities, reasonable adjustments, and an inclusive workplace free from harassment."
+                f['value'] = "Workers must be given equal opportunities, reasonable workplace adjustments, and an environment free from harassment."
             elif "penalty" in lbl or "consequence" in lbl:
-                f['value'] = "Civil financial penalties, formal compensation orders, mandatory conciliation, and workplace equity audits."
+                f['value'] = "Fines, paying compensation, formal conciliation meetings, and workplace equity audits."
             elif "anti-discrimination law" in lbl:
                 if "disability" in lbl: f['value'] = "Disability Discrimination Act 1992 (Cth)"
                 elif "race" in lbl: f['value'] = "Racial Discrimination Act 1975 (Cth)"
@@ -543,7 +543,7 @@ def populate_chcdiv001(fields):
 
         # Tables 26-28: Human rights & UDHR
         elif t == 26:
-            f['value'] = "Human needs are fundamental biological and emotional necessities (food, water, safety, shelter), whereas human rights are the legal entitlements that guarantee access to meeting those needs with dignity and equality."
+            f['value'] = "Human needs are basic things required to survive (like food, clean water, shelter, and medical care), while human rights are the legal protections ensuring everyone is treated fairly and with dignity."
         elif t == 27:
             vals = [
                 "Universal Declaration of Human Rights (UDHR) Article 23 (Right to work and protection against unemployment).",
@@ -552,18 +552,18 @@ def populate_chcdiv001(fields):
             ]
             f['value'] = vals[idx] if idx < len(vals) else vals[-1]
         elif t == 28:
-            f['value'] = "1. Document the human rights breach factually. 2. Ensure victim safety. 3. Report to supervisor under grievance policy. 4. Escalate to Anti-Discrimination NSW or AHRC if unresolved."
+            f['value'] = "1. Write down factual notes of what happened. 2. Make sure the client is safe. 3. Report to supervisor. 4. Escalate to Anti-Discrimination NSW or AHRC if unresolved."
 
         # Table 30: Legal/ethical human rights framework
         elif t == 30:
-            f['value'] = "Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties): Mandating equality, dignity, participation, and protection against discrimination."
+            f['value'] = "Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties): Protecting equality, dignity, participation, and non-discrimination."
 
         # Tables 33, 35, 38: Human rights principles
         elif t == 33:
-            vals = ["Reaffirm: Commitment to human rights.", "Educate: Mandatory staff cultural training.", "Engage: Involving diverse communities."]
+            vals = ["Reaffirm: Upholding human rights in all care.", "Educate: Completing workplace diversity training.", "Engage: Involving diverse community groups."]
             f['value'] = vals[idx] if idx < len(vals) else vals[-1]
         elif t == 35:
-            vals = ["Protect: Enforcing zero-tolerance harassment.", "Respect: Valuing cultural and lifestyle choices."]
+            vals = ["Protect: Zero tolerance for harassment or discrimination.", "Respect: Valuing individual cultural and lifestyle choices."]
             f['value'] = vals[idx] if idx < len(vals) else vals[-1]
         elif t == 38:
             vals = ["Participation", "Accountability", "Non-discrimination and Equality", "Empowerment", "Legality"]
@@ -571,9 +571,9 @@ def populate_chcdiv001(fields):
 
         # Tables 41-44: Diversity areas & terms
         elif t == 41:
-            f['value'] = "Shared values, traditions, language, and ancestral background passed through generations."
+            f['value'] = "Shared values, traditions, language, and ancestral background passed down through generations."
         elif t == 42:
-            f['value'] = "Structured systems of faith, ethical rituals, and core spiritual beliefs that guide daily life."
+            f['value'] = "Beliefs, spiritual traditions, and values that guide daily life and rituals."
         elif t == 44:
             defs = {
                 1: "Lesbian: A woman who is emotionally, romantically, or sexually attracted to other women.",
@@ -587,60 +587,60 @@ def populate_chcdiv001(fields):
 
         # Tables 45-49: First Nations issues & systems
         elif t == 45:
-            f['value'] = "1. Gaps in health outcomes and life expectancy. 2. High rates of child removal and over-representation in the justice system."
+            f['value'] = "1. Health gaps and shorter life expectancy. 2. High rates of child removal and over-representation in the justice system."
         elif t in [46, 47]:
-            f['value'] = "Western education suppressed native languages and culture, disrupting traditional knowledge transmission and causing intergenerational educational disadvantage."
+            f['value'] = "Past policies stopped First Nations children from speaking their language and practicing traditions, causing loss of language and deep disadvantage across generations."
         elif t in [48, 49]:
-            f['value'] = "Imposed Western religious institutions banned traditional ceremonies, disrupted kinship lore, and severed ancestral spiritual connections to Country."
+            f['value'] = "European religious rules banned traditional ceremonies, broke kinship ties, and disconnected people from Country and culture."
 
         # Tables 51-56: Marginalised groups
         elif t == 51:
-            f['value'] = "Accessible adaptive sports clubs, inclusive employment programs, and peer advocacy networks."
+            f['value'] = "Accessible sports clubs, inclusive job programs, and disability peer advocacy groups."
         elif t in [53, 54]:
-            f['value'] = "Anxiety, depression, and social isolation resulting from environmental barriers; supported by accessible counselling and peer mentoring."
+            f['value'] = "Feeling anxious, depressed, and isolated from community barriers; supported by accessible counselling and peer mentoring."
         elif t in [55, 56]:
             f['value'] = "Intergenerational trauma from historical dispossession; supported through culturally safe community yarning circles and ACCHO services."
 
         # Tables 57-59: Trauma & stigma
         elif t == 57:
-            f['value'] = "Trauma from war experiences requires a calm, predictable environment and clear communication before initiating tasks."
+            f['value'] = "Trauma from war experiences means workers need to provide a calm, predictable environment and explain what they are doing before touching the person."
         elif t == 58:
-            f['value'] = "Adopt trauma-informed practice, avoid loud sudden alarms, explain care steps clearly, and respect personal boundaries."
+            f['value'] = "Use trauma-informed care: avoid loud sudden noises, explain care steps clearly, and respect personal space and boundaries."
         elif t == 59:
-            f['value'] = "Creating separate spaces for Indigenous clients is unlawful racial segregation that perpetuates deep stigma and breaches anti-discrimination laws."
+            f['value'] = "Making separate spaces for Indigenous clients is unlawful racial segregation that creates stigma and breaches anti-discrimination laws."
 
         # Tables 62-67: Influences, changing practices, reflection
         elif t == 62:
-            f['value'] = "Multicultural migration has diversified Australian society, requiring healthcare workers to adapt to multilingual and diverse cultural care expectations."
+            f['value'] = "Migration has made Australia very diverse, so support workers need to understand different cultures and support clients who speak other languages."
         elif t == 63:
-            f['value'] = "Shift toward consumer-directed care and adoption of professional telephone and digital translation services."
+            f['value'] = "Focusing on consumer-directed care and using phone interpreters (like TIS National) and multilingual signs."
         elif t in [65, 67]:
-            f['value'] = "Attending cultural diversity training enhances empathy, challenges unconscious bias, and strengthens respectful teamwork."
+            f['value'] = "Attending cultural diversity training builds empathy, challenges unconscious bias, and improves teamwork."
         elif t == 69:
             vals = ["Australian multicultural background", "Support Worker", "Providing direct personal care and community access", "Care Connect Services"]
             f['value'] = vals[idx] if idx < len(vals) else vals[-1]
         elif t == 72:
-            f['value'] = "Support Worker: Applies cultural safety in everyday routines; Care Coordinator: Designs culturally tailored service packages."
+            f['value'] = "Support Worker: Applies cultural safety in everyday care; Care Coordinator: Organises culturally appropriate support packages."
         elif t == 73:
             f['value'] = "1. We celebrate and respect diverse cultural identities. 2. We provide culturally safe care. 3. We uphold equal opportunity for all."
         elif t in [76, 77, 78, 81, 82]:
-            f['value'] = "Direct communication style: Appreciated by low-context cultures for clarity, but may be perceived as abrupt by high-context cultures; adjusted accordingly."
+            f['value'] = "Being aware that speaking too directly might seem rude to some cultural groups, while being too indirect might confuse others; adjusting my style politely."
         elif t == 84:
-            f['value'] = "Treating all individuals with unconditional positive regard, challenging stereotypes, and promoting self-determination."
+            f['value'] = "Treating all clients with kindness and respect, challenging unfair stereotypes, and supporting their choices."
         elif t == 86:
             f['value'] = "Anti-Discrimination Act 1977 (NSW) (https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-048)"
         elif t in [87, 88, 89]:
-            f['value'] = "Right to a workplace free from discrimination; responsibility to treat others with respect and follow equity policies."
+            f['value'] = "Right to work without discrimination; responsibility to treat others with respect and follow equity policies."
         elif t == 91:
             f['value'] = "Care Connect Services Diversity and Inclusion Policy v1.2"
         elif t in [92, 93, 94]:
             f['value'] = "Right to equal treatment and respect; responsibility to comply with professional codes of conduct."
         elif t in [96, 97, 98, 99]:
-            f['value'] = "Self-reflection helps identify unconscious biases, enabling me to listen actively and avoid imposing Western assumptions onto clients."
+            f['value'] = "Self-reflection helps me notice my own assumptions, keep an open mind, and give culturally respectful care to every person."
         elif t == 101:
-            f['value'] = "Limitation: Limited foreign language skills; Improvement: Utilize professional TIS National interpreters."
+            f['value'] = "Limitation: Limited foreign language skills; Improvement: Use professional TIS National interpreters."
         elif t in [103, 104, 105, 106]:
-            f['value'] = "Language misunderstanding resolved by engaging an accredited TIS National interpreter and verifying client comfort."
+            f['value'] = "Language misunderstanding resolved by using an accredited TIS National interpreter and checking client comfort."
         elif t == 115:
             f['value'] = "Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved by apologizing and clarifying preferences respectfully."
 

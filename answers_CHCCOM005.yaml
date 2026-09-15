@@ -2222,18 +2222,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 070F7419
-  value: 'Complete the table below by: Listing four principles of effective communication
-    in health and community services Briefly explaining how each given principle benefits
-    people in health and community services The candidate must complete the table
-    below by: Listing four principles of effective communication in health and community
-    services For satisfactory performance, although wording may slightly vary, their
-    response must be four of the following: Clarity of ideas Appropriate use of language
-    Consistency Timeliness Feedback Flexibility Briefly explaining how each given
-    principle benefits people in health and community services For satisfactory performance,
-    although the wording may slightly vary, their response must: Be relevant to the
-    given principle of effective communication Explain the positive effect of the
-    given principle to people in the workplace Model answers are provided on the next
-    page to help the assessor assess the candidate’s responses.'
+  value: 'four of the following:'
 - field_id: CHCCOM005_TXT_25_2_0_2
   type: text
   section: Knowledge Assessment
@@ -2246,18 +2235,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 5F46CF35
-  value: 'Complete the table below by: Listing four principles of effective communication
-    in health and community services Briefly explaining how each given principle benefits
-    people in health and community services The candidate must complete the table
-    below by: Listing four principles of effective communication in health and community
-    services For satisfactory performance, although wording may slightly vary, their
-    response must be four of the following: Clarity of ideas Appropriate use of language
-    Consistency Timeliness Feedback Flexibility Briefly explaining how each given
-    principle benefits people in health and community services For satisfactory performance,
-    although the wording may slightly vary, their response must: Be relevant to the
-    given principle of effective communication Explain the positive effect of the
-    given principle to people in the workplace Model answers are provided on the next
-    page to help the assessor assess the candidate’s responses.'
+  value: Clarity of ideas
 - field_id: CHCCOM005_TXT_25_2_0_3
   type: text
   section: Knowledge Assessment
@@ -2270,18 +2248,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 69D22C0A
-  value: 'Complete the table below by: Listing four principles of effective communication
-    in health and community services Briefly explaining how each given principle benefits
-    people in health and community services The candidate must complete the table
-    below by: Listing four principles of effective communication in health and community
-    services For satisfactory performance, although wording may slightly vary, their
-    response must be four of the following: Clarity of ideas Appropriate use of language
-    Consistency Timeliness Feedback Flexibility Briefly explaining how each given
-    principle benefits people in health and community services For satisfactory performance,
-    although the wording may slightly vary, their response must: Be relevant to the
-    given principle of effective communication Explain the positive effect of the
-    given principle to people in the workplace Model answers are provided on the next
-    page to help the assessor assess the candidate’s responses.'
+  value: Appropriate use of language Consistency Timeliness Feedback Flexibility
 - field_id: CHCCOM005_TXT_25_2_0_4
   type: text
   section: Knowledge Assessment
@@ -2294,18 +2261,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 291985F2
-  value: 'Complete the table below by: Listing four principles of effective communication
-    in health and community services Briefly explaining how each given principle benefits
-    people in health and community services The candidate must complete the table
-    below by: Listing four principles of effective communication in health and community
-    services For satisfactory performance, although wording may slightly vary, their
-    response must be four of the following: Clarity of ideas Appropriate use of language
-    Consistency Timeliness Feedback Flexibility Briefly explaining how each given
-    principle benefits people in health and community services For satisfactory performance,
-    although the wording may slightly vary, their response must: Be relevant to the
-    given principle of effective communication Explain the positive effect of the
-    given principle to people in the workplace Model answers are provided on the next
-    page to help the assessor assess the candidate’s responses.'
+  value: Briefly explaining how each given principle benefits people in health and
+    community services
 - field_id: CHCCOM005_TXT_25_2_0_5
   type: text
   section: Knowledge Assessment
@@ -2318,18 +2275,8 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 515D79B1
-  value: 'Complete the table below by: Listing four principles of effective communication
-    in health and community services Briefly explaining how each given principle benefits
-    people in health and community services The candidate must complete the table
-    below by: Listing four principles of effective communication in health and community
-    services For satisfactory performance, although wording may slightly vary, their
-    response must be four of the following: Clarity of ideas Appropriate use of language
-    Consistency Timeliness Feedback Flexibility Briefly explaining how each given
-    principle benefits people in health and community services For satisfactory performance,
-    although the wording may slightly vary, their response must: Be relevant to the
-    given principle of effective communication Explain the positive effect of the
-    given principle to people in the workplace Model answers are provided on the next
-    page to help the assessor assess the candidate’s responses.'
+  value: 'For satisfactory performance, although the wording may slightly vary, their
+    response must:'
 - field_id: CHCCOM005_TXT_25_2_0_6
   type: text
   section: Knowledge Assessment
@@ -2342,18 +2289,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 7ADDA8D1
-  value: 'Complete the table below by: Listing four principles of effective communication
-    in health and community services Briefly explaining how each given principle benefits
-    people in health and community services The candidate must complete the table
-    below by: Listing four principles of effective communication in health and community
-    services For satisfactory performance, although wording may slightly vary, their
-    response must be four of the following: Clarity of ideas Appropriate use of language
-    Consistency Timeliness Feedback Flexibility Briefly explaining how each given
-    principle benefits people in health and community services For satisfactory performance,
-    although the wording may slightly vary, their response must: Be relevant to the
-    given principle of effective communication Explain the positive effect of the
-    given principle to people in the workplace Model answers are provided on the next
-    page to help the assessor assess the candidate’s responses.'
+  value: Be relevant to the given principle of effective communication
 - field_id: CHCCOM005_TXT_25_2_0_7
   type: text
   section: Knowledge Assessment
@@ -2366,18 +2302,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: '65212040'
-  value: 'Complete the table below by: Listing four principles of effective communication
-    in health and community services Briefly explaining how each given principle benefits
-    people in health and community services The candidate must complete the table
-    below by: Listing four principles of effective communication in health and community
-    services For satisfactory performance, although wording may slightly vary, their
-    response must be four of the following: Clarity of ideas Appropriate use of language
-    Consistency Timeliness Feedback Flexibility Briefly explaining how each given
-    principle benefits people in health and community services For satisfactory performance,
-    although the wording may slightly vary, their response must: Be relevant to the
-    given principle of effective communication Explain the positive effect of the
-    given principle to people in the workplace Model answers are provided on the next
-    page to help the assessor assess the candidate’s responses.'
+  value: Explain the positive effect of the given principle to people in the workplace
 - field_id: CHCCOM005_TXT_25_2_0_8
   type: text
   section: Knowledge Assessment
@@ -2390,18 +2315,8 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 0517D494
-  value: 'Complete the table below by: Listing four principles of effective communication
-    in health and community services Briefly explaining how each given principle benefits
-    people in health and community services The candidate must complete the table
-    below by: Listing four principles of effective communication in health and community
-    services For satisfactory performance, although wording may slightly vary, their
-    response must be four of the following: Clarity of ideas Appropriate use of language
-    Consistency Timeliness Feedback Flexibility Briefly explaining how each given
-    principle benefits people in health and community services For satisfactory performance,
-    although the wording may slightly vary, their response must: Be relevant to the
-    given principle of effective communication Explain the positive effect of the
-    given principle to people in the workplace Model answers are provided on the next
-    page to help the assessor assess the candidate’s responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_25_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2416,18 +2331,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5CA37C53
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given communication model
 - field_id: CHCCOM005_TXT_25_3_0_2
   type: text
   section: Knowledge Assessment
@@ -2442,18 +2346,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 289C31E0
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: For satisfactory performance, although wording may slightly vary, I’s responses
+    must be consistent with the model answers below.
 - field_id: CHCCOM005_TXT_25_3_0_3
   type: text
   section: Knowledge Assessment
@@ -2468,18 +2362,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 1F89B454
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: Providing one example of how each communication model is used in health or
+    community services
 - field_id: CHCCOM005_TXT_25_3_0_4
   type: text
   section: Knowledge Assessment
@@ -2494,18 +2378,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 39BFE271
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: For satisfactory performance, although wording may slightly vary, I’s responses
+    must be an example of how each given communication model is applied in the workplace.
 - field_id: CHCCOM005_TXT_25_3_0_5
   type: text
   section: Knowledge Assessment
@@ -2520,18 +2394,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 7DC6326E
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: Model answers are provided below to help the assessor assess I’s responses.
 - field_id: CHCCOM005_TXT_25_3_0_6
   type: text
   section: Knowledge Assessment
@@ -2546,18 +2409,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 37D21E55
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given communication model
 - field_id: CHCCOM005_TXT_25_3_0_7
   type: text
   section: Knowledge Assessment
@@ -2572,18 +2424,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 30AE9F5A
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given communication model
 - field_id: CHCCOM005_TXT_25_3_0_8
   type: text
   section: Knowledge Assessment
@@ -2598,18 +2439,7 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: '21703464'
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given communication model
 - field_id: CHCCOM005_TXT_25_3_0_9
   type: text
   section: Knowledge Assessment
@@ -2624,18 +2454,7 @@ fields:
   col_idx: 0
   index_in_cell: 8
   para_id: 790959F2
-  value: 'Complete the table below by: Listing three communication models Briefly
-    describing each given communication model Providing one example of how each communication
-    model is used in health or community services The candidate must complete the
-    table below by: Listing three communication models For satisfactory performance,
-    the candidate’s responses must be consistent with the model answers below. Briefly
-    describing each given communication model For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be consistent with the
-    model answers below. Providing one example of how each communication model is
-    used in health or community services For satisfactory performance, although wording
-    may slightly vary, the candidate’s responses must be an example of how each given
-    communication model is applied in the workplace. Model answers are provided below
-    to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given communication model
 - field_id: CHCCOM005_TXT_26_0_0_1
   type: text
   section: Knowledge Assessment
@@ -2650,18 +2469,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1CFE2FFD
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_2
   type: text
   section: Knowledge Assessment
@@ -2676,18 +2484,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 7DBF0FE0
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: For satisfactory performance, although wording may slightly vary, I’s responses
+    must be consistent with the model answers below.
 - field_id: CHCCOM005_TXT_26_0_0_3
   type: text
   section: Knowledge Assessment
@@ -2702,18 +2500,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 25D0F30C
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Providing one example of how each mode of communication is used in health
+    or community services
 - field_id: CHCCOM005_TXT_26_0_0_4
   type: text
   section: Knowledge Assessment
@@ -2728,18 +2516,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 59647E88
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: For satisfactory performance, although wording may slightly vary, I’s responses
+    must be an example of how each given mode is applied in the workplace.
 - field_id: CHCCOM005_TXT_26_0_0_5
   type: text
   section: Knowledge Assessment
@@ -2754,18 +2532,8 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 49980B62
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_26_0_0_6
   type: text
   section: Knowledge Assessment
@@ -2780,18 +2548,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 68F9916E
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_7
   type: text
   section: Knowledge Assessment
@@ -2806,18 +2563,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 2DCCBD7A
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_8
   type: text
   section: Knowledge Assessment
@@ -2832,18 +2578,7 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 33F71E3B
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_9
   type: text
   section: Knowledge Assessment
@@ -2858,18 +2593,7 @@ fields:
   col_idx: 0
   index_in_cell: 8
   para_id: 2A4F9E64
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_10
   type: text
   section: Knowledge Assessment
@@ -2884,18 +2608,7 @@ fields:
   col_idx: 0
   index_in_cell: 9
   para_id: 785C4C72
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_11
   type: text
   section: Knowledge Assessment
@@ -2910,18 +2623,7 @@ fields:
   col_idx: 0
   index_in_cell: 10
   para_id: 429BE4FA
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_12
   type: text
   section: Knowledge Assessment
@@ -2936,18 +2638,7 @@ fields:
   col_idx: 0
   index_in_cell: 11
   para_id: 71AC1CCA
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_13
   type: text
   section: Knowledge Assessment
@@ -2962,18 +2653,7 @@ fields:
   col_idx: 0
   index_in_cell: 12
   para_id: 1943AC20
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_14
   type: text
   section: Knowledge Assessment
@@ -2988,18 +2668,7 @@ fields:
   col_idx: 0
   index_in_cell: 13
   para_id: 288F2FB0
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_26_0_0_15
   type: text
   section: Knowledge Assessment
@@ -3014,18 +2683,7 @@ fields:
   col_idx: 0
   index_in_cell: 14
   para_id: 18254A62
-  value: 'Complete the table below by: Listing the five modes of communication Briefly
-    describing each given mode of communication Providing one example of how each
-    mode of communication is used in health or community services The candidate must
-    complete the table below by: Listing the five modes of communication For satisfactory
-    performance, the candidate’s responses must be consistent with the model answers
-    below. Briefly describing each given mode of communication For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be consistent
-    with the model answers below. Providing one example of how each mode of communication
-    is used in health or community services For satisfactory performance, although
-    wording may slightly vary, the candidate’s responses must be an example of how
-    each given mode is applied in the workplace. Model answers are provided on the
-    next page to help the assessor assess the candidate’s responses.'
+  value: Briefly describing each given mode of communication
 - field_id: CHCCOM005_TXT_27_0_0_1
   type: text
   section: Knowledge Assessment
@@ -3040,19 +2698,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1CD94336
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: for satisfactory performance.
 - field_id: CHCCOM005_TXT_27_0_0_2
   type: text
   section: Knowledge Assessment
@@ -3067,19 +2713,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 144DC78E
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: Briefly describing each given type of communication
 - field_id: CHCCOM005_TXT_27_0_0_3
   type: text
   section: Knowledge Assessment
@@ -3094,19 +2728,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 57D68349
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: For satisfactory performance, although wording may slightly vary, I’s responses
+    must be consistent with the model answers below.
 - field_id: CHCCOM005_TXT_27_0_0_4
   type: text
   section: Knowledge Assessment
@@ -3121,19 +2744,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 79E93F08
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: Providing one example of how each type of communication can be used effectively
+    in health or community services
 - field_id: CHCCOM005_TXT_27_0_0_5
   type: text
   section: Knowledge Assessment
@@ -3148,19 +2760,8 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 749CA282
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: For satisfactory performance, although wording may slightly vary, I’s responses
+    must be an example of using each given type of communication in the workplace.
 - field_id: CHCCOM005_TXT_27_0_0_6
   type: text
   section: Knowledge Assessment
@@ -3175,19 +2776,8 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: '54630117'
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_27_0_0_7
   type: text
   section: Knowledge Assessment
@@ -3202,19 +2792,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 586DAD71
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: for satisfactory performance.
 - field_id: CHCCOM005_TXT_27_0_0_8
   type: text
   section: Knowledge Assessment
@@ -3229,19 +2807,7 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 5DD3937A
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: for satisfactory performance.
 - field_id: CHCCOM005_TXT_27_0_0_9
   type: text
   section: Knowledge Assessment
@@ -3256,19 +2822,7 @@ fields:
   col_idx: 0
   index_in_cell: 8
   para_id: 2269B7AC
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: for satisfactory performance.
 - field_id: CHCCOM005_TXT_27_0_0_10
   type: text
   section: Knowledge Assessment
@@ -3283,19 +2837,7 @@ fields:
   col_idx: 0
   index_in_cell: 9
   para_id: 7B23F32B
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: for satisfactory performance.
 - field_id: CHCCOM005_TXT_27_0_0_11
   type: text
   section: Knowledge Assessment
@@ -3310,19 +2852,7 @@ fields:
   col_idx: 0
   index_in_cell: 10
   para_id: 592219BA
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: for satisfactory performance.
 - field_id: CHCCOM005_TXT_27_0_0_12
   type: text
   section: Knowledge Assessment
@@ -3337,19 +2867,7 @@ fields:
   col_idx: 0
   index_in_cell: 11
   para_id: 56D71E71
-  value: 'Complete the table below by: Listing four types of communication Briefly
-    describing each given type of communication Providing one example of how each
-    type of communication can be used effectively in health or community services
-    The candidate must complete the table below by: Listing four types of communication
-    The candidate’s responses must be consistent with the model answers below for
-    satisfactory performance. Briefly describing each given type of communication
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    responses must be consistent with the model answers below. Providing one example
-    of how each type of communication can be used effectively in health or community
-    services For satisfactory performance, although wording may slightly vary, the
-    candidate’s responses must be an example of using each given type of communication
-    in the workplace. Model answers are provided on the next page to help the assessor
-    assess the candidate’s responses.'
+  value: for satisfactory performance.
 - field_id: CHCCOM005_TXT_28_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3364,16 +2882,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2A282390
-  value: 'Complete the table below by: Briefly describing each given communication
-    technique Explain how each given technique affects workplace communication The
-    candidate must complete the table below by: Briefly describing each given communication
-    technique For satisfactory performance, although wording may slightly vary, their
-    responses must be consistent with the model answers below. Explain how each given
-    communication technique affects workplace communication For satisfactory performance,
-    their responses must: Be relevant to the given communication technique Give an
-    example of a way in which the given communication technique positively or negatively
-    affects workplace communication Model answers are provided on the next page to
-    help the assessor assess the candidate’s responses.'
+  value: Explain how each given communication technique affects workplace communication
 - field_id: CHCCOM005_TXT_28_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3388,16 +2897,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 670D2B56
-  value: 'Complete the table below by: Briefly describing each given communication
-    technique Explain how each given technique affects workplace communication The
-    candidate must complete the table below by: Briefly describing each given communication
-    technique For satisfactory performance, although wording may slightly vary, their
-    responses must be consistent with the model answers below. Explain how each given
-    communication technique affects workplace communication For satisfactory performance,
-    their responses must: Be relevant to the given communication technique Give an
-    example of a way in which the given communication technique positively or negatively
-    affects workplace communication Model answers are provided on the next page to
-    help the assessor assess the candidate’s responses.'
+  value: 'For satisfactory performance, their responses must:'
 - field_id: CHCCOM005_TXT_28_2_0_3
   type: text
   section: Knowledge Assessment
@@ -3412,16 +2912,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 6634DC23
-  value: 'Complete the table below by: Briefly describing each given communication
-    technique Explain how each given technique affects workplace communication The
-    candidate must complete the table below by: Briefly describing each given communication
-    technique For satisfactory performance, although wording may slightly vary, their
-    responses must be consistent with the model answers below. Explain how each given
-    communication technique affects workplace communication For satisfactory performance,
-    their responses must: Be relevant to the given communication technique Give an
-    example of a way in which the given communication technique positively or negatively
-    affects workplace communication Model answers are provided on the next page to
-    help the assessor assess the candidate’s responses.'
+  value: Be relevant to the given communication technique
 - field_id: CHCCOM005_TXT_28_2_0_4
   type: text
   section: Knowledge Assessment
@@ -3436,16 +2927,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 0FA3AE8A
-  value: 'Complete the table below by: Briefly describing each given communication
-    technique Explain how each given technique affects workplace communication The
-    candidate must complete the table below by: Briefly describing each given communication
-    technique For satisfactory performance, although wording may slightly vary, their
-    responses must be consistent with the model answers below. Explain how each given
-    communication technique affects workplace communication For satisfactory performance,
-    their responses must: Be relevant to the given communication technique Give an
-    example of a way in which the given communication technique positively or negatively
-    affects workplace communication Model answers are provided on the next page to
-    help the assessor assess the candidate’s responses.'
+  value: Give an example of a way in which the given communication technique positively
+    or negatively affects workplace communication
 - field_id: CHCCOM005_TXT_28_2_0_5
   type: text
   section: Knowledge Assessment
@@ -3460,16 +2943,8 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 594F3617
-  value: 'Complete the table below by: Briefly describing each given communication
-    technique Explain how each given technique affects workplace communication The
-    candidate must complete the table below by: Briefly describing each given communication
-    technique For satisfactory performance, although wording may slightly vary, their
-    responses must be consistent with the model answers below. Explain how each given
-    communication technique affects workplace communication For satisfactory performance,
-    their responses must: Be relevant to the given communication technique Give an
-    example of a way in which the given communication technique positively or negatively
-    affects workplace communication Model answers are provided on the next page to
-    help the assessor assess the candidate’s responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_28_2_0_6
   type: text
   section: Knowledge Assessment
@@ -3484,16 +2959,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 3E90FAC3
-  value: 'Complete the table below by: Briefly describing each given communication
-    technique Explain how each given technique affects workplace communication The
-    candidate must complete the table below by: Briefly describing each given communication
-    technique For satisfactory performance, although wording may slightly vary, their
-    responses must be consistent with the model answers below. Explain how each given
-    communication technique affects workplace communication For satisfactory performance,
-    their responses must: Be relevant to the given communication technique Give an
-    example of a way in which the given communication technique positively or negatively
-    affects workplace communication Model answers are provided on the next page to
-    help the assessor assess the candidate’s responses.'
+  value: Explain how each given communication technique affects workplace communication
 - field_id: CHCCOM005_TXT_28_2_0_7
   type: text
   section: Knowledge Assessment
@@ -3508,16 +2974,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 7E6F74BF
-  value: 'Complete the table below by: Briefly describing each given communication
-    technique Explain how each given technique affects workplace communication The
-    candidate must complete the table below by: Briefly describing each given communication
-    technique For satisfactory performance, although wording may slightly vary, their
-    responses must be consistent with the model answers below. Explain how each given
-    communication technique affects workplace communication For satisfactory performance,
-    their responses must: Be relevant to the given communication technique Give an
-    example of a way in which the given communication technique positively or negatively
-    affects workplace communication Model answers are provided on the next page to
-    help the assessor assess the candidate’s responses.'
+  value: Explain how each given communication technique affects workplace communication
 - field_id: CHCCOM005_TXT_28_2_0_8
   type: text
   section: Knowledge Assessment
@@ -3532,16 +2989,7 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 3FF135D0
-  value: 'Complete the table below by: Briefly describing each given communication
-    technique Explain how each given technique affects workplace communication The
-    candidate must complete the table below by: Briefly describing each given communication
-    technique For satisfactory performance, although wording may slightly vary, their
-    responses must be consistent with the model answers below. Explain how each given
-    communication technique affects workplace communication For satisfactory performance,
-    their responses must: Be relevant to the given communication technique Give an
-    example of a way in which the given communication technique positively or negatively
-    affects workplace communication Model answers are provided on the next page to
-    help the assessor assess the candidate’s responses.'
+  value: Explain how each given communication technique affects workplace communication
 - field_id: CHCCOM005_TXT_28_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3553,15 +3001,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 62B892CB
-  value: 'Explain the difference between motivational interviewing and coercive approach
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace Describing the goal of each communication technique The
-    candidate must explain the difference between collaboration and confrontation
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace For satisfactory performance, the candidate’s response must
-    be consistent with the model answers below. Describing the goal of each communication
-    technique For satisfactory performance, the candidate’s response must be consistent
-    with the model answers below.'
+  value: Describing the goal of each communication technique
 - field_id: CHCCOM005_TXT_28_3_0_2
   type: text
   section: Knowledge Assessment
@@ -3573,15 +3013,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 5DE4720D
-  value: 'Explain the difference between motivational interviewing and coercive approach
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace Describing the goal of each communication technique The
-    candidate must explain the difference between collaboration and confrontation
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace For satisfactory performance, the candidate’s response must
-    be consistent with the model answers below. Describing the goal of each communication
-    technique For satisfactory performance, the candidate’s response must be consistent
-    with the model answers below.'
+  value: For satisfactory performance, I’s response must be consistent with the model
+    answers below.
 - field_id: CHCCOM005_TXT_28_3_0_3
   type: text
   section: Knowledge Assessment
@@ -3593,15 +3026,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 179216CE
-  value: 'Explain the difference between motivational interviewing and coercive approach
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace Describing the goal of each communication technique The
-    candidate must explain the difference between collaboration and confrontation
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace For satisfactory performance, the candidate’s response must
-    be consistent with the model answers below. Describing the goal of each communication
-    technique For satisfactory performance, the candidate’s response must be consistent
-    with the model answers below.'
+  value: Describing the goal of each communication technique
 - field_id: CHCCOM005_TXT_28_3_0_4
   type: text
   section: Knowledge Assessment
@@ -3613,15 +3038,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 5A819FE5
-  value: 'Explain the difference between motivational interviewing and coercive approach
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace Describing the goal of each communication technique The
-    candidate must explain the difference between collaboration and confrontation
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace For satisfactory performance, the candidate’s response must
-    be consistent with the model answers below. Describing the goal of each communication
-    technique For satisfactory performance, the candidate’s response must be consistent
-    with the model answers below.'
+  value: Describing the goal of each communication technique
 - field_id: CHCCOM005_TXT_28_4_0_1
   type: text
   section: Knowledge Assessment
@@ -3635,15 +3052,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 575ED27E
-  value: 'Explain the difference between motivational interviewing and coercive approach
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace Describing the goal of each communication technique The
-    candidate must explain the difference between collaboration and confrontation
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace For satisfactory performance, the candidate’s response must
-    be consistent with the model answers below. Describing the goal of each communication
-    technique For satisfactory performance, the candidate’s response must be consistent
-    with the model answers below.'
+  value: Describing the goal of each communication technique
 - field_id: CHCCOM005_TXT_28_4_0_2
   type: text
   section: Knowledge Assessment
@@ -3657,15 +3066,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 74FB3D6B
-  value: 'Explain the difference between motivational interviewing and coercive approach
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace Describing the goal of each communication technique The
-    candidate must explain the difference between collaboration and confrontation
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace For satisfactory performance, the candidate’s response must
-    be consistent with the model answers below. Describing the goal of each communication
-    technique For satisfactory performance, the candidate’s response must be consistent
-    with the model answers below.'
+  value: For satisfactory performance, I’s response must be consistent with the model
+    answers below.
 - field_id: CHCCOM005_TXT_28_4_0_3
   type: text
   section: Knowledge Assessment
@@ -3679,15 +3081,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 25A2018F
-  value: 'Explain the difference between motivational interviewing and coercive approach
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace Describing the goal of each communication technique The
-    candidate must explain the difference between collaboration and confrontation
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace For satisfactory performance, the candidate’s response must
-    be consistent with the model answers below. Describing the goal of each communication
-    technique For satisfactory performance, the candidate’s response must be consistent
-    with the model answers below.'
+  value: Describing the goal of each communication technique
 - field_id: CHCCOM005_TXT_28_4_0_4
   type: text
   section: Knowledge Assessment
@@ -3701,15 +3095,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 719A5C41
-  value: 'Explain the difference between motivational interviewing and coercive approach
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace Describing the goal of each communication technique The
-    candidate must explain the difference between collaboration and confrontation
-    in workplace communication by: Describing how each communication technique is
-    used in the workplace For satisfactory performance, the candidate’s response must
-    be consistent with the model answers below. Describing the goal of each communication
-    technique For satisfactory performance, the candidate’s response must be consistent
-    with the model answers below.'
+  value: Describing the goal of each communication technique
 - field_id: CHCCOM005_TXT_28_8_2_1
   type: text
   section: Knowledge Assessment
@@ -4318,20 +3704,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1E27DFEF
-  value: 'Complete the table below by: Briefly explaining when non-verbal communication
-    can be used Providing one example of how non-verbal communication can be used
-    in health service work Providing one example of how non-verbal communication can
-    be used in community service work The candidate must complete the table below
-    by: Briefly explaining when non-verbal communication can be used For satisfactory
-    performance, the candidate’s response must be a general description of when non-verbal
-    communication applies. Providing one example of how non-verbal communication can
-    be used in health service work For satisfactory performance, the candidate’s response
-    must be a specific situation related to health services where non-verbal communication
-    applies. Providing one example of how non-verbal communication can be used in
-    community service work For satisfactory performance, the candidate’s response
-    must be a specific situation related to community services where non-verbal communication
-    applies. Model answers are provided on the next page to help the assessor assess
-    the candidate’s responses.'
+  value: a general description of when non-verbal communication applies.
 - field_id: CHCCOM005_TXT_34_2_0_2
   type: text
   section: Knowledge Assessment
@@ -4346,20 +3719,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 2F74CD4C
-  value: 'Complete the table below by: Briefly explaining when non-verbal communication
-    can be used Providing one example of how non-verbal communication can be used
-    in health service work Providing one example of how non-verbal communication can
-    be used in community service work The candidate must complete the table below
-    by: Briefly explaining when non-verbal communication can be used For satisfactory
-    performance, the candidate’s response must be a general description of when non-verbal
-    communication applies. Providing one example of how non-verbal communication can
-    be used in health service work For satisfactory performance, the candidate’s response
-    must be a specific situation related to health services where non-verbal communication
-    applies. Providing one example of how non-verbal communication can be used in
-    community service work For satisfactory performance, the candidate’s response
-    must be a specific situation related to community services where non-verbal communication
-    applies. Model answers are provided on the next page to help the assessor assess
-    the candidate’s responses.'
+  value: Providing one example of how non-verbal communication can be used in health
+    service work
 - field_id: CHCCOM005_TXT_34_2_0_3
   type: text
   section: Knowledge Assessment
@@ -4374,20 +3735,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 7CAC2F96
-  value: 'Complete the table below by: Briefly explaining when non-verbal communication
-    can be used Providing one example of how non-verbal communication can be used
-    in health service work Providing one example of how non-verbal communication can
-    be used in community service work The candidate must complete the table below
-    by: Briefly explaining when non-verbal communication can be used For satisfactory
-    performance, the candidate’s response must be a general description of when non-verbal
-    communication applies. Providing one example of how non-verbal communication can
-    be used in health service work For satisfactory performance, the candidate’s response
-    must be a specific situation related to health services where non-verbal communication
-    applies. Providing one example of how non-verbal communication can be used in
-    community service work For satisfactory performance, the candidate’s response
-    must be a specific situation related to community services where non-verbal communication
-    applies. Model answers are provided on the next page to help the assessor assess
-    the candidate’s responses.'
+  value: For satisfactory performance, I’s response must be a specific situation related
+    to health services where non-verbal communication applies.
 - field_id: CHCCOM005_TXT_34_3_0_1
   type: text
   section: Knowledge Assessment
@@ -4399,16 +3748,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5D5C5FBC
-  value: 'Give three examples of situations in which you must recognise a person’s
-    non-verbal communication. The candidate must give three examples of situations
-    in which they need to recognise a person’s non-verbal communication. Responses
-    may vary. However, for satisfactory performance, their response must be specific
-    situations where support workers must recognise non-verbal communication. Examples
-    of satisfactory responses are: When communicating with someone who is not able
-    to speak due to pain or injury When deciding if a person is safe to approach after
-    a violent outburst When trying to decipher whether a person is lying or telling
-    the truth When figuring out whether a non-verbal person with a disability is happy
-    or in distress When deciding if a client feels unsafe or uncomfortable in a situation'
+  value: specific situations where support workers must recognise non-verbal communication.
 - field_id: CHCCOM005_TXT_34_3_0_2
   type: text
   section: Knowledge Assessment
@@ -4420,16 +3760,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 3BD186F7
-  value: 'Give three examples of situations in which you must recognise a person’s
-    non-verbal communication. The candidate must give three examples of situations
-    in which they need to recognise a person’s non-verbal communication. Responses
-    may vary. However, for satisfactory performance, their response must be specific
-    situations where support workers must recognise non-verbal communication. Examples
-    of satisfactory responses are: When communicating with someone who is not able
-    to speak due to pain or injury When deciding if a person is safe to approach after
-    a violent outburst When trying to decipher whether a person is lying or telling
-    the truth When figuring out whether a non-verbal person with a disability is happy
-    or in distress When deciding if a client feels unsafe or uncomfortable in a situation'
+  value: 'Examples of satisfactory responses are:'
 - field_id: CHCCOM005_TXT_34_3_0_3
   type: text
   section: Knowledge Assessment
@@ -4441,16 +3772,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 67CE62A4
-  value: 'Give three examples of situations in which you must recognise a person’s
-    non-verbal communication. The candidate must give three examples of situations
-    in which they need to recognise a person’s non-verbal communication. Responses
-    may vary. However, for satisfactory performance, their response must be specific
-    situations where support workers must recognise non-verbal communication. Examples
-    of satisfactory responses are: When communicating with someone who is not able
-    to speak due to pain or injury When deciding if a person is safe to approach after
-    a violent outburst When trying to decipher whether a person is lying or telling
-    the truth When figuring out whether a non-verbal person with a disability is happy
-    or in distress When deciding if a client feels unsafe or uncomfortable in a situation'
+  value: When communicating with someone who is not able to speak due to pain or injury
 - field_id: CHCCOM005_TXT_34_4_0_1
   type: text
   section: Knowledge Assessment
@@ -4461,16 +3783,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4409922C
-  value: 'Give three ways you can recognise a person’s non-verbal communication. The
-    candidate must give three ways to recognise a person’s non-verbal communication.
-    Responses may vary. However, for satisfactory performance, their response must
-    be specific ways support workers can recognise non-verbal communication. Examples
-    of satisfactory responses are: Looking at the person’s facial expression to see
-    if they are feeling happy, sad, angry, scared, etc. Watching their hands to interpret
-    gestures such as pointing or acting out certain actions. Watching out for signs
-    of discomfort, such as slouching, not making eye contact, clasping their hands
-    together or making themselves appear smaller. Watching out for signs of aggression,
-    such as clenched fists, wild gestures, narrowed eyes and heavy breathing.'
+  value: specific ways support workers can recognise non-verbal communication.
 - field_id: CHCCOM005_TXT_34_4_0_2
   type: text
   section: Knowledge Assessment
@@ -4481,16 +3794,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 3E396DF6
-  value: 'Give three ways you can recognise a person’s non-verbal communication. The
-    candidate must give three ways to recognise a person’s non-verbal communication.
-    Responses may vary. However, for satisfactory performance, their response must
-    be specific ways support workers can recognise non-verbal communication. Examples
-    of satisfactory responses are: Looking at the person’s facial expression to see
-    if they are feeling happy, sad, angry, scared, etc. Watching their hands to interpret
-    gestures such as pointing or acting out certain actions. Watching out for signs
-    of discomfort, such as slouching, not making eye contact, clasping their hands
-    together or making themselves appear smaller. Watching out for signs of aggression,
-    such as clenched fists, wild gestures, narrowed eyes and heavy breathing.'
+  value: 'Examples of satisfactory responses are:'
 - field_id: CHCCOM005_TXT_34_4_0_3
   type: text
   section: Knowledge Assessment
@@ -4501,16 +3805,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 721246AC
-  value: 'Give three ways you can recognise a person’s non-verbal communication. The
-    candidate must give three ways to recognise a person’s non-verbal communication.
-    Responses may vary. However, for satisfactory performance, their response must
-    be specific ways support workers can recognise non-verbal communication. Examples
-    of satisfactory responses are: Looking at the person’s facial expression to see
-    if they are feeling happy, sad, angry, scared, etc. Watching their hands to interpret
-    gestures such as pointing or acting out certain actions. Watching out for signs
-    of discomfort, such as slouching, not making eye contact, clasping their hands
-    together or making themselves appear smaller. Watching out for signs of aggression,
-    such as clenched fists, wild gestures, narrowed eyes and heavy breathing.'
+  value: Looking at the person’s facial expression to see if they are feeling happy,
+    sad, angry, scared, etc.
 - field_id: CHCCOM005_TXT_35_2_0_1
   type: text
   section: Knowledge Assessment
@@ -4525,15 +3821,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3C1DE3D0
-  value: 'Complete the table below by: Identifying the four components of the health
-    care system Explaining the function of each identified component The candidate
-    must complete the table below by: Identifying the four components of the health
-    care system For satisfactory performance, the candidate’s responses must reflect
-    the model answers below, in no particular order. Explaining the function of each
-    identified component For satisfactory performance, although wording may slightly
-    vary, the candidate’s responses must be consistent with the model answers below.
-    Model answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_2_0_2
   type: text
   section: Knowledge Assessment
@@ -4548,15 +3837,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 1821B7F3
-  value: 'Complete the table below by: Identifying the four components of the health
-    care system Explaining the function of each identified component The candidate
-    must complete the table below by: Identifying the four components of the health
-    care system For satisfactory performance, the candidate’s responses must reflect
-    the model answers below, in no particular order. Explaining the function of each
-    identified component For satisfactory performance, although wording may slightly
-    vary, the candidate’s responses must be consistent with the model answers below.
-    Model answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_2_0_3
   type: text
   section: Knowledge Assessment
@@ -4571,15 +3853,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 29470EBB
-  value: 'Complete the table below by: Identifying the four components of the health
-    care system Explaining the function of each identified component The candidate
-    must complete the table below by: Identifying the four components of the health
-    care system For satisfactory performance, the candidate’s responses must reflect
-    the model answers below, in no particular order. Explaining the function of each
-    identified component For satisfactory performance, although wording may slightly
-    vary, the candidate’s responses must be consistent with the model answers below.
-    Model answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_2_0_4
   type: text
   section: Knowledge Assessment
@@ -4594,15 +3869,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 145EBCB4
-  value: 'Complete the table below by: Identifying the four components of the health
-    care system Explaining the function of each identified component The candidate
-    must complete the table below by: Identifying the four components of the health
-    care system For satisfactory performance, the candidate’s responses must reflect
-    the model answers below, in no particular order. Explaining the function of each
-    identified component For satisfactory performance, although wording may slightly
-    vary, the candidate’s responses must be consistent with the model answers below.
-    Model answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_2_0_5
   type: text
   section: Knowledge Assessment
@@ -4617,15 +3885,8 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 11C871BE
-  value: 'Complete the table below by: Identifying the four components of the health
-    care system Explaining the function of each identified component The candidate
-    must complete the table below by: Identifying the four components of the health
-    care system For satisfactory performance, the candidate’s responses must reflect
-    the model answers below, in no particular order. Explaining the function of each
-    identified component For satisfactory performance, although wording may slightly
-    vary, the candidate’s responses must be consistent with the model answers below.
-    Model answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_2_0_6
   type: text
   section: Knowledge Assessment
@@ -4640,15 +3901,8 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 0BA3BA7E
-  value: 'Complete the table below by: Identifying the four components of the health
-    care system Explaining the function of each identified component The candidate
-    must complete the table below by: Identifying the four components of the health
-    care system For satisfactory performance, the candidate’s responses must reflect
-    the model answers below, in no particular order. Explaining the function of each
-    identified component For satisfactory performance, although wording may slightly
-    vary, the candidate’s responses must be consistent with the model answers below.
-    Model answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_2_0_7
   type: text
   section: Knowledge Assessment
@@ -4663,15 +3917,8 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 6F30980F
-  value: 'Complete the table below by: Identifying the four components of the health
-    care system Explaining the function of each identified component The candidate
-    must complete the table below by: Identifying the four components of the health
-    care system For satisfactory performance, the candidate’s responses must reflect
-    the model answers below, in no particular order. Explaining the function of each
-    identified component For satisfactory performance, although wording may slightly
-    vary, the candidate’s responses must be consistent with the model answers below.
-    Model answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_2_0_8
   type: text
   section: Knowledge Assessment
@@ -4686,15 +3933,8 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 5D3D0E02
-  value: 'Complete the table below by: Identifying the four components of the health
-    care system Explaining the function of each identified component The candidate
-    must complete the table below by: Identifying the four components of the health
-    care system For satisfactory performance, the candidate’s responses must reflect
-    the model answers below, in no particular order. Explaining the function of each
-    identified component For satisfactory performance, although wording may slightly
-    vary, the candidate’s responses must be consistent with the model answers below.
-    Model answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_3_0_1
   type: text
   section: Knowledge Assessment
@@ -4709,16 +3949,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '79641673'
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_2
   type: text
   section: Knowledge Assessment
@@ -4733,16 +3964,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 0FBE21B5
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: For satisfactory performance, although wording may slightly vary, I’s responses
+    must be examples of specific services provided by each given support service.
 - field_id: CHCCOM005_TXT_35_3_0_3
   type: text
   section: Knowledge Assessment
@@ -4757,16 +3980,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 0C1FCDD6
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_35_3_0_4
   type: text
   section: Knowledge Assessment
@@ -4781,16 +3996,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 68915E43
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_5
   type: text
   section: Knowledge Assessment
@@ -4805,16 +4011,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 2BDA200F
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_6
   type: text
   section: Knowledge Assessment
@@ -4829,16 +4026,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 6A0CB29E
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_7
   type: text
   section: Knowledge Assessment
@@ -4853,16 +4041,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 63A4C7FF
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_8
   type: text
   section: Knowledge Assessment
@@ -4877,16 +4056,7 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 43997A45
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_9
   type: text
   section: Knowledge Assessment
@@ -4901,16 +4071,7 @@ fields:
   col_idx: 0
   index_in_cell: 8
   para_id: 71F493D6
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_10
   type: text
   section: Knowledge Assessment
@@ -4925,16 +4086,7 @@ fields:
   col_idx: 0
   index_in_cell: 9
   para_id: 44CFD7F5
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_11
   type: text
   section: Knowledge Assessment
@@ -4949,16 +4101,7 @@ fields:
   col_idx: 0
   index_in_cell: 10
   para_id: 749CA77F
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_12
   type: text
   section: Knowledge Assessment
@@ -4973,16 +4116,7 @@ fields:
   col_idx: 0
   index_in_cell: 11
   para_id: 38D296A4
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_13
   type: text
   section: Knowledge Assessment
@@ -4997,16 +4131,7 @@ fields:
   col_idx: 0
   index_in_cell: 12
   para_id: 03EFB6A5
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_14
   type: text
   section: Knowledge Assessment
@@ -5021,16 +4146,7 @@ fields:
   col_idx: 0
   index_in_cell: 13
   para_id: 1E3E9A65
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_3_0_15
   type: text
   section: Knowledge Assessment
@@ -5045,16 +4161,7 @@ fields:
   col_idx: 0
   index_in_cell: 14
   para_id: 62B5E3B1
-  value: 'Complete the table below by: Explaining the role of each given support service
-    Giving two examples of the support provided by each given support service The
-    candidate must complete the table below by: Explaining the role of each given
-    support service For satisfactory performance, although wording may slightly vary,
-    the candidate’s responses must be consistent with the model answers below. Giving
-    two examples of the support provided by each given support service For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be examples of specific services provided by each given support service. Model
-    answers are provided on the next page to help the assessor assess the candidate’s
-    responses.'
+  value: Giving two examples of the support provided by each given support service
 - field_id: CHCCOM005_TXT_35_4_0_1
   type: text
   section: Knowledge Assessment
@@ -5065,14 +4172,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 47ADA99D
-  value: 'Explain how health and community services are interrelated. The candidate
-    must explain how the different components of health services are interrelated.
-    For satisfactory performance, although wording may slightly vary, the candidate’s
-    response must be consistent with the model answer below: Health and community
-    services are interrelated in that different components of health and community
-    services can work together to provide services or give referrals to meet a person’s
-    specific needs. A person with complex health and support needs may access multiple
-    health and community services.'
+  value: ':'
 - field_id: CHCCOM005_TXT_35_5_0_1
   type: text
   section: Knowledge Assessment
@@ -5084,18 +4184,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2BBFE181
-  value: 'Give one example of how a client can use multiple interrelated health and
-    community services. The candidate must give one example of how a client can use
-    multiple interrelated health and community services. For satisfactory performance,
-    the candidate’s response must: Give a specific case of a client who needs at least
-    two services Explain how the different services can work together to meet the
-    client’s needs A model answer is provided below to help the assessor assess the
-    candidate’s responses. An older person will need both health and community services.
-    They need aged care services to meet their everyday living needs and health services
-    to diagnose and treat their medical needs. They may also need mental health services
-    to help them cope with the challenges of getting older. These services must coordinate
-    with each other by appointing specific representatives to the person’s care team
-    to help address the older person’s needs.'
+  value: Give one example of how a client can use multiple interrelated health and
+    community services. I must give one example of how a client can use multiple interrelated
+    health and community services.
 - field_id: CHCCOM005_TXT_37_1_1_1
   type: text
   section: Knowledge Assessment
@@ -5326,17 +4417,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5FFC27B1
-  value: 'Complete the table below by: Identifying four characteristics of a multi-disciplinary
-    team Explaining the importance of each identified characteristic in supporting
-    optimum client service The candidate must complete the table below by: Identifying
-    four characteristics of a multi-disciplinary team For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be traits exhibited
-    by groups made up of people who are expected in different disciplines. Explaining
-    the importance of each identified characteristic in supporting optimum client
-    service For satisfactory performance, the candidate’s responses must be: Consistent
-    with the characteristic they provided An explanation of how each characteristic
-    is important in providing services Model answers are provided on the next page
-    to help the assessor assess the candidate’s responses.'
+  value: Explaining the importance of each identified characteristic in supporting
+    optimum client service
 - field_id: CHCCOM005_TXT_39_0_0_2
   type: text
   section: Knowledge Assessment
@@ -5351,17 +4433,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 4252A3F8
-  value: 'Complete the table below by: Identifying four characteristics of a multi-disciplinary
-    team Explaining the importance of each identified characteristic in supporting
-    optimum client service The candidate must complete the table below by: Identifying
-    four characteristics of a multi-disciplinary team For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be traits exhibited
-    by groups made up of people who are expected in different disciplines. Explaining
-    the importance of each identified characteristic in supporting optimum client
-    service For satisfactory performance, the candidate’s responses must be: Consistent
-    with the characteristic they provided An explanation of how each characteristic
-    is important in providing services Model answers are provided on the next page
-    to help the assessor assess the candidate’s responses.'
+  value: 'For satisfactory performance, I’s responses must be:'
 - field_id: CHCCOM005_TXT_39_0_0_3
   type: text
   section: Knowledge Assessment
@@ -5376,17 +4448,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 1A48FD09
-  value: 'Complete the table below by: Identifying four characteristics of a multi-disciplinary
-    team Explaining the importance of each identified characteristic in supporting
-    optimum client service The candidate must complete the table below by: Identifying
-    four characteristics of a multi-disciplinary team For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be traits exhibited
-    by groups made up of people who are expected in different disciplines. Explaining
-    the importance of each identified characteristic in supporting optimum client
-    service For satisfactory performance, the candidate’s responses must be: Consistent
-    with the characteristic they provided An explanation of how each characteristic
-    is important in providing services Model answers are provided on the next page
-    to help the assessor assess the candidate’s responses.'
+  value: Consistent with the characteristic they provided
 - field_id: CHCCOM005_TXT_39_0_0_4
   type: text
   section: Knowledge Assessment
@@ -5401,17 +4463,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 7BDC0E9D
-  value: 'Complete the table below by: Identifying four characteristics of a multi-disciplinary
-    team Explaining the importance of each identified characteristic in supporting
-    optimum client service The candidate must complete the table below by: Identifying
-    four characteristics of a multi-disciplinary team For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be traits exhibited
-    by groups made up of people who are expected in different disciplines. Explaining
-    the importance of each identified characteristic in supporting optimum client
-    service For satisfactory performance, the candidate’s responses must be: Consistent
-    with the characteristic they provided An explanation of how each characteristic
-    is important in providing services Model answers are provided on the next page
-    to help the assessor assess the candidate’s responses.'
+  value: An explanation of how each characteristic is important in providing services
 - field_id: CHCCOM005_TXT_39_0_0_5
   type: text
   section: Knowledge Assessment
@@ -5426,17 +4478,8 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 085A4353
-  value: 'Complete the table below by: Identifying four characteristics of a multi-disciplinary
-    team Explaining the importance of each identified characteristic in supporting
-    optimum client service The candidate must complete the table below by: Identifying
-    four characteristics of a multi-disciplinary team For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be traits exhibited
-    by groups made up of people who are expected in different disciplines. Explaining
-    the importance of each identified characteristic in supporting optimum client
-    service For satisfactory performance, the candidate’s responses must be: Consistent
-    with the characteristic they provided An explanation of how each characteristic
-    is important in providing services Model answers are provided on the next page
-    to help the assessor assess the candidate’s responses.'
+  value: Model answers are provided on the next page to help the assessor assess I’s
+    responses.
 - field_id: CHCCOM005_TXT_39_0_0_6
   type: text
   section: Knowledge Assessment
@@ -5451,17 +4494,8 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 42BD7237
-  value: 'Complete the table below by: Identifying four characteristics of a multi-disciplinary
-    team Explaining the importance of each identified characteristic in supporting
-    optimum client service The candidate must complete the table below by: Identifying
-    four characteristics of a multi-disciplinary team For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be traits exhibited
-    by groups made up of people who are expected in different disciplines. Explaining
-    the importance of each identified characteristic in supporting optimum client
-    service For satisfactory performance, the candidate’s responses must be: Consistent
-    with the characteristic they provided An explanation of how each characteristic
-    is important in providing services Model answers are provided on the next page
-    to help the assessor assess the candidate’s responses.'
+  value: Explaining the importance of each identified characteristic in supporting
+    optimum client service
 - field_id: CHCCOM005_TXT_39_0_0_7
   type: text
   section: Knowledge Assessment
@@ -5476,17 +4510,8 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 675B8D9C
-  value: 'Complete the table below by: Identifying four characteristics of a multi-disciplinary
-    team Explaining the importance of each identified characteristic in supporting
-    optimum client service The candidate must complete the table below by: Identifying
-    four characteristics of a multi-disciplinary team For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be traits exhibited
-    by groups made up of people who are expected in different disciplines. Explaining
-    the importance of each identified characteristic in supporting optimum client
-    service For satisfactory performance, the candidate’s responses must be: Consistent
-    with the characteristic they provided An explanation of how each characteristic
-    is important in providing services Model answers are provided on the next page
-    to help the assessor assess the candidate’s responses.'
+  value: Explaining the importance of each identified characteristic in supporting
+    optimum client service
 - field_id: CHCCOM005_TXT_39_0_0_8
   type: text
   section: Knowledge Assessment
@@ -5501,17 +4526,8 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 212E8140
-  value: 'Complete the table below by: Identifying four characteristics of a multi-disciplinary
-    team Explaining the importance of each identified characteristic in supporting
-    optimum client service The candidate must complete the table below by: Identifying
-    four characteristics of a multi-disciplinary team For satisfactory performance,
-    although wording may slightly vary, the candidate’s responses must be traits exhibited
-    by groups made up of people who are expected in different disciplines. Explaining
-    the importance of each identified characteristic in supporting optimum client
-    service For satisfactory performance, the candidate’s responses must be: Consistent
-    with the characteristic they provided An explanation of how each characteristic
-    is important in providing services Model answers are provided on the next page
-    to help the assessor assess the candidate’s responses.'
+  value: Explaining the importance of each identified characteristic in supporting
+    optimum client service
 - field_id: CHCCOM005_TXT_40_0_0_1
   type: text
   section: Knowledge Assessment
@@ -5524,16 +4540,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 62E86F7F
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_2
   type: text
   section: Knowledge Assessment
@@ -5546,16 +4554,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 451DA6CD
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: For satisfactory performance, I’s responses must be an example of a task
+    the given member performs in service delivery.
 - field_id: CHCCOM005_TXT_40_0_0_3
   type: text
   section: Knowledge Assessment
@@ -5568,16 +4568,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: '15361869'
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Model answers are provided below to help the assessor assess I’s responses.
 - field_id: CHCCOM005_TXT_40_0_0_4
   type: text
   section: Knowledge Assessment
@@ -5590,16 +4581,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 2F17CE6C
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_5
   type: text
   section: Knowledge Assessment
@@ -5612,16 +4595,8 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: '74912399'
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_6
   type: text
   section: Knowledge Assessment
@@ -5634,16 +4609,8 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 124EF184
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_7
   type: text
   section: Knowledge Assessment
@@ -5656,16 +4623,8 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 352FD908
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_8
   type: text
   section: Knowledge Assessment
@@ -5678,16 +4637,8 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 7FE3C44D
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_9
   type: text
   section: Knowledge Assessment
@@ -5700,16 +4651,8 @@ fields:
   col_idx: 0
   index_in_cell: 8
   para_id: 599A2036
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_10
   type: text
   section: Knowledge Assessment
@@ -5722,16 +4665,8 @@ fields:
   col_idx: 0
   index_in_cell: 9
   para_id: 08D2A77D
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_11
   type: text
   section: Knowledge Assessment
@@ -5744,16 +4679,8 @@ fields:
   col_idx: 0
   index_in_cell: 10
   para_id: 462FFA15
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_12
   type: text
   section: Knowledge Assessment
@@ -5766,16 +4693,8 @@ fields:
   col_idx: 0
   index_in_cell: 11
   para_id: 3999CE66
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_13
   type: text
   section: Knowledge Assessment
@@ -5788,16 +4707,8 @@ fields:
   col_idx: 0
   index_in_cell: 12
   para_id: 43C1EE45
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_0_0_14
   type: text
   section: Knowledge Assessment
@@ -5810,16 +4721,8 @@ fields:
   col_idx: 0
   index_in_cell: 13
   para_id: 01DEA32A
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_1_0_1
   type: text
   section: Knowledge Assessment
@@ -5832,16 +4735,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 44BDFD43
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_1_0_2
   type: text
   section: Knowledge Assessment
@@ -5854,16 +4749,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 47A9BBCC
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: For satisfactory performance, I’s responses must be an example of a task
+    the given member performs in service delivery.
 - field_id: CHCCOM005_TXT_40_1_0_3
   type: text
   section: Knowledge Assessment
@@ -5876,16 +4763,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 1062C2CF
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Model answers are provided below to help the assessor assess I’s responses.
 - field_id: CHCCOM005_TXT_40_1_0_4
   type: text
   section: Knowledge Assessment
@@ -5898,16 +4776,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 37D82D5B
-  value: 'Complete the table below by: Briefly describing the role of each given member
-    of an interdisciplinary team Identifying one responsibility of each given member
-    of an interdisciplinary team The candidate must complete the table below by: Briefly
-    describing the role of each given member of an interdisciplinary team For satisfactory
-    performance, although wording may slightly vary, the candidate’s responses must
-    be consistent with the model answers below. Identifying one responsibility of
-    each given member of an interdisciplinary team For satisfactory performance, the
-    candidate’s responses must be an example of a task the given member performs in
-    service delivery. Model answers are provided below to help the assessor assess
-    the candidate’s responses.'
+  value: Identifying one responsibility of each given member of an interdisciplinary
+    team
 - field_id: CHCCOM005_TXT_40_2_0_1
   type: text
   section: Knowledge Assessment
@@ -5919,15 +4789,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7BBFB5A5
-  value: 'Explain how the different members of the health and community services must
-    work together to provide optimum service to each given client below. The candidate
-    must explain how the different members of the health and community services must
-    work together to provide optimum service to each given client below. Responses
-    will vary. For satisfactory performance, their response must: Be relevant to the
-    type of client given Contain details about the different members of the health
-    and community service involved in the service provision Explain how multiple people
-    working in health or community services can provide care to the same client Model
-    answers are provided below to help the assessor assess the candidate’s response.'
+  value: Responses will vary.
 - field_id: CHCCOM005_TXT_40_2_0_2
   type: text
   section: Knowledge Assessment
@@ -5939,15 +4801,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 471FAAF0
-  value: 'Explain how the different members of the health and community services must
-    work together to provide optimum service to each given client below. The candidate
-    must explain how the different members of the health and community services must
-    work together to provide optimum service to each given client below. Responses
-    will vary. For satisfactory performance, their response must: Be relevant to the
-    type of client given Contain details about the different members of the health
-    and community service involved in the service provision Explain how multiple people
-    working in health or community services can provide care to the same client Model
-    answers are provided below to help the assessor assess the candidate’s response.'
+  value: 'For satisfactory performance, their response must:'
 - field_id: CHCCOM005_TXT_40_2_0_3
   type: text
   section: Knowledge Assessment
@@ -5959,15 +4813,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 4CF9B585
-  value: 'Explain how the different members of the health and community services must
-    work together to provide optimum service to each given client below. The candidate
-    must explain how the different members of the health and community services must
-    work together to provide optimum service to each given client below. Responses
-    will vary. For satisfactory performance, their response must: Be relevant to the
-    type of client given Contain details about the different members of the health
-    and community service involved in the service provision Explain how multiple people
-    working in health or community services can provide care to the same client Model
-    answers are provided below to help the assessor assess the candidate’s response.'
+  value: Be relevant to the type of client given
 - field_id: CHCCOM005_TXT_42_0_0_1
   type: text
   section: Knowledge Assessment
@@ -5986,36 +4832,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 46AB05B1
-  value: 'What is Medicare? In your response, you must: Define Medicare The candidate
-    must define Medicare. For satisfactory performance, although wording may slightly
-    vary, their response must be consistent with the model answer below. Medicare
-    is Australia’s universal health care scheme. Explain what Medicare is used for
-    The candidate must explain what Medicare is used for. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is used to enable the public to access the public
-    health care system for free or at a low cost. What is Medicare? In your response,
-    you must: Define Medicare The candidate must define Medicare. For satisfactory
-    performance, although wording may slightly vary, their response must be consistent
-    with the model answer below. Medicare is Australia’s universal health care scheme.
-    Explain what Medicare is used for The candidate must explain what Medicare is
-    used for. For satisfactory performance, although wording may slightly vary, their
-    response must be consistent with the model answer below. Medicare is used to enable
-    the public to access the public health care system for free or at a low cost.
-    What is Medicare? In your response, you must: Define Medicare The candidate must
-    define Medicare. For satisfactory performance, although wording may slightly vary,
-    their response must be consistent with the model answer below. Medicare is Australia’s
-    universal health care scheme. Explain what Medicare is used for The candidate
-    must explain what Medicare is used for. For satisfactory performance, although
-    wording may slightly vary, their response must be consistent with the model answer
-    below. Medicare is used to enable the public to access the public health care
-    system for free or at a low cost. What is Medicare? In your response, you must:
-    Define Medicare The candidate must define Medicare. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is Australia’s universal health care scheme. Explain
-    what Medicare is used for The candidate must explain what Medicare is used for.
-    For satisfactory performance, although wording may slightly vary, their response
-    must be consistent with the model answer below. Medicare is used to enable the
-    public to access the public health care system for free or at a low cost.'
+  value: Medicare is Australia’s universal health care scheme. Explain what
 - field_id: CHCCOM005_TXT_42_0_0_2
   type: text
   section: Knowledge Assessment
@@ -6034,36 +4851,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 6DB44ABB
-  value: 'What is Medicare? In your response, you must: Define Medicare The candidate
-    must define Medicare. For satisfactory performance, although wording may slightly
-    vary, their response must be consistent with the model answer below. Medicare
-    is Australia’s universal health care scheme. Explain what Medicare is used for
-    The candidate must explain what Medicare is used for. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is used to enable the public to access the public
-    health care system for free or at a low cost. What is Medicare? In your response,
-    you must: Define Medicare The candidate must define Medicare. For satisfactory
-    performance, although wording may slightly vary, their response must be consistent
-    with the model answer below. Medicare is Australia’s universal health care scheme.
-    Explain what Medicare is used for The candidate must explain what Medicare is
-    used for. For satisfactory performance, although wording may slightly vary, their
-    response must be consistent with the model answer below. Medicare is used to enable
-    the public to access the public health care system for free or at a low cost.
-    What is Medicare? In your response, you must: Define Medicare The candidate must
-    define Medicare. For satisfactory performance, although wording may slightly vary,
-    their response must be consistent with the model answer below. Medicare is Australia’s
-    universal health care scheme. Explain what Medicare is used for The candidate
-    must explain what Medicare is used for. For satisfactory performance, although
-    wording may slightly vary, their response must be consistent with the model answer
-    below. Medicare is used to enable the public to access the public health care
-    system for free or at a low cost. What is Medicare? In your response, you must:
-    Define Medicare The candidate must define Medicare. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is Australia’s universal health care scheme. Explain
-    what Medicare is used for The candidate must explain what Medicare is used for.
-    For satisfactory performance, although wording may slightly vary, their response
-    must be consistent with the model answer below. Medicare is used to enable the
-    public to access the public health care system for free or at a low cost.'
+  value: Medicare is used for I must explain what
 - field_id: CHCCOM005_TXT_42_0_0_3
   type: text
   section: Knowledge Assessment
@@ -6082,36 +4870,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 1C4D8BD1
-  value: 'What is Medicare? In your response, you must: Define Medicare The candidate
-    must define Medicare. For satisfactory performance, although wording may slightly
-    vary, their response must be consistent with the model answer below. Medicare
-    is Australia’s universal health care scheme. Explain what Medicare is used for
-    The candidate must explain what Medicare is used for. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is used to enable the public to access the public
-    health care system for free or at a low cost. What is Medicare? In your response,
-    you must: Define Medicare The candidate must define Medicare. For satisfactory
-    performance, although wording may slightly vary, their response must be consistent
-    with the model answer below. Medicare is Australia’s universal health care scheme.
-    Explain what Medicare is used for The candidate must explain what Medicare is
-    used for. For satisfactory performance, although wording may slightly vary, their
-    response must be consistent with the model answer below. Medicare is used to enable
-    the public to access the public health care system for free or at a low cost.
-    What is Medicare? In your response, you must: Define Medicare The candidate must
-    define Medicare. For satisfactory performance, although wording may slightly vary,
-    their response must be consistent with the model answer below. Medicare is Australia’s
-    universal health care scheme. Explain what Medicare is used for The candidate
-    must explain what Medicare is used for. For satisfactory performance, although
-    wording may slightly vary, their response must be consistent with the model answer
-    below. Medicare is used to enable the public to access the public health care
-    system for free or at a low cost. What is Medicare? In your response, you must:
-    Define Medicare The candidate must define Medicare. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is Australia’s universal health care scheme. Explain
-    what Medicare is used for The candidate must explain what Medicare is used for.
-    For satisfactory performance, although wording may slightly vary, their response
-    must be consistent with the model answer below. Medicare is used to enable the
-    public to access the public health care system for free or at a low cost.'
+  value: Medicare is used for.
 - field_id: CHCCOM005_TXT_42_1_0_1
   type: text
   section: Knowledge Assessment
@@ -6123,11 +4882,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3C53561A
-  value: Identify whether each given community service area is primarily funded by
-    the Australian government or State and Territory governments. The candidate must
-    identify whether each given community service area is primarily funded by the
-    Australian government or State and Territory governments. For satisfactory performance,
-    their responses must be consistent with the model answers below.
+  value: consistent with the model answers below.
 - field_id: CHCCOM005_TXT_42_1_0_2
   type: text
   section: Knowledge Assessment
@@ -6139,11 +4894,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 6A3853FA
-  value: Identify whether each given community service area is primarily funded by
-    the Australian government or State and Territory governments. The candidate must
-    identify whether each given community service area is primarily funded by the
-    Australian government or State and Territory governments. For satisfactory performance,
-    their responses must be consistent with the model answers below.
+  value: consistent with the model answers below.
 - field_id: CHCCOM005_TXT_42_1_0_3
   type: text
   section: Knowledge Assessment
@@ -6155,11 +4906,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 24A9AD71
-  value: Identify whether each given community service area is primarily funded by
-    the Australian government or State and Territory governments. The candidate must
-    identify whether each given community service area is primarily funded by the
-    Australian government or State and Territory governments. For satisfactory performance,
-    their responses must be consistent with the model answers below.
+  value: consistent with the model answers below.
 - field_id: CHCCOM005_TXT_42_1_0_4
   type: text
   section: Knowledge Assessment
@@ -6171,11 +4918,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 7D237196
-  value: Identify whether each given community service area is primarily funded by
-    the Australian government or State and Territory governments. The candidate must
-    identify whether each given community service area is primarily funded by the
-    Australian government or State and Territory governments. For satisfactory performance,
-    their responses must be consistent with the model answers below.
+  value: consistent with the model answers below.
 - field_id: CHCCOM005_TXT_42_1_0_5
   type: text
   section: Knowledge Assessment
@@ -6187,11 +4930,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 5C5BA19B
-  value: Identify whether each given community service area is primarily funded by
-    the Australian government or State and Territory governments. The candidate must
-    identify whether each given community service area is primarily funded by the
-    Australian government or State and Territory governments. For satisfactory performance,
-    their responses must be consistent with the model answers below.
+  value: consistent with the model answers below.
 - field_id: CHCCOM005_TXT_42_5_2_1
   type: text
   section: Knowledge Assessment
@@ -6207,36 +4946,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3666B671
-  value: 'What is Medicare? In your response, you must: Define Medicare The candidate
-    must define Medicare. For satisfactory performance, although wording may slightly
-    vary, their response must be consistent with the model answer below. Medicare
-    is Australia’s universal health care scheme. Explain what Medicare is used for
-    The candidate must explain what Medicare is used for. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is used to enable the public to access the public
-    health care system for free or at a low cost. What is Medicare? In your response,
-    you must: Define Medicare The candidate must define Medicare. For satisfactory
-    performance, although wording may slightly vary, their response must be consistent
-    with the model answer below. Medicare is Australia’s universal health care scheme.
-    Explain what Medicare is used for The candidate must explain what Medicare is
-    used for. For satisfactory performance, although wording may slightly vary, their
-    response must be consistent with the model answer below. Medicare is used to enable
-    the public to access the public health care system for free or at a low cost.
-    What is Medicare? In your response, you must: Define Medicare The candidate must
-    define Medicare. For satisfactory performance, although wording may slightly vary,
-    their response must be consistent with the model answer below. Medicare is Australia’s
-    universal health care scheme. Explain what Medicare is used for The candidate
-    must explain what Medicare is used for. For satisfactory performance, although
-    wording may slightly vary, their response must be consistent with the model answer
-    below. Medicare is used to enable the public to access the public health care
-    system for free or at a low cost. What is Medicare? In your response, you must:
-    Define Medicare The candidate must define Medicare. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is Australia’s universal health care scheme. Explain
-    what Medicare is used for The candidate must explain what Medicare is used for.
-    For satisfactory performance, although wording may slightly vary, their response
-    must be consistent with the model answer below. Medicare is used to enable the
-    public to access the public health care system for free or at a low cost.'
+  value: Medicare is Australia’s universal health care scheme. Explain what
 - field_id: CHCCOM005_TXT_42_5_3_1
   type: text
   section: Knowledge Assessment
@@ -6252,36 +4962,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 31B4388B
-  value: 'What is Medicare? In your response, you must: Define Medicare The candidate
-    must define Medicare. For satisfactory performance, although wording may slightly
-    vary, their response must be consistent with the model answer below. Medicare
-    is Australia’s universal health care scheme. Explain what Medicare is used for
-    The candidate must explain what Medicare is used for. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is used to enable the public to access the public
-    health care system for free or at a low cost. What is Medicare? In your response,
-    you must: Define Medicare The candidate must define Medicare. For satisfactory
-    performance, although wording may slightly vary, their response must be consistent
-    with the model answer below. Medicare is Australia’s universal health care scheme.
-    Explain what Medicare is used for The candidate must explain what Medicare is
-    used for. For satisfactory performance, although wording may slightly vary, their
-    response must be consistent with the model answer below. Medicare is used to enable
-    the public to access the public health care system for free or at a low cost.
-    What is Medicare? In your response, you must: Define Medicare The candidate must
-    define Medicare. For satisfactory performance, although wording may slightly vary,
-    their response must be consistent with the model answer below. Medicare is Australia’s
-    universal health care scheme. Explain what Medicare is used for The candidate
-    must explain what Medicare is used for. For satisfactory performance, although
-    wording may slightly vary, their response must be consistent with the model answer
-    below. Medicare is used to enable the public to access the public health care
-    system for free or at a low cost. What is Medicare? In your response, you must:
-    Define Medicare The candidate must define Medicare. For satisfactory performance,
-    although wording may slightly vary, their response must be consistent with the
-    model answer below. Medicare is Australia’s universal health care scheme. Explain
-    what Medicare is used for The candidate must explain what Medicare is used for.
-    For satisfactory performance, although wording may slightly vary, their response
-    must be consistent with the model answer below. Medicare is used to enable the
-    public to access the public health care system for free or at a low cost.'
+  value: Medicare is Australia’s universal health care scheme. Explain what
 - field_id: CHCCOM005_TXT_42_6_2_1
   type: text
   section: Knowledge Assessment
@@ -6688,13 +5369,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6D2A0F6C
-  value: 'What standard procedures did the support worker from the previous shift
-    breach? The candidate must indicate the standard procedures the support worker
-    from the previous shift breached. For satisfactory performance, although wording
-    may slightly vary, the candidate’s response must be: Not following the health
-    professional’s directions or not assisting the client with her medication according
-    to the health professional’s directions. The candidate may provide other responses.
-    This is still acceptable as long as the responses are consistent with the scenario.'
+  value: Not following the health professional’s directions or not assisting the client
+    with her medication according to the health professional’s directions. I may provide
+    other responses.
 - field_id: CHCCOM005_TXT_57_3_0_1
   type: text
   section: Knowledge Assessment

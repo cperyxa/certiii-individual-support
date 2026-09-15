@@ -174,7 +174,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2D9E99AF
-  value: Provides a balanced and nationally consistent framework to secure the health and safety of workers and workplaces in NSW.
+  value: Sets out the main safety laws in NSW to protect the health, safety, and welfare of workers, clients, and visitors.
 - field_id: HLTWHS002_TXT_4_3_0_1
   type: text
   section: Preliminary Task
@@ -187,7 +187,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 76C462F1
-  value: Provides a balanced and nationally consistent framework to secure the health and safety of workers and workplaces in NSW.
+  value: Sets out the main safety laws in NSW to protect the health, safety, and welfare of workers, clients, and visitors.
 - field_id: HLTWHS002_TXT_5_2_0_1
   type: text
   section: Preliminary Task
@@ -198,7 +198,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 266BA3D6
-  value: Specifies practical legal requirements for managing hazardous manual tasks, hazardous chemicals, infection control, and emergency plans.
+  value: Gives practical legal rules for managing manual tasks, hazardous chemicals, first aid, and emergency plans.
 - field_id: HLTWHS002_TXT_5_3_0_1
   type: text
   section: Preliminary Task
@@ -222,7 +222,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 79F4562B
-  value: Mandates duty to identify, manage, and control risks associated with musculoskeletal disorders.
+  value: Sets out duties to identify and control risks of musculoskeletal disorders.
 - field_id: HLTWHS002_TXT_5_7_0_1
   type: text
   section: Preliminary Task
@@ -365,7 +365,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 538CE33D
-  value: Provides practical guidance to identify postures, movements, and forces that produce musculoskeletal strain and implement mechanical controls.
+  value: Provides practical guidance to spot dangerous lifting, pulling, and bending postures, and use mechanical hoists to prevent back and muscle injuries.
 - field_id: HLTWHS002_TXT_6_3_1_1
   type: text
   section: Knowledge Assessment
@@ -376,7 +376,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 31F2FBA7
-  value: Provides practical guidance to identify postures, movements, and forces that produce musculoskeletal strain and implement mechanical controls.
+  value: Provides practical guidance to spot dangerous lifting, pulling, and bending postures, and use mechanical hoists to prevent back and muscle injuries.
 - field_id: HLTWHS002_TXT_6_3_2_1
   type: text
   section: Knowledge Assessment
@@ -387,7 +387,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 767548B1
-  value: Provides practical guidance to identify postures, movements, and forces that produce musculoskeletal strain and implement mechanical controls.
+  value: Provides practical guidance to spot dangerous lifting, pulling, and bending postures, and use mechanical hoists to prevent back and muscle injuries.
 - field_id: HLTWHS002_TXT_7_2_0_1
   type: text
   section: Knowledge Assessment
@@ -411,7 +411,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 30C891F9
-  value: Provides organizations with a structured framework to improve employee safety, reduce workplace risks, and create safer working environments.
+  value: Provides organizations with a structured system to improve employee safety, reduce hazards, and prevent injuries.
 - field_id: HLTWHS002_TXT_7_4_0_1
   type: text
   section: Knowledge Assessment
@@ -435,7 +435,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7886ECDB
-  value: Inspects workplaces, issues improvement and prohibition notices, investigates serious workplace incidents, and enforces WHS laws in NSW.
+  value: Inspects workplaces, gives improvement and prohibition notices, investigates serious workplace accidents, and enforces WHS laws in NSW.
 - field_id: HLTWHS002_TXT_8_2_0_2
   type: text
   section: Knowledge Assessment
@@ -446,7 +446,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 7886ECDB
-  value: Inspects workplaces, issues improvement and prohibition notices, investigates serious workplace incidents, and enforces WHS laws in NSW.
+  value: Inspects workplaces, gives improvement and prohibition notices, investigates serious workplace accidents, and enforces WHS laws in NSW.
 - field_id: HLTWHS002_TXT_8_2_0_3
   type: text
   section: Knowledge Assessment
@@ -457,7 +457,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 7886ECDB
-  value: Inspects workplaces, issues improvement and prohibition notices, investigates serious workplace incidents, and enforces WHS laws in NSW.
+  value: Inspects workplaces, gives improvement and prohibition notices, investigates serious workplace accidents, and enforces WHS laws in NSW.
 - field_id: HLTWHS002_TXT_8_3_0_1
   type: text
   section: Knowledge Assessment
@@ -479,7 +479,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6491D965
-  value: Facilitates consultation between workers and management, conducts hazard inspections, and assists in incident reviews.
+  value: Helps workers and management talk about safety issues, does workplace safety checks, and assists in incident reviews.
 - field_id: HLTWHS002_TXT_9_3_2_1
   type: text
   section: Knowledge Assessment
@@ -490,7 +490,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4661BF76
-  value: Provide necessary information, training, instruction, and supervision to protect workers from risks.
+  value: Provide necessary safety training, clear instructions, and adequate supervision.
 - field_id: HLTWHS002_TXT_9_4_2_1
   type: text
   section: Knowledge Assessment
@@ -501,7 +501,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 67139D8E
-  value: 'Section 28 Worker Duties: Take reasonable care for own health and safety and ensure actions do not adversely affect others.'
+  value: 'Section 28 Worker Duties: Take reasonable care for my own health and safety and make sure my actions don''t harm others.'
 - field_id: HLTWHS002_TXT_9_5_2_1
   type: text
   section: Knowledge Assessment
@@ -514,7 +514,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 243FB2B7
-  value: Comply with any reasonable instruction and cooperate with reasonable WHS policies and procedures.
+  value: Follow any reasonable safety instruction and follow workplace WHS policies and procedures.
 - field_id: HLTWHS002_TXT_9_6_2_1
   type: text
   section: Knowledge Assessment
@@ -525,7 +525,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4692C697
-  value: Report hazards, injuries, and unsafe work practices immediately to the workplace supervisor.
+  value: Report hazards, injuries, near misses, and faulty equipment immediately to my supervisor.
 - field_id: HLTWHS002_TXT_9_7_2_1
   type: text
   section: Knowledge Assessment
@@ -560,7 +560,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 09A3F822
-  value: Right to access adequate first aid, personal protective equipment, and WHS training free of charge.
+  value: Right to receive proper PPE, first aid supplies, and safety training free of charge.
 - field_id: HLTWHS002_TXT_10_4_2_1
   type: text
   section: Knowledge Assessment
@@ -571,7 +571,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 65E5F12D
-  value: Right to access adequate first aid, personal protective equipment, and WHS training free of charge.
+  value: Right to receive proper PPE, first aid supplies, and safety training free of charge.
 - field_id: HLTWHS002_TXT_10_5_0_1
   type: text
   section: Knowledge Assessment
@@ -582,7 +582,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5B15BFA8
-  value: Responsibility to wear and maintain required PPE properly in accordance with manufacturer instructions.
+  value: Responsibility to wear and take care of provided PPE properly (gloves, masks, eye protection).
 - field_id: HLTWHS002_TXT_10_5_2_1
   type: text
   section: Knowledge Assessment
@@ -593,7 +593,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6C666838
-  value: Responsibility to wear and maintain required PPE properly in accordance with manufacturer instructions.
+  value: Responsibility to wear and take care of provided PPE properly (gloves, masks, eye protection).
 - field_id: HLTWHS002_TXT_10_6_0_1
   type: text
   section: Knowledge Assessment
@@ -604,7 +604,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3D1B45C7
-  value: Responsibility not to intentionally or recklessly interfere with or misuse safety equipment.
+  value: Responsibility not to damage, misuse, or interfere with safety equipment.
 - field_id: HLTWHS002_TXT_10_6_2_1
   type: text
   section: Knowledge Assessment
@@ -615,7 +615,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5073027E
-  value: Responsibility not to intentionally or recklessly interfere with or misuse safety equipment.
+  value: Responsibility not to damage, misuse, or interfere with safety equipment.
 - field_id: HLTWHS002_TXT_10_7_0_1
   type: text
   section: Knowledge Assessment
@@ -626,7 +626,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5616F4CA
-  value: Responsibility to actively participate in workplace health and safety consultation and debriefing sessions.
+  value: Responsibility to take part in workplace safety meetings and training sessions.
 - field_id: HLTWHS002_TXT_10_7_2_1
   type: text
   section: Knowledge Assessment
@@ -637,7 +637,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 49B9BC41
-  value: Responsibility to actively participate in workplace health and safety consultation and debriefing sessions.
+  value: Responsibility to take part in workplace safety meetings and training sessions.
 - field_id: HLTWHS002_TXT_11_2_0_1
   type: text
   section: Knowledge Assessment
@@ -648,7 +648,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7173584A
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_2_1_1
   type: text
   section: Knowledge Assessment
@@ -659,7 +659,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 158D5AD3
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_3_0_1
   type: text
   section: Knowledge Assessment
@@ -670,7 +670,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6DAC50A4
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_3_1_1
   type: text
   section: Knowledge Assessment
@@ -681,7 +681,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 069E892F
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_4_0_1
   type: text
   section: Knowledge Assessment
@@ -692,7 +692,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3C0ADBE5
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_4_1_1
   type: text
   section: Knowledge Assessment
@@ -703,7 +703,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 53FDCE6D
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_5_0_1
   type: text
   section: Knowledge Assessment
@@ -714,7 +714,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 55E0F5B8
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_5_1_1
   type: text
   section: Knowledge Assessment
@@ -725,7 +725,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 323F7687
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_8_0_1
   type: text
   section: Knowledge Assessment
@@ -736,7 +736,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 44E3E860
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_8_1_1
   type: text
   section: Knowledge Assessment
@@ -747,7 +747,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7A02149E
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_9_0_1
   type: text
   section: Knowledge Assessment
@@ -758,7 +758,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 73CFA629
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_9_1_1
   type: text
   section: Knowledge Assessment
@@ -769,7 +769,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0026665D
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_10_0_1
   type: text
   section: Knowledge Assessment
@@ -780,7 +780,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7C0691F5
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_10_1_1
   type: text
   section: Knowledge Assessment
@@ -791,7 +791,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0B034656
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_11_0_1
   type: text
   section: Knowledge Assessment
@@ -802,7 +802,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1E4C87D4
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_11_11_1_1
   type: text
   section: Knowledge Assessment
@@ -813,7 +813,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7903934C
-  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+  value: Keep up-to-date knowledge of work health and safety laws and practices.
 - field_id: HLTWHS002_TXT_12_2_0_1
   type: text
   section: Knowledge Assessment
@@ -824,7 +824,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7B18BAD1
-  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+  value: A hazard is something with potential to cause harm (like a wet floor). A risk is the chance and how badly someone could get hurt by that hazard.
 - field_id: HLTWHS002_TXT_12_3_0_1
   type: text
   section: Knowledge Assessment
@@ -835,7 +835,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 317314AF
-  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+  value: A hazard is something with potential to cause harm (like a wet floor). A risk is the chance and how badly someone could get hurt by that hazard.
 - field_id: HLTWHS002_TXT_12_3_0_2
   type: text
   section: Knowledge Assessment
@@ -846,7 +846,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 26ED540B
-  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+  value: A hazard is something with potential to cause harm (like a wet floor). A risk is the chance and how badly someone could get hurt by that hazard.
 - field_id: HLTWHS002_TXT_12_3_0_3
   type: text
   section: Knowledge Assessment
@@ -857,7 +857,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 79BDF4FF
-  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+  value: A hazard is something with potential to cause harm (like a wet floor). A risk is the chance and how badly someone could get hurt by that hazard.
 - field_id: HLTWHS002_TXT_12_3_0_4
   type: text
   section: Knowledge Assessment
@@ -868,7 +868,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 076CD406
-  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+  value: A hazard is something with potential to cause harm (like a wet floor). A risk is the chance and how badly someone could get hurt by that hazard.
 - field_id: HLTWHS002_TXT_12_3_0_5
   type: text
   section: Knowledge Assessment
@@ -879,7 +879,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 750EA78B
-  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+  value: A hazard is something with potential to cause harm (like a wet floor). A risk is the chance and how badly someone could get hurt by that hazard.
 - field_id: HLTWHS002_TXT_12_3_0_6
   type: text
   section: Knowledge Assessment
@@ -890,7 +890,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 4E3E76A2
-  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+  value: A hazard is something with potential to cause harm (like a wet floor). A risk is the chance and how badly someone could get hurt by that hazard.
 - field_id: HLTWHS002_TXT_12_3_0_7
   type: text
   section: Knowledge Assessment
@@ -901,7 +901,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 1371B40D
-  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+  value: A hazard is something with potential to cause harm (like a wet floor). A risk is the chance and how badly someone could get hurt by that hazard.
 - field_id: HLTWHS002_TXT_13_2_0_1
   type: text
   section: Preliminary Task
@@ -1025,7 +1025,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 405FCCE2
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_3_3_1
   type: text
   section: Knowledge Assessment
@@ -1040,7 +1040,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 61E4A4B5
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1055,7 +1055,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7BDCE1AB
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_4_3_1
   type: text
   section: Knowledge Assessment
@@ -1070,7 +1070,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 64D2B1D4
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1085,7 +1085,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6DBD3A8B
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_5_3_1
   type: text
   section: Knowledge Assessment
@@ -1100,7 +1100,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1B32221C
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1115,7 +1115,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 75960C33
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_6_3_1
   type: text
   section: Knowledge Assessment
@@ -1130,7 +1130,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 0DC32DAB
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_7_2_1
   type: text
   section: Knowledge Assessment
@@ -1145,7 +1145,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1EAB5F67
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_7_3_1
   type: text
   section: Knowledge Assessment
@@ -1160,7 +1160,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1E20DCFA
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_9_2_1
   type: text
   section: Knowledge Assessment
@@ -1175,7 +1175,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2251D865
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_9_3_1
   type: text
   section: Knowledge Assessment
@@ -1190,7 +1190,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 21DBBDAD
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_10_2_1
   type: text
   section: Knowledge Assessment
@@ -1205,7 +1205,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 554762AE
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_10_3_1
   type: text
   section: Knowledge Assessment
@@ -1220,7 +1220,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 09C6215C
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_11_2_1
   type: text
   section: Knowledge Assessment
@@ -1235,7 +1235,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6E1E92CE
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_11_3_1
   type: text
   section: Knowledge Assessment
@@ -1250,7 +1250,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: '71702723'
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_12_2_1
   type: text
   section: Knowledge Assessment
@@ -1265,7 +1265,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3F76B6B9
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_12_3_1
   type: text
   section: Knowledge Assessment
@@ -1280,7 +1280,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 3F98BD65
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_13_2_1
   type: text
   section: Knowledge Assessment
@@ -1295,7 +1295,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 57CF9066
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_14_13_3_1
   type: text
   section: Knowledge Assessment
@@ -1310,7 +1310,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 422B7C4F
-  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+  value: Spot the hazards, assess the risk level (likelihood and consequence), put control measures in place using the hierarchy of controls, and review controls regularly.
 - field_id: HLTWHS002_TXT_15_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1325,7 +1325,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4CA83731
-  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+  value: Musculoskeletal disorders (MSD) like lower back strains, shoulder injuries, or wrist pain from heavy lifting, awkward bending, or pushing heavy wheelchairs.
 - field_id: HLTWHS002_TXT_15_3_3_1
   type: text
   section: Knowledge Assessment
@@ -1340,7 +1340,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 587B37C0
-  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+  value: Musculoskeletal disorders (MSD) like lower back strains, shoulder injuries, or wrist pain from heavy lifting, awkward bending, or pushing heavy wheelchairs.
 - field_id: HLTWHS002_TXT_15_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1355,7 +1355,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2B963F1D
-  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+  value: Musculoskeletal disorders (MSD) like lower back strains, shoulder injuries, or wrist pain from heavy lifting, awkward bending, or pushing heavy wheelchairs.
 - field_id: HLTWHS002_TXT_15_4_3_1
   type: text
   section: Knowledge Assessment
@@ -1370,7 +1370,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 2274EA3E
-  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+  value: Musculoskeletal disorders (MSD) like lower back strains, shoulder injuries, or wrist pain from heavy lifting, awkward bending, or pushing heavy wheelchairs.
 - field_id: HLTWHS002_TXT_15_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1385,7 +1385,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7A786DD9
-  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+  value: Musculoskeletal disorders (MSD) like lower back strains, shoulder injuries, or wrist pain from heavy lifting, awkward bending, or pushing heavy wheelchairs.
 - field_id: HLTWHS002_TXT_15_5_3_1
   type: text
   section: Knowledge Assessment
@@ -1400,7 +1400,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1CC43A67
-  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+  value: Musculoskeletal disorders (MSD) like lower back strains, shoulder injuries, or wrist pain from heavy lifting, awkward bending, or pushing heavy wheelchairs.
 - field_id: HLTWHS002_TXT_16_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1411,7 +1411,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 22BCE4D9
-  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+  value: Use mechanical hoists, slide sheets, height-adjustable beds, and always get a second support worker to help with heavy or difficult transfers.
 - field_id: HLTWHS002_TXT_16_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1422,7 +1422,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0CD146D1
-  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+  value: Use mechanical hoists, slide sheets, height-adjustable beds, and always get a second support worker to help with heavy or difficult transfers.
 - field_id: HLTWHS002_TXT_16_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1433,7 +1433,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 001BC59D
-  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+  value: Use mechanical hoists, slide sheets, height-adjustable beds, and always get a second support worker to help with heavy or difficult transfers.
 - field_id: HLTWHS002_TXT_16_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1444,7 +1444,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 65D71848
-  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+  value: Use mechanical hoists, slide sheets, height-adjustable beds, and always get a second support worker to help with heavy or difficult transfers.
 - field_id: HLTWHS002_TXT_16_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1455,7 +1455,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6079E1B8
-  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+  value: Use mechanical hoists, slide sheets, height-adjustable beds, and always get a second support worker to help with heavy or difficult transfers.
 - field_id: HLTWHS002_TXT_16_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1466,7 +1466,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 13D7E2CD
-  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+  value: Use mechanical hoists, slide sheets, height-adjustable beds, and always get a second support worker to help with heavy or difficult transfers.
 - field_id: HLTWHS002_TXT_17_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1481,7 +1481,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 38B9152A
-  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+  value: Check the client's transfer plan, clear any clutter from the floor, adjust bed height, lock wheels, explain what you are doing to the client, and keep a good posture.
 - field_id: HLTWHS002_TXT_17_3_3_1
   type: text
   section: Knowledge Assessment
@@ -1496,7 +1496,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1F72947C
-  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+  value: Check the client's transfer plan, clear any clutter from the floor, adjust bed height, lock wheels, explain what you are doing to the client, and keep a good posture.
 - field_id: HLTWHS002_TXT_17_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1511,7 +1511,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5E58CDDE
-  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+  value: Check the client's transfer plan, clear any clutter from the floor, adjust bed height, lock wheels, explain what you are doing to the client, and keep a good posture.
 - field_id: HLTWHS002_TXT_17_4_3_1
   type: text
   section: Knowledge Assessment
@@ -1526,7 +1526,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6949A960
-  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+  value: Check the client's transfer plan, clear any clutter from the floor, adjust bed height, lock wheels, explain what you are doing to the client, and keep a good posture.
 - field_id: HLTWHS002_TXT_17_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1541,7 +1541,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 65A562A9
-  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+  value: Check the client's transfer plan, clear any clutter from the floor, adjust bed height, lock wheels, explain what you are doing to the client, and keep a good posture.
 - field_id: HLTWHS002_TXT_17_5_3_1
   type: text
   section: Knowledge Assessment
@@ -1556,7 +1556,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 2CD56C6E
-  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+  value: Check the client's transfer plan, clear any clutter from the floor, adjust bed height, lock wheels, explain what you are doing to the client, and keep a good posture.
 - field_id: HLTWHS002_TXT_17_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1571,7 +1571,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 68AF823E
-  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+  value: Check the client's transfer plan, clear any clutter from the floor, adjust bed height, lock wheels, explain what you are doing to the client, and keep a good posture.
 - field_id: HLTWHS002_TXT_17_6_3_1
   type: text
   section: Knowledge Assessment
@@ -1586,7 +1586,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 018C41B3
-  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+  value: Check the client's transfer plan, clear any clutter from the floor, adjust bed height, lock wheels, explain what you are doing to the client, and keep a good posture.
 - field_id: HLTWHS002_TXT_18_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1597,7 +1597,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7AE899DD
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1608,7 +1608,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 33541AE2
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1619,7 +1619,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 274A2BF7
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1630,7 +1630,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0DE719D1
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1641,7 +1641,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 061CEFCD
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1652,7 +1652,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 64A511BA
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1663,7 +1663,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1A420B23
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1674,7 +1674,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2EACDFEA
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1685,7 +1685,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 77A97766
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1696,7 +1696,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7E650904
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_6_1_1
   type: text
   section: Knowledge Assessment
@@ -1707,7 +1707,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1266761F
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_18_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1718,7 +1718,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 25DA398A
-  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound the alarm; C - Contain smoke and fire by closing doors; E - Evacuate to the assembly area.
 - field_id: HLTWHS002_TXT_19_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1733,7 +1733,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 52F6EE53
-  value: 'Check DRSABCD: Danger, Response, Send for help (000), Airway, Breathing, CPR (30 compressions : 2 breaths), Defibrillation (AED).'
+  value: 'Follow DRSABCD: Danger, Response, Send for help (000), Airway, Breathing, CPR (30 compressions : 2 breaths), Defibrillation (AED).'
 - field_id: HLTWHS002_TXT_19_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1748,7 +1748,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 617C7B06
-  value: 'Check DRSABCD: Danger, Response, Send for help (000), Airway, Breathing, CPR (30 compressions : 2 breaths), Defibrillation (AED).'
+  value: 'Follow DRSABCD: Danger, Response, Send for help (000), Airway, Breathing, CPR (30 compressions : 2 breaths), Defibrillation (AED).'
 - field_id: HLTWHS002_TXT_20_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1759,7 +1759,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 46799B24
-  value: Blood-borne viruses (HBV, HCV, HIV), respiratory pathogens (COVID-19, Influenza), and enteric pathogens (Norovirus).
+  value: Blood-borne viruses (HBV, HCV, HIV), respiratory infections (COVID-19, Influenza, colds), and stomach bugs (Norovirus, gastroenteritis).
 - field_id: HLTWHS002_TXT_20_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1770,7 +1770,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 504DA082
-  value: Blood-borne viruses (HBV, HCV, HIV), respiratory pathogens (COVID-19, Influenza), and enteric pathogens (Norovirus).
+  value: Blood-borne viruses (HBV, HCV, HIV), respiratory infections (COVID-19, Influenza, colds), and stomach bugs (Norovirus, gastroenteritis).
 - field_id: HLTWHS002_TXT_20_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1781,7 +1781,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 54A704D7
-  value: Blood-borne viruses (HBV, HCV, HIV), respiratory pathogens (COVID-19, Influenza), and enteric pathogens (Norovirus).
+  value: Blood-borne viruses (HBV, HCV, HIV), respiratory infections (COVID-19, Influenza, colds), and stomach bugs (Norovirus, gastroenteritis).
 - field_id: HLTWHS002_TXT_21_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1792,7 +1792,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4E1B9586
-  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+  value: Wash hands before and after client contact, wear PPE (gloves, aprons, masks), dispose of sharps safely, clean up spills immediately, and disinfect surfaces.
 - field_id: HLTWHS002_TXT_21_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1803,7 +1803,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 358FCD6E
-  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+  value: Wash hands before and after client contact, wear PPE (gloves, aprons, masks), dispose of sharps safely, clean up spills immediately, and disinfect surfaces.
 - field_id: HLTWHS002_TXT_21_5_0_1
   type: text
   section: Knowledge Assessment
@@ -1814,7 +1814,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7711E9EA
-  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+  value: Wash hands before and after client contact, wear PPE (gloves, aprons, masks), dispose of sharps safely, clean up spills immediately, and disinfect surfaces.
 - field_id: HLTWHS002_TXT_21_6_0_1
   type: text
   section: Knowledge Assessment
@@ -1825,7 +1825,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 29573C43
-  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+  value: Wash hands before and after client contact, wear PPE (gloves, aprons, masks), dispose of sharps safely, clean up spills immediately, and disinfect surfaces.
 - field_id: HLTWHS002_TXT_21_8_0_1
   type: text
   section: Knowledge Assessment
@@ -1836,7 +1836,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7E34E7CB
-  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+  value: Wash hands before and after client contact, wear PPE (gloves, aprons, masks), dispose of sharps safely, clean up spills immediately, and disinfect surfaces.
 - field_id: HLTWHS002_TXT_21_9_0_1
   type: text
   section: Knowledge Assessment
@@ -1847,7 +1847,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6C5A89AC
-  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+  value: Wash hands before and after client contact, wear PPE (gloves, aprons, masks), dispose of sharps safely, clean up spills immediately, and disinfect surfaces.
 - field_id: HLTWHS002_TXT_21_10_0_1
   type: text
   section: Knowledge Assessment
@@ -1858,7 +1858,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 592F6407
-  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+  value: Wash hands before and after client contact, wear PPE (gloves, aprons, masks), dispose of sharps safely, clean up spills immediately, and disinfect surfaces.
 - field_id: HLTWHS002_TXT_21_11_0_1
   type: text
   section: Knowledge Assessment
@@ -1869,7 +1869,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 20639B9C
-  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+  value: Wash hands before and after client contact, wear PPE (gloves, aprons, masks), dispose of sharps safely, clean up spills immediately, and disinfect surfaces.
 - field_id: HLTWHS002_TXT_22_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1880,7 +1880,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5ED6412A
-  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+  value: A notifiable incident under WHS Act Section 38 is a death, serious injury or illness needing immediate hospital treatment, or a dangerous incident (like a fire, explosion, or gas leak).
 - field_id: HLTWHS002_TXT_22_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1891,7 +1891,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6D821630
-  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+  value: A notifiable incident under WHS Act Section 38 is a death, serious injury or illness needing immediate hospital treatment, or a dangerous incident (like a fire, explosion, or gas leak).
 - field_id: HLTWHS002_TXT_22_5_0_1
   type: text
   section: Knowledge Assessment
@@ -1902,7 +1902,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5F9B5E54
-  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+  value: A notifiable incident under WHS Act Section 38 is a death, serious injury or illness needing immediate hospital treatment, or a dangerous incident (like a fire, explosion, or gas leak).
 - field_id: HLTWHS002_TXT_22_7_0_1
   type: text
   section: Knowledge Assessment
@@ -1913,7 +1913,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2BC8373B
-  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+  value: A notifiable incident under WHS Act Section 38 is a death, serious injury or illness needing immediate hospital treatment, or a dangerous incident (like a fire, explosion, or gas leak).
 - field_id: HLTWHS002_TXT_22_8_0_1
   type: text
   section: Knowledge Assessment
@@ -1924,7 +1924,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6368F279
-  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+  value: A notifiable incident under WHS Act Section 38 is a death, serious injury or illness needing immediate hospital treatment, or a dangerous incident (like a fire, explosion, or gas leak).
 - field_id: HLTWHS002_TXT_22_9_0_1
   type: text
   section: Knowledge Assessment
@@ -1935,7 +1935,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 25626D69
-  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+  value: A notifiable incident under WHS Act Section 38 is a death, serious injury or illness needing immediate hospital treatment, or a dangerous incident (like a fire, explosion, or gas leak).
 - field_id: HLTWHS002_TXT_23_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1946,7 +1946,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0BA4B6C3
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1957,7 +1957,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3B5121F3
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_3_0_2
   type: text
   section: Knowledge Assessment
@@ -1968,7 +1968,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 32904DEE
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_3_0_3
   type: text
   section: Knowledge Assessment
@@ -1979,7 +1979,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 44441E96
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1990,7 +1990,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 408D8403
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_2
   type: text
   section: Knowledge Assessment
@@ -2001,7 +2001,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 100E42CE
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_3
   type: text
   section: Knowledge Assessment
@@ -2012,7 +2012,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 0E2598E7
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_4
   type: text
   section: Knowledge Assessment
@@ -2023,7 +2023,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 47CC4551
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_5
   type: text
   section: Knowledge Assessment
@@ -2034,7 +2034,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 028C1B3B
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_6
   type: text
   section: Knowledge Assessment
@@ -2045,7 +2045,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 53FD6200
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_7
   type: text
   section: Knowledge Assessment
@@ -2056,7 +2056,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 7AACED02
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_8
   type: text
   section: Knowledge Assessment
@@ -2067,7 +2067,7 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 570D5358
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_9
   type: text
   section: Knowledge Assessment
@@ -2078,7 +2078,7 @@ fields:
   col_idx: 0
   index_in_cell: 8
   para_id: 35434D48
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_10
   type: text
   section: Knowledge Assessment
@@ -2089,7 +2089,7 @@ fields:
   col_idx: 0
   index_in_cell: 9
   para_id: 6894E0DA
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_11
   type: text
   section: Knowledge Assessment
@@ -2100,7 +2100,7 @@ fields:
   col_idx: 0
   index_in_cell: 10
   para_id: 3282F4C5
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_23_4_0_12
   type: text
   section: Knowledge Assessment
@@ -2111,7 +2111,7 @@ fields:
   col_idx: 0
   index_in_cell: 11
   para_id: 64F500C8
-  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+  value: Call SafeWork NSW immediately on 13 10 50 and follow up with written notice within 48 hours; do not disturb the incident site.
 - field_id: HLTWHS002_TXT_24_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2122,7 +2122,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6DDA43A7
-  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+  value: Fill out the workplace Incident/Accident Report Form, write down factual details, note vital signs and first aid given, and report to the supervisor.
 - field_id: HLTWHS002_TXT_24_2_0_2
   type: text
   section: Knowledge Assessment
@@ -2133,7 +2133,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 48BD37EC
-  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+  value: Fill out the workplace Incident/Accident Report Form, write down factual details, note vital signs and first aid given, and report to the supervisor.
 - field_id: HLTWHS002_TXT_24_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2144,7 +2144,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 689EE41C
-  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+  value: Fill out the workplace Incident/Accident Report Form, write down factual details, note vital signs and first aid given, and report to the supervisor.
 - field_id: HLTWHS002_TXT_24_3_0_2
   type: text
   section: Knowledge Assessment
@@ -2155,7 +2155,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 45D55C94
-  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+  value: Fill out the workplace Incident/Accident Report Form, write down factual details, note vital signs and first aid given, and report to the supervisor.
 - field_id: HLTWHS002_TXT_24_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2166,7 +2166,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 32E4CC2C
-  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+  value: Fill out the workplace Incident/Accident Report Form, write down factual details, note vital signs and first aid given, and report to the supervisor.
 - field_id: HLTWHS002_TXT_24_4_0_2
   type: text
   section: Knowledge Assessment
@@ -2177,7 +2177,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 134C5E7E
-  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+  value: Fill out the workplace Incident/Accident Report Form, write down factual details, note vital signs and first aid given, and report to the supervisor.
 - field_id: HLTWHS002_TXT_25_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2188,7 +2188,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '51429231'
-  value: Workplace debriefings provide emotional support to workers, reduce psychological distress/trauma, identify root causes, and prevent recurrence.
+  value: Debriefing gives emotional support to workers, reduces stress or trauma after a crisis, identifies what happened, and helps prevent it happening again.
 - field_id: HLTWHS002_TXT_25_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2199,7 +2199,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 34735E69
-  value: Workplace debriefings provide emotional support to workers, reduce psychological distress/trauma, identify root causes, and prevent recurrence.
+  value: Debriefing gives emotional support to workers, reduces stress or trauma after a crisis, identifies what happened, and helps prevent it happening again.
 - field_id: HLTWHS002_TXT_25_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2210,7 +2210,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0D80FE9B
-  value: Workplace debriefings provide emotional support to workers, reduce psychological distress/trauma, identify root causes, and prevent recurrence.
+  value: Debriefing gives emotional support to workers, reduces stress or trauma after a crisis, identifies what happened, and helps prevent it happening again.
 - field_id: HLTWHS002_TXT_26_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2221,7 +2221,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 389883A3
-  value: Illnesses caused by pathogenic microorganisms (bacteria, viruses, fungi, parasites) that can be transmitted directly or indirectly from one person to another or from environmental vectors.
+  value: Illnesses caused by germs like bacteria or viruses that pass from person to person or from dirty surfaces, causing illnesses like gastroenteritis, the flu, or skin infections.
 - field_id: HLTWHS002_TXT_26_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2232,7 +2232,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 36745F2F
-  value: Contaminated household surfaces and high-touch areas (door handles, bathroom taps, bedside tables).
+  value: High-touch surfaces like door handles, bathroom taps, and bedside tables.
 - field_id: HLTWHS002_TXT_26_3_0_2
   type: text
   section: Knowledge Assessment
@@ -2243,7 +2243,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 29746A16
-  value: Client bodily fluids and soiled personal laundry or linen.
+  value: Client body fluids like blood, urine, vomit, or soiled personal laundry.
 - field_id: HLTWHS002_TXT_26_3_0_3
   type: text
   section: Knowledge Assessment
@@ -2254,7 +2254,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 62864E5B
-  value: Improperly stored or prepared food and domestic pets/pest vectors.
+  value: Improperly stored or prepared food, unwashed hands, and pests.
 - field_id: HLTWHS002_TXT_26_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2265,7 +2265,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5B548C32
-  value: Performing strict hand hygiene using soap and water or alcohol-based hand rub.
+  value: Washing hands thoroughly with soap and water or using alcohol-based hand rub.
 - field_id: HLTWHS002_TXT_26_4_0_2
   type: text
   section: Knowledge Assessment
@@ -2276,7 +2276,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 55934EFA
-  value: Wearing appropriate personal protective equipment (gloves, aprons, masks) when exposed to fluids.
+  value: Wearing proper PPE (gloves, apron, mask) whenever exposed to body fluids or soiled laundry.
 - field_id: HLTWHS002_TXT_26_4_0_3
   type: text
   section: Knowledge Assessment
@@ -2287,7 +2287,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 40C1DC50
-  value: Cleaning and disinfecting touch points with hospital-grade disinfectant and bagging soiled linen immediately.
+  value: Wiping down surfaces with hospital-grade disinfectant and bagging dirty linen immediately.
 - field_id: HLTWHS002_TXT_27_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2298,7 +2298,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5D630977
-  value: The complex bodily system comprising bones, joints, muscles, tendons, ligaments, and cartilage that provides form, support, stability, and movement to the body.
+  value: The musculoskeletal system is made up of our bones, joints, muscles, tendons, and ligaments that support the body and help us move.
 - field_id: HLTWHS002_TXT_27_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2309,7 +2309,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1C40AFA8
-  value: Lumbar spinal disc herniation or acute low back muscle strain.
+  value: Lower back strain or muscle spasm from lifting or bending.
 - field_id: HLTWHS002_TXT_27_3_0_2
   type: text
   section: Knowledge Assessment
@@ -2320,7 +2320,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 789F83D7
-  value: Carpal tunnel syndrome or repetitive wrist tendonitis.
+  value: Wrist strain or carpal tunnel from repetitive tasks.
 - field_id: HLTWHS002_TXT_27_3_0_3
   type: text
   section: Knowledge Assessment
@@ -2331,7 +2331,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 651C50CF
-  value: Rotator cuff tendinopathy or shoulder impingement syndrome.
+  value: Shoulder strain or rotator cuff pain from pulling clients or equipment.
 - field_id: HLTWHS002_TXT_28_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2342,7 +2342,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 577571CB
-  value: Identify hazardous manual tasks involving repetitive, awkward, or high-force movements.
+  value: Identify manual tasks that involve awkward postures, heavy lifting, or repetitive movements.
 - field_id: HLTWHS002_TXT_28_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2353,7 +2353,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 183CEDD1
-  value: Assess the risk using the Hazardous Manual Tasks risk assessment matrix.
+  value: Assess the risk level using the manual handling risk assessment matrix.
 - field_id: HLTWHS002_TXT_28_6_0_1
   type: text
   section: Knowledge Assessment
@@ -2364,7 +2364,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 15631CAF
-  value: Implement control measures following the hierarchy of control (e.g. hoists, slide sheets).
+  value: Put controls in place like hoists, slide sheets, and asking a colleague to help.
 - field_id: HLTWHS002_TXT_28_7_0_1
   type: text
   section: Knowledge Assessment
@@ -2375,7 +2375,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1C44FDB9
-  value: Review control measures regularly and update client care plans when physical condition changes.
+  value: Check controls regularly and update the client's care plan if their mobility changes.
 - field_id: HLTWHS002_TXT_30_0_1_1
   type: text
   section: Knowledge Assessment
@@ -2397,7 +2397,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 175F64B8
-  value: Delivering direct personal care, assisting with client transfers, following WHS procedures, and reporting hazards.
+  value: Providing personal care, helping with client transfers, following WHS procedures, and reporting hazards.
 - field_id: HLTWHS002_TXT_30_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2452,7 +2452,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 300B247E
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_39_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2463,7 +2463,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6CC27950
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_39_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2474,7 +2474,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 67FDC102
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_39_5_0_1
   type: text
   section: Knowledge Assessment
@@ -2485,7 +2485,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 07AA1E22
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_40_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2496,7 +2496,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1DC6C5D7
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_40_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2507,7 +2507,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7B7F7635
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_40_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2518,7 +2518,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 17277F07
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_40_5_0_1
   type: text
   section: Knowledge Assessment
@@ -2529,7 +2529,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4E2DC246
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_41_0_0_1
   type: text
   section: Knowledge Assessment
@@ -2540,7 +2540,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3FEDCE62
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_41_1_0_1
   type: text
   section: Knowledge Assessment
@@ -2551,7 +2551,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4C58EAB6
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_41_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2562,7 +2562,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4C3403F6
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_41_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2573,7 +2573,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4D583FDA
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_42_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2584,7 +2584,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 37D4AE8F
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_42_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2595,7 +2595,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0FBFC1C1
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_42_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2606,7 +2606,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 15B3D559
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_43_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2619,7 +2619,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1E540EE6
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_43_3_3_1
   type: text
   section: Knowledge Assessment
@@ -2632,7 +2632,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 19CC418F
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_43_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2645,7 +2645,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7AA6F22C
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_43_4_3_1
   type: text
   section: Knowledge Assessment
@@ -2658,7 +2658,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 71A581CF
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_44_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2669,7 +2669,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6C8FCA94
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_44_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2680,7 +2680,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 60E45DE2
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_44_6_0_1
   type: text
   section: Knowledge Assessment
@@ -2691,7 +2691,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0DF472F9
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_44_7_0_1
   type: text
   section: Knowledge Assessment
@@ -2702,7 +2702,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '67353558'
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_44_9_0_1
   type: text
   section: Knowledge Assessment
@@ -2713,7 +2713,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1957206D
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_TXT_44_10_0_1
   type: text
   section: Knowledge Assessment
@@ -2724,7 +2724,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5F278AF9
-  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+  value: Reported hazard immediately to supervisor Sarah Jenkins, put up warning signs to keep area clear, and logged details in the hazard register.
 - field_id: HLTWHS002_CB_54_2_0_1
   type: checkbox
   section: Candidate Checklist

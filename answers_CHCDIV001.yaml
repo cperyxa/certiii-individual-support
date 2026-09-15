@@ -175,9 +175,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 07C5221E
-  value: Cultural awareness is the self-examination and understanding of one's own
-    cultural beliefs and an openness to recognizing and respecting differences in
-    others.
+  value: Cultural awareness is being aware of my own cultural background and values,
+    and respecting that others have different cultures and ways of life.
 - field_id: CHCDIV001_TXT_4_4_2_1
   type: text
   section: Knowledge Assessment
@@ -189,9 +188,9 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6AAA0409
-  value: Cultural safety is an environment that is spiritually, socially, and emotionally
-    safe, where there is no assault, challenge, or denial of an individual's cultural
-    identity.
+  value: Cultural safety means creating a welcoming environment where clients feel
+    respected, safe, and comfortable to be themselves without experiencing judgment
+    or discrimination.
 - field_id: CHCDIV001_TXT_4_5_2_1
   type: text
   section: Knowledge Assessment
@@ -203,8 +202,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5C30BD3B
-  value: Cultural competence is the ability of individuals and systems to effectively
-    communicate and collaborate with people across diverse cultural, ethnic, and linguistic
+  value: Cultural competence is the ability to communicate, work effectively, and
+    build respectful relationships with people from all different cultural and language
     backgrounds.
 - field_id: CHCDIV001_TXT_5_3_2_1
   type: text
@@ -265,7 +264,7 @@ fields:
   index_in_cell: 0
   para_id: 02C3A0D2
   value: 'National Agreement on Closing the Gap (closingthegap.gov.au): Aims to overcome
-    systemic health, justice, and economic inequality for First Nations peoples.'
+    health, education, and social gaps for Aboriginal and Torres Strait Islander peoples.'
 - field_id: CHCDIV001_TXT_7_1_1_2
   type: text
   section: Knowledge Assessment
@@ -277,7 +276,7 @@ fields:
   index_in_cell: 1
   para_id: 6512C29E
   value: 'National Agreement on Closing the Gap (closingthegap.gov.au): Aims to overcome
-    systemic health, justice, and economic inequality for First Nations peoples.'
+    health, education, and social gaps for Aboriginal and Torres Strait Islander peoples.'
 - field_id: CHCDIV001_TXT_7_1_2_1
   type: text
   section: Knowledge Assessment
@@ -289,7 +288,7 @@ fields:
   index_in_cell: 0
   para_id: 5661F271
   value: 'National Agreement on Closing the Gap (closingthegap.gov.au): Aims to overcome
-    systemic health, justice, and economic inequality for First Nations peoples.'
+    health, education, and social gaps for Aboriginal and Torres Strait Islander peoples.'
 - field_id: CHCDIV001_TXT_7_2_1_1
   type: text
   section: Knowledge Assessment
@@ -301,7 +300,7 @@ fields:
   index_in_cell: 0
   para_id: 0268629C
   value: 'National Settlement Framework (homeaffairs.gov.au): Provides support for
-    humanitarian refugees to integrate socially, economically, and linguistically.'
+    humanitarian refugees to settle, learn English, and join the community.'
 - field_id: CHCDIV001_TXT_7_2_1_2
   type: text
   section: Knowledge Assessment
@@ -313,7 +312,7 @@ fields:
   index_in_cell: 1
   para_id: 59390D59
   value: 'National Settlement Framework (homeaffairs.gov.au): Provides support for
-    humanitarian refugees to integrate socially, economically, and linguistically.'
+    humanitarian refugees to settle, learn English, and join the community.'
 - field_id: CHCDIV001_TXT_7_2_2_1
   type: text
   section: Knowledge Assessment
@@ -325,7 +324,7 @@ fields:
   index_in_cell: 0
   para_id: 37A1FD12
   value: 'National Settlement Framework (homeaffairs.gov.au): Provides support for
-    humanitarian refugees to integrate socially, economically, and linguistically.'
+    humanitarian refugees to settle, learn English, and join the community.'
 - field_id: CHCDIV001_TXT_11_3_2_1
   type: text
   section: Knowledge Assessment
@@ -430,8 +429,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 12437EF4
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_12_5_1_1
   type: text
   section: Knowledge Assessment
@@ -488,8 +487,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1BF891A0
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_13_5_1_1
   type: text
   section: Knowledge Assessment
@@ -546,8 +545,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 78CCFC2D
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_14_5_1_1
   type: text
   section: Knowledge Assessment
@@ -607,8 +606,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 79C97794
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_15_7_2_1
   type: text
   section: Knowledge Assessment
@@ -665,8 +664,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 31FECAF4
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_16_5_1_1
   type: text
   section: Knowledge Assessment
@@ -723,8 +722,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 46F7EB49
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_17_5_1_1
   type: text
   section: Knowledge Assessment
@@ -781,8 +780,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1232BC91
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_18_5_1_1
   type: text
   section: Knowledge Assessment
@@ -830,8 +829,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 66DD013A
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_22_6_2_1
   type: text
   section: Knowledge Assessment
@@ -877,8 +876,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7B0BB521
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_23_4_1_1
   type: text
   section: Knowledge Assessment
@@ -924,8 +923,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2FDBA09D
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_24_4_1_1
   type: text
   section: Knowledge Assessment
@@ -971,8 +970,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2B903C87
-  value: Workers must be provided with equal opportunities, reasonable adjustments,
-    and an inclusive workplace free from harassment.
+  value: Workers must be given equal opportunities, reasonable workplace adjustments,
+    and an environment free from harassment.
 - field_id: CHCDIV001_TXT_25_4_1_1
   type: text
   section: Knowledge Assessment
@@ -995,9 +994,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 64017EC8
-  value: Human needs are fundamental biological and emotional necessities (food, water,
-    safety, shelter), whereas human rights are the legal entitlements that guarantee
-    access to meeting those needs with dignity and equality.
+  value: Human needs are basic things required to survive (like food, clean water,
+    shelter, and medical care), while human rights are the legal protections ensuring
+    everyone is treated fairly and with dignity.
 - field_id: CHCDIV001_TXT_27_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1077,9 +1076,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3DE14255
-  value: 1. Document the human rights breach factually. 2. Ensure victim safety. 3.
-    Report to supervisor under grievance policy. 4. Escalate to Anti-Discrimination
-    NSW or AHRC if unresolved.
+  value: 1. Write down factual notes of what happened. 2. Make sure the client is
+    safe. 3. Report to supervisor. 4. Escalate to Anti-Discrimination NSW or AHRC
+    if unresolved.
 - field_id: CHCDIV001_TXT_30_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1091,7 +1090,7 @@ fields:
   index_in_cell: 0
   para_id: 3A96FDA2
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_2_1_2
   type: text
   section: Knowledge Assessment
@@ -1103,7 +1102,7 @@ fields:
   index_in_cell: 1
   para_id: 04A7D7AC
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1115,7 +1114,7 @@ fields:
   index_in_cell: 0
   para_id: 3609A78B
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_2_2_2
   type: text
   section: Knowledge Assessment
@@ -1127,7 +1126,7 @@ fields:
   index_in_cell: 1
   para_id: 2EA6890C
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_2_3_1
   type: text
   section: Knowledge Assessment
@@ -1139,7 +1138,7 @@ fields:
   index_in_cell: 0
   para_id: 63B29A93
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1151,7 +1150,7 @@ fields:
   index_in_cell: 0
   para_id: 633E36B1
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_3_1_2
   type: text
   section: Knowledge Assessment
@@ -1163,7 +1162,7 @@ fields:
   index_in_cell: 1
   para_id: 0E00CC01
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1175,7 +1174,7 @@ fields:
   index_in_cell: 0
   para_id: 4F9EFF0E
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_3_2_2
   type: text
   section: Knowledge Assessment
@@ -1187,7 +1186,7 @@ fields:
   index_in_cell: 1
   para_id: 5E3789BD
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_3_3_1
   type: text
   section: Knowledge Assessment
@@ -1199,7 +1198,7 @@ fields:
   index_in_cell: 0
   para_id: 4853968A
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1211,7 +1210,7 @@ fields:
   index_in_cell: 0
   para_id: 55D231C5
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_4_1_2
   type: text
   section: Knowledge Assessment
@@ -1223,7 +1222,7 @@ fields:
   index_in_cell: 1
   para_id: 1648B274
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1235,7 +1234,7 @@ fields:
   index_in_cell: 0
   para_id: 6438075F
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_4_2_2
   type: text
   section: Knowledge Assessment
@@ -1247,7 +1246,7 @@ fields:
   index_in_cell: 1
   para_id: 41A2713E
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_30_4_3_1
   type: text
   section: Knowledge Assessment
@@ -1259,7 +1258,7 @@ fields:
   index_in_cell: 0
   para_id: 021EFB52
   value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
-    Mandating equality, dignity, participation, and protection against discrimination.'
+    Protecting equality, dignity, participation, and non-discrimination.'
 - field_id: CHCDIV001_TXT_33_0_1_1
   type: text
   section: Knowledge Assessment
@@ -1270,7 +1269,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 661F2B30
-  value: 'Reaffirm: Commitment to human rights.'
+  value: 'Reaffirm: Upholding human rights in all care.'
 - field_id: CHCDIV001_TXT_33_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1281,7 +1280,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 63FDFC92
-  value: 'Reaffirm: Commitment to human rights.'
+  value: 'Reaffirm: Upholding human rights in all care.'
 - field_id: CHCDIV001_TXT_33_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1292,7 +1291,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 47D0836A
-  value: 'Reaffirm: Commitment to human rights.'
+  value: 'Reaffirm: Upholding human rights in all care.'
 - field_id: CHCDIV001_TXT_35_0_1_1
   type: text
   section: Knowledge Assessment
@@ -1303,7 +1302,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 36A35DDA
-  value: 'Protect: Enforcing zero-tolerance harassment.'
+  value: 'Protect: Zero tolerance for harassment or discrimination.'
 - field_id: CHCDIV001_TXT_35_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1314,7 +1313,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 209FDD2B
-  value: 'Protect: Enforcing zero-tolerance harassment.'
+  value: 'Protect: Zero tolerance for harassment or discrimination.'
 - field_id: CHCDIV001_TXT_38_0_1_1
   type: text
   section: Knowledge Assessment
@@ -1392,8 +1391,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0DBB88CF
-  value: Shared values, traditions, language, and ancestral background passed through
-    generations.
+  value: Shared values, traditions, language, and ancestral background passed down
+    through generations.
 - field_id: CHCDIV001_TXT_41_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1416,8 +1415,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 34F345A6
-  value: Shared values, traditions, language, and ancestral background passed through
-    generations.
+  value: Shared values, traditions, language, and ancestral background passed down
+    through generations.
 - field_id: CHCDIV001_TXT_41_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1438,8 +1437,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 321A9B49
-  value: Shared values, traditions, language, and ancestral background passed through
-    generations.
+  value: Shared values, traditions, language, and ancestral background passed down
+    through generations.
 - field_id: CHCDIV001_TXT_41_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1460,8 +1459,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 65DA402A
-  value: Shared values, traditions, language, and ancestral background passed through
-    generations.
+  value: Shared values, traditions, language, and ancestral background passed down
+    through generations.
 - field_id: CHCDIV001_TXT_42_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1472,8 +1471,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 27C2544B
-  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
-    that guide daily life.
+  value: Beliefs, spiritual traditions, and values that guide daily life and rituals.
 - field_id: CHCDIV001_TXT_42_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1484,8 +1482,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5A5FF027
-  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
-    that guide daily life.
+  value: Beliefs, spiritual traditions, and values that guide daily life and rituals.
 - field_id: CHCDIV001_TXT_42_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1496,8 +1493,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3EED3758
-  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
-    that guide daily life.
+  value: Beliefs, spiritual traditions, and values that guide daily life and rituals.
 - field_id: CHCDIV001_TXT_42_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1508,8 +1504,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 31017B76
-  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
-    that guide daily life.
+  value: Beliefs, spiritual traditions, and values that guide daily life and rituals.
 - field_id: CHCDIV001_TXT_42_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1520,8 +1515,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0D1BDF39
-  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
-    that guide daily life.
+  value: Beliefs, spiritual traditions, and values that guide daily life and rituals.
 - field_id: CHCDIV001_TXT_42_6_1_1
   type: text
   section: Knowledge Assessment
@@ -1532,8 +1526,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4DE51EE1
-  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
-    that guide daily life.
+  value: Beliefs, spiritual traditions, and values that guide daily life and rituals.
 - field_id: CHCDIV001_TXT_44_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1602,7 +1595,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '52442701'
-  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+  value: 1. Health gaps and shorter life expectancy. 2. High rates of child removal
     and over-representation in the justice system.
 - field_id: CHCDIV001_TXT_45_4_0_1
   type: text
@@ -1614,7 +1607,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1C32C0B7
-  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+  value: 1. Health gaps and shorter life expectancy. 2. High rates of child removal
     and over-representation in the justice system.
 - field_id: CHCDIV001_TXT_45_6_0_1
   type: text
@@ -1626,7 +1619,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5F82B0FC
-  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+  value: 1. Health gaps and shorter life expectancy. 2. High rates of child removal
     and over-representation in the justice system.
 - field_id: CHCDIV001_TXT_45_7_0_1
   type: text
@@ -1638,7 +1631,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 18B160BD
-  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+  value: 1. Health gaps and shorter life expectancy. 2. High rates of child removal
     and over-representation in the justice system.
 - field_id: CHCDIV001_TXT_45_9_0_1
   type: text
@@ -1650,7 +1643,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 17CE591E
-  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+  value: 1. Health gaps and shorter life expectancy. 2. High rates of child removal
     and over-representation in the justice system.
 - field_id: CHCDIV001_TXT_45_10_0_1
   type: text
@@ -1662,7 +1655,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5EAD864B
-  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+  value: 1. Health gaps and shorter life expectancy. 2. High rates of child removal
     and over-representation in the justice system.
 - field_id: CHCDIV001_TXT_46_4_0_1
   type: text
@@ -1674,8 +1667,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 456E682A
-  value: Western education suppressed native languages and culture, disrupting traditional
-    knowledge transmission and causing intergenerational educational disadvantage.
+  value: Past policies stopped First Nations children from speaking their language
+    and practicing traditions, causing loss of language and deep disadvantage across
+    generations.
 - field_id: CHCDIV001_TXT_46_6_0_1
   type: text
   section: Knowledge Assessment
@@ -1686,8 +1680,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 25F50D2A
-  value: Western education suppressed native languages and culture, disrupting traditional
-    knowledge transmission and causing intergenerational educational disadvantage.
+  value: Past policies stopped First Nations children from speaking their language
+    and practicing traditions, causing loss of language and deep disadvantage across
+    generations.
 - field_id: CHCDIV001_TXT_47_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1698,8 +1693,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6F6C16C2
-  value: Western education suppressed native languages and culture, disrupting traditional
-    knowledge transmission and causing intergenerational educational disadvantage.
+  value: Past policies stopped First Nations children from speaking their language
+    and practicing traditions, causing loss of language and deep disadvantage across
+    generations.
 - field_id: CHCDIV001_TXT_47_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1710,8 +1706,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6E0C5A19
-  value: Western education suppressed native languages and culture, disrupting traditional
-    knowledge transmission and causing intergenerational educational disadvantage.
+  value: Past policies stopped First Nations children from speaking their language
+    and practicing traditions, causing loss of language and deep disadvantage across
+    generations.
 - field_id: CHCDIV001_TXT_48_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1722,8 +1719,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 21DC4B68
-  value: Imposed Western religious institutions banned traditional ceremonies, disrupted
-    kinship lore, and severed ancestral spiritual connections to Country.
+  value: European religious rules banned traditional ceremonies, broke kinship ties,
+    and disconnected people from Country and culture.
 - field_id: CHCDIV001_TXT_48_6_0_1
   type: text
   section: Knowledge Assessment
@@ -1734,8 +1731,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 00740F92
-  value: Imposed Western religious institutions banned traditional ceremonies, disrupted
-    kinship lore, and severed ancestral spiritual connections to Country.
+  value: European religious rules banned traditional ceremonies, broke kinship ties,
+    and disconnected people from Country and culture.
 - field_id: CHCDIV001_TXT_49_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1746,8 +1743,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 753F5316
-  value: Imposed Western religious institutions banned traditional ceremonies, disrupted
-    kinship lore, and severed ancestral spiritual connections to Country.
+  value: European religious rules banned traditional ceremonies, broke kinship ties,
+    and disconnected people from Country and culture.
 - field_id: CHCDIV001_TXT_49_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1758,8 +1755,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 296B1A8A
-  value: Imposed Western religious institutions banned traditional ceremonies, disrupted
-    kinship lore, and severed ancestral spiritual connections to Country.
+  value: European religious rules banned traditional ceremonies, broke kinship ties,
+    and disconnected people from Country and culture.
 - field_id: CHCDIV001_TXT_51_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1770,8 +1767,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0942A9E6
-  value: Accessible adaptive sports clubs, inclusive employment programs, and peer
-    advocacy networks.
+  value: Accessible sports clubs, inclusive job programs, and disability peer advocacy
+    groups.
 - field_id: CHCDIV001_TXT_51_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1782,8 +1779,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 492839E5
-  value: Accessible adaptive sports clubs, inclusive employment programs, and peer
-    advocacy networks.
+  value: Accessible sports clubs, inclusive job programs, and disability peer advocacy
+    groups.
 - field_id: CHCDIV001_TXT_51_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1794,8 +1791,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1FE22335
-  value: Accessible adaptive sports clubs, inclusive employment programs, and peer
-    advocacy networks.
+  value: Accessible sports clubs, inclusive job programs, and disability peer advocacy
+    groups.
 - field_id: CHCDIV001_TXT_51_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1806,8 +1803,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6076C19D
-  value: Accessible adaptive sports clubs, inclusive employment programs, and peer
-    advocacy networks.
+  value: Accessible sports clubs, inclusive job programs, and disability peer advocacy
+    groups.
 - field_id: CHCDIV001_TXT_53_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1818,8 +1815,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4E4881A9
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_53_2_1_2
   type: text
   section: Knowledge Assessment
@@ -1830,8 +1827,8 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 34E6BDDA
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_53_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1842,8 +1839,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 04CD5DD8
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_53_4_1_2
   type: text
   section: Knowledge Assessment
@@ -1854,8 +1851,8 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 5B4980A1
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_54_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1866,8 +1863,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 14D978FD
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_54_1_1_2
   type: text
   section: Knowledge Assessment
@@ -1878,8 +1875,8 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 0AEF5F72
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_54_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1890,8 +1887,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 700A5642
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_54_3_1_2
   type: text
   section: Knowledge Assessment
@@ -1902,8 +1899,8 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 759883DB
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_54_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1914,8 +1911,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2F279586
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_54_5_1_2
   type: text
   section: Knowledge Assessment
@@ -1926,8 +1923,8 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 3F41A3E0
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_54_7_1_1
   type: text
   section: Knowledge Assessment
@@ -1938,8 +1935,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: '52362962'
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_54_7_1_2
   type: text
   section: Knowledge Assessment
@@ -1950,8 +1947,8 @@ fields:
   col_idx: 1
   index_in_cell: 1
   para_id: 712B7B11
-  value: Anxiety, depression, and social isolation resulting from environmental barriers;
-    supported by accessible counselling and peer mentoring.
+  value: Feeling anxious, depressed, and isolated from community barriers; supported
+    by accessible counselling and peer mentoring.
 - field_id: CHCDIV001_TXT_55_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2110,8 +2107,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3EF802EF
-  value: Trauma from war experiences requires a calm, predictable environment and
-    clear communication before initiating tasks.
+  value: Trauma from war experiences means workers need to provide a calm, predictable
+    environment and explain what they are doing before touching the person.
 - field_id: CHCDIV001_TXT_58_1_0_1
   type: text
   section: Knowledge Assessment
@@ -2125,8 +2122,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6A89414B
-  value: Adopt trauma-informed practice, avoid loud sudden alarms, explain care steps
-    clearly, and respect personal boundaries.
+  value: 'Use trauma-informed care: avoid loud sudden noises, explain care steps clearly,
+    and respect personal space and boundaries.'
 - field_id: CHCDIV001_TXT_58_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2140,8 +2137,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 588C4EFD
-  value: Adopt trauma-informed practice, avoid loud sudden alarms, explain care steps
-    clearly, and respect personal boundaries.
+  value: 'Use trauma-informed care: avoid loud sudden noises, explain care steps clearly,
+    and respect personal space and boundaries.'
 - field_id: CHCDIV001_TXT_58_5_0_1
   type: text
   section: Knowledge Assessment
@@ -2155,8 +2152,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7A14D94B
-  value: Adopt trauma-informed practice, avoid loud sudden alarms, explain care steps
-    clearly, and respect personal boundaries.
+  value: 'Use trauma-informed care: avoid loud sudden noises, explain care steps clearly,
+    and respect personal space and boundaries.'
 - field_id: CHCDIV001_TXT_59_1_0_1
   type: text
   section: Knowledge Assessment
@@ -2170,8 +2167,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 27F409C6
-  value: Creating separate spaces for Indigenous clients is unlawful racial segregation
-    that perpetuates deep stigma and breaches anti-discrimination laws.
+  value: Making separate spaces for Indigenous clients is unlawful racial segregation
+    that creates stigma and breaches anti-discrimination laws.
 - field_id: CHCDIV001_TXT_61_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2257,8 +2254,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 14A92F75
-  value: Multicultural migration has diversified Australian society, requiring healthcare
-    workers to adapt to multilingual and diverse cultural care expectations.
+  value: Migration has made Australia very diverse, so support workers need to understand
+    different cultures and support clients who speak other languages.
 - field_id: CHCDIV001_TXT_62_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2270,8 +2267,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 70AC8565
-  value: Multicultural migration has diversified Australian society, requiring healthcare
-    workers to adapt to multilingual and diverse cultural care expectations.
+  value: Migration has made Australia very diverse, so support workers need to understand
+    different cultures and support clients who speak other languages.
 - field_id: CHCDIV001_TXT_62_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2283,8 +2280,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 13D77E46
-  value: Multicultural migration has diversified Australian society, requiring healthcare
-    workers to adapt to multilingual and diverse cultural care expectations.
+  value: Migration has made Australia very diverse, so support workers need to understand
+    different cultures and support clients who speak other languages.
 - field_id: CHCDIV001_TXT_63_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2296,8 +2293,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 79D2EED0
-  value: Shift toward consumer-directed care and adoption of professional telephone
-    and digital translation services.
+  value: Focusing on consumer-directed care and using phone interpreters (like TIS
+    National) and multilingual signs.
 - field_id: CHCDIV001_TXT_63_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2309,8 +2306,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0D8DF4F6
-  value: Shift toward consumer-directed care and adoption of professional telephone
-    and digital translation services.
+  value: Focusing on consumer-directed care and using phone interpreters (like TIS
+    National) and multilingual signs.
 - field_id: CHCDIV001_TXT_63_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2322,8 +2319,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1C098290
-  value: Shift toward consumer-directed care and adoption of professional telephone
-    and digital translation services.
+  value: Focusing on consumer-directed care and using phone interpreters (like TIS
+    National) and multilingual signs.
 - field_id: CHCDIV001_TXT_65_1_0_1
   type: text
   section: Knowledge Assessment
@@ -2334,8 +2331,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 510284FD
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_65_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2348,8 +2345,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7A7B1594
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_65_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2362,8 +2359,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 63FCAF91
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_65_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2374,8 +2371,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 382201E1
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_65_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2388,8 +2385,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 50797BA5
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_65_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2402,8 +2399,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 30A87AC2
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_67_1_0_1
   type: text
   section: Knowledge Assessment
@@ -2414,8 +2411,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2AB6D30A
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_67_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2426,8 +2423,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7DA218DF
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_67_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2438,8 +2435,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 16638BA5
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_67_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2450,8 +2447,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2C3ADBD9
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_67_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2462,8 +2459,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 48471EFE
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_67_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2474,8 +2471,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 310EBA44
-  value: Attending cultural diversity training enhances empathy, challenges unconscious
-    bias, and strengthens respectful teamwork.
+  value: Attending cultural diversity training builds empathy, challenges unconscious
+    bias, and improves teamwork.
 - field_id: CHCDIV001_TXT_69_0_1_1
   type: text
   section: Knowledge Assessment
@@ -2640,8 +2637,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3259A499
-  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
-    Designs culturally tailored service packages.'
+  value: 'Support Worker: Applies cultural safety in everyday care; Care Coordinator:
+    Organises culturally appropriate support packages.'
 - field_id: CHCDIV001_TXT_72_3_3_1
   type: text
   section: Knowledge Assessment
@@ -2652,8 +2649,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 55A0F7FF
-  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
-    Designs culturally tailored service packages.'
+  value: 'Support Worker: Applies cultural safety in everyday care; Care Coordinator:
+    Organises culturally appropriate support packages.'
 - field_id: CHCDIV001_TXT_72_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2665,8 +2662,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0382E312
-  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
-    Designs culturally tailored service packages.'
+  value: 'Support Worker: Applies cultural safety in everyday care; Care Coordinator:
+    Organises culturally appropriate support packages.'
 - field_id: CHCDIV001_TXT_72_4_3_1
   type: text
   section: Knowledge Assessment
@@ -2678,8 +2675,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 7A7504FE
-  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
-    Designs culturally tailored service packages.'
+  value: 'Support Worker: Applies cultural safety in everyday care; Care Coordinator:
+    Organises culturally appropriate support packages.'
 - field_id: CHCDIV001_TXT_72_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2691,8 +2688,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 26C4C96A
-  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
-    Designs culturally tailored service packages.'
+  value: 'Support Worker: Applies cultural safety in everyday care; Care Coordinator:
+    Organises culturally appropriate support packages.'
 - field_id: CHCDIV001_TXT_72_5_3_1
   type: text
   section: Knowledge Assessment
@@ -2704,8 +2701,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 673F91AD
-  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
-    Designs culturally tailored service packages.'
+  value: 'Support Worker: Applies cultural safety in everyday care; Care Coordinator:
+    Organises culturally appropriate support packages.'
 - field_id: CHCDIV001_TXT_72_6_2_1
   type: text
   section: Knowledge Assessment
@@ -2717,8 +2714,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1127B392
-  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
-    Designs culturally tailored service packages.'
+  value: 'Support Worker: Applies cultural safety in everyday care; Care Coordinator:
+    Organises culturally appropriate support packages.'
 - field_id: CHCDIV001_TXT_72_6_3_1
   type: text
   section: Knowledge Assessment
@@ -2730,8 +2727,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6F454E3D
-  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
-    Designs culturally tailored service packages.'
+  value: 'Support Worker: Applies cultural safety in everyday care; Care Coordinator:
+    Organises culturally appropriate support packages.'
 - field_id: CHCDIV001_TXT_73_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2780,8 +2777,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1BA05F1D
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_76_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2796,8 +2793,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6F5F1FE8
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_76_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2812,8 +2809,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5DBF81D4
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_77_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2827,8 +2824,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3FEEA584
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_77_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2842,8 +2839,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4916DEB2
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_78_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2857,8 +2854,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 51370D7E
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_78_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2872,8 +2869,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 47E91514
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_81_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2886,8 +2883,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0C10067A
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_81_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2901,8 +2898,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 55412DD3
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_81_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2916,8 +2913,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 368234AD
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_81_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2930,8 +2927,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0C10067A
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_81_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2944,8 +2941,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0C10067A
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_81_5_0_1
   type: text
   section: Knowledge Assessment
@@ -2958,8 +2955,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0C10067A
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_81_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2973,8 +2970,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 62D9DF70
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_81_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2988,8 +2985,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5B5DA9D4
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_82_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3003,8 +3000,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 351FEAA6
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_82_2_2_1
   type: text
   section: Knowledge Assessment
@@ -3018,8 +3015,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2479BCE5
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_82_5_1_1
   type: text
   section: Knowledge Assessment
@@ -3033,8 +3030,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 528DB979
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_82_5_2_1
   type: text
   section: Knowledge Assessment
@@ -3048,8 +3045,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '22112688'
-  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
-    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+  value: Being aware that speaking too directly might seem rude to some cultural groups,
+    while being too indirect might confuse others; adjusting my style politely.
 - field_id: CHCDIV001_TXT_84_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3060,8 +3057,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 635F9F06
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_1_2_1
   type: text
   section: Knowledge Assessment
@@ -3072,8 +3069,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 04CF0935
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_1_3_1
   type: text
   section: Knowledge Assessment
@@ -3084,8 +3081,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 450E6898
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_1_4_1
   type: text
   section: Knowledge Assessment
@@ -3096,8 +3093,8 @@ fields:
   col_idx: 4
   index_in_cell: 0
   para_id: 4D8A001C
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3108,8 +3105,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 47B434ED
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_2_2_1
   type: text
   section: Knowledge Assessment
@@ -3120,8 +3117,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4EDB6A0E
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_2_3_1
   type: text
   section: Knowledge Assessment
@@ -3132,8 +3129,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 247460E2
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_2_4_1
   type: text
   section: Knowledge Assessment
@@ -3144,8 +3141,8 @@ fields:
   col_idx: 4
   index_in_cell: 0
   para_id: 13FA7114
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3156,8 +3153,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0DB0C114
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3168,8 +3165,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 04FA3641
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_3_3_1
   type: text
   section: Knowledge Assessment
@@ -3180,8 +3177,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 349A4828
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_84_3_4_1
   type: text
   section: Knowledge Assessment
@@ -3192,8 +3189,8 @@ fields:
   col_idx: 4
   index_in_cell: 0
   para_id: 2734865F
-  value: Treating all individuals with unconditional positive regard, challenging
-    stereotypes, and promoting self-determination.
+  value: Treating all clients with kindness and respect, challenging unfair stereotypes,
+    and supporting their choices.
 - field_id: CHCDIV001_TXT_86_0_1_1
   type: text
   section: Knowledge Assessment
@@ -3226,8 +3223,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 127C4309
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_87_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3238,8 +3235,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 02A20F2D
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_87_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3250,8 +3247,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 538F55D9
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_87_4_1_1
   type: text
   section: Knowledge Assessment
@@ -3262,8 +3259,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1E5010B1
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_88_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3274,8 +3271,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 58A5438D
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_88_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3286,8 +3283,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 75015CDC
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_88_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3298,8 +3295,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 68979BED
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_88_4_1_1
   type: text
   section: Knowledge Assessment
@@ -3310,8 +3307,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 64A4F29B
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_89_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3322,8 +3319,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0613062A
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_89_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3334,8 +3331,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 650616C9
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_89_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3346,8 +3343,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3A0A1E23
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_89_4_1_1
   type: text
   section: Knowledge Assessment
@@ -3358,8 +3355,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6A1A67E6
-  value: Right to a workplace free from discrimination; responsibility to treat others
-    with respect and follow equity policies.
+  value: Right to work without discrimination; responsibility to treat others with
+    respect and follow equity policies.
 - field_id: CHCDIV001_TXT_91_0_1_1
   type: text
   section: Knowledge Assessment
@@ -3525,8 +3522,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5DA9C69B
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_96_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3537,8 +3534,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6D2A62C7
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_96_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3549,8 +3546,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5C75DB97
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_96_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3561,8 +3558,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3F30175E
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_97_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3577,8 +3574,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4AA8DC40
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_97_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3593,8 +3590,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 324920B0
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_97_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3609,8 +3606,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 53EAAF63
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_97_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3625,8 +3622,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4945B804
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_98_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3639,8 +3636,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3D4DBEAD
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_98_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3653,8 +3650,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 011CC2B2
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_98_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3667,8 +3664,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 570524B4
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_98_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3681,8 +3678,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5C5CF587
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_99_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3697,8 +3694,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 34FE09DD
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_99_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3713,8 +3710,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 28BAF3D2
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_99_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3729,8 +3726,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0252F3F1
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_99_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3745,8 +3742,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 169FCA02
-  value: Self-reflection helps identify unconscious biases, enabling me to listen
-    actively and avoid imposing Western assumptions onto clients.
+  value: Self-reflection helps me notice my own assumptions, keep an open mind, and
+    give culturally respectful care to every person.
 - field_id: CHCDIV001_TXT_101_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3757,7 +3754,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4A67A8FF
-  value: 'Limitation: Limited foreign language skills; Improvement: Utilize professional
+  value: 'Limitation: Limited foreign language skills; Improvement: Use professional
     TIS National interpreters.'
 - field_id: CHCDIV001_TXT_101_1_2_1
   type: text
@@ -3769,7 +3766,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5A09C26A
-  value: 'Limitation: Limited foreign language skills; Improvement: Utilize professional
+  value: 'Limitation: Limited foreign language skills; Improvement: Use professional
     TIS National interpreters.'
 - field_id: CHCDIV001_TXT_101_2_1_1
   type: text
@@ -3781,7 +3778,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 128C04D6
-  value: 'Limitation: Limited foreign language skills; Improvement: Utilize professional
+  value: 'Limitation: Limited foreign language skills; Improvement: Use professional
     TIS National interpreters.'
 - field_id: CHCDIV001_TXT_101_2_2_1
   type: text
@@ -3793,7 +3790,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0A600C2F
-  value: 'Limitation: Limited foreign language skills; Improvement: Utilize professional
+  value: 'Limitation: Limited foreign language skills; Improvement: Use professional
     TIS National interpreters.'
 - field_id: CHCDIV001_TXT_103_1_0_1
   type: text
@@ -3805,8 +3802,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0948D2E9
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_103_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3817,8 +3814,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 58F034D0
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_103_5_0_1
   type: text
   section: Knowledge Assessment
@@ -3829,8 +3826,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1D83A31A
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_104_1_0_1
   type: text
   section: Knowledge Assessment
@@ -3841,8 +3838,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7E729172
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_104_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3853,8 +3850,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 70C22A06
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_104_5_0_1
   type: text
   section: Knowledge Assessment
@@ -3865,8 +3862,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 05907A47
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_105_1_0_1
   type: text
   section: Knowledge Assessment
@@ -3877,8 +3874,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2663E873
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_105_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3889,8 +3886,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6866E8BE
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_105_5_0_1
   type: text
   section: Knowledge Assessment
@@ -3901,8 +3898,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 12C43675
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_106_1_0_1
   type: text
   section: Knowledge Assessment
@@ -3913,8 +3910,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4DAB69A8
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_106_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3925,8 +3922,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1D37CCD2
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_106_5_0_1
   type: text
   section: Knowledge Assessment
@@ -3937,8 +3934,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 06E525B9
-  value: Language misunderstanding resolved by engaging an accredited TIS National
-    interpreter and verifying client comfort.
+  value: Language misunderstanding resolved by using an accredited TIS National interpreter
+    and checking client comfort.
 - field_id: CHCDIV001_TXT_115_1_0_1
   type: text
   section: Preliminary Task

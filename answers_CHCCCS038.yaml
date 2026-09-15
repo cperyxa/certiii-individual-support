@@ -1575,8 +1575,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 63A0495E
-  value: According to the ALRC, restrictive practices refer to any intervention that
-    has the effect of restricting the free movement or liberty of a person with disability.
+  value: Restrictive practices are actions or equipment that stop a person from moving
+    freely or doing what they want, used only as a last resort to keep them or others
+    safe after positive support strategies have been tried.
 - field_id: CHCCCS038_TXT_18_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1589,7 +1590,7 @@ fields:
   index_in_cell: 0
   para_id: 75F53565
   value: Authorised restrictive practices must only be used as a last resort to prevent
-    serious harm after exhausting all positive behaviour support strategies.
+    serious harm after trying positive behaviour support strategies.
 - field_id: CHCCCS038_TXT_18_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1612,8 +1613,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 167ABEA4
-  value: 'Mechanical restraint: Using devices or equipment to restrict free bodily
-    movement.'
+  value: 'Mechanical restraint: Using devices or straps to restrict free movement
+    of the body.'
 - field_id: CHCCCS038_TXT_18_4_0_3
   type: text
   section: Knowledge Assessment
@@ -1624,7 +1625,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 7DF06673
-  value: 'Physical restraint: Using physical force to restrict or subdue movement.'
+  value: 'Physical restraint: Using hands or physical force to hold or restrict movement.'
 - field_id: CHCCCS038_TXT_18_4_0_4
   type: text
   section: Knowledge Assessment
@@ -1635,8 +1636,8 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 0A9757EB
-  value: 'Environmental restraint: Restricting free access to parts of the environment
-    or personal items.'
+  value: 'Environmental restraint: Locking doors or restricting access to parts of
+    the home or personal belongings.'
 - field_id: CHCCCS038_TXT_18_4_0_5
   type: text
   section: Knowledge Assessment
@@ -1647,8 +1648,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 6B149BE0
-  value: 'Seclusion: Confinement of a person alone in a room from which free exit
-    is denied.'
+  value: 'Seclusion: Keeping someone alone in a room that they are not free to leave.'
 - field_id: CHCCCS038_TXT_18_5_0_1
   type: text
   section: Knowledge Assessment
@@ -1684,8 +1684,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6D23921B
-  value: 'Physical impacts: Muscle deconditioning, pressure sores, loss of functional
-    mobility, and injury.'
+  value: 'Physical impacts: Bruising, pressure sores, loss of muscle strength, and
+    injuries.'
 - field_id: CHCCCS038_TXT_18_6_0_2
   type: text
   section: Knowledge Assessment
@@ -1696,8 +1696,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 771BE6D1
-  value: 'Psychological impacts: Trauma, depression, loss of dignity, diminished trust,
-    and heightened anxiety.'
+  value: 'Psychological impacts: Fear, trauma, depression, loss of dignity, and losing
+    trust in carers.'
 - field_id: CHCCCS038_TXT_18_7_0_1
   type: text
   section: Knowledge Assessment
@@ -1709,8 +1709,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4FE232F8
-  value: To prevent imminent, serious physical injury to the person or others after
-    all proactive de-escalation strategies have been exhausted.
+  value: Only to prevent immediate, serious physical injury to the person or others
+    after all calming strategies have been tried.
 - field_id: CHCCCS038_TXT_18_7_0_2
   type: text
   section: Knowledge Assessment
@@ -1722,8 +1722,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 3590CF14
-  value: During acute, severe behavioral crises as an emergency measure while awaiting
-    clinical assistance.
+  value: During an acute crisis as an emergency safety measure while waiting for clinical
+    help.
 - field_id: CHCCCS038_TXT_19_0_0_1
   type: text
   section: Knowledge Assessment
@@ -1884,8 +1884,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7467514C
-  value: Risks include physical injury, asphyxiation, cardiovascular distress, severe
-    psychological trauma, and dehumanisation.
+  value: Risks include physical injury, cuts and bruises, breathing difficulties,
+    severe emotional distress, and loss of dignity.
 - field_id: CHCCCS038_TXT_19_2_0_2
   type: text
   section: Knowledge Assessment
@@ -1897,8 +1897,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 3AFFF659
-  value: Risks include physical injury, asphyxiation, cardiovascular distress, severe
-    psychological trauma, and dehumanisation.
+  value: Risks include physical injury, cuts and bruises, breathing difficulties,
+    severe emotional distress, and loss of dignity.
 - field_id: CHCCCS038_TXT_19_2_0_3
   type: text
   section: Knowledge Assessment
@@ -1910,8 +1910,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 2F039483
-  value: Risks include physical injury, asphyxiation, cardiovascular distress, severe
-    psychological trauma, and dehumanisation.
+  value: Risks include physical injury, cuts and bruises, breathing difficulties,
+    severe emotional distress, and loss of dignity.
 - field_id: CHCCCS038_TXT_20_0_0_1
   type: text
   section: Knowledge Assessment
@@ -1976,7 +1976,7 @@ fields:
   index_in_cell: 0
   para_id: 090F2396
   value: The Behaviour Support Plan must contain proactive strategies, functional
-    behaviour assessment, explicit authorization, and fading protocols.
+    assessment, clear authorization, and steps to reduce and eliminate the restraint.
 - field_id: CHCCCS038_TXT_20_2_0_2
   type: text
   section: Knowledge Assessment
@@ -1989,7 +1989,7 @@ fields:
   index_in_cell: 1
   para_id: 24D4DD54
   value: The Behaviour Support Plan must contain proactive strategies, functional
-    behaviour assessment, explicit authorization, and fading protocols.
+    assessment, clear authorization, and steps to reduce and eliminate the restraint.
 - field_id: CHCCCS038_TXT_20_2_0_3
   type: text
   section: Knowledge Assessment
@@ -2002,7 +2002,7 @@ fields:
   index_in_cell: 2
   para_id: 493A54B6
   value: The Behaviour Support Plan must contain proactive strategies, functional
-    behaviour assessment, explicit authorization, and fading protocols.
+    assessment, clear authorization, and steps to reduce and eliminate the restraint.
 - field_id: CHCCCS038_TXT_20_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2027,9 +2027,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3DC1A237
-  value: Smart home automation, voice-activated environmental controls, and tablet
-    scheduling apps allow individuals to control their own environment and schedule
-    independently.
+  value: Smart home automation, voice-controlled lights, and picture schedule apps
+    allow people to control their own room and daily routine independently.
 - field_id: CHCCCS038_TXT_21_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2041,8 +2040,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 37572A12
-  value: 1. Providing accessible, transparent information about service options. 2.
-    Supporting the individual to run their own care meetings.
+  value: 1. Providing clear, easy-to-understand information about care options. 2.
+    Supporting the client to run their own care meetings.
 - field_id: CHCCCS038_TXT_21_3_0_2
   type: text
   section: Knowledge Assessment
@@ -2054,8 +2053,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 6BFB95F2
-  value: 1. Providing accessible, transparent information about service options. 2.
-    Supporting the individual to run their own care meetings.
+  value: 1. Providing clear, easy-to-understand information about care options. 2.
+    Supporting the client to run their own care meetings.
 - field_id: CHCCCS038_TXT_21_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2066,8 +2065,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3A8F5097
-  value: Providing choices empowers individuals, validates their identity and preferences,
-    fosters self-esteem, and reduces frustration and feelings of helplessness.
+  value: Giving clients choices validates their preferences, builds self-esteem, and
+    helps them feel in control of their own life, reducing frustration.
 - field_id: CHCCCS038_TXT_21_5_0_1
   type: text
   section: Knowledge Assessment
@@ -2078,8 +2077,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 406C7874
-  value: Presenting daily options in accessible formats (visual cards, Easy Read)
-    and explaining the benefits and risks of each option clearly.
+  value: Presenting daily options in simple formats (visual cards, Easy Read) and
+    explaining benefits and risks clearly.
 - field_id: CHCCCS038_TXT_21_5_0_2
   type: text
   section: Knowledge Assessment
@@ -2090,8 +2089,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 01F9C930
-  value: Allowing adequate time for the person to make their own decision without
-    rushing, and upholding their dignity of risk.
+  value: Giving the person enough time to make their own decision without rushing
+    them.
 - field_id: CHCCCS038_TXT_22_0_0_1
   type: text
   section: Knowledge Assessment
@@ -2283,7 +2282,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '78929173'
-  value: Under the NDIS Act 2013 and UNCRPD Article 12, persons with disability have
+  value: Under the NDIS Act 2013 and UNCRPD Article 12, people with disability have
     the right to be central to planning and make decisions about their own lives.
 - field_id: CHCCCS038_TXT_22_3_0_1
   type: text
@@ -2309,8 +2308,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 42C1CCE4
-  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
-    advocacy support during decision-making.
+  value: 1. Preparing before meetings using visual tools. 2. Involving an independent
+    advocate to support the client's decisions.
 - field_id: CHCCCS038_TXT_23_0_0_2
   type: text
   section: Knowledge Assessment
@@ -2322,8 +2321,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 0447D4B7
-  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
-    advocacy support during decision-making.
+  value: 1. Preparing before meetings using visual tools. 2. Involving an independent
+    advocate to support the client's decisions.
 - field_id: CHCCCS038_TXT_23_1_0_1
   type: text
   section: Knowledge Assessment
@@ -2335,8 +2334,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1D34B1BE
-  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
-    advocacy support during decision-making.
+  value: 1. Preparing before meetings using visual tools. 2. Involving an independent
+    advocate to support the client's decisions.
 - field_id: CHCCCS038_TXT_23_1_0_2
   type: text
   section: Knowledge Assessment
@@ -2348,8 +2347,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 57FC1915
-  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
-    advocacy support during decision-making.
+  value: 1. Preparing before meetings using visual tools. 2. Involving an independent
+    advocate to support the client's decisions.
 - field_id: CHCCCS038_TXT_23_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2361,8 +2360,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 381682FB
-  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
-    advocacy support during decision-making.
+  value: 1. Preparing before meetings using visual tools. 2. Involving an independent
+    advocate to support the client's decisions.
 - field_id: CHCCCS038_TXT_23_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2373,8 +2372,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 592E3238
-  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
-    advocacy support during decision-making.
+  value: 1. Preparing before meetings using visual tools. 2. Involving an independent
+    advocate to support the client's decisions.
 - field_id: CHCCCS038_TXT_24_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2386,8 +2385,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 61D81E4F
-  value: Assists client to dress, eat, and perform grooming tasks independently without
-    fatigue.
+  value: Helps client dress, eat, and perform grooming independently.
 - field_id: CHCCCS038_TXT_24_3_3_1
   type: text
   section: Knowledge Assessment
@@ -2399,8 +2397,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1C55C204
-  value: Assists client to dress, eat, and perform grooming tasks independently without
-    fatigue.
+  value: Helps client dress, eat, and perform grooming independently.
 - field_id: CHCCCS038_TXT_24_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2412,7 +2409,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2377CF7D
-  value: Maintains skin dignity and prevents embarrassing leaks or skin breakdown.
+  value: Protects skin, prevents leaks, and maintains personal dignity.
 - field_id: CHCCCS038_TXT_24_4_3_1
   type: text
   section: Knowledge Assessment
@@ -2424,7 +2421,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 0DF2012F
-  value: Maintains skin dignity and prevents embarrassing leaks or skin breakdown.
+  value: Protects skin, prevents leaks, and maintains personal dignity.
 - field_id: CHCCCS038_TXT_24_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2460,8 +2457,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 77C1AFE4
-  value: Allows non-verbal clients or those with dysarthria to express choices and
-    needs.
+  value: Helps clients who have trouble speaking to express choices.
 - field_id: CHCCCS038_TXT_24_6_3_1
   type: text
   section: Knowledge Assessment
@@ -2473,8 +2469,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 00BF1A0B
-  value: Allows non-verbal clients or those with dysarthria to express choices and
-    needs.
+  value: Helps clients who have trouble speaking to express choices.
 - field_id: CHCCCS038_TXT_24_7_2_1
   type: text
   section: Knowledge Assessment
@@ -2486,7 +2481,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7F86D22F
-  value: Provides stability and endurance during indoor and outdoor walking.
+  value: Provides balance and support during indoor and outdoor walking.
 - field_id: CHCCCS038_TXT_24_7_3_1
   type: text
   section: Knowledge Assessment
@@ -2498,7 +2493,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 06116F81
-  value: Provides stability and endurance during indoor and outdoor walking.
+  value: Provides balance and support during indoor and outdoor walking.
 - field_id: CHCCCS038_TXT_24_8_2_1
   type: text
   section: Knowledge Assessment
@@ -2510,8 +2505,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2CE58BFB
-  value: Facilitates safe movement between bed, chair, and wheelchair without manual
-    strain.
+  value: Helps move safely between bed and wheelchair without back strain.
 - field_id: CHCCCS038_TXT_24_8_3_1
   type: text
   section: Knowledge Assessment
@@ -2523,8 +2517,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 64D4979D
-  value: Facilitates safe movement between bed, chair, and wheelchair without manual
-    strain.
+  value: Helps move safely between bed and wheelchair without back strain.
 - field_id: CHCCCS038_TXT_25_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2536,7 +2529,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 248D5E84
-  value: Provides visual prompts and task organizers.
+  value: Provides visual reminders and daily task organizers.
 - field_id: CHCCCS038_TXT_25_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2560,7 +2553,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1A1B0152
-  value: Delivers automated voice reminders for medication and meals.
+  value: Gives spoken reminders for medication and meal times.
 - field_id: CHCCCS038_TXT_25_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2584,7 +2577,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 216859FC
-  value: Magnifies text and provides auditory readouts.
+  value: Magnifies small text and reads words aloud.
 - field_id: CHCCCS038_TXT_25_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2608,7 +2601,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 11B7DC44
-  value: Amplifies speech sounds and reduces background noise.
+  value: Makes voices clearer and cuts down background noise.
 - field_id: CHCCCS038_TXT_25_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2680,7 +2673,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 787ABE49
-  value: Facilitates reading and audio enjoyment.
+  value: Lets the client listen to audiobooks easily.
 - field_id: CHCCCS038_TXT_25_7_2_1
   type: text
   section: Knowledge Assessment
@@ -2704,7 +2697,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 45431B30
-  value: Supports digital learning, typing, and research.
+  value: Supports reading, typing, and using a computer.
 - field_id: CHCCCS038_TXT_25_8_2_1
   type: text
   section: Knowledge Assessment
@@ -2716,7 +2709,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3DD7B241
-  value: Voice-to-text software and adaptive keyboard
+  value: Voice typing software and adaptive keyboard
 - field_id: CHCCCS038_TXT_26_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2728,7 +2721,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3A1103CA
-  value: Enables accessible computer work and workspace ergonomics.
+  value: Makes desk work comfortable and accessible.
 - field_id: CHCCCS038_TXT_26_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2740,7 +2733,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6D08688E
-  value: Adjustable motorized sit-stand desk and trackball mouse
+  value: Adjustable sit-stand desk and trackball mouse
 - field_id: CHCCCS038_TXT_26_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2752,7 +2745,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2B7B1498
-  value: Enables independent home entry and environmental control.
+  value: Lets the client unlock doors and enter home easily.
 - field_id: CHCCCS038_TXT_26_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2776,7 +2769,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 15855AA3
-  value: Provides rapid emergency alerting to support staff.
+  value: Calls support staff quickly in an emergency.
 - field_id: CHCCCS038_TXT_26_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2800,7 +2793,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 27A07C55
-  value: Allows safe navigation of uneven terrain and community spaces.
+  value: Helps travel safely around paths and the neighbourhood.
 - field_id: CHCCCS038_TXT_26_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2824,7 +2817,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 493B3CF2
-  value: Prevents spills and facilitates self-feeding with tremors.
+  value: Steadies shaky hands so food doesn't spill.
 - field_id: CHCCCS038_TXT_26_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2848,7 +2841,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 28C6F8E7
-  value: Enables controlled fluid intake without neck hyperextension.
+  value: Allows drinking comfortably without tilting the head back.
 - field_id: CHCCCS038_TXT_26_6_2_1
   type: text
   section: Knowledge Assessment
@@ -2860,7 +2853,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1F613ADF
-  value: Two-handled weighted mug with dysphagia cut-out lid
+  value: Two-handled mug with dysphagia cut-out lid
 - field_id: CHCCCS038_TXT_26_7_1_1
   type: text
   section: Knowledge Assessment
@@ -2872,7 +2865,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4ABCBC35
-  value: Relieves sustained tissue pressure over bony prominences.
+  value: Relieves pressure on skin to prevent bedsores.
 - field_id: CHCCCS038_TXT_26_7_2_1
   type: text
   section: Knowledge Assessment
@@ -2896,7 +2889,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 52A96C16
-  value: Reduces physical lifting strain on informal and formal carers.
+  value: Stops back strain for carers when repositioning clients.
 - field_id: CHCCCS038_TXT_26_8_2_1
   type: text
   section: Knowledge Assessment
@@ -2920,8 +2913,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 05193939
-  value: AT compensates for functional impairments, empowering individuals to perform
-    domestic, educational, and vocational tasks on their own terms.
+  value: Assistive technology helps people overcome physical limitations so they can
+    do daily tasks, hobbies, and work on their own terms.
 - field_id: CHCCCS038_TXT_27_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2933,8 +2926,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 24507AED
-  value: AT compensates for functional impairments, empowering individuals to perform
-    domestic, educational, and vocational tasks on their own terms.
+  value: Assistive technology helps people overcome physical limitations so they can
+    do daily tasks, hobbies, and work on their own terms.
 - field_id: CHCCCS038_TXT_27_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2945,8 +2938,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7DEBB52D
-  value: AT compensates for functional impairments, empowering individuals to perform
-    domestic, educational, and vocational tasks on their own terms.
+  value: Assistive technology helps people overcome physical limitations so they can
+    do daily tasks, hobbies, and work on their own terms.
 - field_id: CHCCCS038_TXT_27_5_0_1
   type: text
   section: Knowledge Assessment
@@ -2958,8 +2951,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2032773E
-  value: AT compensates for functional impairments, empowering individuals to perform
-    domestic, educational, and vocational tasks on their own terms.
+  value: Assistive technology helps people overcome physical limitations so they can
+    do daily tasks, hobbies, and work on their own terms.
 - field_id: CHCCCS038_TXT_28_4_0_1
   type: text
   section: Knowledge Assessment
@@ -3904,9 +3897,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3B3179CC
-  value: 'Three work role boundaries: 1. No financial transactions/loans with clients.
-    2. Maintain strict professional detachment (no personal relationships). 3. Only
-    perform delegated tasks within certified competencies.'
+  value: 'Three work boundaries: 1. Never accept gifts of money or lend money to clients.
+    2. Keep relationships strictly professional (not friends outside of work). 3.
+    Only do tasks I have been trained and certified to perform.'
 - field_id: CHCCCS038_TXT_37_0_0_2
   type: text
   section: Knowledge Assessment
@@ -3917,9 +3910,9 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 741A6B36
-  value: 'Three work role boundaries: 1. No financial transactions/loans with clients.
-    2. Maintain strict professional detachment (no personal relationships). 3. Only
-    perform delegated tasks within certified competencies.'
+  value: 'Three work boundaries: 1. Never accept gifts of money or lend money to clients.
+    2. Keep relationships strictly professional (not friends outside of work). 3.
+    Only do tasks I have been trained and certified to perform.'
 - field_id: CHCCCS038_TXT_37_0_0_3
   type: text
   section: Knowledge Assessment
@@ -3930,9 +3923,9 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 348FEA3C
-  value: 'Three work role boundaries: 1. No financial transactions/loans with clients.
-    2. Maintain strict professional detachment (no personal relationships). 3. Only
-    perform delegated tasks within certified competencies.'
+  value: 'Three work boundaries: 1. Never accept gifts of money or lend money to clients.
+    2. Keep relationships strictly professional (not friends outside of work). 3.
+    Only do tasks I have been trained and certified to perform.'
 - field_id: CHCCCS038_TXT_37_1_0_1
   type: text
   section: Knowledge Assessment
@@ -3943,9 +3936,9 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6118E587
-  value: 'Three responsibilities: 1. Deliver person-centred care aligned with care
-    plan. 2. Maintain accurate daily progress notes. 3. Promptly report health deterioration
-    or hazards.'
+  value: 'Three responsibilities: 1. Deliver care following the client''s care plan.
+    2. Write clear, accurate daily progress notes. 3. Report any changes in client
+    health or hazards to my supervisor.'
 - field_id: CHCCCS038_TXT_37_1_0_2
   type: text
   section: Knowledge Assessment
@@ -3956,9 +3949,9 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 132A485C
-  value: 'Three responsibilities: 1. Deliver person-centred care aligned with care
-    plan. 2. Maintain accurate daily progress notes. 3. Promptly report health deterioration
-    or hazards.'
+  value: 'Three responsibilities: 1. Deliver care following the client''s care plan.
+    2. Write clear, accurate daily progress notes. 3. Report any changes in client
+    health or hazards to my supervisor.'
 - field_id: CHCCCS038_TXT_37_1_0_3
   type: text
   section: Knowledge Assessment
@@ -3969,9 +3962,9 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 58269C81
-  value: 'Three responsibilities: 1. Deliver person-centred care aligned with care
-    plan. 2. Maintain accurate daily progress notes. 3. Promptly report health deterioration
-    or hazards.'
+  value: 'Three responsibilities: 1. Deliver care following the client''s care plan.
+    2. Write clear, accurate daily progress notes. 3. Report any changes in client
+    health or hazards to my supervisor.'
 - field_id: CHCCCS038_TXT_37_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3982,9 +3975,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7FF10D61
-  value: 'Three limitations: 1. Cannot alter prescribed medications or clinical doses.
-    2. Cannot provide financial or legal advice. 3. Cannot perform invasive nursing
-    procedures.'
+  value: 'Three limitations: 1. Cannot alter prescribed medications or dosages. 2.
+    Cannot give legal or financial advice. 3. Cannot perform invasive nursing procedures.'
 - field_id: CHCCCS038_TXT_37_2_0_2
   type: text
   section: Knowledge Assessment
@@ -3995,9 +3987,8 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 5D9B3F24
-  value: 'Three limitations: 1. Cannot alter prescribed medications or clinical doses.
-    2. Cannot provide financial or legal advice. 3. Cannot perform invasive nursing
-    procedures.'
+  value: 'Three limitations: 1. Cannot alter prescribed medications or dosages. 2.
+    Cannot give legal or financial advice. 3. Cannot perform invasive nursing procedures.'
 - field_id: CHCCCS038_TXT_37_2_0_3
   type: text
   section: Knowledge Assessment
@@ -4008,9 +3999,8 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 27D2407D
-  value: 'Three limitations: 1. Cannot alter prescribed medications or clinical doses.
-    2. Cannot provide financial or legal advice. 3. Cannot perform invasive nursing
-    procedures.'
+  value: 'Three limitations: 1. Cannot alter prescribed medications or dosages. 2.
+    Cannot give legal or financial advice. 3. Cannot perform invasive nursing procedures.'
 - field_id: CHCCCS038_TXT_38_2_0_1
   type: text
   section: Knowledge Assessment
@@ -4615,8 +4605,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 20D6B9E0
-  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
-    high emotional distress.
+  value: Bruising and a small skin tear on left forearm; Judith was very upset, crying,
+    and in pain.
 - field_id: CHCCCS038_TXT_53_2_1_1
   type: text
   section: Knowledge Assessment
@@ -4627,8 +4617,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7DBF1646
-  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
-    high emotional distress.
+  value: Bruising and a small skin tear on left forearm; Judith was very upset, crying,
+    and in pain.
 - field_id: CHCCCS038_TXT_53_3_1_1
   type: text
   section: Knowledge Assessment
@@ -4639,8 +4629,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 251E5561
-  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
-    high emotional distress.
+  value: Bruising and a small skin tear on left forearm; Judith was very upset, crying,
+    and in pain.
 - field_id: CHCCCS038_TXT_53_3_3_1
   type: text
   section: Knowledge Assessment
@@ -4651,8 +4641,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 121086F6
-  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
-    high emotional distress.
+  value: Bruising and a small skin tear on left forearm; Judith was very upset, crying,
+    and in pain.
 - field_id: CHCCCS038_TXT_53_4_1_1
   type: text
   section: Knowledge Assessment
@@ -4663,8 +4653,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 32A12C29
-  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
-    high emotional distress.
+  value: Bruising and a small skin tear on left forearm; Judith was very upset, crying,
+    and in pain.
 - field_id: CHCCCS038_TXT_53_4_3_1
   type: text
   section: Knowledge Assessment
@@ -4675,8 +4665,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 67FFD4E2
-  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
-    high emotional distress.
+  value: Bruising and a small skin tear on left forearm; Judith was very upset, crying,
+    and in pain.
 - field_id: CHCCCS038_TXT_53_5_1_1
   type: text
   section: Knowledge Assessment
@@ -4687,8 +4677,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 09ACF5D1
-  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
-    high emotional distress.
+  value: Bruising and a small skin tear on left forearm; Judith was very upset, crying,
+    and in pain.
 - field_id: CHCCCS038_TXT_53_5_3_1
   type: text
   section: Knowledge Assessment
@@ -4699,8 +4689,8 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 3D7383ED
-  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
-    high emotional distress.
+  value: Bruising and a small skin tear on left forearm; Judith was very upset, crying,
+    and in pain.
 - field_id: CHCCCS038_TXT_54_1_1_1
   type: text
   section: Knowledge Assessment
@@ -4715,8 +4705,8 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 261F0FE5
-  value: Judith disclosed rough handling by agency staff during morning transfer;
-    emergency call buzzer was unplugged behind bedside table; client left unattended.
+  value: Judith stated she was handled roughly by agency staff during morning transfer;
+    call buzzer was left unplugged behind the bed.
 - field_id: CHCCCS038_TXT_55_1_1_1
   type: text
   section: Knowledge Assessment
@@ -4918,8 +4908,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1156986C
-  value: Facilitate a consultation with a physiotherapist to design an individualised
-    strength and balance mobility program.
+  value: Arrange for a physiotherapist to assess Matilda and design a gentle walking
+    and balance exercise program.
 - field_id: CHCCCS038_TXT_67_4_2_1
   type: text
   section: Knowledge Assessment
@@ -4931,7 +4921,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5490845D
-  value: Encourage Matilda to join the weekly facility gardening group to foster friendships.
+  value: Invite Matilda to join the weekly facility gardening group to make friends
+    and enjoy the outdoors.
 - field_id: CHCCCS038_CB_68_2_0_1
   type: checkbox
   section: Candidate Checklist

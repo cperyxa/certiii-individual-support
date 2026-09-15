@@ -86,7 +86,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1BAB25D8
-  value: 'Montreal Cognitive Assessment (MoCA): Assesses short-term memory, executive functioning, visuospatial abilities, language, and abstraction.'
+  value: 'Mini-Mental State Examination (MMSE): A short set of questions testing memory, attention, and language.'
 - field_id: CHCAGE011_TXT_3_2_0_2
   type: text
   section: Preliminary Task
@@ -97,7 +97,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 7FD5257D
-  value: 'Montreal Cognitive Assessment (MoCA): Assesses short-term memory, executive functioning, visuospatial abilities, language, and abstraction.'
+  value: 'Montreal Cognitive Assessment (MoCA): Tests short-term memory, planning, problem-solving, and orientation.'
 - field_id: CHCAGE011_TXT_3_2_0_3
   type: text
   section: Preliminary Task
@@ -108,7 +108,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 0FD79C59
-  value: 'Montreal Cognitive Assessment (MoCA): Assesses short-term memory, executive functioning, visuospatial abilities, language, and abstraction.'
+  value: 'Rowland Universal Dementia Assessment Scale (RUDAS): A screening tool designed to be fair for people from different language and cultural backgrounds.'
 - field_id: CHCAGE011_CB_3_3_0_1
   type: checkbox
   section: Preliminary Task
@@ -141,7 +141,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1DF08054
-  value: Early diagnosis enables proactive care planning, timely therapeutic intervention, access to support services, and client involvement in advanced care directives.
+  value: Medicines that target amyloid plaques to help slow down damage to brain cells.
 - field_id: CHCAGE011_TXT_3_4_0_2
   type: text
   section: Preliminary Task
@@ -152,7 +152,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 34E74EC4
-  value: Early diagnosis enables proactive care planning, timely therapeutic intervention, access to support services, and client involvement in advanced care directives.
+  value: Treatments targeting tau tangles to protect brain cells from breaking down.
 - field_id: CHCAGE011_TXT_3_4_0_3
   type: text
   section: Preliminary Task
@@ -163,7 +163,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 2E77E63E
-  value: Early diagnosis enables proactive care planning, timely therapeutic intervention, access to support services, and client involvement in advanced care directives.
+  value: Programs focusing on brain training, physical exercise, and healthy diet to support brain health.
 - field_id: CHCAGE011_TXT_3_5_0_1
   type: text
   section: Preliminary Task
@@ -176,7 +176,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4D520E24
-  value: Biomarker imaging (Amyloid and Tau PET scans) and cerebrospinal fluid (CSF) or plasma biomarker analysis.
+  value: Person-centred care, improving quality of life, and avoiding restrictive practices through gentle activities and clear communication.
 - field_id: CHCAGE011_TXT_3_5_0_2
   type: text
   section: Preliminary Task
@@ -189,7 +189,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 4D520E24
-  value: Biomarker imaging (Amyloid and Tau PET scans) and cerebrospinal fluid (CSF) or plasma biomarker analysis.
+  value: Person-centred care, improving quality of life, and avoiding restrictive practices through gentle activities and clear communication.
 - field_id: CHCAGE011_TXT_3_5_0_3
   type: text
   section: Preliminary Task
@@ -202,7 +202,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 4D520E24
-  value: Biomarker imaging (Amyloid and Tau PET scans) and cerebrospinal fluid (CSF) or plasma biomarker analysis.
+  value: Person-centred care, improving quality of life, and avoiding restrictive practices through gentle activities and clear communication.
 - field_id: CHCAGE011_TXT_4_2_0_1
   type: text
   section: Preliminary Task
@@ -215,7 +215,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6915CA97
-  value: 'Vascular disease: Multiple cerebral infarctions, strokes, and atherosclerosis reducing cerebral oxygenation and damaging neural pathways.'
+  value: Strokes and damaged blood vessels in the brain that stop oxygen from reaching brain cells.
 - field_id: CHCAGE011_TXT_4_2_0_2
   type: text
   section: Preliminary Task
@@ -228,7 +228,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 6915CA97
-  value: 'Vascular disease: Multiple cerebral infarctions, strokes, and atherosclerosis reducing cerebral oxygenation and damaging neural pathways.'
+  value: Inherited genetic conditions passed down through families (like familial Alzheimer's genes).
 - field_id: CHCAGE011_TXT_4_2_0_3
   type: text
   section: Preliminary Task
@@ -241,7 +241,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 6915CA97
-  value: 'Vascular disease: Multiple cerebral infarctions, strokes, and atherosclerosis reducing cerebral oxygenation and damaging neural pathways.'
+  value: Severe head injuries from falls or accidents that damage brain tissue.
 - field_id: CHCAGE011_TXT_4_3_0_1
   type: text
   section: Preliminary Task
@@ -285,7 +285,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 503A0E26
-  value: 'Frontotemporal Dementia: Early onset degeneration of frontal and temporal lobes, causing pronounced personality changes, behavioural disinhibition, and aphasia.'
+  value: 'Frontotemporal Dementia: Affects the front parts of the brain, causing noticeable changes in personality, social behavior, and loss of speech or language understanding.'
 - field_id: CHCAGE011_TXT_5_4_2_1
   type: text
   section: Knowledge Assessment
@@ -296,7 +296,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 47E5A2E8
-  value: 'Vascular dementia: Caused by reduced cerebral blood flow due to stroke, arteriosclerosis, or small vessel disease, leading to a stepwise decline in cognitive function, executive planning, and motor coordination.'
+  value: 'Vascular dementia: Caused by poor blood flow in the brain due to strokes, leading to problems with planning, walking, and thinking.'
 - field_id: CHCAGE011_TXT_5_5_2_1
   type: text
   section: Knowledge Assessment
@@ -307,7 +307,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 78557F42
-  value: 'Multi-infarct dementia: A specific form of vascular dementia caused by multiple successive mini-strokes (transient ischemic attacks) damaging localized areas of brain tissue.'
+  value: 'Multi-infarct dementia: A form of vascular dementia caused by multiple small mini-strokes that damage small areas across the brain over time.'
 - field_id: CHCAGE011_TXT_6_1_1_1
   type: text
   section: Knowledge Assessment
@@ -318,7 +318,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 13DDF173
-  value: 'Lewy Body Dementia: Cognitive decline marked by recurrent visual hallucinations, parkinsonian motor symptoms (rigidity, tremor), and marked fluctuations in attention.'
+  value: 'Lewy Body Dementia: Causes memory problems along with visual hallucinations, fluctuating alertness, and tremors or stiffness similar to Parkinson''s disease.'
 - field_id: CHCAGE011_TXT_6_2_1_1
   type: text
   section: Knowledge Assessment
@@ -329,7 +329,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 110B3823
-  value: 'Korsakoff Syndrome: Severe chronic memory disorder caused by thiamine (Vitamin B1) deficiency, frequently linked to prolonged alcohol abuse, causing anterograde amnesia and confabulation.'
+  value: 'Korsakoff Syndrome: A severe memory condition caused by a lack of vitamin B1 (thiamine), usually linked to long-term alcohol misuse. It makes it very hard to learn new information.'
 - field_id: CHCAGE011_TXT_6_3_1_1
   type: text
   section: Knowledge Assessment
@@ -340,7 +340,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1F2E051F
-  value: 'Frontotemporal lobar degeneration: Atrophy in the frontotemporal cortices resulting in progressive language impairment (primary progressive aphasia) or social conduct deterioration.'
+  value: 'Frontotemporal lobar degeneration: Brain shrinkage in the front and temporal lobes, leading to major changes in social behaviour or difficulty speaking and understanding words.'
 - field_id: CHCAGE011_TXT_6_4_1_1
   type: text
   section: Knowledge Assessment
@@ -351,7 +351,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 75890EBF
-  value: 'Huntington''s disease: An inherited autosomal dominant neurodegenerative genetic disorder causing progressive chorea (involuntary movements), emotional disturbances, and cognitive decline.'
+  value: 'Huntington''s disease: An inherited genetic condition that causes involuntary jerky movements, mood swings, and gradual loss of thinking and memory skills.'
 - field_id: CHCAGE011_TXT_6_5_1_1
   type: text
   section: Knowledge Assessment
@@ -362,7 +362,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 10A2DBD9
-  value: 'Parkinson''s Disease: A neurodegenerative disease characterized by loss of dopamine-producing brain cells, producing tremor, bradykinesia, rigidity, and late-stage dementia with Lewy bodies.'
+  value: 'Parkinson''s Disease: A condition affecting brain cells that control movement, leading to shaking, stiff muscles, slow movements, and in later stages, dementia.'
 - field_id: CHCAGE011_TXT_6_6_1_1
   type: text
   section: Knowledge Assessment
@@ -373,7 +373,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 12CABC9B
-  value: 'Younger onset dementia: Dementia diagnosed in individuals under the age of 65, often presenting with significant atypical behavioural or linguistic changes and profound socioeconomic impact.'
+  value: 'Younger onset dementia: Any form of dementia diagnosed in people under the age of 65, which often has a big impact on family, work, and finances.'
 - field_id: CHCAGE011_TXT_7_2_0_1
   type: text
   section: Knowledge Assessment
@@ -384,7 +384,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2F57BD1E
-  value: Amyloid plaques are extracellular deposits composed of misfolded insoluble beta-amyloid peptide aggregates that accumulate between nerve cells.
+  value: Amyloid plaques are abnormal protein build-ups that form in the spaces between brain cells.
 - field_id: CHCAGE011_TXT_7_3_0_1
   type: text
   section: Knowledge Assessment
@@ -395,7 +395,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7BB84B4D
-  value: Plaques disrupt inter-neuronal chemical communication, trigger neuroinflammation, and activate microglial immune responses that damage surrounding synapses.
+  value: They block messages from passing between brain cells and trigger inflammation that damages surrounding brain tissue.
 - field_id: CHCAGE011_TXT_7_4_0_1
   type: text
   section: Knowledge Assessment
@@ -406,7 +406,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 71DDBDCC
-  value: Amyloid plaques accumulate between neurons, disrupting synaptic communication, triggering chronic localized neuroinflammation, and activating microglia that destroy surrounding neural pathways.
+  value: Plaques build up between brain cells, stopping normal communication and causing nearby nerve cells to weaken and die.
 - field_id: CHCAGE011_TXT_8_0_0_1
   type: text
   section: Knowledge Assessment
@@ -417,7 +417,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 650B4FC7
-  value: Neurofibrillary tangles are abnormal intracellular accumulations of hyperphosphorylated tau protein inside neurons.
+  value: Neurofibrillary tangles are twisted strands of tau protein that form inside brain cells.
 - field_id: CHCAGE011_TXT_8_1_0_1
   type: text
   section: Knowledge Assessment
@@ -428,7 +428,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 14EC1E8B
-  value: Neurofibrillary tangles are abnormal intracellular accumulations of hyperphosphorylated tau protein inside neurons.
+  value: Neurofibrillary tangles are twisted strands of tau protein that form inside brain cells.
 - field_id: CHCAGE011_TXT_8_2_0_1
   type: text
   section: Knowledge Assessment
@@ -439,7 +439,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 278798A4
-  value: Tau protein detaches from microtubules and tangles into insoluble filaments, causing internal transport systems to collapse and leading to cell death.
+  value: Tau protein detaches from the cell structure and tangles up, destroying the transport system inside the brain cell so it cannot survive.
 - field_id: CHCAGE011_TXT_8_3_0_1
   type: text
   section: Knowledge Assessment
@@ -450,7 +450,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 17A2AA4E
-  value: Progressive cerebral cortex atrophy and ventricular enlargement.
+  value: The overall shrinkage of brain tissue and loss of brain cells as dementia progresses.
 - field_id: CHCAGE011_TXT_8_3_0_2
   type: text
   section: Knowledge Assessment
@@ -461,7 +461,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 566C3ACA
-  value: Progressive cerebral cortex atrophy and ventricular enlargement.
+  value: The overall shrinkage of brain tissue and loss of brain cells as dementia progresses.
 - field_id: CHCAGE011_TXT_8_3_0_3
   type: text
   section: Knowledge Assessment
@@ -472,7 +472,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 11184A07
-  value: Progressive cerebral cortex atrophy and ventricular enlargement.
+  value: The overall shrinkage of brain tissue and loss of brain cells as dementia progresses.
 - field_id: CHCAGE011_TXT_8_3_0_4
   type: text
   section: Knowledge Assessment
@@ -483,7 +483,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 6BDC9E92
-  value: Progressive cerebral cortex atrophy and ventricular enlargement.
+  value: The overall shrinkage of brain tissue and loss of brain cells as dementia progresses.
 - field_id: CHCAGE011_TXT_9_3_0_1
   type: text
   section: Knowledge Assessment
@@ -494,7 +494,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7AA67EBC
-  value: 'Disorientation: Confusion regarding the current time, day, season, and becoming lost in familiar environments.'
+  value: 'Disorientation: Getting confused about the time of day, date, or getting lost in familiar surroundings.'
 - field_id: CHCAGE011_TXT_9_4_0_1
   type: text
   section: Knowledge Assessment
@@ -505,7 +505,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 793B62E6
-  value: 'Indicator: Neglect of personal hygiene, unwashed clothing, and skipping meals.'
+  value: 'Indicator: Neglecting personal hygiene, wearing unwashed or mismatched clothes, and skipping meals.'
 - field_id: CHCAGE011_TXT_9_5_0_1
   type: text
   section: Knowledge Assessment
@@ -516,7 +516,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5EA04219
-  value: 'Indicator: Uncharacteristic mood swings, withdrawal from social hobbies, and sudden paranoia.'
+  value: 'Indicator: Uncharacteristic mood swings, sudden withdrawal from family and friends, or feeling anxious.'
 - field_id: CHCAGE011_TXT_9_7_0_1
   type: text
   section: Knowledge Assessment
@@ -527,7 +527,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 70BC3495
-  value: 'Progressive aphasia: Increasing difficulty understanding or expressing spoken and written words.'
+  value: 'Progressive aphasia: Difficulty finding words to speak or understanding what others are saying.'
 - field_id: CHCAGE011_TXT_9_8_0_1
   type: text
   section: Knowledge Assessment
@@ -538,7 +538,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7875DC47
-  value: 'Apraxia: Inability to execute purposeful motor movements (e.g. buttoning a shirt) despite intact physical ability.'
+  value: 'Apraxia: Trouble carrying out purposeful physical movements (like using a fork) even though muscles are healthy.'
 - field_id: CHCAGE011_TXT_9_9_0_1
   type: text
   section: Knowledge Assessment
@@ -549,7 +549,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2E841752
-  value: 'Agnosia: Failure to recognize familiar objects, sounds, or faces (e.g. not recognizing a comb or close family member).'
+  value: 'Agnosia: Not recognizing familiar everyday objects, sounds, or faces (for example, not recognizing a comb or a close relative).'
 - field_id: CHCAGE011_TXT_10_2_0_1
   type: text
   section: Knowledge Assessment
@@ -560,7 +560,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 30CAD6A4
-  value: 'Agitation: Restlessness, pacing, shouting, or emotional distress often triggered by environmental overstimulation.'
+  value: 'Agitation: Feeling restless, anxious, or irritable, often triggered by too much noise, clutter, or feeling rushed.'
 - field_id: CHCAGE011_TXT_10_2_0_2
   type: text
   section: Knowledge Assessment
@@ -571,7 +571,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 70991BAE
-  value: 'Agitation: Restlessness, pacing, shouting, or emotional distress often triggered by environmental overstimulation.'
+  value: 'Agitation: Feeling restless, anxious, or irritable, often triggered by too much noise, clutter, or feeling rushed.'
 - field_id: CHCAGE011_TXT_10_2_0_3
   type: text
   section: Knowledge Assessment
@@ -582,7 +582,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 3CC7D4B4
-  value: 'Agitation: Restlessness, pacing, shouting, or emotional distress often triggered by environmental overstimulation.'
+  value: 'Agitation: Feeling restless, anxious, or irritable, often triggered by too much noise, clutter, or feeling rushed.'
 - field_id: CHCAGE011_TXT_10_2_0_4
   type: text
   section: Knowledge Assessment
@@ -593,7 +593,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 714113D3
-  value: 'Agitation: Restlessness, pacing, shouting, or emotional distress often triggered by environmental overstimulation.'
+  value: 'Agitation: Feeling restless, anxious, or irritable, often triggered by too much noise, clutter, or feeling rushed.'
 - field_id: CHCAGE011_TXT_10_3_0_1
   type: text
   section: Knowledge Assessment
@@ -604,7 +604,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 53A399AD
-  value: 'Sundowning: Increased confusion, anxiety, and restlessness in the late afternoon and evening.'
+  value: 'Sundowning: Becoming more confused, anxious, or agitated in the late afternoon and evening as the sun goes down.'
 - field_id: CHCAGE011_TXT_10_4_0_1
   type: text
   section: Knowledge Assessment
@@ -615,7 +615,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 654EE4E0
-  value: 'Vocal disruption: Repetitive shouting, calling out for family, or groaning expressing underlying discomfort.'
+  value: 'Vocal disruption: Calling out loudly, groaning, or repeating words because of pain, loneliness, or distress.'
 - field_id: CHCAGE011_TXT_10_4_0_2
   type: text
   section: Knowledge Assessment
@@ -626,7 +626,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 4334BA2D
-  value: 'Vocal disruption: Repetitive shouting, calling out for family, or groaning expressing underlying discomfort.'
+  value: 'Vocal disruption: Calling out loudly, groaning, or repeating words because of pain, loneliness, or distress.'
 - field_id: CHCAGE011_TXT_10_4_0_3
   type: text
   section: Knowledge Assessment
@@ -637,7 +637,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: '37308688'
-  value: 'Vocal disruption: Repetitive shouting, calling out for family, or groaning expressing underlying discomfort.'
+  value: 'Vocal disruption: Calling out loudly, groaning, or repeating words because of pain, loneliness, or distress.'
 - field_id: CHCAGE011_TXT_11_0_0_1
   type: text
   section: Knowledge Assessment
@@ -648,7 +648,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 65708D00
-  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+  value: Behaviours are often a way of communicating an unmet need (like pain, hunger, cold, or fear) when the person can no longer explain it in words. For example, a resident pushing staff away during a shower because the water is too hot, or pacing because they have a painful urinary infection.
 - field_id: CHCAGE011_TXT_11_1_0_1
   type: text
   section: Knowledge Assessment
@@ -659,7 +659,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4E67EE31
-  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+  value: Behaviours are often a way of communicating an unmet need (like pain, hunger, cold, or fear) when the person can no longer explain it in words. For example, a resident pushing staff away during a shower because the water is too hot, or pacing because they have a painful urinary infection.
 - field_id: CHCAGE011_TXT_11_1_0_2
   type: text
   section: Knowledge Assessment
@@ -670,7 +670,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 28224AE8
-  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+  value: Behaviours are often a way of communicating an unmet need (like pain, hunger, cold, or fear) when the person can no longer explain it in words. For example, a resident pushing staff away during a shower because the water is too hot, or pacing because they have a painful urinary infection.
 - field_id: CHCAGE011_TXT_11_1_0_3
   type: text
   section: Knowledge Assessment
@@ -681,7 +681,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 7DDDA7DE
-  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+  value: Behaviours are often a way of communicating an unmet need (like pain, hunger, cold, or fear) when the person can no longer explain it in words. For example, a resident pushing staff away during a shower because the water is too hot, or pacing because they have a painful urinary infection.
 - field_id: CHCAGE011_TXT_11_2_0_1
   type: text
   section: Knowledge Assessment
@@ -692,7 +692,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5C038191
-  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+  value: Behaviours are often a way of communicating an unmet need (like pain, hunger, cold, or fear) when the person can no longer explain it in words. For example, a resident pushing staff away during a shower because the water is too hot, or pacing because they have a painful urinary infection.
 - field_id: CHCAGE011_TXT_12_2_0_1
   type: text
   section: Knowledge Assessment
@@ -703,7 +703,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 19B7B418
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_3_0_1
   type: text
   section: Knowledge Assessment
@@ -714,7 +714,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 23017F9E
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_3_0_2
   type: text
   section: Knowledge Assessment
@@ -725,7 +725,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 0B899D5A
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_3_0_3
   type: text
   section: Knowledge Assessment
@@ -736,7 +736,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 39664E14
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_3_0_4
   type: text
   section: Knowledge Assessment
@@ -747,7 +747,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 24CE1A94
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_3_0_5
   type: text
   section: Knowledge Assessment
@@ -758,7 +758,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 11DE53EB
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_4_0_1
   type: text
   section: Knowledge Assessment
@@ -769,7 +769,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0687F1BC
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_4_0_2
   type: text
   section: Knowledge Assessment
@@ -780,7 +780,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 2851631C
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_4_0_3
   type: text
   section: Knowledge Assessment
@@ -791,7 +791,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 0990CAA9
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_5_0_1
   type: text
   section: Knowledge Assessment
@@ -802,7 +802,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 09C9E5DB
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_5_0_2
   type: text
   section: Knowledge Assessment
@@ -813,7 +813,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 2183B07E
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_5_0_3
   type: text
   section: Knowledge Assessment
@@ -824,7 +824,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: '54169283'
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_5_0_4
   type: text
   section: Knowledge Assessment
@@ -835,7 +835,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 00FF8309
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_12_5_0_5
   type: text
   section: Knowledge Assessment
@@ -846,7 +846,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 158EFA30
-  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+  value: Restrictive practices are actions or devices that stop a person from moving freely or making their own choices (like locking doors, using bed rails, or giving sedating medications). They should only ever be used as a last resort when there is immediate danger, and for the shortest possible time.
 - field_id: CHCAGE011_TXT_13_0_0_1
   type: text
   section: Knowledge Assessment
@@ -857,7 +857,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7D061C25
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_0_0_2
   type: text
   section: Knowledge Assessment
@@ -868,7 +868,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 6E72A762
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_0_0_3
   type: text
   section: Knowledge Assessment
@@ -879,7 +879,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 69F28E40
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_0_0_4
   type: text
   section: Knowledge Assessment
@@ -890,7 +890,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 1948139B
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_0_0_5
   type: text
   section: Knowledge Assessment
@@ -901,7 +901,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 7D24D96D
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_0_0_6
   type: text
   section: Knowledge Assessment
@@ -912,7 +912,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 3FBF6715
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_1_0_1
   type: text
   section: Knowledge Assessment
@@ -925,7 +925,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 747F0DFE
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_1_0_2
   type: text
   section: Knowledge Assessment
@@ -938,7 +938,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 747F0DFE
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_2_0_1
   type: text
   section: Knowledge Assessment
@@ -949,7 +949,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 59A7DCB8
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_2_0_2
   type: text
   section: Knowledge Assessment
@@ -960,7 +960,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 17CB6965
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_2_0_3
   type: text
   section: Knowledge Assessment
@@ -971,7 +971,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 74BB43DA
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_13_3_0_1
   type: text
   section: Knowledge Assessment
@@ -982,7 +982,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 56A00AC9
-  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+  value: Restrictive practices must only be used as a last resort, for the shortest possible time, and after all positive and gentle support strategies have been tried.
 - field_id: CHCAGE011_TXT_14_0_0_1
   type: text
   section: Knowledge Assessment
@@ -993,7 +993,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 08042FB1
-  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+  value: 1. Right to freedom of movement and dignity. 2. Right to make personal choices. 3. Right to be treated with respect and live free from abuse.
 - field_id: CHCAGE011_TXT_14_0_0_2
   type: text
   section: Knowledge Assessment
@@ -1004,7 +1004,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 4F192CC2
-  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+  value: 1. Right to freedom of movement and dignity. 2. Right to make personal choices. 3. Right to be treated with respect and live free from abuse.
 - field_id: CHCAGE011_TXT_14_0_0_3
   type: text
   section: Knowledge Assessment
@@ -1015,7 +1015,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 5E7C350D
-  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+  value: 1. Right to freedom of movement and dignity. 2. Right to make personal choices. 3. Right to be treated with respect and live free from abuse.
 - field_id: CHCAGE011_TXT_14_1_0_1
   type: text
   section: Knowledge Assessment
@@ -1028,7 +1028,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6EB74BDF
-  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+  value: 1. Right to freedom of movement and dignity. 2. Right to make personal choices. 3. Right to be treated with respect and live free from abuse.
 - field_id: CHCAGE011_TXT_14_1_0_2
   type: text
   section: Knowledge Assessment
@@ -1041,7 +1041,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 6EB74BDF
-  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+  value: 1. Right to freedom of movement and dignity. 2. Right to make personal choices. 3. Right to be treated with respect and live free from abuse.
 - field_id: CHCAGE011_TXT_15_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1052,7 +1052,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2D3B4B4D
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_15_2_0_2
   type: text
   section: Knowledge Assessment
@@ -1063,7 +1063,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 1DD3090B
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_15_2_0_3
   type: text
   section: Knowledge Assessment
@@ -1074,7 +1074,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 440EB613
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_15_2_0_4
   type: text
   section: Knowledge Assessment
@@ -1085,7 +1085,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 0E2079FE
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_15_2_0_5
   type: text
   section: Knowledge Assessment
@@ -1096,7 +1096,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 0EF4ABCA
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_15_2_0_6
   type: text
   section: Knowledge Assessment
@@ -1107,7 +1107,7 @@ fields:
   col_idx: 0
   index_in_cell: 5
   para_id: 5CF8A445
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_15_2_0_7
   type: text
   section: Knowledge Assessment
@@ -1118,7 +1118,7 @@ fields:
   col_idx: 0
   index_in_cell: 6
   para_id: 49C2D89C
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_15_2_0_8
   type: text
   section: Knowledge Assessment
@@ -1129,7 +1129,7 @@ fields:
   col_idx: 0
   index_in_cell: 7
   para_id: 7F6EB975
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_15_2_0_9
   type: text
   section: Knowledge Assessment
@@ -1140,7 +1140,7 @@ fields:
   col_idx: 0
   index_in_cell: 8
   para_id: 55CDAA26
-  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+  value: Non-verbal pain signs include facial grimacing, groaning, guarding a painful body part, clenching fists, or sudden withdrawal. Two pain tools are the Abbey Pain Scale (for non-verbal clients) and the Wong-Baker FACES scale.
 - field_id: CHCAGE011_TXT_16_0_0_1
   type: text
   section: Knowledge Assessment
@@ -1151,7 +1151,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 76B614BA
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_1_0_1
   type: text
   section: Knowledge Assessment
@@ -1162,7 +1162,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 32DDE3C5
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_1_0_2
   type: text
   section: Knowledge Assessment
@@ -1173,7 +1173,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 5A331D0E
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_1_0_3
   type: text
   section: Knowledge Assessment
@@ -1184,7 +1184,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 1BB8EAE5
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1197,7 +1197,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7801CDD1
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_2_0_2
   type: text
   section: Knowledge Assessment
@@ -1210,7 +1210,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 10B3E7BA
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1221,7 +1221,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1D60D5D5
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_3_0_2
   type: text
   section: Knowledge Assessment
@@ -1232,7 +1232,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 6FD06DCC
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_3_0_3
   type: text
   section: Knowledge Assessment
@@ -1243,7 +1243,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 4E751C71
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_3_0_4
   type: text
   section: Knowledge Assessment
@@ -1254,7 +1254,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 73EADA3F
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_16_3_0_5
   type: text
   section: Knowledge Assessment
@@ -1265,7 +1265,7 @@ fields:
   col_idx: 0
   index_in_cell: 4
   para_id: 071EBE1A
-  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+  value: Undetected pain or an infection (like a UTI) can cause sudden confusion (delirium), make the resident very agitated, stop them from eating, or increase their risk of falling.
 - field_id: CHCAGE011_TXT_18_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1276,7 +1276,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5C99F0BD
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1287,7 +1287,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 56A942BD
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1298,7 +1298,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7C09C54E
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1309,7 +1309,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 338D9A18
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1320,7 +1320,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 49E31B85
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1331,7 +1331,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 28A3ACA9
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1342,7 +1342,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1DAAC1A5
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1353,7 +1353,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3AD3A086
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_5_1_1
   type: text
   section: Knowledge Assessment
@@ -1364,7 +1364,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7BE8AE45
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1375,7 +1375,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '28728447'
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_7_1_1
   type: text
   section: Knowledge Assessment
@@ -1386,7 +1386,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1B7688F0
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_7_2_1
   type: text
   section: Knowledge Assessment
@@ -1397,7 +1397,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2D702911
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_8_1_1
   type: text
   section: Knowledge Assessment
@@ -1408,7 +1408,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 168328C6
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_8_2_1
   type: text
   section: Knowledge Assessment
@@ -1419,7 +1419,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 40BFF724
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_9_1_1
   type: text
   section: Knowledge Assessment
@@ -1430,7 +1430,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 59CCACF5
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_9_2_1
   type: text
   section: Knowledge Assessment
@@ -1441,7 +1441,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1C140640
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_10_1_1
   type: text
   section: Knowledge Assessment
@@ -1452,7 +1452,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4CBAFC45
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_10_2_1
   type: text
   section: Knowledge Assessment
@@ -1463,7 +1463,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3C6CBEC7
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_11_1_1
   type: text
   section: Knowledge Assessment
@@ -1474,7 +1474,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 49682BFE
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_18_11_2_1
   type: text
   section: Knowledge Assessment
@@ -1485,7 +1485,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3C6CBEC7
-  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_19_1_1_1
   type: text
   section: Knowledge Assessment
@@ -1496,7 +1496,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1144020B
-  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_19_1_2_1
   type: text
   section: Knowledge Assessment
@@ -1507,7 +1507,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 790F1AA9
-  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_19_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1518,7 +1518,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4153E540
-  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_19_2_2_1
   type: text
   section: Knowledge Assessment
@@ -1529,7 +1529,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4A8EADED
-  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_19_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1540,7 +1540,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 249F5BC2
-  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_19_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1551,7 +1551,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7AA9D222
-  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_19_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1562,7 +1562,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7CE070D9
-  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_19_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1573,7 +1573,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4956430C
-  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+  value: Dementia causes physical loss of coordination and balance, while emotionally it can cause fear, anxiety, and frustration. For family carers, it causes high emotional stress, physical exhaustion, and grief as the person's memory fades.
 - field_id: CHCAGE011_TXT_20_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1584,7 +1584,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6E0BFE03
-  value: Maintain consistent daily care routines, familiar caregivers, and keep personal mementos and family photographs prominently visible.
+  value: 1. Feelings of grief and loss over losing his driving licence. 2. Loneliness from not seeing his friends. 3. Frustration and lower self-confidence.
 - field_id: CHCAGE011_TXT_20_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1595,7 +1595,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 31EC04C5
-  value: Maintain consistent daily care routines, familiar caregivers, and keep personal mementos and family photographs prominently visible.
+  value: 1. Feelings of grief and loss over losing his driving licence. 2. Loneliness from not seeing his friends. 3. Frustration and lower self-confidence.
 - field_id: CHCAGE011_TXT_20_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1606,7 +1606,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 31D808BB
-  value: Maintain consistent daily care routines, familiar caregivers, and keep personal mementos and family photographs prominently visible.
+  value: 1. Feelings of grief and loss over losing his driving licence. 2. Loneliness from not seeing his friends. 3. Frustration and lower self-confidence.
 - field_id: CHCAGE011_TXT_21_3_2_1
   type: text
   section: Knowledge Assessment
@@ -1617,7 +1617,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 39F7281A
-  value: Dignity of risk allows the person living with dementia to engage in chosen meaningful activities (e.g. supervised gardening, folding towels) while managing risks safely.
+  value: Support the person empathetically by listening without judgment, encouraging them to join enjoyable social activities, and treating them with dignity and respect.
 - field_id: CHCAGE011_TXT_21_4_2_1
   type: text
   section: Knowledge Assessment
@@ -1628,7 +1628,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 21E805F7
-  value: Dignity of risk allows the person living with dementia to engage in chosen meaningful activities (e.g. supervised gardening, folding towels) while managing risks safely.
+  value: Support the person empathetically by listening without judgment, encouraging them to join enjoyable social activities, and treating them with dignity and respect.
 - field_id: CHCAGE011_TXT_21_5_2_1
   type: text
   section: Knowledge Assessment
@@ -1639,7 +1639,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 36BE1250
-  value: Dignity of risk allows the person living with dementia to engage in chosen meaningful activities (e.g. supervised gardening, folding towels) while managing risks safely.
+  value: Support the person empathetically by listening without judgment, encouraging them to join enjoyable social activities, and treating them with dignity and respect.
 - field_id: CHCAGE011_TXT_21_6_2_1
   type: text
   section: Knowledge Assessment
@@ -1650,7 +1650,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5B5E3715
-  value: Dignity of risk allows the person living with dementia to engage in chosen meaningful activities (e.g. supervised gardening, folding towels) while managing risks safely.
+  value: Support the person empathetically by listening without judgment, encouraging them to join enjoyable social activities, and treating them with dignity and respect.
 - field_id: CHCAGE011_TXT_22_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1661,7 +1661,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '68069307'
-  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+  value: 1. Seeing the person first, not their dementia diagnosis. 2. Involving the person in decisions about their daily routine. 3. Respecting their personal life history, habits, and cultural background.
 - field_id: CHCAGE011_TXT_22_2_0_2
   type: text
   section: Knowledge Assessment
@@ -1672,7 +1672,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 5F43710C
-  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+  value: 1. Seeing the person first, not their dementia diagnosis. 2. Involving the person in decisions about their daily routine. 3. Respecting their personal life history, habits, and cultural background.
 - field_id: CHCAGE011_TXT_22_2_0_3
   type: text
   section: Knowledge Assessment
@@ -1683,7 +1683,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 07FDC93D
-  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+  value: 1. Seeing the person first, not their dementia diagnosis. 2. Involving the person in decisions about their daily routine. 3. Respecting their personal life history, habits, and cultural background.
 - field_id: CHCAGE011_TXT_22_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1694,7 +1694,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5A6712EA
-  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+  value: 1. Seeing the person first, not their dementia diagnosis. 2. Involving the person in decisions about their daily routine. 3. Respecting their personal life history, habits, and cultural background.
 - field_id: CHCAGE011_TXT_22_3_0_2
   type: text
   section: Knowledge Assessment
@@ -1705,7 +1705,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 0244381A
-  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+  value: 1. Seeing the person first, not their dementia diagnosis. 2. Involving the person in decisions about their daily routine. 3. Respecting their personal life history, habits, and cultural background.
 - field_id: CHCAGE011_TXT_22_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1716,7 +1716,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1245CF89
-  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+  value: 1. Seeing the person first, not their dementia diagnosis. 2. Involving the person in decisions about their daily routine. 3. Respecting their personal life history, habits, and cultural background.
 - field_id: CHCAGE011_TXT_22_4_0_2
   type: text
   section: Knowledge Assessment
@@ -1727,7 +1727,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 1B377E82
-  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+  value: 1. Seeing the person first, not their dementia diagnosis. 2. Involving the person in decisions about their daily routine. 3. Respecting their personal life history, habits, and cultural background.
 - field_id: CHCAGE011_TXT_23_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1738,7 +1738,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 125696B0
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1749,7 +1749,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 185AB7A2
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_6_0_1
   type: text
   section: Knowledge Assessment
@@ -1760,7 +1760,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0791CA89
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_7_0_1
   type: text
   section: Knowledge Assessment
@@ -1771,7 +1771,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 314D2B7D
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_9_0_1
   type: text
   section: Knowledge Assessment
@@ -1782,7 +1782,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4C30AE8F
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_10_0_1
   type: text
   section: Knowledge Assessment
@@ -1793,7 +1793,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 227B58AF
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_12_0_1
   type: text
   section: Knowledge Assessment
@@ -1804,7 +1804,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2FB12615
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_13_0_1
   type: text
   section: Knowledge Assessment
@@ -1815,7 +1815,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 65ADDD99
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_15_0_1
   type: text
   section: Knowledge Assessment
@@ -1826,7 +1826,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4066CE6A
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_23_16_0_1
   type: text
   section: Knowledge Assessment
@@ -1837,7 +1837,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5EC7CE74
-  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+  value: Looking through family photo albums, watering plants in the garden, listening to favorite music from their youth, or folding warm towels together.
 - field_id: CHCAGE011_TXT_24_2_0_1
   type: text
   section: Knowledge Assessment
@@ -1848,7 +1848,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 70BCD7DD
-  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+  value: Good, glare-free lighting to prevent scary shadows; clear picture signage on bathroom doors at eye level; and keeping noise low by reducing loud TV or radio sounds.
 - field_id: CHCAGE011_TXT_24_2_0_2
   type: text
   section: Knowledge Assessment
@@ -1859,7 +1859,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 1F58504A
-  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+  value: Good, glare-free lighting to prevent scary shadows; clear picture signage on bathroom doors at eye level; and keeping noise low by reducing loud TV or radio sounds.
 - field_id: CHCAGE011_TXT_24_2_0_3
   type: text
   section: Knowledge Assessment
@@ -1870,7 +1870,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 0128E6CE
-  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+  value: Good, glare-free lighting to prevent scary shadows; clear picture signage on bathroom doors at eye level; and keeping noise low by reducing loud TV or radio sounds.
 - field_id: CHCAGE011_TXT_24_2_0_4
   type: text
   section: Knowledge Assessment
@@ -1881,7 +1881,7 @@ fields:
   col_idx: 0
   index_in_cell: 3
   para_id: 725268FD
-  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+  value: Good, glare-free lighting to prevent scary shadows; clear picture signage on bathroom doors at eye level; and keeping noise low by reducing loud TV or radio sounds.
 - field_id: CHCAGE011_TXT_24_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1892,7 +1892,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0609F3FA
-  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+  value: Good, glare-free lighting to prevent scary shadows; clear picture signage on bathroom doors at eye level; and keeping noise low by reducing loud TV or radio sounds.
 - field_id: CHCAGE011_TXT_24_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1903,7 +1903,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 337913FB
-  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+  value: Good, glare-free lighting to prevent scary shadows; clear picture signage on bathroom doors at eye level; and keeping noise low by reducing loud TV or radio sounds.
 - field_id: CHCAGE011_TXT_25_3_0_1
   type: text
   section: Knowledge Assessment
@@ -1914,7 +1914,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 03AA606A
-  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+  value: Physical abuse (hitting/rough handling), emotional abuse (yelling/belittling), financial abuse (misusing money/cards), and neglect (leaving someone in soiled bedding or ignoring hygiene). Report immediately to the supervisor and under SIRS guidelines.
 - field_id: CHCAGE011_TXT_25_4_0_1
   type: text
   section: Knowledge Assessment
@@ -1925,7 +1925,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7CA5B2B9
-  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+  value: Physical abuse (hitting/rough handling), emotional abuse (yelling/belittling), financial abuse (misusing money/cards), and neglect (leaving someone in soiled bedding or ignoring hygiene). Report immediately to the supervisor and under SIRS guidelines.
 - field_id: CHCAGE011_TXT_25_5_0_1
   type: text
   section: Knowledge Assessment
@@ -1936,7 +1936,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6C420BF8
-  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+  value: Physical abuse (hitting/rough handling), emotional abuse (yelling/belittling), financial abuse (misusing money/cards), and neglect (leaving someone in soiled bedding or ignoring hygiene). Report immediately to the supervisor and under SIRS guidelines.
 - field_id: CHCAGE011_TXT_25_6_0_1
   type: text
   section: Knowledge Assessment
@@ -1947,7 +1947,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4BBDFAB6
-  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+  value: Physical abuse (hitting/rough handling), emotional abuse (yelling/belittling), financial abuse (misusing money/cards), and neglect (leaving someone in soiled bedding or ignoring hygiene). Report immediately to the supervisor and under SIRS guidelines.
 - field_id: CHCAGE011_TXT_25_8_0_1
   type: text
   section: Knowledge Assessment
@@ -1958,7 +1958,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 32E24527
-  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+  value: Physical abuse (hitting/rough handling), emotional abuse (yelling/belittling), financial abuse (misusing money/cards), and neglect (leaving someone in soiled bedding or ignoring hygiene). Report immediately to the supervisor and under SIRS guidelines.
 - field_id: CHCAGE011_TXT_25_9_0_1
   type: text
   section: Knowledge Assessment
@@ -1969,7 +1969,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 664D2CB0
-  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+  value: Physical abuse (hitting/rough handling), emotional abuse (yelling/belittling), financial abuse (misusing money/cards), and neglect (leaving someone in soiled bedding or ignoring hygiene). Report immediately to the supervisor and under SIRS guidelines.
 - field_id: CHCAGE011_TXT_25_11_0_1
   type: text
   section: Knowledge Assessment
@@ -1980,7 +1980,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 195F2106
-  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+  value: Physical abuse (hitting/rough handling), emotional abuse (yelling/belittling), financial abuse (misusing money/cards), and neglect (leaving someone in soiled bedding or ignoring hygiene). Report immediately to the supervisor and under SIRS guidelines.
 - field_id: CHCAGE011_TXT_25_12_0_1
   type: text
   section: Knowledge Assessment
@@ -1991,7 +1991,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 057982DB
-  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+  value: Physical abuse (hitting/rough handling), emotional abuse (yelling/belittling), financial abuse (misusing money/cards), and neglect (leaving someone in soiled bedding or ignoring hygiene). Report immediately to the supervisor and under SIRS guidelines.
 - field_id: CHCAGE011_TXT_27_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2002,7 +2002,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4CFC82E3
-  value: Clear, concise speech using simple words, calm tone, and one idea at a time.
+  value: Speak clearly, use simple everyday words, and give one instruction at a time.
 - field_id: CHCAGE011_TXT_27_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2013,7 +2013,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4B542B06
-  value: 'Example: ''Good morning, John. Here is your warm cup of tea.'''
+  value: 'Example: ''Good morning, Madge. Let''s put on your warm cardigan.'''
 - field_id: CHCAGE011_TXT_27_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2024,7 +2024,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0FE14E42
-  value: Facial expressions, eye contact, relaxed body posture, and reassuring gestures.
+  value: Use warm eye contact, smile, and keep an open, relaxed posture.
 - field_id: CHCAGE011_TXT_27_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2035,7 +2035,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5183FCF6
-  value: 'Example: Sitting at eye level, smiling warmly, and nodding gently while the person speaks.'
+  value: 'Example: Sitting down beside the resident so you are at eye level and smiling warmly.'
 - field_id: CHCAGE011_TXT_27_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2046,7 +2046,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1A681308
-  value: Demonstrating respect for the person's cultural customs, language preferences, and traditions.
+  value: Respecting the person's cultural customs, language preferences, and traditions.
 - field_id: CHCAGE011_TXT_27_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2057,7 +2057,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 25AED88C
-  value: 'Example: Addressing an elder with their preferred honorific title and respecting eye contact customs.'
+  value: 'Example: Using preferred greetings or simple words in the resident''s first language.'
 - field_id: CHCAGE011_TXT_27_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2068,7 +2068,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 69FD9121
-  value: Creating an environment where the person feels their identity is respected and free from discrimination.
+  value: Creating a comfortable space where the person feels safe and valued.
 - field_id: CHCAGE011_TXT_27_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2079,7 +2079,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3FB57BD3
-  value: 'Example: Engaging an accredited bilingual carer or interpreter when discussing daily care preferences.'
+  value: 'Example: Arranging a bilingual worker or interpreter if the resident prefers their native tongue.'
 - field_id: CHCAGE011_TXT_27_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2090,7 +2090,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 56F799A3
-  value: Providing gentle current environmental cues (calendars, clocks) when appropriate without causing distress.
+  value: Using gentle environment cues like large clocks and calendars to help orientate without arguing.
 - field_id: CHCAGE011_TXT_27_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2101,7 +2101,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3D99250A
-  value: 'Example: Placing a large-print calendar and wall clock in the resident''s bedroom.'
+  value: 'Example: Placing a large-print day/night clock on the bedside table.'
 - field_id: CHCAGE011_TXT_27_6_1_1
   type: text
   section: Knowledge Assessment
@@ -2112,7 +2112,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6466FFE8
-  value: Using empathetic verbal affirmations that convey safety, care, and comfort.
+  value: Using comforting, reassuring words to make the person feel safe.
 - field_id: CHCAGE011_TXT_27_6_2_1
   type: text
   section: Knowledge Assessment
@@ -2123,7 +2123,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5E745DE4
-  value: 'Example: ''You are safe here with me, Arthur. I am right beside you.'''
+  value: 'Example: ''You are safe here with me, Madge. I am right here to help you.'''
 - field_id: CHCAGE011_TXT_28_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2134,7 +2134,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0251CF97
-  value: Open arm posture, warm eye contact, and gentle unhurried movements.
+  value: Open arm posture, gentle unhurried movements, and warm eye contact.
 - field_id: CHCAGE011_TXT_28_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2145,7 +2145,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1795786C
-  value: 'Example: Resting a reassuring hand gently on the resident''s forearm during a stressful moment.'
+  value: 'Example: Placing a gentle, reassuring hand on the resident''s arm when they seem anxious.'
 - field_id: CHCAGE011_TXT_28_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2156,7 +2156,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 484C3717
-  value: Entering the person's subjective reality rather than correcting or arguing about facts.
+  value: Accepting the person's feelings and their version of reality instead of arguing.
 - field_id: CHCAGE011_TXT_28_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2167,7 +2167,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2EEA52F6
-  value: 'Example: If the resident is worried about getting children from school, saying ''You love your children very much; tell me about them.'''
+  value: 'Example: If a resident is worried about getting her children from school, saying: ''You are such a caring mother, tell me about your kids.'''
 - field_id: CHCAGE011_TXT_28_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2178,7 +2178,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 71D914DB
-  value: Acknowledging and mirroring the person's underlying emotional state.
+  value: Recognizing and acknowledging how the person is feeling.
 - field_id: CHCAGE011_TXT_28_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2189,7 +2189,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 30020E0B
-  value: 'Example: ''I can see that you are feeling very frustrated right now. I understand.'''
+  value: 'Example: ''I can see you are feeling upset and worried right now. I understand.'''
 - field_id: CHCAGE011_TXT_28_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2200,7 +2200,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3AAB4861
-  value: Allowing the person to express crying, anger, or fear without shushing, judging, or dismissing them.
+  value: Letting the person cry or express frustration without shushing them or walking away.
 - field_id: CHCAGE011_TXT_28_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2211,7 +2211,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '58049052'
-  value: 'Example: Staying calmly present beside a crying resident and offering a tissue with a quiet presence.'
+  value: 'Example: Sitting quietly with a crying resident, holding their hand, and offering a tissue.'
 - field_id: CHCAGE011_TXT_28_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2222,7 +2222,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4E556803
-  value: Engaging the person in pleasant conversations about positive past life events and achievements.
+  value: Talking about happy past memories, achievements, and family life.
 - field_id: CHCAGE011_TXT_28_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2233,7 +2233,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3D840AAA
-  value: 'Example: Reviewing a personalized memory box containing old family photos and a favorite gardening trowel.'
+  value: 'Example: Looking through a photo album together and asking about their wedding day or old job.'
 - field_id: CHCAGE011_TXT_29_2_0_1
   type: text
   section: Knowledge Assessment
@@ -2244,7 +2244,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1D0A5FDB
-  value: 'Environmental stressors: External stimuli such as loud alarms, bright fluorescent glare, or crowded rooms that overwhelm sensory processing.'
+  value: 'Environmental stressors: Loud TV sounds, bright flashing lights, or crowded rooms that overwhelm the senses.'
 - field_id: CHCAGE011_TXT_29_2_0_2
   type: text
   section: Knowledge Assessment
@@ -2255,7 +2255,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 53CA1CCB
-  value: 'Internal physical stressors: Undetected pain, constipation, urinary tract infection, or fatigue producing distress.'
+  value: 'Physical stressors: Undetected pain, feeling cold, constipation, or needing the toilet.'
 - field_id: CHCAGE011_TXT_29_2_0_3
   type: text
   section: Knowledge Assessment
@@ -2266,7 +2266,7 @@ fields:
   col_idx: 0
   index_in_cell: 2
   para_id: 78CCAB6D
-  value: 'Psychological stressors: Loss of autonomy, feeling misunderstood, grief, or fear from disorientation.'
+  value: 'Emotional stressors: Feeling rushed, disorientated, or misunderstood by carers.'
 - field_id: CHCAGE011_TXT_29_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2277,7 +2277,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 42DCE059
-  value: Loud dining room noise overwhelms acoustic filtering, leading to agitation and refusal to eat.
+  value: A noisy, busy dining room makes the resident anxious and refuse to eat their meal.
 - field_id: CHCAGE011_TXT_29_3_0_2
   type: text
   section: Knowledge Assessment
@@ -2288,7 +2288,7 @@ fields:
   col_idx: 0
   index_in_cell: 1
   para_id: 059C04B9
-  value: Accumulated minor frustrations across a morning routine trigger an afternoon catastrophic reaction.
+  value: Being rushed through morning showering causes frustration that leads to an angry reaction.
 - field_id: CHCAGE011_TXT_29_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2299,7 +2299,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: '76102397'
-  value: Cumulative stressors build up tension until the person reaches a tipping point, resulting in severe agitation, shouting, combativeness, or complete emotional withdrawal.
+  value: Small stresses build up across the day until the person reaches a breaking point, leading to crying, shouting, or withdrawing completely.
 - field_id: CHCAGE011_TXT_30_0_0_1
   type: text
   section: Knowledge Assessment
@@ -2365,7 +2365,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 13D99652
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_31_3_0_1
   type: text
   section: Knowledge Assessment
@@ -2376,7 +2376,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0BB74E88
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_31_4_0_1
   type: text
   section: Knowledge Assessment
@@ -2387,7 +2387,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 0FD9B557
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_33_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2398,7 +2398,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 08FD866C
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_33_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2409,7 +2409,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2F404594
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_33_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2420,7 +2420,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 296D070B
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_33_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2431,7 +2431,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4FFCE53A
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_33_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2442,7 +2442,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5C07247B
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_33_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2453,7 +2453,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 53C0B628
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_33_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2464,7 +2464,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0266EF5D
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_33_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2475,7 +2475,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 307ED88D
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_33_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2486,7 +2486,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6A0A61BB
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_33_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2497,7 +2497,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 430AA02E
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_34_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2508,7 +2508,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 51ECD81E
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_34_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2519,7 +2519,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2A488262
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_34_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2530,7 +2530,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0B419979
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_34_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2541,7 +2541,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6EA969FB
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_34_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2552,7 +2552,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 01536C5E
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_34_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2563,7 +2563,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7870F357
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_34_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2574,7 +2574,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5C8BDDF4
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_34_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2585,7 +2585,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7CCEBBA5
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_35_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2596,7 +2596,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 371709F2
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_35_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2607,7 +2607,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6CF9C234
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_35_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2618,7 +2618,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 52B760AB
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_35_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2629,7 +2629,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 06EB40E0
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_35_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2640,7 +2640,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 300B14BB
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_35_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2651,7 +2651,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6805DA5F
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_35_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2662,7 +2662,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3A158BEF
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_35_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2673,7 +2673,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 073C3C80
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_35_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2684,7 +2684,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 37BB3FCF
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_35_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2695,7 +2695,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 47A3C0BF
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_36_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2706,7 +2706,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 69BBBA7A
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_36_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2717,7 +2717,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0B928202
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_36_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2728,7 +2728,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 398682D2
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_36_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2739,7 +2739,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 22E3F8FC
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_36_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2750,7 +2750,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1CD24084
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_36_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2761,7 +2761,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 656A0E50
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_36_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2772,7 +2772,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 451AB625
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_36_4_2_1
   type: text
   section: Knowledge Assessment
@@ -2783,7 +2783,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1CD8362F
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_36_5_1_1
   type: text
   section: Knowledge Assessment
@@ -2794,7 +2794,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 556F2530
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_36_5_2_1
   type: text
   section: Knowledge Assessment
@@ -2805,7 +2805,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 480B4981
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_37_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2816,7 +2816,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6F538895
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_37_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2827,7 +2827,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0955EDA5
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_37_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2838,7 +2838,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0C6260A4
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_37_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2849,7 +2849,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 13D0E1F9
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_37_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2860,7 +2860,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2083F414
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Helps the resident eat meals independently with less spilling and fatigue.
 - field_id: CHCAGE011_TXT_37_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2871,7 +2871,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6F713168
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Easy-grip adaptive cutlery and high-rim scooped plate for eating.
 - field_id: CHCAGE011_TXT_39_0_1_1
   type: text
   section: Knowledge Assessment
@@ -2882,7 +2882,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7BD99107
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: In my daily work, I always knock before entering a room, explain what I am doing before assisting, keep curtains closed for privacy, and report any health changes to the nurse.
 - field_id: CHCAGE011_TXT_40_1_1_1
   type: text
   section: Knowledge Assessment
@@ -2893,7 +2893,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 05DCC84F
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_1_2_1
   type: text
   section: Knowledge Assessment
@@ -2904,7 +2904,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 01FD3E8B
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_1_3_1
   type: text
   section: Knowledge Assessment
@@ -2915,7 +2915,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6D256296
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_2_1_1
   type: text
   section: Knowledge Assessment
@@ -2928,7 +2928,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: '46992703'
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_2_2_1
   type: text
   section: Knowledge Assessment
@@ -2941,7 +2941,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7C7A887C
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_2_3_1
   type: text
   section: Knowledge Assessment
@@ -2952,7 +2952,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6D256296
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_3_1_1
   type: text
   section: Knowledge Assessment
@@ -2963,7 +2963,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4C519FEE
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_3_2_1
   type: text
   section: Knowledge Assessment
@@ -2974,7 +2974,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: '72715070'
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: In my daily work, I always knock before entering a room, explain what I am doing before assisting, keep curtains closed for privacy, and report any health changes to the nurse.
 - field_id: CHCAGE011_TXT_40_3_3_1
   type: text
   section: Knowledge Assessment
@@ -2985,7 +2985,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 3C25534A
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_4_1_1
   type: text
   section: Knowledge Assessment
@@ -2998,7 +2998,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 04ED00D9
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_40_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3011,7 +3011,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 134630F3
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Treat every resident with kindness and dignity, maintain professional boundaries, never accept gifts or money, and always prioritize resident safety and comfort.
 - field_id: CHCAGE011_TXT_40_4_3_1
   type: text
   section: Knowledge Assessment
@@ -3022,7 +3022,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 3C25534A
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_41_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3033,7 +3033,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4B9D4539
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Aged Care Act 1997 / Serious Incident Response Scheme (SIRS): I must immediately report any suspected physical abuse, sexual abuse, or neglect to my supervisor.'
 - field_id: CHCAGE011_TXT_41_1_2_1
   type: text
   section: Knowledge Assessment
@@ -3044,7 +3044,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6B756830
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Aged Care Act 1997 / Serious Incident Response Scheme (SIRS): I must immediately report any suspected physical abuse, sexual abuse, or neglect to my supervisor.'
 - field_id: CHCAGE011_TXT_41_1_3_1
   type: text
   section: Knowledge Assessment
@@ -3055,7 +3055,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6B2EFC6F
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Aged Care Act 1997 / Serious Incident Response Scheme (SIRS): I must immediately report any suspected physical abuse, sexual abuse, or neglect to my supervisor.'
 - field_id: CHCAGE011_TXT_41_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3068,7 +3068,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: '55638989'
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Aged Care Act 1997 / Serious Incident Response Scheme (SIRS): I must immediately report any suspected physical abuse, sexual abuse, or neglect to my supervisor.'
 - field_id: CHCAGE011_TXT_41_2_2_1
   type: text
   section: Knowledge Assessment
@@ -3081,7 +3081,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 66A02269
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Aged Care Act 1997 / Serious Incident Response Scheme (SIRS): I must immediately report any suspected physical abuse, sexual abuse, or neglect to my supervisor.'
 - field_id: CHCAGE011_TXT_41_2_3_1
   type: text
   section: Knowledge Assessment
@@ -3092,7 +3092,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 6B2EFC6F
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Aged Care Act 1997 / Serious Incident Response Scheme (SIRS): I must immediately report any suspected physical abuse, sexual abuse, or neglect to my supervisor.'
 - field_id: CHCAGE011_TXT_41_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3103,7 +3103,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5F5A514A
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Aged Care Act 1997 / Serious Incident Response Scheme (SIRS): I must immediately report any suspected physical abuse, sexual abuse, or neglect to my supervisor.'
 - field_id: CHCAGE011_TXT_41_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3114,7 +3114,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 26ED7B65
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: In my daily work, I always knock before entering a room, explain what I am doing before assisting, keep curtains closed for privacy, and report any health changes to the nurse.
 - field_id: CHCAGE011_TXT_41_3_3_1
   type: text
   section: Knowledge Assessment
@@ -3125,7 +3125,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 36AD2B10
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_41_4_1_1
   type: text
   section: Knowledge Assessment
@@ -3138,7 +3138,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0F8FA896
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_41_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3151,7 +3151,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 154347BB
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: Treat every resident with kindness and dignity, maintain professional boundaries, never accept gifts or money, and always prioritize resident safety and comfort.
 - field_id: CHCAGE011_TXT_41_4_3_1
   type: text
   section: Knowledge Assessment
@@ -3162,7 +3162,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 36AD2B10
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_42_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3173,7 +3173,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7C4833E1
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_1_2_1
   type: text
   section: Knowledge Assessment
@@ -3184,7 +3184,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 78FB3D10
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_1_3_1
   type: text
   section: Knowledge Assessment
@@ -3195,7 +3195,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 5962989B
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3208,7 +3208,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 42135B32
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_2_2_1
   type: text
   section: Knowledge Assessment
@@ -3221,7 +3221,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7B9E68B9
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_2_3_1
   type: text
   section: Knowledge Assessment
@@ -3232,7 +3232,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 5962989B
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3243,7 +3243,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6BB5497F
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3254,7 +3254,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 24D1889F
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: In my daily work, I always knock before entering a room, explain what I am doing before assisting, keep curtains closed for privacy, and report any health changes to the nurse.
 - field_id: CHCAGE011_TXT_42_3_3_1
   type: text
   section: Knowledge Assessment
@@ -3265,7 +3265,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 7DCB3187
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_4_1_1
   type: text
   section: Knowledge Assessment
@@ -3278,7 +3278,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 079E3987
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_42_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3291,7 +3291,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5C11B38D
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Treat every resident with kindness and dignity, maintain professional boundaries, never accept gifts or money, and always prioritize resident safety and comfort.
 - field_id: CHCAGE011_TXT_42_4_3_1
   type: text
   section: Knowledge Assessment
@@ -3302,7 +3302,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 7DCB3187
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3313,7 +3313,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2EAF6097
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_1_2_1
   type: text
   section: Knowledge Assessment
@@ -3324,7 +3324,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 19195A66
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_1_3_1
   type: text
   section: Knowledge Assessment
@@ -3335,7 +3335,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 7CC61A7B
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3348,7 +3348,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2E0BD058
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_2_2_1
   type: text
   section: Knowledge Assessment
@@ -3361,7 +3361,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 16447A6A
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_2_3_1
   type: text
   section: Knowledge Assessment
@@ -3372,7 +3372,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 7CC61A7B
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3383,7 +3383,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 7163AFAE
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3394,7 +3394,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1857AA16
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: In my daily work, I always knock before entering a room, explain what I am doing before assisting, keep curtains closed for privacy, and report any health changes to the nurse.
 - field_id: CHCAGE011_TXT_43_3_3_1
   type: text
   section: Knowledge Assessment
@@ -3405,7 +3405,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1A835D2E
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_4_1_1
   type: text
   section: Knowledge Assessment
@@ -3418,7 +3418,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 0CDFA5C2
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_43_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3431,7 +3431,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 7AE6CA21
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Treat every resident with kindness and dignity, maintain professional boundaries, never accept gifts or money, and always prioritize resident safety and comfort.
 - field_id: CHCAGE011_TXT_43_4_3_1
   type: text
   section: Knowledge Assessment
@@ -3442,7 +3442,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1A835D2E
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Privacy Act 1988 (Cth): I must keep client personal and health information secure, not share files with unauthorized people, and only discuss care with the care team.'
 - field_id: CHCAGE011_TXT_44_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3453,7 +3453,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1380EEE9
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_1_2_1
   type: text
   section: Knowledge Assessment
@@ -3464,7 +3464,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 545A0F40
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_1_3_1
   type: text
   section: Knowledge Assessment
@@ -3475,7 +3475,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1C054C6E
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3488,7 +3488,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 68A9D665
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_2_2_1
   type: text
   section: Knowledge Assessment
@@ -3501,7 +3501,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5692DE7F
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_2_3_1
   type: text
   section: Knowledge Assessment
@@ -3512,7 +3512,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 1C054C6E
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3523,7 +3523,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2719D446
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3534,7 +3534,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 24F1416C
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: In my daily work, I always knock before entering a room, explain what I am doing before assisting, keep curtains closed for privacy, and report any health changes to the nurse.
 - field_id: CHCAGE011_TXT_44_3_3_1
   type: text
   section: Knowledge Assessment
@@ -3545,7 +3545,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 7D3716B2
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_4_1_1
   type: text
   section: Knowledge Assessment
@@ -3558,7 +3558,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 696F0CC5
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_44_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3571,7 +3571,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6449CA77
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Treat every resident with kindness and dignity, maintain professional boundaries, never accept gifts or money, and always prioritize resident safety and comfort.
 - field_id: CHCAGE011_TXT_44_4_3_1
   type: text
   section: Knowledge Assessment
@@ -3582,7 +3582,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 7D3716B2
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 'Work Health and Safety Act 2011 (NSW): I must take reasonable care of my own safety and the safety of clients, use hoists properly, and report hazards.'
 - field_id: CHCAGE011_TXT_49_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3593,7 +3593,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5228B255
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Severe unexplained weight loss and dehydration over the past two months.
 - field_id: CHCAGE011_TXT_49_4_0_1
   type: text
   section: Knowledge Assessment
@@ -3604,7 +3604,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1D1DED1C
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Painful urination (dysuria) and no bowel movement for two days (suspected UTI and severe constipation).
 - field_id: CHCAGE011_TXT_50_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3615,7 +3615,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2B5E9DCF
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Madge showed visible fear, hesitation, and anxiety when nurse Olivia's name was mentioned.
 - field_id: CHCAGE011_TXT_50_4_0_1
   type: text
   section: Knowledge Assessment
@@ -3626,7 +3626,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 02D28CC8
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Madge showed visible fear, hesitation, and anxiety when nurse Olivia's name was mentioned.
 - field_id: CHCAGE011_TXT_50_5_0_1
   type: text
   section: Knowledge Assessment
@@ -3648,7 +3648,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2F7BA315
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Stained bedsheets smelling of faeces and urine that had not been changed or checked for at least a day or two.
 - field_id: CHCAGE011_TXT_50_8_0_1
   type: text
   section: Knowledge Assessment
@@ -3659,7 +3659,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 7B637493
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Stained bedsheets smelling of faeces and urine that had not been changed or checked for at least a day or two.
 - field_id: CHCAGE011_TXT_50_9_0_1
   type: text
   section: Knowledge Assessment
@@ -3681,7 +3681,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 579E258E
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: CareConnect Residential Aged Care - Room 14 (Madge's Room)
 - field_id: CHCAGE011_TXT_52_3_0_1
   type: text
   section: Practical Assessment
@@ -3692,7 +3692,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2ED9B1CA
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Sarah Jenkins (Registered Nurse / Supervisor)
 - field_id: CHCAGE011_TXT_52_4_0_1
   type: text
   section: Practical Assessment
@@ -3703,7 +3703,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6C99FEEA
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 0412 345 678
 - field_id: CHCAGE011_TXT_52_5_0_1
   type: text
   section: Practical Assessment
@@ -3714,7 +3714,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 157F845E
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Residential Aged Care Facility
 - field_id: CHCAGE011_TXT_53_1_0_1
   type: text
   section: Knowledge Assessment
@@ -3725,7 +3725,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 179C66AB
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Friday
 - field_id: CHCAGE011_TXT_53_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3736,7 +3736,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 4502EAAA
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 11/03/2026
 - field_id: CHCAGE011_TXT_53_1_2_1
   type: text
   section: Knowledge Assessment
@@ -3747,7 +3747,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1BF16423
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 08:00 AM
 - field_id: CHCAGE011_TXT_53_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3758,7 +3758,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 5E05F5CA
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: Friday
 - field_id: CHCAGE011_CB_54_1_0_1
   type: checkbox
   section: Knowledge Assessment
@@ -3813,7 +3813,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 214FF614
-  value: Arthur Pendelton (Resident living with moderate Alzheimer's disease)
+  value: Madge Thompson (Resident)
 - field_id: CHCAGE011_TXT_54_3_0_1
   type: text
   section: Knowledge Assessment
@@ -3824,7 +3824,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 3BA3C971
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Upper buttocks, both shoulders, and backside of head
 - field_id: CHCAGE011_CB_54_4_2_1
   type: checkbox
   section: Knowledge Assessment
@@ -3956,7 +3956,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 0051A6E2
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Stage 2 open pressure wound with bleeding, and purple discoloured pressure spots
 - field_id: CHCAGE011_TXT_54_5_0_1
   type: text
   section: Knowledge Assessment
@@ -3967,7 +3967,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 2E6F2314
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 2cm open red wound with bleeding on upper buttocks; 8cm purple marks on both shoulders; 3cm mark on head
 - field_id: CHCAGE011_CB_54_6_0_1
   type: checkbox
   section: Knowledge Assessment
@@ -4022,7 +4022,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 69685FAE
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Bedsheets stained and smelling of urine and faeces; resident in pain, anxious, and expressed fear of nurse Olivia
 - field_id: CHCAGE011_CB_55_1_0_1
   type: checkbox
   section: Knowledge Assessment
@@ -4044,7 +4044,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2BA7D706
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Gently helped Madge into comfortable position, provided clean bed linen, stayed with her to provide reassurance, and reported immediately to RN Sarah Jenkins
 - field_id: CHCAGE011_CB_55_2_0_1
   type: checkbox
   section: Knowledge Assessment
@@ -4066,7 +4066,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3EA38770
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: RN supervisor Sarah Jenkins attended Room 14 immediately to inspect wounds, provide wound care, and arrange urgent GP review
 - field_id: CHCAGE011_CB_55_3_0_1
   type: checkbox
   section: Knowledge Assessment
@@ -4088,7 +4088,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4805BF06
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: Registered Nurse supervisor Sarah Jenkins and Facility Clinical Manager
 - field_id: CHCAGE011_CB_55_3_1_1
   type: checkbox
   section: Knowledge Assessment
@@ -4132,7 +4132,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 1A4AAFDE
-  value: Arthur Pendelton (Resident living with moderate Alzheimer's disease)
+  value: Alex Chen (Support Worker) and co-worker support worker assisting with transfer
 - field_id: CHCAGE011_TXT_56_2_0_1
   type: text
   section: Knowledge Assessment
@@ -4143,7 +4143,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6690A033
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: At 8:00 AM on 11/03/2026, during transfer to wheelchair, I observed a 2cm open bleeding bedsore on Madge's buttocks and 8cm purple pressure marks on both shoulders. Bed linen was soiled with urine and faeces and appeared unchanged for at least 1-2 days. Madge was in pain and distressed. I provided clean sheets, reassured her, and reported immediately to RN Sarah Jenkins.
 - field_id: CHCAGE011_TXT_57_1_0_1
   type: text
   section: Knowledge Assessment
@@ -4154,7 +4154,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 73A46486
-  value: Arthur Pendelton (Resident living with moderate Alzheimer's disease)
+  value: 'Alex Chen, Individual Support Worker, Phone: 0412 345 678'
 - field_id: CHCAGE011_TXT_57_1_1_1
   type: text
   section: Knowledge Assessment
@@ -4165,7 +4165,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1EC647CF
-  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+  value: 11/03/2026, 08:30 AM
 - field_id: CHCAGE011_TXT_57_2_0_1
   type: text
   section: Knowledge Assessment
@@ -4176,7 +4176,7 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 4AAC07EF
-  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+  value: Alex Chen
 - field_id: CHCAGE011_CB_58_2_0_1
   type: checkbox
   section: Candidate Checklist

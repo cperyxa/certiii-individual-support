@@ -1224,8 +1224,7 @@ fields:
   col_idx: 5
   index_in_cell: 0
   para_id: 0121FAE4
-  value: Promptly notify the client when their personal information must be disclosed
-    under statutory mandatory reporting requirements.
+  value: Tell the client gently if I have to report safety or abuse concerns by law.
 - field_id: CHCCCS031_PartA_TXT_15_2_1_1
   type: text
   section: Knowledge Assessment
@@ -1276,8 +1275,7 @@ fields:
   col_idx: 5
   index_in_cell: 0
   para_id: 0121FAE4
-  value: Promptly notify the client when their personal information must be disclosed
-    under statutory mandatory reporting requirements.
+  value: Tell the client gently if I have to report safety or abuse concerns by law.
 - field_id: CHCCCS031_PartA_TXT_15_3_1_1
   type: text
   section: Knowledge Assessment
@@ -1324,8 +1322,8 @@ fields:
   col_idx: 5
   index_in_cell: 0
   para_id: 1B36FCD7
-  value: Consistently adhere to individual care plan safety protocols and report emerging
-    hazards to supervisors while supporting client choice.
+  value: Always follow the client's care plan, support their choices safely, and report
+    any hazards to my supervisor.
 - field_id: CHCCCS031_PartA_TXT_15_4_1_1
   type: text
   section: Knowledge Assessment
@@ -1377,8 +1375,8 @@ fields:
   col_idx: 5
   index_in_cell: 0
   para_id: 1B36FCD7
-  value: Consistently adhere to individual care plan safety protocols and report emerging
-    hazards to supervisors while supporting client choice.
+  value: Always follow the client's care plan, support their choices safely, and report
+    any hazards to my supervisor.
 - field_id: CHCCCS031_PartA_TXT_16_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3253,8 +3251,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3962CFAF
-  value: Assists client to dress, eat, and perform grooming tasks independently without
-    fatigue.
+  value: Helps the client dress, eat, and groom themselves independently without getting
+    tired.
 - field_id: CHCCCS031_PartA_TXT_30_3_3_1
   type: text
   section: Knowledge Assessment
@@ -3282,7 +3280,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 4BFE90CA
-  value: Maintains skin dignity and prevents embarrassing leaks or skin breakdown.
+  value: Protects skin, prevents leaks, and preserves personal dignity.
 - field_id: CHCCCS031_PartA_TXT_30_4_3_1
   type: text
   section: Knowledge Assessment
@@ -3296,7 +3294,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 714A0C56
-  value: Urinary sheath drainage bags and moisture-wicking mattress protectors
+  value: Urinary drainage bags and waterproof mattress protector
 - field_id: CHCCCS031_PartA_TXT_30_5_2_1
   type: text
   section: Knowledge Assessment
@@ -3324,7 +3322,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 40A92DC3
-  value: Shower chair with backrest and electric toothbrush with wide grip
+  value: Shower chair with backrest and easy-grip toothbrush
 - field_id: CHCCCS031_PartA_TXT_30_6_2_1
   type: text
   section: Knowledge Assessment
@@ -3338,8 +3336,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 2D21CF01
-  value: Allows non-verbal clients or those with dysarthria to express choices and
-    needs.
+  value: Helps clients who have trouble speaking to express their needs and choices.
 - field_id: CHCCCS031_PartA_TXT_30_6_3_1
   type: text
   section: Knowledge Assessment
@@ -3353,7 +3350,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: '56873408'
-  value: AAC speech-generating tablet device with symbol grid
+  value: Communication tablet with picture symbols
 - field_id: CHCCCS031_PartA_TXT_30_7_2_1
   type: text
   section: Knowledge Assessment
@@ -3367,7 +3364,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 14BB45B5
-  value: Provides stability and endurance during indoor and outdoor walking.
+  value: Gives balance and support when walking indoors or outside.
 - field_id: CHCCCS031_PartA_TXT_30_7_3_1
   type: text
   section: Knowledge Assessment
@@ -3395,8 +3392,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 25B6E39E
-  value: Facilitates safe movement between bed, chair, and wheelchair without manual
-    strain.
+  value: Helps move safely between bed, chair, and wheelchair without back strain.
 - field_id: CHCCCS031_PartA_TXT_30_8_3_1
   type: text
   section: Knowledge Assessment
@@ -3410,7 +3406,7 @@ fields:
   col_idx: 3
   index_in_cell: 0
   para_id: 58C34B47
-  value: Mechanical mobile standing hoist with harness
+  value: Mobile standing hoist with sling
 - field_id: CHCCCS031_PartA_TXT_31_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3422,7 +3418,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 327934E8
-  value: Provides visual prompts and task organizers.
+  value: Gives visual reminders and helps organise daily routines.
 - field_id: CHCCCS031_PartA_TXT_31_1_2_1
   type: text
   section: Knowledge Assessment
@@ -3446,7 +3442,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 2924D4A6
-  value: Delivers automated voice reminders for medication and meals.
+  value: Gives spoken reminders for medication and meal times.
 - field_id: CHCCCS031_PartA_TXT_31_2_2_1
   type: text
   section: Knowledge Assessment
@@ -3470,7 +3466,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6F12F36E
-  value: Magnifies text and provides auditory readouts.
+  value: Magnifies small text and reads words aloud.
 - field_id: CHCCCS031_PartA_TXT_31_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3494,7 +3490,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 511FD765
-  value: Amplifies speech sounds and reduces background noise.
+  value: Makes voices clearer and cuts down background noise.
 - field_id: CHCCCS031_PartA_TXT_31_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3506,7 +3502,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 23F6E03E
-  value: Digital hearing aid with Bluetooth loop connectivity
+  value: Digital hearing aid with Bluetooth connectivity
 - field_id: CHCCCS031_PartA_TXT_31_5_1_1
   type: text
   section: Knowledge Assessment
@@ -3518,7 +3514,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 74A3A7FB
-  value: Assists with cooking, cleaning, and meal prep.
+  value: Makes cooking, peeling, and cutting food easier and safer.
 - field_id: CHCCCS031_PartA_TXT_31_5_2_1
   type: text
   section: Knowledge Assessment
@@ -3542,7 +3538,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 6155FB2B
-  value: Allows independent participation in games and hobbies.
+  value: Allows playing cards and board games independently.
 - field_id: CHCCCS031_PartA_TXT_31_6_2_1
   type: text
   section: Knowledge Assessment
@@ -3566,7 +3562,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 67644B77
-  value: Facilitates reading and audio enjoyment.
+  value: Lets the client listen to audiobooks easily.
 - field_id: CHCCCS031_PartA_TXT_31_7_2_1
   type: text
   section: Knowledge Assessment
@@ -3590,7 +3586,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 1C3BF521
-  value: Supports digital learning, typing, and research.
+  value: Helps with reading, typing, and using a computer.
 - field_id: CHCCCS031_PartA_TXT_31_8_2_1
   type: text
   section: Knowledge Assessment
@@ -3602,7 +3598,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 096095F5
-  value: Voice-to-text software and adaptive keyboard
+  value: Voice typing software and adaptive keyboard
 - field_id: CHCCCS031_PartA_TXT_31_9_1_1
   type: text
   section: Knowledge Assessment
@@ -3614,7 +3610,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 647ED73E
-  value: Enables accessible computer work and workspace ergonomics.
+  value: Makes desk work comfortable and accessible.
 - field_id: CHCCCS031_PartA_TXT_31_9_2_1
   type: text
   section: Knowledge Assessment
@@ -3626,7 +3622,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5262162B
-  value: Adjustable motorized sit-stand desk and trackball mouse
+  value: Adjustable sit-stand desk and trackball mouse
 - field_id: CHCCCS031_PartA_TXT_32_1_1_1
   type: text
   section: Knowledge Assessment
@@ -3638,7 +3634,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 292CDE35
-  value: Enables independent home entry and environmental control.
+  value: Lets the client unlock doors and enter home easily.
 - field_id: CHCCCS031_PartA_TXT_32_1_2_1
   type: text
   section: Knowledge Assessment
@@ -3650,7 +3646,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 026CB1CB
-  value: Smart door lock with sensor and lever door handles
+  value: Smart door lock with sensor and lever handles
 - field_id: CHCCCS031_PartA_TXT_32_2_1_1
   type: text
   section: Knowledge Assessment
@@ -3662,7 +3658,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: '56192600'
-  value: Provides rapid emergency alerting to support staff.
+  value: Calls support staff quickly in an emergency.
 - field_id: CHCCCS031_PartA_TXT_32_2_2_1
   type: text
   section: Knowledge Assessment
@@ -3674,7 +3670,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 35313AD2
-  value: Wearable wireless nurse call pendant
+  value: Wearable wireless call pendant
 - field_id: CHCCCS031_PartA_TXT_32_3_1_1
   type: text
   section: Knowledge Assessment
@@ -3686,7 +3682,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 68EC3E82
-  value: Allows safe navigation of uneven terrain and community spaces.
+  value: Helps travel safely around paths and the neighbourhood.
 - field_id: CHCCCS031_PartA_TXT_32_3_2_1
   type: text
   section: Knowledge Assessment
@@ -3698,7 +3694,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1E070C93
-  value: All-terrain motorized mobility scooter
+  value: Motorized mobility scooter
 - field_id: CHCCCS031_PartA_TXT_32_4_1_1
   type: text
   section: Knowledge Assessment
@@ -3710,7 +3706,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 5F6CD1E5
-  value: Prevents spills and facilitates self-feeding with tremors.
+  value: Steadies shaky hands so food doesn't spill.
 - field_id: CHCCCS031_PartA_TXT_32_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3722,7 +3718,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 78D6E4AD
-  value: Weighted adaptive cutlery and high-rim scooper plate
+  value: Weighted cutlery and high-rim scooper plate
 - field_id: CHCCCS031_PartA_TXT_32_5_1_1
   type: text
   section: Knowledge Assessment
@@ -3734,7 +3730,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 318D02DC
-  value: Enables controlled fluid intake without neck hyperextension.
+  value: Allows drinking comfortably without tilting the head back.
 - field_id: CHCCCS031_PartA_TXT_32_5_2_1
   type: text
   section: Knowledge Assessment
@@ -3746,7 +3742,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 3421BFD0
-  value: Two-handled weighted mug with dysphagia cut-out lid
+  value: Two-handled mug with nose cut-out lid
 - field_id: CHCCCS031_PartA_TXT_32_6_1_1
   type: text
   section: Knowledge Assessment
@@ -3758,7 +3754,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 3878E023
-  value: Relieves sustained tissue pressure over bony prominences.
+  value: Relieves pressure on skin to prevent bedsores.
 - field_id: CHCCCS031_PartA_TXT_32_6_2_1
   type: text
   section: Knowledge Assessment
@@ -3782,7 +3778,7 @@ fields:
   col_idx: 1
   index_in_cell: 0
   para_id: 46AAE71E
-  value: Reduces physical lifting strain on informal and formal carers.
+  value: Stops back strain for carers when repositioning clients.
 - field_id: CHCCCS031_PartA_TXT_32_7_2_1
   type: text
   section: Knowledge Assessment
@@ -3794,7 +3790,7 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 5E40E88D
-  value: Slide sheets and ceiling track transfer hoist
+  value: Slide sheets and transfer hoist
 - field_id: CHCCCS031_PartA_TXT_33_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3835,9 +3831,8 @@ fields:
   col_idx: 0
   index_in_cell: 0
   para_id: 6FCD35BD
-  value: By removing physical, sensory, and cognitive barriers, allowing individuals
-    to engage actively in social, educational, and domestic activities with autonomy
-    and confidence.
+  value: By removing physical and communication barriers, assistive technology helps
+    clients join in everyday activities and hobbies with confidence and independence.
 - field_id: CHCCCS031_PartA_TXT_34_2_0_1
   type: text
   section: Knowledge Assessment
@@ -3906,8 +3901,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 1A2D6197
-  value: Maintain strict adherence to code of conduct, conduct mandatory abuse reporting
-    training, and implement open-door monitoring.
+  value: Follow the workplace code of conduct, complete mandatory reporting training,
+    and keep my supervisor informed.
 - field_id: CHCCCS031_PartA_TXT_35_4_2_1
   type: text
   section: Knowledge Assessment
@@ -3919,8 +3914,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 6D60CA5E
-  value: Actively involve clients in all care conferences, respect their cultural/lifestyle
-    choices, and uphold dignity of risk.
+  value: Involve the client in all care discussions, respect their cultural background,
+    and support their choices.
 - field_id: CHCCCS031_PartA_TXT_35_5_2_1
   type: text
   section: Knowledge Assessment
@@ -3932,8 +3927,8 @@ fields:
   col_idx: 2
   index_in_cell: 0
   para_id: 66FA99F4
-  value: Ensure clear pathways free of clutter, install grab rails in bathrooms, provide
-    adequate lighting, and encourage prescribed mobility aids.
+  value: Keep walkways clear of clutter, make sure lighting is good, install grab
+    rails, and ensure mobility aids are within reach.
 - field_id: CHCCCS031_PartA_CB_36_2_0_1
   type: checkbox
   section: Candidate Checklist
