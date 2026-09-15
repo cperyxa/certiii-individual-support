@@ -16,10 +16,10 @@ def inspect_tbl(p, t_idx):
                 print(f"    {[cell.text.strip().replace(chr(8194), '')[:30] for cell in r.cells]}")
 
 print("=== CHCAGE013 ===")
-inspect_tbl("Assignment Materials-20260915 (11)/CHCAGE013-AWB-F-v1.0.docx", 17)
-inspect_tbl("Assignment Materials-20260915 (11)/CHCAGE013-AWB-F-v1.0.docx", 48)
+inspect_tbl("11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AWB-F-v1.0.docx", 17)
+inspect_tbl("11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AWB-F-v1.0.docx", 48)
 
 print("\n=== HLTINF006 ===")
-inspect_tbl("Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx", 28)
-inspect_tbl("Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx", 30)
-inspect_tbl("Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx", 36)
+inspect_tbl("8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-F-v1.0.docx", 28)
+inspect_tbl("8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-F-v1.0.docx", 30)
+inspect_tbl("8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-F-v1.0.docx", 36)

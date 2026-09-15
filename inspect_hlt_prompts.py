@@ -1,6 +1,6 @@
 import docx
 
-doc = docx.Document("Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx")
+doc = docx.Document("8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-F-v1.0.docx")
 tables = [28, 30, 36, 37, 38, 39, 40, 41, 42, 43, 49, 50, 51, 58, 59, 78]
 
 for t_i in tables:

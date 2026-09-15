@@ -142,25 +142,25 @@ def format_document(docx_path):
 def format_all_documents():
     all_filled_files = [
         # Initial 2
-        "Assignment Materials-20260914/CHCDIS020-AWB-Filled.docx",
-        "Assignment Materials-20260915/CHCPAL003-AWB-Filled.docx",
+        "14. CHCDIS020 - Work effectively in disability support/CHCDIS020-AWB-Filled.docx",
+        "15. CHCPAL003 - Deliver care services using a palliative approach/CHCPAL003-AWB-Filled.docx",
         # Group 1 (4)
-        "Assignment Materials-20260915 (3)/CHCCCS040-AWB-Filled.docx",
-        "Assignment Materials-20260915 (5)/CHCCOM005-AWB-Filled.docx",
-        "Assignment Materials-20260915 (8)/HLTINF006-AWB-Filled.docx",
-        "Assignment Materials-20260915 (11)/CHCAGE013-AWB-Filled.docx",
+        "3. CHCCCS040 - Support independence and wellbeing/CHCCCS040-AWB-Filled.docx",
+        "5. CHCCOM005 - Communicate and work in health or community services/CHCCOM005-AWB-Filled.docx",
+        "8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-Filled.docx",
+        "11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AWB-Filled.docx",
         # Group 2 (5)
-        "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part A-Filled.docx",
-        "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part B-Filled.docx",
-        "Assignment Materials-20260915 (2)/CHCCCS038-AWB-Filled.docx",
-        "Assignment Materials-20260915 (4)/CHCCCS041-AWB-Filled.docx",
-        "Assignment Materials-20260915 (6)/CHCDIV001-AWB-Filled.docx",
+        "1. CHCCCS031 - Provide individualised support/CHCCCS031-AWB-Part A-Filled.docx",
+        "1. CHCCCS031 - Provide individualised support/CHCCCS031-AWB-Part B-Filled.docx",
+        "2. CHCCCS038 - Facilitate the empowerment of people receiving support/CHCCCS038-AWB-Filled.docx",
+        "4. CHCCCS041 - Recognise healthy body systems/CHCCCS041-AWB-Filled.docx",
+        "6. CHCDIV001 - Work with diverse people/CHCDIV001-AWB-Filled.docx",
         # Group 3 (5)
-        "Assignment Materials-20260915 (7)/CHCLEG001-AWB-Filled.docx",
-        "Assignment Materials-20260915 (9)/HLTWHS002-AWB-Filled.docx",
-        "Assignment Materials-20260915 (10)/CHCAGE011-AWB-Filled.docx",
-        "Assignment Materials-20260915 (12)/CHCDIS011-AWB-Filled.docx",
-        "Assignment Materials-20260915 (13)/CHCDIS012-AWB-Filled.docx",
+        "7. CHCLEG001 - Work legally and ethically/CHCLEG001-AWB-Filled.docx",
+        "9. HLTWHS002 - Follow safe work practices for direct client care/HLTWHS002-AWB-Filled.docx",
+        "10. CHCAGE011 - Provide support to people living with dementia/CHCAGE011-AWB-Filled.docx",
+        "12. CHCDIS011 - Contribute to ongoing skills development using a strengths-based approach/CHCDIS011-AWB-Filled.docx",
+        "13. CHCDIS012 - Support community participation and social inclusion/CHCDIS012-AWB-Filled.docx",
     ]
     
     print(f"=== Formatting all {len(all_filled_files)} Assessment Workbooks ===")

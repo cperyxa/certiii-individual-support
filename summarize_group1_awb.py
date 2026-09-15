@@ -4,10 +4,10 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 units = [
-    ('CHCCCS040', 'Assignment Materials-20260915 (3)/CHCCCS040-AWB-F-v1.0.docx'),
-    ('CHCCOM005', 'Assignment Materials-20260915 (5)/CHCCOM005-AWB-F-v1.1.docx'),
-    ('HLTINF006', 'Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx'),
-    ('CHCAGE013', 'Assignment Materials-20260915 (11)/CHCAGE013-AWB-F-v1.0.docx')
+    ('CHCCCS040', '3. CHCCCS040 - Support independence and wellbeing/CHCCCS040-AWB-F-v1.0.docx'),
+    ('CHCCOM005', '5. CHCCOM005 - Communicate and work in health or community services/CHCCOM005-AWB-F-v1.1.docx'),
+    ('HLTINF006', '8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-F-v1.0.docx'),
+    ('CHCAGE013', '11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AWB-F-v1.0.docx')
 ]
 
 W_NS = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'

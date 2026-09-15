@@ -225,11 +225,11 @@ def process_file(unit_code, awb_path, output_yaml, specific_overrides=None):
 
 def main():
     group3_configs = [
-        ("CHCLEG001", "Assignment Materials-20260915 (7)/CHCLEG001-AWB-F-v1.1.docx", "answers_CHCLEG001.yaml"),
-        ("HLTWHS002", "Assignment Materials-20260915 (9)/HLTWHS002-AWB-F-v1.0.docx", "answers_HLTWHS002.yaml"),
-        ("CHCAGE011", "Assignment Materials-20260915 (10)/CHCAGE011-AWB-F-v1.0.docx", "answers_CHCAGE011.yaml"),
-        ("CHCDIS011", "Assignment Materials-20260915 (12)/CHCDIS011-AWB-F-v1.1.docx", "answers_CHCDIS011.yaml"),
-        ("CHCDIS012", "Assignment Materials-20260915 (13)/CHCDIS012-AWB-F-v1.0.docx", "answers_CHCDIS012.yaml"),
+        ("CHCLEG001", "7. CHCLEG001 - Work legally and ethically/CHCLEG001-AWB-F-v1.1.docx", "answers_CHCLEG001.yaml"),
+        ("HLTWHS002", "9. HLTWHS002 - Follow safe work practices for direct client care/HLTWHS002-AWB-F-v1.0.docx", "answers_HLTWHS002.yaml"),
+        ("CHCAGE011", "10. CHCAGE011 - Provide support to people living with dementia/CHCAGE011-AWB-F-v1.0.docx", "answers_CHCAGE011.yaml"),
+        ("CHCDIS011", "12. CHCDIS011 - Contribute to ongoing skills development using a strengths-based approach/CHCDIS011-AWB-F-v1.1.docx", "answers_CHCDIS011.yaml"),
+        ("CHCDIS012", "13. CHCDIS012 - Support community participation and social inclusion/CHCDIS012-AWB-F-v1.0.docx", "answers_CHCDIS012.yaml"),
     ]
     
     for code, in_docx, out_yaml in group3_configs:

@@ -228,11 +228,11 @@ def process_file(unit_code, awb_path, output_yaml, specific_overrides=None):
 
 def main():
     files = [
-        ("CHCCCS031_PartA", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part A-F-v1.0.docx", "answers_CHCCCS031_PartA.yaml", CHCCCS031_PARTA_OVERRIDES),
-        ("CHCCCS031_PartB", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part B-F-v2.0.docx", "answers_CHCCCS031_PartB.yaml", CHCCCS031_PARTB_OVERRIDES),
-        ("CHCCCS038", "Assignment Materials-20260915 (2)/CHCCCS038-AWB-F-v1.0.docx", "answers_CHCCCS038.yaml", CHCCCS038_OVERRIDES),
-        ("CHCCCS041", "Assignment Materials-20260915 (4)/CHCCCS041-AWB-F-v1.1.docx", "answers_CHCCCS041.yaml", CHCCCS041_OVERRIDES),
-        ("CHCDIV001", "Assignment Materials-20260915 (6)/CHCDIV001-AWB-F-v2.1.docx", "answers_CHCDIV001.yaml", CHCDIV001_OVERRIDES),
+        ("CHCCCS031_PartA", "1. CHCCCS031 - Provide individualised support/CHCCCS031-AWB-Part A-F-v1.0.docx", "answers_CHCCCS031_PartA.yaml", CHCCCS031_PARTA_OVERRIDES),
+        ("CHCCCS031_PartB", "1. CHCCCS031 - Provide individualised support/CHCCCS031-AWB-Part B-F-v2.0.docx", "answers_CHCCCS031_PartB.yaml", CHCCCS031_PARTB_OVERRIDES),
+        ("CHCCCS038", "2. CHCCCS038 - Facilitate the empowerment of people receiving support/CHCCCS038-AWB-F-v1.0.docx", "answers_CHCCCS038.yaml", CHCCCS038_OVERRIDES),
+        ("CHCCCS041", "4. CHCCCS041 - Recognise healthy body systems/CHCCCS041-AWB-F-v1.1.docx", "answers_CHCCCS041.yaml", CHCCCS041_OVERRIDES),
+        ("CHCDIV001", "6. CHCDIV001 - Work with diverse people/CHCDIV001-AWB-F-v2.1.docx", "answers_CHCDIV001.yaml", CHCDIV001_OVERRIDES),
     ]
     for code, awb_p, out_yaml, overrides in files:
         process_file(code, awb_p, out_yaml, overrides)

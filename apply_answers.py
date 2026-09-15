@@ -264,25 +264,25 @@ def main():
     
     BATCH_CONFIGS = [
         # Initial 2 units
-        ("CHCDIS020", "answers_CHCDIS020.yaml", "Assignment Materials-20260914/CHCDIS020-AWB-F-v1.0.docx", "Assignment Materials-20260914/CHCDIS020-AWB-Filled.docx"),
-        ("CHCPAL003", "answers_CHCPAL003.yaml", "Assignment Materials-20260915/CHCPAL003-AWB-F-v1.0 .docx", "Assignment Materials-20260915/CHCPAL003-AWB-Filled.docx"),
+        ("CHCDIS020", "answers_CHCDIS020.yaml", "14. CHCDIS020 - Work effectively in disability support/CHCDIS020-AWB-F-v1.0.docx", "14. CHCDIS020 - Work effectively in disability support/CHCDIS020-AWB-Filled.docx"),
+        ("CHCPAL003", "answers_CHCPAL003.yaml", "15. CHCPAL003 - Deliver care services using a palliative approach/CHCPAL003-AWB-F-v1.0 .docx", "15. CHCPAL003 - Deliver care services using a palliative approach/CHCPAL003-AWB-Filled.docx"),
         # Group 1 units
-        ("CHCCCS040", "answers_CHCCCS040.yaml", "Assignment Materials-20260915 (3)/CHCCCS040-AWB-F-v1.0.docx", "Assignment Materials-20260915 (3)/CHCCCS040-AWB-Filled.docx"),
-        ("CHCCOM005", "answers_CHCCOM005.yaml", "Assignment Materials-20260915 (5)/CHCCOM005-AWB-F-v1.1.docx", "Assignment Materials-20260915 (5)/CHCCOM005-AWB-Filled.docx"),
-        ("HLTINF006", "answers_HLTINF006.yaml", "Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx", "Assignment Materials-20260915 (8)/HLTINF006-AWB-Filled.docx"),
-        ("CHCAGE013", "answers_CHCAGE013.yaml", "Assignment Materials-20260915 (11)/CHCAGE013-AWB-F-v1.0.docx", "Assignment Materials-20260915 (11)/CHCAGE013-AWB-Filled.docx"),
+        ("CHCCCS040", "answers_CHCCCS040.yaml", "3. CHCCCS040 - Support independence and wellbeing/CHCCCS040-AWB-F-v1.0.docx", "3. CHCCCS040 - Support independence and wellbeing/CHCCCS040-AWB-Filled.docx"),
+        ("CHCCOM005", "answers_CHCCOM005.yaml", "5. CHCCOM005 - Communicate and work in health or community services/CHCCOM005-AWB-F-v1.1.docx", "5. CHCCOM005 - Communicate and work in health or community services/CHCCOM005-AWB-Filled.docx"),
+        ("HLTINF006", "answers_HLTINF006.yaml", "8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-F-v1.0.docx", "8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-Filled.docx"),
+        ("CHCAGE013", "answers_CHCAGE013.yaml", "11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AWB-F-v1.0.docx", "11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AWB-Filled.docx"),
         # Group 2 units
-        ("CHCCCS031_PartA", "answers_CHCCCS031_PartA.yaml", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part A-F-v1.0.docx", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part A-Filled.docx"),
-        ("CHCCCS031_PartB", "answers_CHCCCS031_PartB.yaml", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part B-F-v2.0.docx", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part B-Filled.docx"),
-        ("CHCCCS038", "answers_CHCCCS038.yaml", "Assignment Materials-20260915 (2)/CHCCCS038-AWB-F-v1.0.docx", "Assignment Materials-20260915 (2)/CHCCCS038-AWB-Filled.docx"),
-        ("CHCCCS041", "answers_CHCCCS041.yaml", "Assignment Materials-20260915 (4)/CHCCCS041-AWB-F-v1.1.docx", "Assignment Materials-20260915 (4)/CHCCCS041-AWB-Filled.docx"),
-        ("CHCDIV001", "answers_CHCDIV001.yaml", "Assignment Materials-20260915 (6)/CHCDIV001-AWB-F-v2.1.docx", "Assignment Materials-20260915 (6)/CHCDIV001-AWB-Filled.docx"),
+        ("CHCCCS031_PartA", "answers_CHCCCS031_PartA.yaml", "1. CHCCCS031 - Provide individualised support/CHCCCS031-AWB-Part A-F-v1.0.docx", "1. CHCCCS031 - Provide individualised support/CHCCCS031-AWB-Part A-Filled.docx"),
+        ("CHCCCS031_PartB", "answers_CHCCCS031_PartB.yaml", "1. CHCCCS031 - Provide individualised support/CHCCCS031-AWB-Part B-F-v2.0.docx", "1. CHCCCS031 - Provide individualised support/CHCCCS031-AWB-Part B-Filled.docx"),
+        ("CHCCCS038", "answers_CHCCCS038.yaml", "2. CHCCCS038 - Facilitate the empowerment of people receiving support/CHCCCS038-AWB-F-v1.0.docx", "2. CHCCCS038 - Facilitate the empowerment of people receiving support/CHCCCS038-AWB-Filled.docx"),
+        ("CHCCCS041", "answers_CHCCCS041.yaml", "4. CHCCCS041 - Recognise healthy body systems/CHCCCS041-AWB-F-v1.1.docx", "4. CHCCCS041 - Recognise healthy body systems/CHCCCS041-AWB-Filled.docx"),
+        ("CHCDIV001", "answers_CHCDIV001.yaml", "6. CHCDIV001 - Work with diverse people/CHCDIV001-AWB-F-v2.1.docx", "6. CHCDIV001 - Work with diverse people/CHCDIV001-AWB-Filled.docx"),
         # Group 3 units
-        ("CHCLEG001", "answers_CHCLEG001.yaml", "Assignment Materials-20260915 (7)/CHCLEG001-AWB-F-v1.1.docx", "Assignment Materials-20260915 (7)/CHCLEG001-AWB-Filled.docx"),
-        ("HLTWHS002", "answers_HLTWHS002.yaml", "Assignment Materials-20260915 (9)/HLTWHS002-AWB-F-v1.0.docx", "Assignment Materials-20260915 (9)/HLTWHS002-AWB-Filled.docx"),
-        ("CHCAGE011", "answers_CHCAGE011.yaml", "Assignment Materials-20260915 (10)/CHCAGE011-AWB-F-v1.0.docx", "Assignment Materials-20260915 (10)/CHCAGE011-AWB-Filled.docx"),
-        ("CHCDIS011", "answers_CHCDIS011.yaml", "Assignment Materials-20260915 (12)/CHCDIS011-AWB-F-v1.1.docx", "Assignment Materials-20260915 (12)/CHCDIS011-AWB-Filled.docx"),
-        ("CHCDIS012", "answers_CHCDIS012.yaml", "Assignment Materials-20260915 (13)/CHCDIS012-AWB-F-v1.0.docx", "Assignment Materials-20260915 (13)/CHCDIS012-AWB-Filled.docx"),
+        ("CHCLEG001", "answers_CHCLEG001.yaml", "7. CHCLEG001 - Work legally and ethically/CHCLEG001-AWB-F-v1.1.docx", "7. CHCLEG001 - Work legally and ethically/CHCLEG001-AWB-Filled.docx"),
+        ("HLTWHS002", "answers_HLTWHS002.yaml", "9. HLTTWHS002 - Follow safe work practices for direct client care/HLTWHS002-AWB-F-v1.0.docx" if False else "9. HLTWHS002 - Follow safe work practices for direct client care/HLTWHS002-AWB-F-v1.0.docx", "9. HLTWHS002 - Follow safe work practices for direct client care/HLTWHS002-AWB-Filled.docx"),
+        ("CHCAGE011", "answers_CHCAGE011.yaml", "10. CHCAGE011 - Provide support to people living with dementia/CHCAGE011-AWB-F-v1.0.docx", "10. CHCAGE011 - Provide support to people living with dementia/CHCAGE011-AWB-Filled.docx"),
+        ("CHCDIS011", "answers_CHCDIS011.yaml", "12. CHCDIS011 - Contribute to ongoing skills development using a strengths-based approach/CHCDIS011-AWB-F-v1.1.docx", "12. CHCDIS011 - Contribute to ongoing skills development using a strengths-based approach/CHCDIS011-AWB-Filled.docx"),
+        ("CHCDIS012", "answers_CHCDIS012.yaml", "13. CHCDIS012 - Support community participation and social inclusion/CHCDIS012-AWB-F-v1.0.docx", "13. CHCDIS012 - Support community participation and social inclusion/CHCDIS012-AWB-Filled.docx"),
     ]
 
     if args.answers and args.input and args.output:

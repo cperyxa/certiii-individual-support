@@ -14,7 +14,7 @@ def inspect_q(code, ag_path, terms):
                 cells = [" ".join(c.text.split()) for c in r.cells]
                 print(f"  R{r_i}: {cells[:2]}")
 
-inspect_q('CHCCCS040', 'Assignment Materials-20260915 (3)/CHCCCS040-AG-F-v1.0.docx', ['Question 20', 'Question 19', 'legislation, standards and codes'])
-inspect_q('CHCCOM005', 'Assignment Materials-20260915 (5)/CHCCOM005-AG-F-v1.1.docx', ['Question 1', 'legal and ethical requirements'])
-inspect_q('HLTINF006', 'Assignment Materials-20260915 (8)/HLTINF006-AG-F-v1.0.docx', ['Question 36', 'contaminated waste'])
-inspect_q('CHCAGE013', 'Assignment Materials-20260915 (11)/CHCAGE013-AG-F-v1.1.docx', ['Question 9', 'Question 11', 'Question 13'])
+inspect_q('CHCCCS040', '3. CHCCCS040 - Support independence and wellbeing/CHCCCS040-AG-F-v1.0.docx', ['Question 20', 'Question 19', 'legislation, standards and codes'])
+inspect_q('CHCCOM005', '5. CHCCOM005 - Communicate and work in health or community services/CHCCOM005-AG-F-v1.1.docx', ['Question 1', 'legal and ethical requirements'])
+inspect_q('HLTINF006', '8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AG-F-v1.0.docx', ['Question 36', 'contaminated waste'])
+inspect_q('CHCAGE013', '11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AG-F-v1.1.docx', ['Question 9', 'Question 11', 'Question 13'])

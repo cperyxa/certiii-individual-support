@@ -937,8 +937,8 @@ def process_chcpal003(awb_path, ag_path):
 
 def main():
     # 1. CHCDIS020
-    awb1 = "Assignment Materials-20260914/CHCDIS020-AWB-F-v1.0.docx"
-    ag1 = "Assignment Materials-20260914/CHCDIS020-AG-F-v1.0.docx"
+    awb1 = "14. CHCDIS020 - Work effectively in disability support/CHCDIS020-AWB-F-v1.0.docx"
+    ag1 = "14. CHCDIS020 - Work effectively in disability support/CHCDIS020-AG-F-v1.0.docx"
     chcdis_data = process_chcdis020(awb1, ag1)
     
     with open("answers_CHCDIS020.yaml", "w", encoding="utf-8") as f:
@@ -946,8 +946,8 @@ def main():
     print("Saved answers_CHCDIS020.yaml")
     
     # 2. CHCPAL003
-    awb2 = "Assignment Materials-20260915/CHCPAL003-AWB-F-v1.0 .docx"
-    ag2 = "Assignment Materials-20260915/CHCPAL003-AG-F-v1.0 .docx"
+    awb2 = "15. CHCPAL003 - Deliver care services using a palliative approach/CHCPAL003-AWB-F-v1.0 .docx"
+    ag2 = "15. CHCPAL003 - Deliver care services using a palliative approach/CHCPAL003-AG-F-v1.0 .docx"
     chcpal_data = process_chcpal003(awb2, ag2)
     
     with open("answers_CHCPAL003.yaml", "w", encoding="utf-8") as f:

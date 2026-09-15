@@ -23,10 +23,10 @@ def test_nested_match(awb_p, ag_p, t_idx):
                                 break
 
 print("Testing CHCCCS040 Table 13:")
-test_nested_match("Assignment Materials-20260915 (3)/CHCCCS040-AWB-F-v1.0.docx", "Assignment Materials-20260915 (3)/CHCCCS040-AG-F-v1.0.docx", 13)
+test_nested_match("3. CHCCCS040 - Support independence and wellbeing/CHCCCS040-AWB-F-v1.0.docx", "3. CHCCCS040 - Support independence and wellbeing/CHCCCS040-AG-F-v1.0.docx", 13)
 
 print("\nTesting HLTINF006 Table 13:")
-test_nested_match("Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx", "Assignment Materials-20260915 (8)/HLTINF006-AG-F-v1.0.docx", 13)
+test_nested_match("8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AWB-F-v1.0.docx", "8. HLTINF006 - Apply basic principles and practices of infection prevention and control/HLTINF006-AG-F-v1.0.docx", 13)
 
 print("\nTesting CHCAGE013 Table 5:")
-test_nested_match("Assignment Materials-20260915 (11)/CHCAGE013-AWB-F-v1.0.docx", "Assignment Materials-20260915 (11)/CHCAGE013-AG-F-v1.1.docx", 5)
+test_nested_match("11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AWB-F-v1.0.docx", "11. CHCAGE013 - Work effectively in aged care/CHCAGE013-AG-F-v1.1.docx", 5)
