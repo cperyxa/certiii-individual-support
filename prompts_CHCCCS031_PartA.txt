@@ -1,0 +1,322 @@
+=== TABLE 0 ===: Date Summary of Modifications Version 13 January 2023 Version 1.0 released for publishing 1.0
+=== TABLE 3 ===: Answer the following questions about person-centred practices in individualised support. List three principles of person
+  R2C0 (ff=3): List three principles of person-centred practices.
+  R2C1 (ff=3): List three principles of person-centred practices.
+  R3C0 (ff=2): Complete the table below by differentiating traditional and person-centred appro
+  R3C1 (ff=2): Complete the table below by differentiating traditional and person-centred appro
+  R4C0 (ff=2): Explain the difference between a person-centred or self-directed model and an in
+  R4C1 (ff=2): Explain the difference between a person-centred or self-directed model and an in
+=== TABLE 4 ===: Identify three benefits of using person-centred approaches in individualised support.
+  R0C0 (ff=3): Identify three benefits of using person-centred approaches in individualised sup
+=== TABLE 5 ===: Answer the following questions about strengths-based practices in individualised support. Answer the following questions
+  R2C0 (ff=3): List three principles underpinning a strengths-based practice.
+  R2C1 (ff=3): List three principles underpinning a strengths-based practice.
+  R3C0 (ff=3): When using a strength-based practice, a support worker must (provide three):
+  R3C1 (ff=3): When using a strength-based practice, a support worker must (provide three):
+  R4C0 (ff=1): Why is it important to use strengths-based approaches in individualised support?
+  R4C1 (ff=1): Why is it important to use strengths-based approaches in individualised support?
+=== TABLE 6 ===: Answer the following questions about active support in individualised support. Explain what active support is. Explain w
+  R2C0 (ff=1): Explain what active support is.
+  R2C1 (ff=1): Explain what active support is.
+  R3C0 (ff=4): The following are principles underpinning active support. Briefly explain what e
+  R3C1 (ff=4): The following are principles underpinning active support. Briefly explain what e
+=== TABLE 7 ===: Answer the following questions about demonstrating respectful behaviour in individualised support. Identify three princi
+  R2C0 (ff=3): Identify three principles underlying respectful behaviour.
+  R2C1 (ff=3): Identify three principles underlying respectful behaviour.
+  R3C0 (ff=3): List three areas of a client’s life, or components of a client’s support plan, i
+  R3C1 (ff=3): List three areas of a client’s life, or components of a client’s support plan, i
+  R4C0 (ff=3): List three ways a support worker can demonstrate respect to their client.
+  R4C1 (ff=3): List three ways a support worker can demonstrate respect to their client.
+=== TABLE 8 ===: Listed below are examples of documentation and reports that support workers must complete. Briefly explain why and how e
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+=== TABLE 9 ===: The following people are involved in individualised support. Person being supported Carers and family Health professiona
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R3C4 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+  R5C2 (ff=1): 
+  R5C3 (ff=1): 
+  R5C4 (ff=1): 
+  R6C2 (ff=1): 
+  R6C3 (ff=1): 
+  R6C4 (ff=1): 
+  R7C2 (ff=1): 
+  R7C3 (ff=1): 
+  R7C4 (ff=1): 
+=== TABLE 10 ===: Answer the following questions about the communications that happen between the following in individualised support. Per
+  R2C0 (ff=3): Identify three things that support workers must communicate to the person being 
+  R2C1 (ff=3): Identify three things that support workers must communicate to the person being 
+  R3C0 (ff=3): Identify three things that support workers must communicate to the carers and fa
+  R3C1 (ff=3): Identify three things that support workers must communicate to the carers and fa
+  R4C0 (ff=3): Identify three things that the person being supported, as well as their carers a
+  R4C1 (ff=3): Identify three things that the person being supported, as well as their carers a
+  R5C0 (ff=3): Identify three things that supervisors must communicate to support workers.
+  R5C1 (ff=3): Identify three things that supervisors must communicate to support workers.
+  R6C0 (ff=3): Identify three things that support workers must communicate to their supervisors
+  R6C1 (ff=3): Identify three things that support workers must communicate to their supervisors
+  R7C0 (ff=3): Identify three ways in which communication may be done among the person being su
+  R7C1 (ff=3): Identify three ways in which communication may be done among the person being su
+=== TABLE 11 ===: Listed below are different service delivery models of individualised support. Briefly describe the services each model p
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 
+  R5C2 (ff=1): 
+=== TABLE 12 ===: Listed below are areas relevant to individual support. Complete the table below by: Specifying the context of direct sup
+=== TABLE 13 ===: Context of direct support work Aged care Home and community Disability Community service Others: State/territory
+  R0C2 (ff=1): Community service Others:
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+=== TABLE 14 ===: Area Legal requirements relevant to this area Include the relevant legislation in your response Ethical requirements rel
+  R1C1 (ff=1): Relevant legislation:
+  R1C2 (ff=1): Reference:
+  R1C3 (ff=1): 
+  R1C4 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R2C3 (ff=1): 
+  R2C4 (ff=1): 
+  R3C1 (ff=1): Relevant legislation:
+  R3C2 (ff=1): Reference:
+  R3C3 (ff=1): 
+  R3C4 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): Ethical requirements:
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+=== TABLE 15 ===: Area Legal requirements relevant to this area Include the relevant legislation in your response Ethical requirements rel
+  R1C1 (ff=1): Relevant legislation:
+  R1C2 (ff=1): Reference:
+  R1C3 (ff=1): 
+  R1C4 (ff=1): 
+  R1C5 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R2C3 (ff=1): 
+  R2C4 (ff=1): 
+  R2C5 (ff=1): 
+  R3C1 (ff=1): Relevant legislation (state/territory):
+  R3C2 (ff=1): Reference:
+  R3C3 (ff=1): Reference:
+  R3C4 (ff=1): 
+  R3C5 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+  R4C5 (ff=1): 
+=== TABLE 16 ===: Area Legal requirements relevant to this area Include the relevant legislation in your response Ethical requirements rel
+  R1C1 (ff=1): Relevant legislation (state/territory):
+  R1C2 (ff=1): Reference:
+  R1C3 (ff=1): 
+  R1C4 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R2C3 (ff=1): 
+  R2C4 (ff=1): 
+  R3C1 (ff=1): Relevant legislation:
+  R3C2 (ff=1): Reference:
+  R3C3 (ff=1): 
+  R3C4 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+=== TABLE 17 ===: Area Legal requirements relevant to this area Include the relevant legislation in your response Ethical requirements rel
+  R1C1 (ff=1): Relevant legislation:
+  R1C2 (ff=1): Reference:
+  R1C3 (ff=1): 
+  R1C4 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R2C3 (ff=1): 
+  R2C4 (ff=1): 
+  R3C1 (ff=1): Relevant legislation (state/territory):
+  R3C2 (ff=1): Reference:
+  R3C3 (ff=1): 
+  R3C4 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+=== TABLE 18 ===: Area Legal requirements relevant to this area Include the relevant legislation in your response Ethical requirements rel
+  R1C1 (ff=1): Relevant legislation:
+  R1C2 (ff=1): Reference:
+  R1C3 (ff=1): 
+  R1C4 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R2C3 (ff=1): 
+  R2C4 (ff=1): 
+  R3C1 (ff=1): Relevant legislation:
+  R3C2 (ff=1): Reference:
+  R3C3 (ff=1): 
+  R3C4 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+=== TABLE 19 ===: Identify three work role boundaries, three responsibilities, and three limitations of individual support workers. Three 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+  R5C0 (ff=1): 
+  R5C1 (ff=1): 
+  R7C0 (ff=1): 
+  R7C1 (ff=1): 
+  R8C0 (ff=1): 
+  R8C1 (ff=1): 
+  R9C0 (ff=1): 
+  R9C1 (ff=1): 
+  R11C0 (ff=1): 
+  R11C1 (ff=1): 
+  R12C0 (ff=1): 
+  R12C1 (ff=1): 
+  R13C0 (ff=1): 
+  R13C1 (ff=1): 
+=== TABLE 20 ===: Answer the following questions about restrictive practices in individualised support. What are restrictive practices? Wh
+  R2C0 (ff=1): What are restrictive practices?
+  R2C1 (ff=1): What are restrictive practices?
+  R3C0 (ff=5): Identify five forms of restrictive practices.
+  R3C1 (ff=5): Identify five forms of restrictive practices.
+  R4C0 (ff=3): Identify the three legislative instruments that set out the conditions under whi
+  R4C1 (ff=3): Identify the three legislative instruments that set out the conditions under whi
+  R5C0 (ff=5): List five examples of conditions under which regulated restrictive practices can
+  R5C1 (ff=5): List five examples of conditions under which regulated restrictive practices can
+=== TABLE 21 ===: The National Framework for Reducing and Eliminating the Use of Restrictive Practices in the Disability Service Sector id
+  R0C0 (ff=6): The National Framework for Reducing and Eliminating the Use of Restrictive Pract
+  R1C0 (ff=2): Complete the statement below: Where an NDIS participant’s behaviours of concern 
+  R2C0 (ff=3): When restrictive practices are used as part of a person’s behaviour support plan
+  R3C0 (ff=1): Explain the ethical considerations relating to the use of restrictive practices.
+  R4C0 (ff=1): Explain the documentation requirements stated in Sections 14 and 15 of the NDIS 
+  R5C0 (ff=2): List two conditions that must be met before and during the use of any restrictiv
+=== TABLE 22 ===: Identify five factors that affect aged care clients and people with a disability requiring individualised support.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+  R5C0 (ff=1): 
+  R5C1 (ff=1): 
+  R6C0 (ff=1): 
+  R6C1 (ff=1): 
+=== TABLE 23 ===: Answer the following questions about procedures for assisting a person in taking medication pre-packaged by a pharmacist
+  R2C0 (ff=4): Complete the following sentence: The right medicine must be administered to the 
+  R2C1 (ff=4): Complete the following sentence: The right medicine must be administered to the 
+  R3C0 (ff=3): List three identifiers that you may use to confirm the person’s identity before 
+  R3C1 (ff=3): List three identifiers that you may use to confirm the person’s identity before 
+  R4C0 (ff=1): Where can you find the information on when and how often medication must be take
+  R4C1 (ff=1): Where can you find the information on when and how often medication must be take
+=== TABLE 24 ===: List three consequences when medication is taken through the wrong route. What does the right to refuse mean in assistin
+  R0C0 (ff=3): List three consequences when medication is taken through the wrong route.
+  R1C0 (ff=1): What does the right to refuse mean in assisting a person in taking pre-packaged 
+  R2C0 (ff=3): When a person refuses medication, the refusal must be: List three criteria.
+  R3C0 (ff=3): List three steps that may be undertaken where refusal of the medication is likel
+  R4C0 (ff=1): What is the importance of the person’s right to be educated when assisting them 
+=== TABLE 25 ===: List three steps that you can undertake to support the person’s right to be educated. Complete the sentence below: When 
+  R0C0 (ff=3): List three steps that you can undertake to support the person’s right to be educ
+  R1C0 (ff=2): Complete the sentence below: When inspecting the client’s pre-packaged medicatio
+  R2C0 (ff=1): What must be done when medication is found to be past the expiry date?
+  R3C0 (ff=4): Identify the four services that you may contact other than the person’s health p
+=== TABLE 26 ===: List the five important details you must include when reporting and documenting adverse reactions in an incident report.
+  R0C0 (ff=5): List the five important details you must include when reporting and documenting 
+  R1C0 (ff=4): List the four steps that you must follow if the client is unable to take medicat
+  R2C0 (ff=3): List the three key details that you must document if the person refuses to take 
+=== TABLE 27 ===: Identify three examples of practices that you can implement to support the skill development of individual support clien
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+=== TABLE 28 ===: The following are examples of practices that support the skills maintenance of individual support clients. Briefly expla
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 
+  R5C2 (ff=1): 
+=== TABLE 29 ===: Answer the following questions about unmet needs and ways of responding to them. Provide one example of behaviours that 
+  R2C0 (ff=3): Provide one example of behaviours that may be an indicator of unmet needs in eac
+  R2C1 (ff=3): Provide one example of behaviours that may be an indicator of unmet needs in eac
+  R3C0 (ff=3): List three ways that can help you recognise signs of additional or unmet needs i
+  R3C1 (ff=3): List three ways that can help you recognise signs of additional or unmet needs i
+  R4C0 (ff=3): The following are ways you can respond to unmet needs. Briefly explain each.
+  R4C1 (ff=3): The following are ways you can respond to unmet needs. Briefly explain each.
+=== TABLE 30 ===: Listed below are different life domains where assistive technologies may be used. Complete the table below by: Providing
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R3C4 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+  R5C2 (ff=1): 
+  R5C3 (ff=1): 
+  R5C4 (ff=1): 
+  R6C2 (ff=1): 
+  R6C3 (ff=1): 
+  R6C4 (ff=1): 
+  R7C2 (ff=1): 
+  R7C3 (ff=1): 
+  R7C4 (ff=1): 
+  R8C2 (ff=1): 
+  R8C3 (ff=1): 
+  R8C4 (ff=1): 
+=== TABLE 31 ===: Life domain How assistive technologies can help individual support clients in this life domain One example of assistive 
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+  R6C1 (ff=1): 
+  R6C2 (ff=1): 
+  R7C1 (ff=1): 
+  R7C2 (ff=1): 
+  R8C1 (ff=1): 
+  R8C2 (ff=1): 
+  R9C1 (ff=1): 
+  R9C2 (ff=1): 
+=== TABLE 32 ===: Life domain How assistive technologies can help individual support clients in this life domain One example of assistive 
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+  R6C1 (ff=1): 
+  R6C2 (ff=1): 
+  R7C1 (ff=1): 
+  R7C2 (ff=1): 
+=== TABLE 33 ===: Answer the following questions about the role of assistive technologies in individual support. How can assistive technol
+  R2C0 (ff=1): How can assistive technologies help maintain and promote a person’s independence
+  R2C1 (ff=1): How can assistive technologies help maintain and promote a person’s independence
+  R3C0 (ff=1): How do assistive technologies support the inclusion of individual support client
+  R3C1 (ff=1): How do assistive technologies support the inclusion of individual support client
+  R4C0 (ff=1): How do assistive technologies support the participation of individual support cl
+  R4C1 (ff=1): How do assistive technologies support the participation of individual support cl
+=== TABLE 34 ===: List five things that must be taken into consideration when managing risks for individual support clients.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+  R5C0 (ff=1): 
+  R5C1 (ff=1): 
+  R6C0 (ff=1): 
+  R6C1 (ff=1): 
+=== TABLE 35 ===: Listed below are examples of risks typical in individual support settings. Provide one strategy you can implement to min
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 
+  R5C2 (ff=1): 

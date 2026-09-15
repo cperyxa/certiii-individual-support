@@ -1,0 +1,2369 @@
+unit: CHCCCS031_PartB
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@email.com.au
+  date: 15/09/2026
+  state: New South Wales
+  workplace: Care Connect Services
+  rto: Care Connect College
+  rto_phone: 1300 123 456
+  rto_email: info@careconnectcollege.edu.au
+fields:
+- field_id: CHCCCS031_PartB_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: First and Last Name - CHCCCS031 – Part B
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 577B755B
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Phone - CHCCCS031 – Part B
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 376D5E42
+  value: 0412 345 678
+- field_id: CHCCCS031_PartB_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Email - CHCCCS031 – Part B
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 003DCCE6
+  value: alex.chen@email.com.au
+- field_id: CHCCCS031_PartB_TXT_2_1_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Name:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5CF85141
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_2_1_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Signature:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3D520BCC
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_2_1_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Date signed:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0F9B5B24
+  value: 15/09/2026
+- field_id: CHCCCS031_PartB_TXT_29_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  label: Date and time
+  table_idx: 29
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 23E6CD2A
+  value: 15/09/2026
+- field_id: CHCCCS031_PartB_TXT_30_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: Name
+  table_idx: 30
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2B09C30F
+  value: Abraham C
+- field_id: CHCCCS031_PartB_TXT_30_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: Address
+  table_idx: 30
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4B881C8E
+  value: Unit 4, 12 CareConnect Way, Sydney NSW 2000
+- field_id: CHCCCS031_PartB_TXT_31_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Name
+  table_idx: 31
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 598B7DAB
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_31_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Position title
+  table_idx: 31
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 62895F23
+  value: Support Worker
+- field_id: CHCCCS031_PartB_TXT_32_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Table 32 Row 0 Col 0
+  table_idx: 32
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3A7159E8
+  value: Abraham confirmed he is pleased with the new mobility equipment and feeling
+    more confident during daily walks.
+- field_id: CHCCCS031_PartB_TXT_32_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Table 32 Row 1 Col 0
+  table_idx: 32
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 44F493C3
+  value: Abraham requested ongoing assistance with breakfast routines and asked for
+    social group activities on weekends.
+- field_id: CHCCCS031_PartB_TXT_32_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Table 32 Row 2 Col 0
+  table_idx: 32
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 175F7445
+  value: Support plan is operating effectively; updated to include weekly community
+    bridge club visits.
+- field_id: CHCCCS031_PartB_TXT_33_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Table 33 Row 0 Col 0
+  table_idx: 33
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 170D412C
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_33_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Table 33 Row 1 Col 0
+  table_idx: 33
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2F6E4B20
+  value: Support Worker
+- field_id: CHCCCS031_PartB_TXT_33_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Table 33 Row 2 Col 0
+  table_idx: 33
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2FCC7198
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_33_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Reviewer/Health Professional’s signature
+  table_idx: 33
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7E2397C5
+  value: 15/09/2026
+- field_id: CHCCCS031_PartB_TXT_59_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_59
+  label: Date and time
+  table_idx: 59
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 233089C3
+  value: 15/09/2026
+- field_id: CHCCCS031_PartB_TXT_60_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_60
+  label: Name
+  table_idx: 60
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6C2C6FA8
+  value: Henry S
+- field_id: CHCCCS031_PartB_TXT_60_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_60
+  label: Address
+  table_idx: 60
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0D7A2D25
+  value: Apartment 18, 45 Horizon Street, Sydney NSW 2000
+- field_id: CHCCCS031_PartB_TXT_61_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Name
+  table_idx: 61
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 26B4A869
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_61_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Position title
+  table_idx: 61
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0C139AAF
+  value: Support Worker
+- field_id: CHCCCS031_PartB_TXT_62_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_62
+  label: Table 62 Row 0 Col 0
+  table_idx: 62
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 36050BC0
+  value: Henry reported that colostomy bag management is stable and skin around stoma
+    remains healthy.
+- field_id: CHCCCS031_PartB_TXT_62_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_62
+  label: Table 62 Row 1 Col 0
+  table_idx: 62
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7F8651CC
+  value: Henry experienced late afternoon fatigue; requested afternoon rest period
+    between 2:00 PM and 3:30 PM.
+- field_id: CHCCCS031_PartB_TXT_62_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_62
+  label: Table 62 Row 2 Col 0
+  table_idx: 62
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2D3156E9
+  value: Care plan adjusted to accommodate afternoon rest. Florence confirmed satisfaction
+    with respite support.
+- field_id: CHCCCS031_PartB_TXT_63_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: Table 63 Row 0 Col 0
+  table_idx: 63
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1A33A280
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_63_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: Table 63 Row 1 Col 0
+  table_idx: 63
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4475E7C5
+  value: Support Worker
+- field_id: CHCCCS031_PartB_TXT_63_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: Table 63 Row 2 Col 0
+  table_idx: 63
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6ABAD24D
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_63_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: Reviewer/Health Professional’s signature
+  table_idx: 63
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2A680E00
+  value: 15/09/2026
+- field_id: CHCCCS031_PartB_TXT_69_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Add more rows as needed.
+  table_idx: 69
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2D4C0F62
+  value: 3. Explain procedure, seek client consent, and ensure door/curtains are closed
+    for privacy.
+- field_id: CHCCCS031_PartB_TXT_69_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Add more rows as needed.
+  table_idx: 69
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 59F6FB17
+  value: 3. Explain procedure, seek client consent, and ensure door/curtains are closed
+    for privacy.
+- field_id: CHCCCS031_PartB_TXT_69_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Add more rows as needed.
+  table_idx: 69
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 730B8F0C
+  value: 3. Explain procedure, seek client consent, and ensure door/curtains are closed
+    for privacy.
+- field_id: CHCCCS031_PartB_TXT_69_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Add more rows as needed.
+  table_idx: 69
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 1D7BBC91
+  value: 3. Explain procedure, seek client consent, and ensure door/curtains are closed
+    for privacy.
+- field_id: CHCCCS031_PartB_TXT_69_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Add more rows as needed.
+  table_idx: 69
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 2EFDCE3C
+  value: 3. Explain procedure, seek client consent, and ensure door/curtains are closed
+    for privacy.
+- field_id: CHCCCS031_PartB_TXT_70_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Add more rows as needed.
+  table_idx: 70
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1A15E0BD
+  value: 1. Cover client with a bath blanket and expose only the body section currently
+    being washed.
+- field_id: CHCCCS031_PartB_TXT_70_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Add more rows as needed.
+  table_idx: 70
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 545B6EAD
+  value: 1. Cover client with a bath blanket and expose only the body section currently
+    being washed.
+- field_id: CHCCCS031_PartB_TXT_70_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Add more rows as needed.
+  table_idx: 70
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 52B1CFA5
+  value: 1. Cover client with a bath blanket and expose only the body section currently
+    being washed.
+- field_id: CHCCCS031_PartB_TXT_70_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Add more rows as needed.
+  table_idx: 70
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 0A77BCE5
+  value: 1. Cover client with a bath blanket and expose only the body section currently
+    being washed.
+- field_id: CHCCCS031_PartB_TXT_70_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Add more rows as needed.
+  table_idx: 70
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 2E964967
+  value: 1. Cover client with a bath blanket and expose only the body section currently
+    being washed.
+- field_id: CHCCCS031_PartB_TXT_71_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_71
+  label: Add more rows as needed.
+  table_idx: 71
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 19FEBD9D
+  value: 2. Apply a warm, moist towel to face for 2-3 minutes to soften facial hair
+    follicles.
+- field_id: CHCCCS031_PartB_TXT_71_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_71
+  label: Add more rows as needed.
+  table_idx: 71
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5CBCEB27
+  value: 2. Apply a warm, moist towel to face for 2-3 minutes to soften facial hair
+    follicles.
+- field_id: CHCCCS031_PartB_TXT_71_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_71
+  label: Add more rows as needed.
+  table_idx: 71
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 56961D12
+  value: 2. Apply a warm, moist towel to face for 2-3 minutes to soften facial hair
+    follicles.
+- field_id: CHCCCS031_PartB_TXT_71_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_71
+  label: Add more rows as needed.
+  table_idx: 71
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 57E61693
+  value: 2. Apply a warm, moist towel to face for 2-3 minutes to soften facial hair
+    follicles.
+- field_id: CHCCCS031_PartB_TXT_71_2_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_71
+  label: Add more rows as needed.
+  table_idx: 71
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 30FCF9D8
+  value: 2. Apply a warm, moist towel to face for 2-3 minutes to soften facial hair
+    follicles.
+- field_id: CHCCCS031_PartB_TXT_72_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_72
+  label: Add more rows as needed.
+  table_idx: 72
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 519CDBEE
+  value: 3. Open passenger door fully, adjust vehicle seat as far back as possible,
+    and recline slightly.
+- field_id: CHCCCS031_PartB_TXT_72_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_72
+  label: Add more rows as needed.
+  table_idx: 72
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 09AE2656
+  value: 3. Open passenger door fully, adjust vehicle seat as far back as possible,
+    and recline slightly.
+- field_id: CHCCCS031_PartB_TXT_72_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_72
+  label: Add more rows as needed.
+  table_idx: 72
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 790161CB
+  value: 3. Open passenger door fully, adjust vehicle seat as far back as possible,
+    and recline slightly.
+- field_id: CHCCCS031_PartB_TXT_72_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_72
+  label: Add more rows as needed.
+  table_idx: 72
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 45119D8F
+  value: 3. Open passenger door fully, adjust vehicle seat as far back as possible,
+    and recline slightly.
+- field_id: CHCCCS031_PartB_TXT_72_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_72
+  label: Add more rows as needed.
+  table_idx: 72
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 4FD657AE
+  value: 3. Open passenger door fully, adjust vehicle seat as far back as possible,
+    and recline slightly.
+- field_id: CHCCCS031_PartB_TXT_73_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_73
+  label: Add more rows as needed.
+  table_idx: 73
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 337894FE
+  value: 1. Park on level ground, open car door fully, and position wheelchair beside
+    the car with brakes locked.
+- field_id: CHCCCS031_PartB_TXT_73_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_73
+  label: Add more rows as needed.
+  table_idx: 73
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 33F8A68C
+  value: 1. Park on level ground, open car door fully, and position wheelchair beside
+    the car with brakes locked.
+- field_id: CHCCCS031_PartB_TXT_73_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_73
+  label: Add more rows as needed.
+  table_idx: 73
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 651A0D44
+  value: 1. Park on level ground, open car door fully, and position wheelchair beside
+    the car with brakes locked.
+- field_id: CHCCCS031_PartB_TXT_73_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_73
+  label: Add more rows as needed.
+  table_idx: 73
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 337BE3B0
+  value: 1. Park on level ground, open car door fully, and position wheelchair beside
+    the car with brakes locked.
+- field_id: CHCCCS031_PartB_TXT_73_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_73
+  label: Add more rows as needed.
+  table_idx: 73
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 32DAA5B0
+  value: 1. Park on level ground, open car door fully, and position wheelchair beside
+    the car with brakes locked.
+- field_id: CHCCCS031_PartB_TXT_74_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_74
+  label: Add more rows as needed.
+  table_idx: 74
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 012D1142
+  value: 2. If no injury, reassure client, keep them calm and warm, and call for a
+    registered nurse or second worker to assist.
+- field_id: CHCCCS031_PartB_TXT_74_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_74
+  label: Add more rows as needed.
+  table_idx: 74
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 38FBB877
+  value: 2. If no injury, reassure client, keep them calm and warm, and call for a
+    registered nurse or second worker to assist.
+- field_id: CHCCCS031_PartB_TXT_74_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_74
+  label: Add more rows as needed.
+  table_idx: 74
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 2BE07C82
+  value: 2. If no injury, reassure client, keep them calm and warm, and call for a
+    registered nurse or second worker to assist.
+- field_id: CHCCCS031_PartB_TXT_74_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_74
+  label: Add more rows as needed.
+  table_idx: 74
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 5E154CE9
+  value: 2. If no injury, reassure client, keep them calm and warm, and call for a
+    registered nurse or second worker to assist.
+- field_id: CHCCCS031_PartB_TXT_74_2_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_74
+  label: Add more rows as needed.
+  table_idx: 74
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 72345DA2
+  value: 2. If no injury, reassure client, keep them calm and warm, and call for a
+    registered nurse or second worker to assist.
+- field_id: CHCCCS031_PartB_CB_75_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: 'You have completed the Simulated Assessments in this workbook:'
+  table_idx: 75
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-367450486'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.1
+  table_idx: 75
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '622200672'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.2
+  table_idx: 75
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-180441233'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.3
+  table_idx: 75
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '162140844'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.4
+  table_idx: 75
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-954856129'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.5
+  table_idx: 75
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1217357945'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.6
+  table_idx: 75
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1863241642'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.7
+  table_idx: 75
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1843614422'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.1
+  table_idx: 75
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-540586510'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.2
+  table_idx: 75
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1791347586'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.3
+  table_idx: 75
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '551659382'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.4
+  table_idx: 75
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1094862916'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.5
+  table_idx: 75
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '89051872'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.6
+  table_idx: 75
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1402099092'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_16_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.7
+  table_idx: 75
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1483741258'
+  value: true
+- field_id: CHCCCS031_PartB_CB_75_17_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study 3 Task 3.1
+  table_idx: 75
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-330063401'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: You have completed the Supplementary Questions in this workbook
+  table_idx: 76
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-95644519'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 76
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '94379991'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: This completed workbook
+  table_idx: 76
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1472658093'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 76
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1961214800'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Case Study 1 Task 1.2 – Meeting Minutes
+  table_idx: 76
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-305776147'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Case Study 1 Task 1.3 – Relevant Risk Assessment Document
+  table_idx: 76
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-293911491'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Case Study 1 Task 1.6 – Progress Notes
+  table_idx: 76
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1632400573'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Case Study 1 Task 1.7 – Meeting Minutes
+  table_idx: 76
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1335455530'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Case Study 2 Task 2.2 – Meeting Minutes
+  table_idx: 76
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1109427862'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Case Study 2 Task 2.3 – Relevant Risk Assessment Document
+  table_idx: 76
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '318934086'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Case Study 2 Task 2.6 – Progress Notes
+  table_idx: 76
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1335501934'
+  value: true
+- field_id: CHCCCS031_PartB_CB_76_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.2
+  label: Case Study 2 Task 2.7 – Meeting Minutes
+  table_idx: 76
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '961848827'
+  value: true
+- field_id: CHCCCS031_PartB_CB_78_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: 'The candidate has completed the Practical Assessments in this workbook:'
+  table_idx: 78
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '114489879'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.1
+  table_idx: 78
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2072488544'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.2
+  table_idx: 78
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '912358815'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.3
+  table_idx: 78
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1510753861'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.4
+  table_idx: 78
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1855720919'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.5
+  table_idx: 78
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2099525153'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.6
+  table_idx: 78
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-811783812'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 1 Task 1.7
+  table_idx: 78
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-748337936'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.1
+  table_idx: 78
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '262886547'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.2
+  table_idx: 78
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-261762903'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.3
+  table_idx: 78
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1003473351'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.4
+  table_idx: 78
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1297331085'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.5
+  table_idx: 78
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1957478575'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_15_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.6
+  table_idx: 78
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1393312080'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_16_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 2 Task 2.7
+  table_idx: 78
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-616212590'
+  value: false
+- field_id: CHCCCS031_PartB_CB_78_17_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study 3 Task 3.1
+  table_idx: 78
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1391268437'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: The candidate has completed the Supplementary Questions in this workbook.
+  table_idx: 79
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1000164387'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 79
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1280181623'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: This completed workbook
+  table_idx: 79
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1016224711'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 79
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2008746071'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Case Study 1 Task 1.2 – Meeting Minutes
+  table_idx: 79
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-533111468'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Case Study 1 Task 1.3 – Relevant Risk Assessment Document
+  table_idx: 79
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-916331756'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Case Study 1 Task 1.6 – Progress Notes
+  table_idx: 79
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-322812259'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Case Study 1 Task 1.7 – Meeting Minutes
+  table_idx: 79
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1012347423'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Case Study 2 Task 2.2 – Meeting Minutes
+  table_idx: 79
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '549572078'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Case Study 2 Task 2.3 – Relevant Risk Assessment Document
+  table_idx: 79
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2136315974'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Case Study 2 Task 2.6 – Progress Notes
+  table_idx: 79
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1493254839'
+  value: false
+- field_id: CHCCCS031_PartB_CB_79_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.2
+  label: Case Study 2 Task 2.7 – Meeting Minutes
+  table_idx: 79
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '70704869'
+  value: false
+- field_id: CHCCCS031_PartB_TXT_81_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 81
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0CA715AB
+  value: Alex Chen
+- field_id: CHCCCS031_PartB_TXT_81_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 81
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6539FF4B
+  value: Care Connect College
+- field_id: CHCCCS031_PartB_TXT_81_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 81
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36F1DB37
+  value: 1300 123 456
+- field_id: CHCCCS031_PartB_TXT_81_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 81
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0E4E7263
+  value: info@careconnectcollege.edu.au
+- field_id: CHCCCS031_PartB_TXT_81_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 81
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 631A1330
+  value: ''
+- field_id: CHCCCS031_PartB_CB_82_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 2 Col 1
+  table_idx: 82
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-63487235'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 2 Col 2
+  table_idx: 82
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '757873382'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 3 Col 1
+  table_idx: 82
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '958372900'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 3 Col 2
+  table_idx: 82
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1990195638'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 4 Col 1
+  table_idx: 82
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1966494515'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 4 Col 2
+  table_idx: 82
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2044049758'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 5 Col 1
+  table_idx: 82
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-914081903'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 5 Col 2
+  table_idx: 82
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '281775825'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 6 Col 1
+  table_idx: 82
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-669336297'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 6 Col 2
+  table_idx: 82
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1862162103'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 7 Col 1
+  table_idx: 82
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-873692426'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 7 Col 2
+  table_idx: 82
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1778049650'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 8 Col 1
+  table_idx: 82
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1155348132'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 8 Col 2
+  table_idx: 82
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1969896201'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 10 Col 1
+  table_idx: 82
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '773748147'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 10 Col 2
+  table_idx: 82
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1158306170'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 11 Col 1
+  table_idx: 82
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-920336452'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 11 Col 2
+  table_idx: 82
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-823349645'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 12 Col 1
+  table_idx: 82
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-579516135'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 12 Col 2
+  table_idx: 82
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1744789048'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 13 Col 1
+  table_idx: 82
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-848101463'
+  value: false
+- field_id: CHCCCS031_PartB_CB_82_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 13 Col 2
+  table_idx: 82
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1764095969'
+  value: false
+- field_id: CHCCCS031_PartB_CB_83_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.5
+  label: Row 1 Col 1
+  table_idx: 83
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-726756910'
+  value: false
+- field_id: CHCCCS031_PartB_CB_83_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.5
+  label: Row 1 Col 2
+  table_idx: 83
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2087218967'
+  value: false
+- field_id: CHCCCS031_PartB_CB_83_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.5
+  label: Row 2 Col 1
+  table_idx: 83
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1962402997'
+  value: false
+- field_id: CHCCCS031_PartB_CB_83_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.5
+  label: Row 2 Col 2
+  table_idx: 83
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1400093186'
+  value: false
+- field_id: CHCCCS031_PartB_CB_83_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.5
+  label: Row 3 Col 1
+  table_idx: 83
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1364783914'
+  value: false
+- field_id: CHCCCS031_PartB_CB_83_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.5
+  label: Row 3 Col 2
+  table_idx: 83
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-24640439'
+  value: false
+- field_id: CHCCCS031_PartB_CB_83_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.5
+  label: Row 5 Col 1
+  table_idx: 83
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '767664675'
+  value: false
+- field_id: CHCCCS031_PartB_CB_83_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.5
+  label: Row 5 Col 2
+  table_idx: 83
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1805579971'
+  value: false
+- field_id: CHCCCS031_PartB_CB_84_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 84
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2049486910'
+  value: false
+- field_id: CHCCCS031_PartB_CB_84_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 84
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1494787367'
+  value: false
+- field_id: CHCCCS031_PartB_CB_84_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 84
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1686055876'
+  value: false
+- field_id: CHCCCS031_PartB_CB_84_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 84
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1528212246'
+  value: false
+- field_id: CHCCCS031_PartB_CB_84_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 84
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-600950664'
+  value: false
+- field_id: CHCCCS031_PartB_CB_84_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 84
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1768233352'
+  value: false
+- field_id: CHCCCS031_PartB_CB_84_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 84
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-326907471'
+  value: false
+- field_id: CHCCCS031_PartB_CB_84_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 84
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-437222988'
+  value: false
+- field_id: CHCCCS031_PartB_CB_85_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Row 1 Col 1
+  table_idx: 85
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: CHCCCS031_PartB_CB_85_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Row 1 Col 2
+  table_idx: 85
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: CHCCCS031_PartB_CB_85_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Row 2 Col 1
+  table_idx: 85
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: CHCCCS031_PartB_CB_85_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Row 2 Col 2
+  table_idx: 85
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: CHCCCS031_PartB_CB_85_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Row 3 Col 1
+  table_idx: 85
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: CHCCCS031_PartB_CB_85_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Row 3 Col 2
+  table_idx: 85
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: CHCCCS031_PartB_CB_85_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Row 4 Col 1
+  table_idx: 85
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: CHCCCS031_PartB_CB_85_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Row 4 Col 2
+  table_idx: 85
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: CHCCCS031_PartB_CB_86_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_86
+  label: Row 2 Col 1
+  table_idx: 86
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: CHCCCS031_PartB_CB_86_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_86
+  label: Row 3 Col 1
+  table_idx: 86
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: CHCCCS031_PartB_CB_86_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_86
+  label: Row 4 Col 1
+  table_idx: 86
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: CHCCCS031_PartB_TXT_88_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Name of Third-party Contacted
+  table_idx: 88
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 362CDE57
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Role in the Candidate’s Assessment
+  table_idx: 88
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 725A7CEE
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Contact Details (Phone number or email address)
+  table_idx: 88
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1477A1B0
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Date contacted
+  table_idx: 88
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4C828DB7
+  value: ''
+- field_id: CHCCCS031_PartB_CB_88_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_88
+  label: Yes       No   Assessor’s Notes
+  table_idx: 88
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: CHCCCS031_PartB_CB_88_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_88
+  label: Yes       No   Assessor’s Notes
+  table_idx: 88
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: CHCCCS031_PartB_TXT_88_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 88
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 5E2F965F
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Name of Third-party Contacted
+  table_idx: 88
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 77F41681
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Role in the Candidate’s Assessment
+  table_idx: 88
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6A103D09
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Contact Details (Phone number or email address)
+  table_idx: 88
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0C026AF3
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Date contacted
+  table_idx: 88
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 53CD963C
+  value: ''
+- field_id: CHCCCS031_PartB_CB_88_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_88
+  label: Yes       No   Assessor’s Notes
+  table_idx: 88
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: CHCCCS031_PartB_CB_88_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_88
+  label: Yes       No   Assessor’s Notes
+  table_idx: 88
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: CHCCCS031_PartB_TXT_88_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 88
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3337589F
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Name of Third-party Contacted
+  table_idx: 88
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1F7D6591
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Role in the Candidate’s Assessment
+  table_idx: 88
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 28AE1E8E
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Contact Details (Phone number or email address)
+  table_idx: 88
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3AD6EDE0
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Date contacted
+  table_idx: 88
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 62707E5E
+  value: ''
+- field_id: CHCCCS031_PartB_CB_88_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_88
+  label: Yes       No   Assessor’s Notes
+  table_idx: 88
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: CHCCCS031_PartB_CB_88_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_88
+  label: Yes       No   Assessor’s Notes
+  table_idx: 88
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: CHCCCS031_PartB_TXT_88_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 88
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 35BF58DC
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Name of Third-party Contacted
+  table_idx: 88
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 65D85D38
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Role in the Candidate’s Assessment
+  table_idx: 88
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 387D1592
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Contact Details (Phone number or email address)
+  table_idx: 88
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 31B14EEB
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_88_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: Date contacted
+  table_idx: 88
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7A2D4EC8
+  value: ''
+- field_id: CHCCCS031_PartB_CB_88_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_88
+  label: Yes       No   Assessor’s Notes
+  table_idx: 88
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: CHCCCS031_PartB_CB_88_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_88
+  label: Yes       No   Assessor’s Notes
+  table_idx: 88
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: CHCCCS031_PartB_TXT_88_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 88
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18064D8E
+  value: ''
+- field_id: CHCCCS031_PartB_CB_89_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_89
+  label: Row 1 Col 1
+  table_idx: 89
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2106063645'
+  value: false
+- field_id: CHCCCS031_PartB_CB_89_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_89
+  label: Row 1 Col 2
+  table_idx: 89
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '85962892'
+  value: false
+- field_id: CHCCCS031_PartB_CB_89_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_89
+  label: Row 2 Col 1
+  table_idx: 89
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: CHCCCS031_PartB_CB_89_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_89
+  label: Row 2 Col 2
+  table_idx: 89
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: CHCCCS031_PartB_CB_89_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_89
+  label: Row 3 Col 1
+  table_idx: 89
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '77255906'
+  value: false
+- field_id: CHCCCS031_PartB_CB_89_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_89
+  label: Row 3 Col 2
+  table_idx: 89
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1240757628'
+  value: false
+- field_id: CHCCCS031_PartB_CB_90_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_90
+  label: Row 1 Col 1
+  table_idx: 90
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: CHCCCS031_PartB_CB_90_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_90
+  label: Row 1 Col 2
+  table_idx: 90
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: CHCCCS031_PartB_TXT_91_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_91
+  label: Assessor’s comments/feedback
+  table_idx: 91
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 553985D5
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_92_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_92
+  label: Assessor’s name
+  table_idx: 92
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0D174C3A
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_92_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_92
+  label: Assessor’s signature
+  table_idx: 92
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4F171628
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_92_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_92
+  label: Date signed
+  table_idx: 92
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4DB4D16A
+  value: ''
+- field_id: CHCCCS031_PartB_TXT_92_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_92
+  label: Assessor’s signature
+  table_idx: 92
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4F171628
+  value: ''

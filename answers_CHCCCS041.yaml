@@ -1,0 +1,5567 @@
+unit: CHCCCS041
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@email.com.au
+  date: 15/09/2026
+  state: New South Wales
+  workplace: Care Connect Services
+  rto: Care Connect College
+  rto_phone: 1300 123 456
+  rto_email: info@careconnectcollege.edu.au
+fields:
+- field_id: CHCCCS041_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: First and Last Name - CHCCCS041
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36DD8154
+  value: Alex Chen
+- field_id: CHCCCS041_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Phone - CHCCCS041
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 03F782DD
+  value: 0412 345 678
+- field_id: CHCCCS041_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Email - CHCCCS041
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 24752FAC
+  value: alex.chen@email.com.au
+- field_id: CHCCCS041_TXT_2_1_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Name:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 602B0F0F
+  value: Alex Chen
+- field_id: CHCCCS041_TXT_2_1_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Signature:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6EED9427
+  value: Alex Chen
+- field_id: CHCCCS041_TXT_2_1_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Date signed:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F091D23
+  value: 15/09/2026
+- field_id: CHCCCS041_TXT_3_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_3
+  label: Table 3 Row 2 Col 0
+  table_idx: 3
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4AA9A16F
+  value: 1. Cellular metabolism and energy generation (producing ATP via cellular
+    respiration).
+- field_id: CHCCCS041_TXT_3_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_3
+  label: Table 3 Row 3 Col 0
+  table_idx: 3
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 519EF683
+  value: 2. Protein and enzyme synthesis to support growth, structural maintenance,
+    and repair.
+- field_id: CHCCCS041_TXT_3_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_3
+  label: Table 3 Row 4 Col 0
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 21BC54D0
+  value: 3. Cellular reproduction and tissue regeneration through mitosis.
+- field_id: CHCCCS041_TXT_4_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Table 4 Row 2 Col 0
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 11158F66
+  value: '1. Epithelial tissue: Provides protective barriers against pathogens, chemical
+    wear, and absorbs nutrients.'
+- field_id: CHCCCS041_TXT_4_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Table 4 Row 3 Col 0
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 210EA7C3
+  value: '2. Connective tissue: Supports, binds, and cushions other tissues and organs
+    (bones, cartilage, adipose).'
+- field_id: CHCCCS041_TXT_4_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Table 4 Row 4 Col 0
+  table_idx: 4
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 08F15B0E
+  value: '3. Muscle tissue: Generates mechanical force to produce voluntary and involuntary
+    bodily movement.'
+- field_id: CHCCCS041_TXT_4_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Table 4 Row 5 Col 0
+  table_idx: 4
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3E909CEE
+  value: '4. Nervous tissue: Transmits electrical and chemical nerve impulses throughout
+    the central and peripheral nervous system.'
+- field_id: CHCCCS041_TXT_4_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Table 4 Row 6 Col 0
+  table_idx: 4
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 76124B20
+  value: '5. Fluid tissue (blood/lymph): Transports oxygen, nutrients, hormones, and
+    immune cells while removing metabolic wastes.'
+- field_id: CHCCCS041_TXT_5_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: 'Cardiovascular system - Listed below are different organ systems of the
+    human body. Briefly explain '
+  table_idx: 5
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 015433B3
+  value: 'Cardiovascular system: Circulates oxygenated blood, nutrients, and hormones
+    to cells throughout the body while transporting carbon dioxide and wastes to excretory
+    organs via heart pumping action.'
+- field_id: CHCCCS041_TXT_5_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Respiratory system - Listed below are different organ systems of the human
+    body. Briefly explain the
+  table_idx: 5
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7989536E
+  value: 'Respiratory system: Facilitates gas exchange by bringing oxygen into the
+    body through inhalation and eliminating metabolic carbon dioxide through exhalation.'
+- field_id: CHCCCS041_TXT_5_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Musculoskeletal system - Listed below are different organ systems of the
+    human body. Briefly explain
+  table_idx: 5
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 60190B64
+  value: 'Musculoskeletal system: Provides structural framework, protects internal
+    organs, produces red blood cells, stores calcium, and enables voluntary locomotion
+    through muscle-bone contraction.'
+- field_id: CHCCCS041_TXT_5_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Endocrine system - Listed below are different organ systems of the human
+    body. Briefly explain the b
+  table_idx: 5
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6AFC89B2
+  value: 'Digestive system: Breaks down food mechanically and chemically, absorbs
+    essential nutrients, vitamins, and water into the bloodstream, and expels solid
+    waste.'
+- field_id: CHCCCS041_TXT_5_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Digestive system - Listed below are different organ systems of the human
+    body. Briefly explain the b
+  table_idx: 5
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4C43FA99
+  value: 'Urinary/Renal system: Filters metabolic wastes and toxins from blood, regulates
+    systemic fluid and electrolyte balance, and maintains blood pH through urine excretion.'
+- field_id: CHCCCS041_TXT_5_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Urinary system - Listed below are different organ systems of the human body.
+    Briefly explain the bas
+  table_idx: 5
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 504A2E23
+  value: 'Endocrine system: Synthesizes and secretes chemical messengers (hormones)
+    directly into blood to regulate metabolism, growth, mood, and reproduction.'
+- field_id: CHCCCS041_TXT_5_9_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Female reproductive system - Listed below are different organ systems of
+    the human body. Briefly exp
+  table_idx: 5
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6A9C98AC
+  value: Produces female gametes (ova), secretes estrogen and progesterone, facilitates
+    fertilization, and supports foetal gestation.
+- field_id: CHCCCS041_TXT_6_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Male reproductive system - Function
+  table_idx: 6
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3C60C74C
+  value: Produces, maintains, and transports sperm and protective seminal fluid, and
+    secretes male sex hormones (testosterone).
+- field_id: CHCCCS041_TXT_6_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Integumentary system - Function
+  table_idx: 6
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 348C9CD2
+  value: Forms a waterproof outer protective barrier against environmental pathogens,
+    UV radiation, and dehydration; houses sensory receptors; and regulates body temperature.
+- field_id: CHCCCS041_TXT_6_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Lymphatic system - Function
+  table_idx: 6
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 431EE44B
+  value: Returns leaked interstitial fluid to the circulatory system, absorbs dietary
+    fats, and filters foreign pathogens through lymph nodes.
+- field_id: CHCCCS041_TXT_6_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Nervous system - Function
+  table_idx: 6
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7C245995
+  value: Rapidly detects internal and external sensory stimuli, processes cognitive
+    information, and coordinates voluntary and involuntary physiological responses.
+- field_id: CHCCCS041_TXT_6_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Immune system - Function
+  table_idx: 6
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 10CD4A12
+  value: Defends the body against infectious microorganisms (bacteria, viruses, fungi)
+    and abnormal cells using innate physical barriers and adaptive antibody/cellular
+    responses.
+- field_id: CHCCCS041_TXT_6_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Renal system - Function
+  table_idx: 6
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2448F2E5
+  value: Filters metabolic wastes and toxins from blood, regulates systemic fluid
+    and electrolyte balance, and maintains blood pH through urine excretion.
+- field_id: CHCCCS041_TXT_7_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Eyes - Briefly explain the basic functions of the following sensory organs.
+  table_idx: 7
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7DE9086E
+  value: 'Eyes: Photoreceptor organs that detect light waves and transmit electrical
+    impulses via the optic nerve to the brain for visual processing.'
+- field_id: CHCCCS041_TXT_7_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Include its two main functions.
+  table_idx: 7
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5D843086
+  value: 'Ears: Mechanoreceptors that detect acoustic sound waves for hearing and
+    fluid movements in semicircular canals to maintain balance and spatial equilibrium.'
+- field_id: CHCCCS041_TXT_7_4_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Include its two main functions.
+  table_idx: 7
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 334677C5
+  value: 'Ears: Mechanoreceptors that detect acoustic sound waves for hearing and
+    fluid movements in semicircular canals to maintain balance and spatial equilibrium.'
+- field_id: CHCCCS041_TXT_7_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Tongue - Briefly explain the basic functions of the following sensory organs.
+  table_idx: 7
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77E84748
+  value: 'Nose: Houses olfactory receptors that detect airborne chemical odor molecules
+    and filters/warms inhaled air.'
+- field_id: CHCCCS041_TXT_7_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Nose - Briefly explain the basic functions of the following sensory organs.
+  table_idx: 7
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 401233E7
+  value: 'Tongue: Features gustatory papillae taste buds that detect basic chemical
+    tastes (sweet, salty, sour, bitter, umami) and assists with mastication and swallowing.'
+- field_id: CHCCCS041_TXT_37_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Complete the following sentences:
+
+    The  and  systems work together to circulate blood and oxygen in o'
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 66941C52
+  value: cardiovascular
+- field_id: CHCCCS041_TXT_37_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Complete the following sentences:
+
+    The  and  systems work together to circulate blood and oxygen in o'
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 66941C52
+  value: respiratory
+- field_id: CHCCCS041_TXT_37_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Complete the following sentences:
+
+    The  and  systems work together to circulate blood and oxygen in o'
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 777F8D5C
+  value: muscular
+- field_id: CHCCCS041_TXT_37_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Complete the following sentences:
+
+    The  and  systems work together to circulate blood and oxygen in o'
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 777F8D5C
+  value: skeletal
+- field_id: CHCCCS041_TXT_37_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Complete the following sentences:
+
+    The  and  systems work together to circulate blood and oxygen in o'
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 65CF733A
+  value: skeletal
+- field_id: CHCCCS041_TXT_37_0_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: 'Complete the following sentences:
+
+    The  and  systems work together to circulate blood and oxygen in o'
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 65CF733A
+  value: skeletal
+- field_id: CHCCCS041_TXT_37_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: How is the lymphatic system connected to the immune system?
+  table_idx: 37
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0F09C6FA
+  value: cardiovascular
+- field_id: CHCCCS041_TXT_37_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: "Which organ links the endocrine and nervous systems? \n\nWhat does this\
+    \ organ do?"
+  table_idx: 37
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4C62BA1B
+  value: cardiovascular
+- field_id: CHCCCS041_TXT_37_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: "Which organ links the endocrine and nervous systems? \n\nWhat does this\
+    \ organ do?"
+  table_idx: 37
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2DB8952C
+  value: respiratory
+- field_id: CHCCCS041_TXT_37_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: What type of muscle movement does the nervous system control?
+  table_idx: 37
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 284CF8B8
+  value: cardiovascular
+- field_id: CHCCCS041_TXT_38_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: How does the integumentary system gather information for the nervous system?
+  table_idx: 38
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 548A5566
+  value: Through cutaneous sensory nerve endings and mechanoreceptors embedded in
+    the dermis and epidermis.
+- field_id: CHCCCS041_TXT_38_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Complete the following sentences.\n found within the interior walls of bones\
+    \ is crucial for the prope"
+  table_idx: 38
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3E083DAC
+  value: Through cutaneous sensory nerve endings and mechanoreceptors embedded in
+    the dermis and epidermis.
+- field_id: CHCCCS041_TXT_38_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Complete the following sentences.\n found within the interior walls of bones\
+    \ is crucial for the prope"
+  table_idx: 38
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6B10A7EF
+  value: sensory
+- field_id: CHCCCS041_TXT_38_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Which body system helps distribute the nutrients absorbed in the digestive
+    system?
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7C4272A4
+  value: Through cutaneous sensory nerve endings and mechanoreceptors embedded in
+    the dermis and epidermis.
+- field_id: CHCCCS041_TXT_38_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three ways in which the kidneys support the blood.
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6839E1B0
+  value: Through cutaneous sensory nerve endings and mechanoreceptors embedded in
+    the dermis and epidermis.
+- field_id: CHCCCS041_TXT_38_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three ways in which the kidneys support the blood.
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2A192BE4
+  value: sensory
+- field_id: CHCCCS041_TXT_38_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three ways in which the kidneys support the blood.
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 08B7A5F5
+  value: central nervous
+- field_id: CHCCCS041_TXT_39_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: "Complete the following sentences.\n in the reproductive system produce sex\
+    \ hormones that are responsi"
+  table_idx: 39
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2271A867
+  value: Gonads (testes in males and ovaries in females)
+- field_id: CHCCCS041_TXT_39_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: "Complete the following sentences.\n in the reproductive system produce sex\
+    \ hormones that are responsi"
+  table_idx: 39
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2271A867
+  value: endocrine
+- field_id: CHCCCS041_TXT_39_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: "Complete the following sentences.\n in the reproductive system produce sex\
+    \ hormones that are responsi"
+  table_idx: 39
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 516D778A
+  value: bloodstream
+- field_id: CHCCCS041_TXT_39_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: "Complete the following sentences.\n in the reproductive system produce sex\
+    \ hormones that are responsi"
+  table_idx: 39
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 3CAB365D
+  value: target tissues
+- field_id: CHCCCS041_TXT_39_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: "Complete the following sentences.\n in the reproductive system produce sex\
+    \ hormones that are responsi"
+  table_idx: 39
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 3CAB365D
+  value: homeostasis
+- field_id: CHCCCS041_TXT_39_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Complete the following sentences.
+
+    The  pumps blood filled with oxygen through all the parts of our b'
+  table_idx: 39
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '45876021'
+  value: Gonads (testes in males and ovaries in females)
+- field_id: CHCCCS041_TXT_39_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Complete the following sentences.
+
+    The  pumps blood filled with oxygen through all the parts of our b'
+  table_idx: 39
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 74A67E31
+  value: endocrine
+- field_id: CHCCCS041_TXT_39_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Complete the following sentences.
+
+    The renal and  systems help the body to eliminate liquid waste cal'
+  table_idx: 39
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 44471B2C
+  value: Gonads (testes in males and ovaries in females)
+- field_id: CHCCCS041_TXT_39_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Complete the following sentences.
+
+    The renal and  systems help the body to eliminate liquid waste cal'
+  table_idx: 39
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 44471B2C
+  value: endocrine
+- field_id: CHCCCS041_TXT_39_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: 'Complete the following sentences.
+
+    The renal and  systems help the body to eliminate liquid waste cal'
+  table_idx: 39
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 55142E81
+  value: bloodstream
+- field_id: CHCCCS041_TXT_41_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: Eyes - Explanation
+  table_idx: 41
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 285822E9
+  value: Photoreceptors in the retina convert light waves into electrical nerve impulses
+    sent to the visual cortex.
+- field_id: CHCCCS041_TXT_41_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: Ears - Explanation
+  table_idx: 41
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 323600D3
+  value: Mechanoreceptors in the cochlea translate acoustic vibrations into auditory
+    signals, and semicircular canals maintain balance.
+- field_id: CHCCCS041_TXT_41_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: Nose - Explanation
+  table_idx: 41
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 021B46A2
+  value: Chemoreceptors in the olfactory epithelium bind airborne odorant molecules,
+    transmitting smell signals to the olfactory bulb.
+- field_id: CHCCCS041_TXT_41_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: Tongue - Explanation
+  table_idx: 41
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3FC5B858
+  value: Gustatory taste receptor cells detect dissolved chemical tastants (sweet,
+    salty, sour, bitter, umami) and stimulate salivation.
+- field_id: CHCCCS041_TXT_42_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Which part of the brain helps control body temperature?
+
+
+    How does it help in maintaining body temper'
+  table_idx: 42
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 76A5A229
+  value: The body promotes heat loss through cutaneous vasodilation (flushing) and
+    eccrine sweating; when exposed to cold, it initiates peripheral vasoconstriction
+    and shivering thermogenesis.
+- field_id: CHCCCS041_TXT_42_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Which part of the brain helps control body temperature?
+
+
+    How does it help in maintaining body temper'
+  table_idx: 42
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2ECE0D9C
+  value: The body promotes heat loss through cutaneous vasodilation (flushing) and
+    eccrine sweating; when exposed to cold, it initiates peripheral vasoconstriction
+    and shivering thermogenesis.
+- field_id: CHCCCS041_TXT_42_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Complete the following sentence:
+
+    When exposed to hot conditions,  is one of the primary methods your'
+  table_idx: 42
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 786D2ED8
+  value: The body promotes heat loss through cutaneous vasodilation (flushing) and
+    eccrine sweating; when exposed to cold, it initiates peripheral vasoconstriction
+    and shivering thermogenesis.
+- field_id: CHCCCS041_TXT_42_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How does ageing affect our ability to maintain or regulate body temperature?
+  table_idx: 42
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 23AEB5AB
+  value: The body promotes heat loss through cutaneous vasodilation (flushing) and
+    eccrine sweating; when exposed to cold, it initiates peripheral vasoconstriction
+    and shivering thermogenesis.
+- field_id: CHCCCS041_TXT_43_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  label: 'Complete the following sentence:
+
+    Anhidrosis is the inability to . It occurs when our  don’t function'
+  table_idx: 43
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 444555BE
+  value: sweat normally
+- field_id: CHCCCS041_TXT_43_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  label: 'Complete the following sentence:
+
+    Anhidrosis is the inability to . It occurs when our  don’t function'
+  table_idx: 43
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 444555BE
+  value: sweat glands
+- field_id: CHCCCS041_TXT_43_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  label: List three examples of conditions that may cause anhidrosis.
+  table_idx: 43
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 76275AA4
+  value: sweat normally
+- field_id: CHCCCS041_TXT_43_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  label: List three examples of conditions that may cause anhidrosis.
+  table_idx: 43
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2132B795
+  value: sweat glands
+- field_id: CHCCCS041_TXT_43_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  label: List three examples of conditions that may cause anhidrosis.
+  table_idx: 43
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 59AECED2
+  value: heat exhaustion
+- field_id: CHCCCS041_TXT_44_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Complete the following sentence:
+
+    The  are a pair of bean-shaped organs and are essential for regulat'
+  table_idx: 44
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0DB6ED61
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_44_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How does the organ you identified in Question i help maintain pH (acid-base)
+    balance in the body? Li
+  table_idx: 44
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5F5D2392
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_44_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How does the organ you identified in Question i help maintain pH (acid-base)
+    balance in the body? Li
+  table_idx: 44
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5B97AE18
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_44_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: "What is considered a normal blood pH level? Provide the range:\n to"
+  table_idx: 44
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 015F8538
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_44_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: "What is considered a normal blood pH level? Provide the range:\n to"
+  table_idx: 44
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 015F8538
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_44_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List two factors associated with ageing that may affect this organ’s ability
+    to maintain fluid and e
+  table_idx: 44
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 318491B5
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_44_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List two factors associated with ageing that may affect this organ’s ability
+    to maintain fluid and e
+  table_idx: 44
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 34A71006
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_44_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Respiratory acidosis is caused by the lungs not being able to remove enough
+    carbon when you exhale. '
+  table_idx: 44
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1809F567
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_44_6_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Respiratory acidosis is caused by the lungs not being able to remove enough
+    carbon when you exhale. '
+  table_idx: 44
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 028A0F11
+  value: The kidneys selectively reabsorb or excrete water, sodium, potassium, and
+    chloride ions under the hormonal regulation of aldosterone, antidiuretic hormone
+    (ADH), and atrial natriuretic peptide.
+- field_id: CHCCCS041_TXT_45_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The  is a passive biological system that removes excess and unnecessary materials
+    from the body so a
+  table_idx: 45
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7387BFEE
+  value: kidney
+- field_id: CHCCCS041_TXT_45_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The  is a passive biological system that removes excess and unnecessary materials
+    from the body so a
+  table_idx: 45
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7387BFEE
+  value: large intestine
+- field_id: CHCCCS041_TXT_45_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The main organs involved in waste management are the , , , , and .
+  table_idx: 45
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 51E9D055
+  value: kidney
+- field_id: CHCCCS041_TXT_45_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The main organs involved in waste management are the , , , , and .
+  table_idx: 45
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 51E9D055
+  value: large intestine
+- field_id: CHCCCS041_TXT_45_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The main organs involved in waste management are the , , , , and .
+  table_idx: 45
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 51E9D055
+  value: lungs
+- field_id: CHCCCS041_TXT_45_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The main organs involved in waste management are the , , , , and .
+  table_idx: 45
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 51E9D055
+  value: skin
+- field_id: CHCCCS041_TXT_45_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The main organs involved in waste management are the , , , , and .
+  table_idx: 45
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 51E9D055
+  value: sweat
+- field_id: CHCCCS041_TXT_45_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The  is a vital organ with a wide range of functions, including detoxification,
+    protein synthesis, a
+  table_idx: 45
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 136E1ECE
+  value: kidney
+- field_id: CHCCCS041_TXT_45_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The skin has  that secrete a fluid waste called perspiration or sweat.
+  table_idx: 45
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 218DBF0E
+  value: kidney
+- field_id: CHCCCS041_TXT_45_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: The  diffuse gaseous wastes, such as carbon dioxide, from the bloodstream
+    as a normal part of respir
+  table_idx: 45
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0A40B785
+  value: kidney
+- field_id: CHCCCS041_TXT_45_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: "The final step in digestion is the elimination of undigested food content\
+    \ and waste products. \nAfter"
+  table_idx: 45
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 11C0ACD1
+  value: kidney
+- field_id: CHCCCS041_TXT_45_7_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_45
+  label: "The final step in digestion is the elimination of undigested food content\
+    \ and waste products. \nAfter"
+  table_idx: 45
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 11C0ACD1
+  value: large intestine
+- field_id: CHCCCS041_TXT_46_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Complete the following sentence:
+
+    Our body tries to maintain stable blood pressure through the proces'
+  table_idx: 46
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5DA76737
+  value: Systolic pressure is the maximum arterial pressure during ventricular myocardial
+    contraction; diastolic pressure is the minimum resting pressure during ventricular
+    relaxation. Regulated by baroreceptors.
+- field_id: CHCCCS041_TXT_46_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is systolic and diastolic pressure?
+  table_idx: 46
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3E227067
+  value: Systolic pressure is the maximum arterial pressure during ventricular myocardial
+    contraction; diastolic pressure is the minimum resting pressure during ventricular
+    relaxation. Regulated by baroreceptors.
+- field_id: CHCCCS041_TXT_46_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is systolic and diastolic pressure?
+  table_idx: 46
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5B97154A
+  value: Systolic pressure is the maximum arterial pressure during ventricular myocardial
+    contraction; diastolic pressure is the minimum resting pressure during ventricular
+    relaxation. Regulated by baroreceptors.
+- field_id: CHCCCS041_TXT_46_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the three factors that can affect blood pressure.
+  table_idx: 46
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 07573FE0
+  value: Systolic pressure is the maximum arterial pressure during ventricular myocardial
+    contraction; diastolic pressure is the minimum resting pressure during ventricular
+    relaxation. Regulated by baroreceptors.
+- field_id: CHCCCS041_TXT_46_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the three factors that can affect blood pressure.
+  table_idx: 46
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5B14F8C4
+  value: Systolic pressure is the maximum arterial pressure during ventricular myocardial
+    contraction; diastolic pressure is the minimum resting pressure during ventricular
+    relaxation. Regulated by baroreceptors.
+- field_id: CHCCCS041_TXT_46_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the three factors that can affect blood pressure.
+  table_idx: 46
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 74737B12
+  value: Systolic pressure is the maximum arterial pressure during ventricular myocardial
+    contraction; diastolic pressure is the minimum resting pressure during ventricular
+    relaxation. Regulated by baroreceptors.
+- field_id: CHCCCS041_TXT_46_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How does ageing affect our ability to maintain blood pressure?
+  table_idx: 46
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '26257254'
+  value: Systolic pressure is the maximum arterial pressure during ventricular myocardial
+    contraction; diastolic pressure is the minimum resting pressure during ventricular
+    relaxation. Regulated by baroreceptors.
+- field_id: CHCCCS041_TXT_47_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Complete the following sentences:
+
+    , a protein inside skin cells, makes up the skin cells and, along '
+  table_idx: 47
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7086A259
+  value: White blood cells destroy invading pathogens via phagocytosis (neutrophils
+    and macrophages) and antibody-mediated neutralization (B-lymphocytes).
+- field_id: CHCCCS041_TXT_47_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Complete the following sentences:
+
+    , a protein inside skin cells, makes up the skin cells and, along '
+  table_idx: 47
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7086A259
+  value: White blood cells destroy invading pathogens via phagocytosis (neutrophils
+    and macrophages) and antibody-mediated neutralization (B-lymphocytes).
+- field_id: CHCCCS041_TXT_47_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Complete the following sentences:
+
+    , a protein inside skin cells, makes up the skin cells and, along '
+  table_idx: 47
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 28F202BB
+  value: White blood cells destroy invading pathogens via phagocytosis (neutrophils
+    and macrophages) and antibody-mediated neutralization (B-lymphocytes).
+- field_id: CHCCCS041_TXT_47_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How do white blood cells fight infection?
+  table_idx: 47
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 58EDA6C9
+  value: White blood cells destroy invading pathogens via phagocytosis (neutrophils
+    and macrophages) and antibody-mediated neutralization (B-lymphocytes).
+- field_id: CHCCCS041_CB_47_4_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'True or false: Fever is an immune system response, and a rise in temperature
+    can kill some microbes '
+  table_idx: 47
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-355960410'
+  value: White blood cells destroy invading pathogens via phagocytosis (neutrophils
+    and macrophages) and antibody-mediated neutralization (B-lymphocytes).
+- field_id: CHCCCS041_CB_47_4_0_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'True or false: Fever is an immune system response, and a rise in temperature
+    can kill some microbes '
+  table_idx: 47
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  sdt_id: '1368727712'
+  value: White blood cells destroy invading pathogens via phagocytosis (neutrophils
+    and macrophages) and antibody-mediated neutralization (B-lymphocytes).
+- field_id: CHCCCS041_TXT_48_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  label: Adults aged 65 years and above, with the advice of a health professional,
+    should do at least  minute
+  table_idx: 48
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3A64A219
+  value: Older adults with poor mobility should perform balance exercises, seated
+    resistance training, and gentle walking for at least 30 minutes on most days to
+    reduce fall risks.
+- field_id: CHCCCS041_TXT_48_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  label: Adults aged 65 years and above, with the advice of a health professional,
+    should do at least  minute
+  table_idx: 48
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 3A64A219
+  value: Older adults with poor mobility should perform balance exercises, seated
+    resistance training, and gentle walking for at least 30 minutes on most days to
+    reduce fall risks.
+- field_id: CHCCCS041_TXT_48_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  label: 'Those with poor mobility should perform physical activity to enhance balance
+    and prevent falls,  or '
+  table_idx: 48
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 28302A97
+  value: Older adults with poor mobility should perform balance exercises, seated
+    resistance training, and gentle walking for at least 30 minutes on most days to
+    reduce fall risks.
+- field_id: CHCCCS041_TXT_48_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  label: Muscle-strengthening activities should be done involving major muscle groups,  or
+    more days a week.
+  table_idx: 48
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 532089B1
+  value: Older adults with poor mobility should perform balance exercises, seated
+    resistance training, and gentle walking for at least 30 minutes on most days to
+    reduce fall risks.
+- field_id: CHCCCS041_TXT_48_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  label: While there are no formal guidelines for people with disability or chronic
+    conditions, how they will
+  table_idx: 48
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 17F00C6B
+  value: Older adults with poor mobility should perform balance exercises, seated
+    resistance training, and gentle walking for at least 30 minutes on most days to
+    reduce fall risks.
+- field_id: CHCCCS041_TXT_48_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  label: People with a disability or chronic conditions are also recommended to try
+    and meet the physical rec
+  table_idx: 48
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 010E7E09
+  value: Older adults with poor mobility should perform balance exercises, seated
+    resistance training, and gentle walking for at least 30 minutes on most days to
+    reduce fall risks.
+- field_id: CHCCCS041_TXT_49_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is active exercise?
+  table_idx: 49
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6B34DA95
+  value: Active exercise is recommended for clients with voluntary muscle control
+    to improve cardiovascular fitness; passive exercise is recommended for bedbound,
+    paralyzed, or post-stroke clients to maintain joint range of motion.
+- field_id: CHCCCS041_TXT_49_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Which client group/s is active exercise recommended for?
+  table_idx: 49
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3AC5EFA2
+  value: Active exercise is recommended for clients with voluntary muscle control
+    to improve cardiovascular fitness; passive exercise is recommended for bedbound,
+    paralyzed, or post-stroke clients to maintain joint range of motion.
+- field_id: CHCCCS041_TXT_49_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is passive exercise?
+  table_idx: 49
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 53050F11
+  value: Active exercise is recommended for clients with voluntary muscle control
+    to improve cardiovascular fitness; passive exercise is recommended for bedbound,
+    paralyzed, or post-stroke clients to maintain joint range of motion.
+- field_id: CHCCCS041_TXT_49_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Identify one example of passive exercise and who may benefit from this type
+    of exercise.
+
+    Example of '
+  table_idx: 49
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7E8286C6
+  value: Active exercise is recommended for clients with voluntary muscle control
+    to improve cardiovascular fitness; passive exercise is recommended for bedbound,
+    paralyzed, or post-stroke clients to maintain joint range of motion.
+- field_id: CHCCCS041_TXT_49_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Identify one example of passive exercise and who may benefit from this type
+    of exercise.
+
+    Example of '
+  table_idx: 49
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4AF4B963
+  value: Active exercise is recommended for clients with voluntary muscle control
+    to improve cardiovascular fitness; passive exercise is recommended for bedbound,
+    paralyzed, or post-stroke clients to maintain joint range of motion.
+- field_id: CHCCCS041_TXT_50_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  label: Nutrition - List one way of promoting and maintaining the health and well-being
+    of older individuals
+  table_idx: 50
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2AA9AAE9
+  value: Providing balanced, nutrient-dense meals tailored to clinical dietary requirements,
+    and supporting daily oral and personal hygiene routines.
+- field_id: CHCCCS041_TXT_50_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  label: Hydration - List one way of promoting and maintaining the health and well-being
+    of older individuals
+  table_idx: 50
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6353A40E
+  value: Providing balanced, nutrient-dense meals tailored to clinical dietary requirements,
+    and supporting daily oral and personal hygiene routines.
+- field_id: CHCCCS041_TXT_50_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  label: Skin integrity - List one way of promoting and maintaining the health and
+    well-being of older indivi
+  table_idx: 50
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2F271113
+  value: Providing balanced, nutrient-dense meals tailored to clinical dietary requirements,
+    and supporting daily oral and personal hygiene routines.
+- field_id: CHCCCS041_TXT_50_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  label: 'Movement - List one way of promoting and maintaining the health and well-being
+    of older individuals '
+  table_idx: 50
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0A9F4DA3
+  value: Providing balanced, nutrient-dense meals tailored to clinical dietary requirements,
+    and supporting daily oral and personal hygiene routines.
+- field_id: CHCCCS041_TXT_50_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  label: Social interaction - List one way of promoting and maintaining the health
+    and well-being of older in
+  table_idx: 50
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 17B71499
+  value: Providing balanced, nutrient-dense meals tailored to clinical dietary requirements,
+    and supporting daily oral and personal hygiene routines.
+- field_id: CHCCCS041_TXT_51_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Table 51 Row 2 Col 0
+  table_idx: 51
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1D50E86F
+  value: Nutrition supplies the essential proteins, vitamins, and fluids needed for
+    tissue repair and immune vitality, while strict personal and food hygiene prevents
+    pathogenic infection.
+- field_id: CHCCCS041_TXT_52_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_52
+  label: Table 52 Row 2 Col 0
+  table_idx: 52
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5199665E
+  value: Poor oral hygiene causes periodontitis, tooth loss, and severe mouth pain,
+    making chewing difficult, leading to food avoidance, poor nutritional intake,
+    and unintentional weight loss.
+- field_id: CHCCCS041_TXT_53_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How does ageing affect exercise and movement?
+  table_idx: 53
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5230572D
+  value: Disabilities such as hemiplegia, paraplegia, spasticity, or severe arthritis
+    restrict physical mobility, requiring assistive mobility devices and regular passive/active
+    physical support.
+- field_id: CHCCCS041_TXT_53_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How does disability affect exercise and movement?
+  table_idx: 53
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 30F6079C
+  value: Disabilities such as hemiplegia, paraplegia, spasticity, or severe arthritis
+    restrict physical mobility, requiring assistive mobility devices and regular passive/active
+    physical support.
+- field_id: CHCCCS041_TXT_53_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How do illnesses and other conditions restrict one’s daily life?
+  table_idx: 53
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 05CA0F1C
+  value: Disabilities such as hemiplegia, paraplegia, spasticity, or severe arthritis
+    restrict physical mobility, requiring assistive mobility devices and regular passive/active
+    physical support.
+- field_id: CHCCCS041_TXT_53_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How do these restrictions (referred to in the previous question) affect their
+    exercise and movement?
+  table_idx: 53
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5D1A8337
+  value: Disabilities such as hemiplegia, paraplegia, spasticity, or severe arthritis
+    restrict physical mobility, requiring assistive mobility devices and regular passive/active
+    physical support.
+- field_id: CHCCCS041_TXT_54_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Malnutrition - Identify one example of indicators of issues that must be
+    reported in relation to eac
+  table_idx: 54
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5431E50A
+  value: 'Skin tear / wound: Epidermal separation, localized bleeding, erythema, and
+    purulent exudate.'
+- field_id: CHCCCS041_TXT_54_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Dehydration - Identify one example of indicators of issues that must be reported
+    in relation to each
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6D02C980
+  value: 'Incontinence: Strong ammonia odor, wet bedding/clothing, and excoriated
+    perineal skin.'
+- field_id: CHCCCS041_TXT_54_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Weight regulation - Identify one example of indicators of issues that must
+    be reported in relation t
+  table_idx: 54
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3704D6A7
+  value: 'Respiratory infection: Productive cough with yellow/green sputum, wheezing,
+    and fever.'
+- field_id: CHCCCS041_TXT_54_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Oral health - Identify one example of indicators of issues that must be reported
+    in relation to each
+  table_idx: 54
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0B68EE36
+  value: 'Oral health: Bleeding swollen gums, loose teeth, severe halitosis, or painful
+    mouth ulcers.'
+- field_id: CHCCCS041_TXT_54_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Appetite regulation - Identify one example of indicators of issues that must
+    be reported in relation
+  table_idx: 54
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7D339703
+  value: 'Appetite regulation: Unexplained sudden loss of appetite, skipping multiple
+    meals consecutively, or leaving more than half of meal portions untouched.'
+- field_id: CHCCCS041_TXT_55_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Dysphagia - Indicator of issues (Provide one example only)
+  table_idx: 55
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2436EFB5
+  value: 'Dysphagia: Persistent coughing, throat clearing, or choking during meals,
+    and pocketing food.'
+- field_id: CHCCCS041_TXT_55_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Bone health issues - Indicator of issues (Provide one example only)
+  table_idx: 55
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 34B17722
+  value: 'Bone health: Gradual loss of height, stooped kyphotic posture, or fracture
+    from minor bumps.'
+- field_id: CHCCCS041_TXT_55_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Food intolerance - Indicator of issues (Provide one example only)
+  table_idx: 55
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5FE16CB2
+  value: 'Food intolerance: Abdominal cramps, flatulence, nausea, diarrhea, or urticaria
+    following meal intake.'
+- field_id: CHCCCS041_TXT_55_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Dementia - Indicator of issues (Provide one example only)
+  table_idx: 55
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29A6C4B7
+  value: 'Dementia: Disorientation to familiar surroundings, losing track of conversations,
+    and impaired judgment.'
+- field_id: CHCCCS041_TXT_55_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Cognitive changes - Indicator of issues (Provide one example only)
+  table_idx: 55
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3797B7B7
+  value: 'Cognitive decline: Difficulty following multi-step instructions and sudden
+    personality changes.'
+- field_id: CHCCCS041_TXT_56_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Continence and bowel health - How does ageing affect the following areas?
+  table_idx: 56
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 48A6A8F3
+  value: 'Bone health: Decreased bone mineral density (osteopenia/osteoporosis), increasing
+    fracture vulnerability.'
+- field_id: CHCCCS041_TXT_56_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Malnutrition - How does ageing affect the following areas?
+  table_idx: 56
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 451BF047
+  value: 'Skin integrity: Thinning epidermis, loss of collagen and subcutaneous fat,
+    delayed healing, and heightened risk of tears.'
+- field_id: CHCCCS041_TXT_56_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Dehydration - How does ageing affect the following areas?
+  table_idx: 56
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6D2C55DD
+  value: 'Pressure point injuries: Compromised microcirculation and reduced mobility
+    lead to rapid tissue ischemia over bony prominences.'
+- field_id: CHCCCS041_TXT_56_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Oral health - How does ageing affect the following areas?
+  table_idx: 56
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 04610A51
+  value: Ageing causes dry mouth (xerostomia), receding gums, brittle teeth, and reduced
+    taste bud sensitivity.
+- field_id: CHCCCS041_TXT_56_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Dysphagia - How does ageing affect the following areas?
+  table_idx: 56
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 33D5018D
+  value: 'Dysphagia: Age-related pharyngeal muscle weakness, xerostomia (dry mouth),
+    and delayed swallowing reflexes increase coughing and aspiration risks.'
+- field_id: CHCCCS041_TXT_57_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_57
+  label: Bone health - How it is affected by ageing
+  table_idx: 57
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 74BE9766
+  value: Decreased bone mineral density (osteopenia/osteoporosis), increasing vulnerability
+    to low-trauma fractures.
+- field_id: CHCCCS041_TXT_57_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_57
+  label: Food intolerance - How it is affected by ageing
+  table_idx: 57
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 67BE8EB3
+  value: Age-related structural skin thinning, loss of subcutaneous fat, and impaired
+    collagen synthesis.
+- field_id: CHCCCS041_TXT_57_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_57
+  label: Skin integrity and wounds - How it is affected by ageing
+  table_idx: 57
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 091F1927
+  value: Age-related structural skin thinning, loss of subcutaneous fat, and impaired
+    collagen synthesis.
+- field_id: CHCCCS041_TXT_57_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_57
+  label: Pressure point injuries - How it is affected by ageing
+  table_idx: 57
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1EB828D1
+  value: Age-related structural skin thinning, loss of subcutaneous fat, and impaired
+    collagen synthesis.
+- field_id: CHCCCS041_TXT_57_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_57
+  label: Dementia - How it is affected by ageing
+  table_idx: 57
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3FBD689D
+  value: Age-related structural skin thinning, loss of subcutaneous fat, and impaired
+    collagen synthesis.
+- field_id: CHCCCS041_TXT_58_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_58
+  label: Area - How it is affected by ageing
+  table_idx: 58
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 15858FC1
+  value: Increased risk of depression, anxiety, social isolation, and grief associated
+    with loss of independence and peers.
+- field_id: CHCCCS041_TXT_58_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_58
+  label: Mental health - How it is affected by ageing
+  table_idx: 58
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '47940534'
+  value: Increased risk of depression, anxiety, social isolation, and grief associated
+    with loss of independence and peers.
+- field_id: CHCCCS041_TXT_59_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_59
+  label: Weight regulation - How does having a disability affect the following areas?
+  table_idx: 59
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 315327C1
+  value: Reduced physical mobility reduces caloric expenditure, while certain psychiatric
+    medications cause appetite stimulation, leading to weight gain and secondary cardiovascular
+    strain.
+- field_id: CHCCCS041_TXT_59_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_59
+  label: Appetite regulation - How does having a disability affect the following areas?
+  table_idx: 59
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 120F025E
+  value: Reduced physical mobility reduces caloric expenditure, while certain psychiatric
+    medications cause appetite stimulation, leading to weight gain and secondary cardiovascular
+    strain.
+- field_id: CHCCCS041_TXT_60_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_60
+  label: Emotional wellbeing - Describe how physical illnesses and conditions affect
+    different areas of a per
+  table_idx: 60
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 232C31D5
+  value: Chronic physical illness induces ongoing pain, fatigue, and frustration,
+    which can erode self-esteem and lead to depression, anxiety, and social withdrawal.
+- field_id: CHCCCS041_TXT_60_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_60
+  label: Mental wellbeing - Describe how physical illnesses and conditions affect
+    different areas of a person
+  table_idx: 60
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 71F25285
+  value: Chronic physical illness induces ongoing pain, fatigue, and frustration,
+    which can erode self-esteem and lead to depression, anxiety, and social withdrawal.
+- field_id: CHCCCS041_TXT_61_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Physical changes - As a support worker, how can you recognise physical and
+    mood changes that are not
+  table_idx: 61
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1F52630F
+  value: 'By observing deviations from the client''s documented baseline: changes
+    in posture, facial expressions, speech speed, appetite, gait balance, or sudden
+    agitation.'
+- field_id: CHCCCS041_TXT_61_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Mood changes - As a support worker, how can you recognise physical and mood
+    changes that are not nor
+  table_idx: 61
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2CD4C0B7
+  value: 'By observing deviations from the client''s documented baseline: changes
+    in posture, facial expressions, speech speed, appetite, gait balance, or sudden
+    agitation.'
+- field_id: CHCCCS041_TXT_62_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three ways people may respond to pain and discomfort.
+  table_idx: 62
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 765FE592
+  value: '1. Non-verbal facial expressions: Grimacing, furrowed brow, clenching teeth.'
+- field_id: CHCCCS041_TXT_62_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three ways people may respond to pain and discomfort.
+  table_idx: 62
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 57F70EA5
+  value: '1. Non-verbal facial expressions: Grimacing, furrowed brow, clenching teeth.'
+- field_id: CHCCCS041_TXT_62_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three ways people may respond to pain and discomfort.
+  table_idx: 62
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 1AE7C10E
+  value: '1. Non-verbal facial expressions: Grimacing, furrowed brow, clenching teeth.'
+- field_id: CHCCCS041_TXT_62_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three ways you can effectively communicate with people who are in pain
+    and discomfort.
+  table_idx: 62
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0A5EC43B
+  value: '2. Vocalisations: Moaning, whimpering, grunting, or calling out.'
+- field_id: CHCCCS041_TXT_62_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three ways you can effectively communicate with people who are in pain
+    and discomfort.
+  table_idx: 62
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6A8EA564
+  value: '2. Vocalisations: Moaning, whimpering, grunting, or calling out.'
+- field_id: CHCCCS041_TXT_62_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three ways you can effectively communicate with people who are in pain
+    and discomfort.
+  table_idx: 62
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 0984AA00
+  value: '2. Vocalisations: Moaning, whimpering, grunting, or calling out.'
+- field_id: CHCCCS041_TXT_62_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How does ageing affect a person’s pain and discomfort?
+  table_idx: 62
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2BFE08E8
+  value: '3. Body language and behaviours: Guarding painful areas, restlessness, agitation,
+    or sudden withdrawal.'
+- field_id: CHCCCS041_TXT_62_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How does disability affect a person’s pain and discomfort?
+  table_idx: 62
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 67AA94E4
+  value: Cognitive or communicative disability can impair the ability to articulate
+    pain verbally, leading to behavioural expressions such as aggression, grimacing,
+    or withdrawal.
+- field_id: CHCCCS041_TXT_63_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: "Complete the following sentence:\n is for the measurement of pain in people\
+    \ who cannot verbalise."
+  table_idx: 63
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 57DCD553
+  value: Abbey Pain Scale
+- field_id: CHCCCS041_TXT_63_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: The Wong-Baker FACES Pain rating scale was developed for young people to
+    help them communicate how m
+  table_idx: 63
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '32438964'
+  value: Abbey Pain Scale
+- field_id: CHCCCS041_TXT_63_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: The Wong-Baker FACES Pain rating scale was developed for young people to
+    help them communicate how m
+  table_idx: 63
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 63FA9BD7
+  value: Wong-Baker FACES Pain Rating Scale
+- field_id: CHCCCS041_TXT_63_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: The Wong-Baker FACES Pain rating scale was developed for young people to
+    help them communicate how m
+  table_idx: 63
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: '20397122'
+  value: facial expression
+- field_id: CHCCCS041_TXT_63_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: The Wong-Baker FACES Pain rating scale was developed for young people to
+    help them communicate how m
+  table_idx: 63
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 2C34DD6C
+  value: vocalisation
+- field_id: CHCCCS041_TXT_63_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: The Wong-Baker FACES Pain rating scale was developed for young people to
+    help them communicate how m
+  table_idx: 63
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 031F48F0
+  value: body language
+- field_id: CHCCCS041_TXT_63_1_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: The Wong-Baker FACES Pain rating scale was developed for young people to
+    help them communicate how m
+  table_idx: 63
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 623DC45A
+  value: physiological changes
+- field_id: CHCCCS041_TXT_64_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_64
+  label: Coronary heart disease - Briefly explain how each of the following common
+    diseases affects body func
+  table_idx: 64
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4A1DFFD8
+  value: 'Coronary heart disease: Narrowing of coronary arteries impairs myocardial
+    blood supply, causing angina, shortness of breath, and risk of acute myocardial
+    infarction.'
+- field_id: CHCCCS041_TXT_64_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_64
+  label: Diabetes - Briefly explain how each of the following common diseases affects
+    body functioning.
+  table_idx: 64
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2DD26F16
+  value: 'Coronary heart disease: Narrowing of coronary arteries impairs myocardial
+    blood supply, causing angina, shortness of breath, and risk of acute myocardial
+    infarction.'
+- field_id: CHCCCS041_TXT_65_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_65
+  label: Table 65 Row 2 Col 0
+  table_idx: 65
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2CE7E516
+  value: Poor oral hygiene produces constant dental pain, difficulty chewing, bad
+    breath, and loss of teeth, destroying self-esteem, social confidence, and enjoyment
+    of eating.
+- field_id: CHCCCS041_TXT_66_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_66
+  label: Table 66 Row 2 Col 0
+  table_idx: 66
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 41E6FCF0
+  value: 1. Refusing hard food textures or wincing while drinking cold/hot liquids.
+- field_id: CHCCCS041_TXT_66_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_66
+  label: Table 66 Row 3 Col 0
+  table_idx: 66
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 39944E0D
+  value: 2. Frequent touching of the mouth, cheek, or pulling at jaw.
+- field_id: CHCCCS041_TXT_66_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_66
+  label: Table 66 Row 4 Col 0
+  table_idx: 66
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 106E14D8
+  value: 3. Increased agitation, refusal of oral hygiene assistance, or foul mouth
+    odor with swollen gums.
+- field_id: CHCCCS041_TXT_67_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: Physical disability - Briefly describe each type of disability listed below.
+  table_idx: 67
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 460C2B6D
+  value: 'Intellectual disability: Significantly reduced ability to understand new
+    concepts, solve problems, and learn new skills.'
+- field_id: CHCCCS041_TXT_67_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: Cognitive disability - Briefly describe each type of disability listed below.
+  table_idx: 67
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4A26EE09
+  value: 'Cognitive disability: Impairment in memory, attention, executive functioning,
+    or perception.'
+- field_id: CHCCCS041_TXT_67_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: Intellectual disability - Briefly describe each type of disability listed
+    below.
+  table_idx: 67
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 20B8193E
+  value: 'Psychiatric disability: Mental health conditions such as schizophrenia or
+    bipolar disorder impacting emotion, thought, and behaviour.'
+- field_id: CHCCCS041_TXT_67_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: Psychosocial disability - Briefly describe each type of disability listed
+    below.
+  table_idx: 67
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3F60D786
+  value: 'Neurological disability: Damage to the central or peripheral nervous system
+    (e.g. stroke, multiple sclerosis, Parkinson''s disease).'
+- field_id: CHCCCS041_TXT_67_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: Hearing impairment - Briefly describe each type of disability listed below.
+  table_idx: 67
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 09F532F2
+  value: 'Hearing impairment: Partial or total inability to perceive acoustic sounds
+    due to damage to the auditory nerve, cochlea, or middle ear.'
+- field_id: CHCCCS041_TXT_67_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: Vision impairment - Briefly describe each type of disability listed below.
+  table_idx: 67
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 46AC6725
+  value: 'Vision impairment: Significant loss of sight not fully correctable by standard
+    glasses (e.g. macular degeneration, cataracts, glaucoma).'
+- field_id: CHCCCS041_TXT_68_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_68
+  label: Table 68 Row 2 Col 0
+  table_idx: 68
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7CE318D6
+  value: 1. Review client individualised care plan and identify specific recommendations
+    from allied health professionals.
+- field_id: CHCCCS041_TXT_68_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_68
+  label: Table 68 Row 3 Col 0
+  table_idx: 68
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 480292C5
+  value: 2. Attend multi-disciplinary case conferences to discuss client goals and
+    progress.
+- field_id: CHCCCS041_TXT_68_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_68
+  label: Table 68 Row 4 Col 0
+  table_idx: 68
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3367AEE8
+  value: 3. Implement prescribed therapeutic exercises and assistive devices under
+    professional guidance.
+- field_id: CHCCCS041_TXT_68_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_68
+  label: Table 68 Row 5 Col 0
+  table_idx: 68
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 21D9A769
+  value: 4. Document daily outcomes and report any client difficulties or setbacks
+    to the health professional.
+- field_id: CHCCCS041_TXT_70_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Abrasion - Explanation
+  table_idx: 70
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 175C4989
+  value: 'Abrasion: A superficial rubbing or scraping of the surface layers of the
+    skin.'
+- field_id: CHCCCS041_TXT_70_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Cardi- or cardio- - Explanation
+  table_idx: 70
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 359DBE9B
+  value: 'Abrasion: Superficial damage to the skin caused by friction or scraping.'
+- field_id: CHCCCS041_TXT_70_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Cephalgia - Explanation
+  table_idx: 70
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 75D3DB51
+  value: 'Cardi- or cardio-: Relating to the heart.'
+- field_id: CHCCCS041_TXT_70_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Contusion - Explanation
+  table_idx: 70
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3E7FD2CF
+  value: 'Cephalgia: Headache or pain in the head.'
+- field_id: CHCCCS041_TXT_71_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_71
+  label: Febrile - Explanation
+  table_idx: 71
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 791A6D6B
+  value: 'Febrile: Showing symptoms of a fever; having an abnormally high body temperature
+    above 37.5°C.'
+- field_id: CHCCCS041_TXT_71_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_71
+  label: Pathogen - Explanation
+  table_idx: 71
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 785EF0AF
+  value: 'Febrile: Having or showing symptoms of a fever (elevated body temperature).'
+- field_id: CHCCCS041_TXT_73_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: CBC - What is stands for?
+  table_idx: 73
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 438E9E33
+  value: 'Complete Blood Count: Measures red cells, white cells, hemoglobin, and platelets
+    to detect infection or anemia.'
+- field_id: CHCCCS041_TXT_73_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: UTI - What is this?
+  table_idx: 73
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 43B06CD5
+  value: 'Blood Pressure: Measures the pressure exerted by circulating blood against
+    arterial walls.'
+- field_id: CHCCCS041_TXT_73_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: Dx - What is stands for?
+  table_idx: 73
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 651BD457
+  value: 'Pro re nata (As needed): Medication taken only when required for specific
+    symptoms.'
+- field_id: CHCCCS041_TXT_73_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: Px - What is this?
+  table_idx: 73
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 16F4CC8A
+  value: 'Activities of Daily Living: Basic daily self-care tasks (bathing, dressing,
+    eating, mobility).'
+- field_id: CHCCCS041_TXT_73_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: URI - What is stands for?
+  table_idx: 73
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 44C73B0E
+  value: 'Upper Respiratory Infection: An acute infection affecting the nose, throat,
+    sinuses, or larynx (e.g. common cold, pharyngitis, sinusitis).'
+- field_id: CHCCCS041_TXT_78_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_78
+  label: Table 78 Row 0 Col 0
+  table_idx: 78
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 44E7FE56
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_78_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_78
+  label: Table 78 Row 1 Col 0
+  table_idx: 78
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2A37D661
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_78_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_78
+  label: Table 78 Row 2 Col 0
+  table_idx: 78
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6A5F849E
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_78_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_78
+  label: Table 78 Row 3 Col 0
+  table_idx: 78
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0873A887
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_80_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_80
+  label: Table 80 Row 0 Col 0
+  table_idx: 80
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 47A00772
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_80_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_80
+  label: Table 80 Row 1 Col 0
+  table_idx: 80
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0260545B
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_80_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_80
+  label: Table 80 Row 2 Col 0
+  table_idx: 80
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0586BB27
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_81_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: Table 81 Row 0 Col 0
+  table_idx: 81
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 05A97A20
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_81_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: Table 81 Row 0 Col 0
+  table_idx: 81
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 51BED479
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_81_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: Table 81 Row 0 Col 0
+  table_idx: 81
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 20E9FE4D
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_81_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: Table 81 Row 0 Col 0
+  table_idx: 81
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 4BCD895E
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_81_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: Table 81 Row 0 Col 0
+  table_idx: 81
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 271BBA3C
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_83_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_83
+  label: Table 83 Row 0 Col 0
+  table_idx: 83
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AAC4A1D
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_85_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_85
+  label: Table 85 Row 0 Col 0
+  table_idx: 85
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4AE93B7C
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 0 Col 0
+  table_idx: 87
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6BA585B1
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 1 Col 0
+  table_idx: 87
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 46B7A1F1
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 2 Col 0
+  table_idx: 87
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 77BF5051
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 3 Col 0
+  table_idx: 87
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1F65B457
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 4 Col 0
+  table_idx: 87
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 52D36AA6
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 5 Col 0
+  table_idx: 87
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 229D6321
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 6 Col 0
+  table_idx: 87
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4BF44FCC
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 7 Col 0
+  table_idx: 87
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6059C6CA
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_87_8_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Table 87 Row 8 Col 0
+  table_idx: 87
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0A7C78EE
+  value: Follow organizational clinical protocols, check vital signs, report abnormal
+    readings to the Registered Nurse, and record findings in the client health chart.
+- field_id: CHCCCS041_TXT_91_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: As a support worker, what is your responsibility when there are changes to
+    the person’s physical and
+  table_idx: 91
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4CD41477
+  value: Notify the workplace supervisor/registered nurse immediately and assist in
+    stabilizing the client within scope of practice.
+- field_id: CHCCCS041_TXT_91_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: To whom should these changes be reported?
+  table_idx: 91
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 74B11351
+  value: To the Registered Nurse / Workplace Supervisor immediately, followed by the
+    facility manager and treating doctor.
+- field_id: CHCCCS041_TXT_91_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How should these changes be reported?
+  table_idx: 91
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 30A9CF82
+  value: Verbally in person or via telephone immediately, followed by formal written
+    documentation in the organizational Incident Report Form.
+- field_id: CHCCCS041_TXT_91_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: When should these changes be reported?
+  table_idx: 91
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5D2AA72C
+  value: Immediately upon discovery or stabilization of the client, without delay.
+- field_id: CHCCCS041_TXT_92_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_92
+  label: Table 92 Row 2 Col 0
+  table_idx: 92
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 52314BFB
+  value: 1. Deep hematoma on right hip with severe pain upon palpation.
+- field_id: CHCCCS041_TXT_92_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_92
+  label: Table 92 Row 3 Col 0
+  table_idx: 92
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5D2849F4
+  value: 2. Suspected hip fracture with leg shortening and external rotation.
+- field_id: CHCCCS041_TXT_92_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_92
+  label: Table 92 Row 4 Col 0
+  table_idx: 92
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2BF04C60
+  value: 3. Acute hypotension (blood pressure 90/60 mmHg) and tachycardia.
+- field_id: CHCCCS041_TXT_93_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_93
+  label: Table 93 Row 2 Col 0
+  table_idx: 93
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 00196D90
+  value: Madge exhibited acute distress, confusion, crying, and severe anxiety about
+    falling again.
+- field_id: CHCCCS041_TXT_95_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: 'Location:'
+  table_idx: 95
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 19E1BE03
+  value: CareConnect College Aged Care Facility - Room 22
+- field_id: CHCCCS041_TXT_95_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: 'Supervisor:'
+  table_idx: 95
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 240B1A91
+  value: CareConnect College Aged Care Facility - Room 22
+- field_id: CHCCCS041_TXT_95_4_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: 'Contact phone:'
+  table_idx: 95
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7D584A35
+  value: CareConnect College Aged Care Facility - Room 22
+- field_id: CHCCCS041_TXT_95_5_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: 'Setting:'
+  table_idx: 95
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5D3D3832
+  value: CareConnect College Aged Care Facility - Room 22
+- field_id: CHCCCS041_TXT_96_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_96
+  label: Day
+  table_idx: 96
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 79FD8C63
+  value: Alex Chen, Support Worker
+- field_id: CHCCCS041_TXT_96_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_96
+  label: Date
+  table_idx: 96
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0120FBDB
+  value: Alex Chen, Support Worker
+- field_id: CHCCCS041_TXT_96_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_96
+  label: Time
+  table_idx: 96
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 696ABBC0
+  value: Alex Chen, Support Worker
+- field_id: CHCCCS041_TXT_96_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_96
+  label: 'Report completed by:'
+  table_idx: 96
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3F923325
+  value: Alex Chen, Support Worker
+- field_id: CHCCCS041_CB_97_1_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: Personal injury
+  table_idx: 97
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '878432070'
+  value: Madge Thompson (Resident, Room 22)
+- field_id: CHCCCS041_CB_97_1_1_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: Staff
+  table_idx: 97
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1023554035'
+  value: Madge Thompson (Resident, Room 22)
+- field_id: CHCCCS041_CB_97_1_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: Customer/client
+  table_idx: 97
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '517673156'
+  value: Madge Thompson (Resident, Room 22)
+- field_id: CHCCCS041_CB_97_1_3_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: Child
+  table_idx: 97
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  sdt_id: '1963609975'
+  value: Madge Thompson (Resident, Room 22)
+- field_id: CHCCCS041_TXT_97_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: 'Name of the person injured:'
+  table_idx: 97
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3BD97FC7
+  value: Madge Thompson (Resident, Room 22)
+- field_id: CHCCCS041_TXT_98_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Part of body injured (if relevant):'
+  table_idx: 98
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 60E63849
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1374579505'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 1
+  sdt_id: '-1945146718'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_3
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 2
+  sdt_id: '187725105'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_4
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 3
+  sdt_id: '-2127754876'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_5
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 4
+  sdt_id: '674695908'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_6
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 5
+  sdt_id: '-1244715739'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_7
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 6
+  sdt_id: '630906255'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_8
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 7
+  sdt_id: '-200868590'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_9
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 8
+  sdt_id: '2064824129'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_10
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 9
+  sdt_id: '2004702872'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_1_2_11
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 10
+  sdt_id: '1785620454'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_TXT_98_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: "Nature of injury sustained:\n Abrasions, scrapes\n Bite\n Broken bone/fracture\n\
+    \ Bruise\n Burn\n Concussio"
+  table_idx: 98
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 649B6725
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_TXT_98_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Approximate size/colour of injury:'
+  table_idx: 98
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 789291E8
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_3_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: Assault
+  table_idx: 98
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '421082047'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_3_1_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: Staff
+  table_idx: 98
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2060822069'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_3_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: Customer/client
+  table_idx: 98
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1523130386'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_98_3_3_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: Other
+  table_idx: 98
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  sdt_id: '1256328356'
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_TXT_98_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: Other
+  table_idx: 98
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 17EB0449
+  value: Right hip contusion and hematoma, right elbow abrasion, and lower back tenderness.
+- field_id: CHCCCS041_CB_99_1_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: First aid treatment administered
+  table_idx: 99
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1543057838'
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_TXT_99_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: (Please specify what/by whom, etc.)
+  table_idx: 99
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 341CA9B8
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_CB_99_2_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: Medical aid treatment administered
+  table_idx: 99
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2107773300'
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_TXT_99_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: (Please specify what/by whom, etc.)
+  table_idx: 99
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 581F3BF7
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_CB_99_3_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: Assistance sought
+  table_idx: 99
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '499628358'
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_TXT_99_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: Assistance sought
+  table_idx: 99
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 03A6B8FB
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_CB_99_3_1_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: Ambulance
+  table_idx: 99
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1876679634'
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_CB_99_3_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: Police
+  table_idx: 99
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '2085642263'
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_CB_99_3_3_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: Counsellor
+  table_idx: 99
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  sdt_id: '-1041976500'
+  value: First aid provided; Registered Nurse attended immediately; Triple Zero (000)
+    dispatched; family notified.
+- field_id: CHCCCS041_TXT_100_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_100
+  label: Who witnessed the incident? (Please use the full name, details of staff’s
+    job title where applicable
+  table_idx: 100
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '61921798'
+  value: Alex Chen (Support Worker) and Maria Santos (Personal Care Assistant).
+- field_id: CHCCCS041_TXT_101_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: 'NOTE: Be specific. Describe in detail what actually happened, stating the
+    facts in a clear and preci'
+  table_idx: 101
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5EF91A08
+  value: At 08:00 AM on 11/03/2026, worker entered Room 22 and found resident Madge
+    on the floor beside her bed. Madge stated she slipped while reaching for her glasses.
+    First aid was administered, vital signs checked (BP 95/60, Pulse 92), RN took
+    clinical charge, and ambulance arrived at 08:35 AM.
+- field_id: CHCCCS041_TXT_102_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_102
+  label: 'This report was compiled by (full name, title, and contact telephone):'
+  table_idx: 102
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4BE23C6C
+  value: Alex Chen, Support Worker, Care Connect Services
+- field_id: CHCCCS041_TXT_102_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_102
+  label: On (date and time)
+  table_idx: 102
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 61FD8256
+  value: Alex Chen, Support Worker, Care Connect Services
+- field_id: CHCCCS041_TXT_102_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_102
+  label: 'This report is a true and accurate summary of the incident that occurred
+    (please sign):'
+  table_idx: 102
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0A23260E
+  value: Alex Chen, Support Worker, Care Connect Services
+- field_id: CHCCCS041_CB_108_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: You have completed all the Knowledge Assessments Questions.
+  table_idx: 108
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1172607243'
+  value: true
+- field_id: CHCCCS041_CB_108_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: 'You have completed the Practical Assessments in this workbook:'
+  table_idx: 108
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1834959373'
+  value: true
+- field_id: CHCCCS041_CB_108_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 1.1
+  table_idx: 108
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1376686971'
+  value: true
+- field_id: CHCCCS041_CB_108_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 1.2
+  table_idx: 108
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '850452478'
+  value: true
+- field_id: CHCCCS041_CB_108_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 2.1
+  table_idx: 108
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2053413686'
+  value: true
+- field_id: CHCCCS041_CB_108_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 2.2
+  table_idx: 108
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1964070571'
+  value: true
+- field_id: CHCCCS041_CB_108_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 2.3
+  table_idx: 108
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-354805637'
+  value: true
+- field_id: CHCCCS041_CB_108_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 2.4
+  table_idx: 108
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-865369781'
+  value: true
+- field_id: CHCCCS041_CB_108_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Workplace Assessment Task 1
+  table_idx: 108
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-706563693'
+  value: true
+- field_id: CHCCCS041_CB_108_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Workplace Assessment Task 2
+  table_idx: 108
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '501629200'
+  value: true
+- field_id: CHCCCS041_CB_108_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 108
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '94379991'
+  value: true
+- field_id: CHCCCS041_CB_108_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: This completed workbook
+  table_idx: 108
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1472658093'
+  value: true
+- field_id: CHCCCS041_CB_108_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 108
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1961214800'
+  value: true
+- field_id: CHCCCS041_CB_108_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Workplace Assessment Task 1 – Progress notes
+  table_idx: 108
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1210801733'
+  value: true
+- field_id: CHCCCS041_CB_110_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: The candidate has completed all the Knowledge Assessments Questions.
+  table_idx: 110
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-579901534'
+  value: false
+- field_id: CHCCCS041_CB_110_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: 'The candidate has completed the Practical Assessments in this workbook:'
+  table_idx: 110
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '114489879'
+  value: false
+- field_id: CHCCCS041_CB_110_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 1.1
+  table_idx: 110
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2098510085'
+  value: false
+- field_id: CHCCCS041_CB_110_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 1.2
+  table_idx: 110
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1569843453'
+  value: false
+- field_id: CHCCCS041_CB_110_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 2.1
+  table_idx: 110
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1361741213'
+  value: false
+- field_id: CHCCCS041_CB_110_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 2.2
+  table_idx: 110
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2132122457'
+  value: false
+- field_id: CHCCCS041_CB_110_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 2.3
+  table_idx: 110
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '400573349'
+  value: false
+- field_id: CHCCCS041_CB_110_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 2.4
+  table_idx: 110
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1615324812'
+  value: false
+- field_id: CHCCCS041_CB_110_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Workplace Assessment Task 1
+  table_idx: 110
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-423875290'
+  value: false
+- field_id: CHCCCS041_CB_110_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Workplace Assessment Task 2
+  table_idx: 110
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1513331795'
+  value: false
+- field_id: CHCCCS041_CB_110_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 110
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1280181623'
+  value: false
+- field_id: CHCCCS041_CB_110_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: This completed workbook
+  table_idx: 110
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1016224711'
+  value: false
+- field_id: CHCCCS041_CB_110_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 110
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2008746071'
+  value: false
+- field_id: CHCCCS041_CB_110_15_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Workplace Assessment Task 1 – Progress notes
+  table_idx: 110
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2061513650'
+  value: false
+- field_id: CHCCCS041_TXT_112_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_112
+  label: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 112
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 730A0435
+  value: Alex Chen
+- field_id: CHCCCS041_TXT_112_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_112
+  label: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 112
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F1CA79
+  value: Care Connect College
+- field_id: CHCCCS041_TXT_112_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_112
+  label: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 112
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A6CEC60
+  value: 1300 123 456
+- field_id: CHCCCS041_TXT_112_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_112
+  label: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 112
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6127D83D
+  value: info@careconnectcollege.edu.au
+- field_id: CHCCCS041_TXT_112_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_112
+  label: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 112
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 165860A4
+  value: ''
+- field_id: CHCCCS041_CB_113_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 113
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1453065065'
+  value: false
+- field_id: CHCCCS041_CB_113_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 113
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '684409527'
+  value: false
+- field_id: CHCCCS041_CB_113_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 113
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1205405534'
+  value: false
+- field_id: CHCCCS041_CB_113_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 113
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-621772110'
+  value: false
+- field_id: CHCCCS041_CB_113_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 113
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '933937578'
+  value: false
+- field_id: CHCCCS041_CB_113_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 113
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-217058788'
+  value: false
+- field_id: CHCCCS041_CB_113_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 113
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1419014776'
+  value: false
+- field_id: CHCCCS041_CB_113_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 113
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-61792381'
+  value: false
+- field_id: CHCCCS041_CB_113_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 1
+  table_idx: 113
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1142536703'
+  value: false
+- field_id: CHCCCS041_CB_113_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 2
+  table_idx: 113
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-990094359'
+  value: false
+- field_id: CHCCCS041_CB_113_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 1
+  table_idx: 113
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1437254399'
+  value: false
+- field_id: CHCCCS041_CB_113_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 2
+  table_idx: 113
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '691797851'
+  value: false
+- field_id: CHCCCS041_CB_113_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 1
+  table_idx: 113
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1403214502'
+  value: false
+- field_id: CHCCCS041_CB_113_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 2
+  table_idx: 113
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-717901714'
+  value: false
+- field_id: CHCCCS041_CB_113_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 1
+  table_idx: 113
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-573431882'
+  value: false
+- field_id: CHCCCS041_CB_113_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 2
+  table_idx: 113
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-517089577'
+  value: false
+- field_id: CHCCCS041_CB_113_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 1
+  table_idx: 113
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1685240605'
+  value: false
+- field_id: CHCCCS041_CB_113_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 2
+  table_idx: 113
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1652908076'
+  value: false
+- field_id: CHCCCS041_CB_113_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 1
+  table_idx: 113
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-597093939'
+  value: false
+- field_id: CHCCCS041_CB_113_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 2
+  table_idx: 113
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '824701210'
+  value: false
+- field_id: CHCCCS041_CB_113_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 1
+  table_idx: 113
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-279725416'
+  value: false
+- field_id: CHCCCS041_CB_113_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 2
+  table_idx: 113
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-939679041'
+  value: false
+- field_id: CHCCCS041_CB_113_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 1
+  table_idx: 113
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-575898840'
+  value: false
+- field_id: CHCCCS041_CB_113_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 2
+  table_idx: 113
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '407587414'
+  value: false
+- field_id: CHCCCS041_CB_113_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 13 Col 1
+  table_idx: 113
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '365039270'
+  value: false
+- field_id: CHCCCS041_CB_113_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 13 Col 2
+  table_idx: 113
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1309750694'
+  value: false
+- field_id: CHCCCS041_CB_114_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 1 Col 1
+  table_idx: 114
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '364103980'
+  value: false
+- field_id: CHCCCS041_CB_114_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 1 Col 2
+  table_idx: 114
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-198552215'
+  value: false
+- field_id: CHCCCS041_CB_114_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 2 Col 1
+  table_idx: 114
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-374078376'
+  value: false
+- field_id: CHCCCS041_CB_114_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 2 Col 2
+  table_idx: 114
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-104968543'
+  value: false
+- field_id: CHCCCS041_CB_114_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 3 Col 1
+  table_idx: 114
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-792286584'
+  value: false
+- field_id: CHCCCS041_CB_114_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 3 Col 2
+  table_idx: 114
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1963717282'
+  value: false
+- field_id: CHCCCS041_CB_114_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 4 Col 1
+  table_idx: 114
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '686034174'
+  value: false
+- field_id: CHCCCS041_CB_114_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 4 Col 2
+  table_idx: 114
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1492318048'
+  value: false
+- field_id: CHCCCS041_CB_114_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 5 Col 1
+  table_idx: 114
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '943037552'
+  value: false
+- field_id: CHCCCS041_CB_114_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 5 Col 2
+  table_idx: 114
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-983300527'
+  value: false
+- field_id: CHCCCS041_CB_114_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 6 Col 1
+  table_idx: 114
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1628122573'
+  value: false
+- field_id: CHCCCS041_CB_114_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 6 Col 2
+  table_idx: 114
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '41869887'
+  value: false
+- field_id: CHCCCS041_CB_114_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 7 Col 1
+  table_idx: 114
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1085990598'
+  value: false
+- field_id: CHCCCS041_CB_114_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 7 Col 2
+  table_idx: 114
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1484276261'
+  value: false
+- field_id: CHCCCS041_CB_114_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 8 Col 1
+  table_idx: 114
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631007055'
+  value: false
+- field_id: CHCCCS041_CB_114_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 8 Col 2
+  table_idx: 114
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '132760661'
+  value: false
+- field_id: CHCCCS041_CB_114_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 9 Col 1
+  table_idx: 114
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1814549610'
+  value: false
+- field_id: CHCCCS041_CB_114_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 9 Col 2
+  table_idx: 114
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1261265825'
+  value: false
+- field_id: CHCCCS041_CB_114_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 10 Col 1
+  table_idx: 114
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '725570037'
+  value: false
+- field_id: CHCCCS041_CB_114_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 10 Col 2
+  table_idx: 114
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1166288856'
+  value: false
+- field_id: CHCCCS041_CB_114_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 11 Col 1
+  table_idx: 114
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1579099868'
+  value: false
+- field_id: CHCCCS041_CB_114_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 11 Col 2
+  table_idx: 114
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '416759099'
+  value: false
+- field_id: CHCCCS041_CB_114_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 13 Col 1
+  table_idx: 114
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-455325534'
+  value: false
+- field_id: CHCCCS041_CB_114_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 13 Col 2
+  table_idx: 114
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1312552216'
+  value: false
+- field_id: CHCCCS041_CB_114_14_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 14 Col 1
+  table_idx: 114
+  row_idx: 14
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1263064946'
+  value: false
+- field_id: CHCCCS041_CB_114_14_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 14 Col 2
+  table_idx: 114
+  row_idx: 14
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '399487065'
+  value: false
+- field_id: CHCCCS041_CB_114_15_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 15 Col 1
+  table_idx: 114
+  row_idx: 15
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1138034100'
+  value: false
+- field_id: CHCCCS041_CB_114_15_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 15 Col 2
+  table_idx: 114
+  row_idx: 15
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1464424956'
+  value: false
+- field_id: CHCCCS041_CB_114_16_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 16 Col 1
+  table_idx: 114
+  row_idx: 16
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1179855488'
+  value: false
+- field_id: CHCCCS041_CB_114_16_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 16 Col 2
+  table_idx: 114
+  row_idx: 16
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1009675393'
+  value: false
+- field_id: CHCCCS041_CB_114_17_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 17 Col 1
+  table_idx: 114
+  row_idx: 17
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-624309722'
+  value: false
+- field_id: CHCCCS041_CB_114_17_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 17 Col 2
+  table_idx: 114
+  row_idx: 17
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1893930364'
+  value: false
+- field_id: CHCCCS041_CB_114_19_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 19 Col 1
+  table_idx: 114
+  row_idx: 19
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-683205324'
+  value: false
+- field_id: CHCCCS041_CB_114_19_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 19 Col 2
+  table_idx: 114
+  row_idx: 19
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1285424918'
+  value: false
+- field_id: CHCCCS041_CB_114_20_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 20 Col 1
+  table_idx: 114
+  row_idx: 20
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1714726816'
+  value: false
+- field_id: CHCCCS041_CB_114_20_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 20 Col 2
+  table_idx: 114
+  row_idx: 20
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1161076977'
+  value: false
+- field_id: CHCCCS041_CB_114_21_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 21 Col 1
+  table_idx: 114
+  row_idx: 21
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '358858502'
+  value: false
+- field_id: CHCCCS041_CB_114_21_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 21 Col 2
+  table_idx: 114
+  row_idx: 21
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1599470946'
+  value: false
+- field_id: CHCCCS041_CB_114_22_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 22 Col 1
+  table_idx: 114
+  row_idx: 22
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1114514694'
+  value: false
+- field_id: CHCCCS041_CB_114_22_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 22 Col 2
+  table_idx: 114
+  row_idx: 22
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '311763891'
+  value: false
+- field_id: CHCCCS041_CB_114_23_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 23 Col 1
+  table_idx: 114
+  row_idx: 23
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-915633265'
+  value: false
+- field_id: CHCCCS041_CB_114_23_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 23 Col 2
+  table_idx: 114
+  row_idx: 23
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1127435280'
+  value: false
+- field_id: CHCCCS041_CB_114_24_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 24 Col 1
+  table_idx: 114
+  row_idx: 24
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '587190189'
+  value: false
+- field_id: CHCCCS041_CB_114_24_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 14
+  label: Row 24 Col 2
+  table_idx: 114
+  row_idx: 24
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1983659973'
+  value: false
+- field_id: CHCCCS041_CB_115_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 115
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1194465168'
+  value: false
+- field_id: CHCCCS041_CB_115_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 115
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2066173049'
+  value: false
+- field_id: CHCCCS041_CB_115_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 115
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1389496714'
+  value: false
+- field_id: CHCCCS041_CB_115_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 115
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '2100520300'
+  value: false
+- field_id: CHCCCS041_CB_115_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 115
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1046033064'
+  value: false
+- field_id: CHCCCS041_CB_115_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 115
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1504976315'
+  value: false
+- field_id: CHCCCS041_CB_115_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 115
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-615990016'
+  value: false
+- field_id: CHCCCS041_CB_115_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 115
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '37173079'
+  value: false
+- field_id: CHCCCS041_CB_115_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 1
+  table_idx: 115
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1523816175'
+  value: false
+- field_id: CHCCCS041_CB_115_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 2
+  table_idx: 115
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1450782312'
+  value: false
+- field_id: CHCCCS041_CB_115_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 1
+  table_idx: 115
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1053346284'
+  value: false
+- field_id: CHCCCS041_CB_115_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 2
+  table_idx: 115
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-821199823'
+  value: false
+- field_id: CHCCCS041_CB_115_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 1
+  table_idx: 115
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '362328006'
+  value: false
+- field_id: CHCCCS041_CB_115_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 2
+  table_idx: 115
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1297140554'
+  value: false
+- field_id: CHCCCS041_CB_115_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 1
+  table_idx: 115
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-2117364244'
+  value: false
+- field_id: CHCCCS041_CB_115_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 2
+  table_idx: 115
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-612446601'
+  value: false
+- field_id: CHCCCS041_CB_115_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 1
+  table_idx: 115
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '286629974'
+  value: false
+- field_id: CHCCCS041_CB_115_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 2
+  table_idx: 115
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1667979322'
+  value: false
+- field_id: CHCCCS041_CB_115_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 1
+  table_idx: 115
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1829978684'
+  value: false
+- field_id: CHCCCS041_CB_115_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 2
+  table_idx: 115
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1903493342'
+  value: false
+- field_id: CHCCCS041_CB_115_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 13 Col 1
+  table_idx: 115
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1257943559'
+  value: false
+- field_id: CHCCCS041_CB_115_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 13 Col 2
+  table_idx: 115
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '526375177'
+  value: false
+- field_id: CHCCCS041_CB_115_14_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 14 Col 1
+  table_idx: 115
+  row_idx: 14
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-699704217'
+  value: false
+- field_id: CHCCCS041_CB_115_14_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 14 Col 2
+  table_idx: 115
+  row_idx: 14
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1167291258'
+  value: false
+- field_id: CHCCCS041_CB_115_15_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 15 Col 1
+  table_idx: 115
+  row_idx: 15
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1030459528'
+  value: false
+- field_id: CHCCCS041_CB_115_15_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 15 Col 2
+  table_idx: 115
+  row_idx: 15
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1670244126'
+  value: false
+- field_id: CHCCCS041_CB_116_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 2 Col 1
+  table_idx: 116
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-63487235'
+  value: false
+- field_id: CHCCCS041_CB_116_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 2 Col 2
+  table_idx: 116
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '757873382'
+  value: false
+- field_id: CHCCCS041_CB_116_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 3 Col 1
+  table_idx: 116
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1973477091'
+  value: false
+- field_id: CHCCCS041_CB_116_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 3 Col 2
+  table_idx: 116
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '647714798'
+  value: false
+- field_id: CHCCCS041_CB_116_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 4 Col 1
+  table_idx: 116
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1891336744'
+  value: false
+- field_id: CHCCCS041_CB_116_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 4 Col 2
+  table_idx: 116
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '587039734'
+  value: false
+- field_id: CHCCCS041_CB_116_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 5 Col 1
+  table_idx: 116
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '745227675'
+  value: false
+- field_id: CHCCCS041_CB_116_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 5 Col 2
+  table_idx: 116
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1793973300'
+  value: false
+- field_id: CHCCCS041_CB_116_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 6 Col 1
+  table_idx: 116
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-778329699'
+  value: false
+- field_id: CHCCCS041_CB_116_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1.1
+  label: Row 6 Col 2
+  table_idx: 116
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-993106303'
+  value: false
+- field_id: CHCCCS041_CB_117_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.1
+  label: Row 1 Col 1
+  table_idx: 117
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-340242761'
+  value: false
+- field_id: CHCCCS041_CB_117_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.1
+  label: Row 1 Col 2
+  table_idx: 117
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '80040769'
+  value: false
+- field_id: CHCCCS041_CB_117_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.1
+  label: Row 2 Col 1
+  table_idx: 117
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-702864643'
+  value: false
+- field_id: CHCCCS041_CB_117_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.1
+  label: Row 2 Col 2
+  table_idx: 117
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1538081631'
+  value: false
+- field_id: CHCCCS041_CB_117_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.1
+  label: Row 3 Col 1
+  table_idx: 117
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-522017836'
+  value: false
+- field_id: CHCCCS041_CB_117_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.1
+  label: Row 3 Col 2
+  table_idx: 117
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1767198197'
+  value: false
+- field_id: CHCCCS041_CB_117_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.1
+  label: Row 4 Col 1
+  table_idx: 117
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '114870841'
+  value: false
+- field_id: CHCCCS041_CB_117_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 2.1
+  label: Row 4 Col 2
+  table_idx: 117
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1108311240'
+  value: false
+- field_id: CHCCCS041_CB_118_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 1 Col 1
+  table_idx: 118
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '821547425'
+  value: false
+- field_id: CHCCCS041_CB_118_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 1 Col 2
+  table_idx: 118
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '2024047654'
+  value: false
+- field_id: CHCCCS041_CB_118_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 1
+  table_idx: 118
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-166395576'
+  value: false
+- field_id: CHCCCS041_CB_118_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 2
+  table_idx: 118
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1797562952'
+  value: false
+- field_id: CHCCCS041_CB_119_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_119
+  label: Row 1 Col 1
+  table_idx: 119
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: CHCCCS041_CB_119_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_119
+  label: Row 1 Col 2
+  table_idx: 119
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: CHCCCS041_CB_119_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_119
+  label: Row 2 Col 1
+  table_idx: 119
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: CHCCCS041_CB_119_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_119
+  label: Row 2 Col 2
+  table_idx: 119
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: CHCCCS041_CB_119_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_119
+  label: Row 3 Col 1
+  table_idx: 119
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: CHCCCS041_CB_119_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_119
+  label: Row 3 Col 2
+  table_idx: 119
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: CHCCCS041_CB_119_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_119
+  label: Row 4 Col 1
+  table_idx: 119
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: CHCCCS041_CB_119_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_119
+  label: Row 4 Col 2
+  table_idx: 119
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: CHCCCS041_CB_120_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_120
+  label: Row 2 Col 1
+  table_idx: 120
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: CHCCCS041_CB_120_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_120
+  label: Row 3 Col 1
+  table_idx: 120
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: CHCCCS041_CB_120_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_120
+  label: Row 4 Col 1
+  table_idx: 120
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: CHCCCS041_TXT_122_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Name of Third-party Contacted
+  table_idx: 122
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A969C06
+  value: ''
+- field_id: CHCCCS041_TXT_122_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Role in the Candidate’s Assessment
+  table_idx: 122
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EEC833F
+  value: ''
+- field_id: CHCCCS041_TXT_122_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Contact Details (Phone number or email address)
+  table_idx: 122
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '29882929'
+  value: ''
+- field_id: CHCCCS041_TXT_122_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Date contacted
+  table_idx: 122
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CD14B2C
+  value: ''
+- field_id: CHCCCS041_CB_122_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_122
+  label: Yes       No   Assessor’s Notes
+  table_idx: 122
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: CHCCCS041_CB_122_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_122
+  label: Yes       No   Assessor’s Notes
+  table_idx: 122
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: CHCCCS041_TXT_122_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 122
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3273E566
+  value: ''
+- field_id: CHCCCS041_TXT_122_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Name of Third-party Contacted
+  table_idx: 122
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27B75E8F
+  value: ''
+- field_id: CHCCCS041_TXT_122_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Role in the Candidate’s Assessment
+  table_idx: 122
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40B34E2B
+  value: ''
+- field_id: CHCCCS041_TXT_122_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Contact Details (Phone number or email address)
+  table_idx: 122
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77A6665E
+  value: ''
+- field_id: CHCCCS041_TXT_122_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Date contacted
+  table_idx: 122
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1DAFA096
+  value: ''
+- field_id: CHCCCS041_CB_122_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_122
+  label: Yes       No   Assessor’s Notes
+  table_idx: 122
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: CHCCCS041_CB_122_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_122
+  label: Yes       No   Assessor’s Notes
+  table_idx: 122
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: CHCCCS041_TXT_122_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 122
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 39CAA6A2
+  value: ''
+- field_id: CHCCCS041_TXT_122_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Name of Third-party Contacted
+  table_idx: 122
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D25FAFA
+  value: ''
+- field_id: CHCCCS041_TXT_122_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Role in the Candidate’s Assessment
+  table_idx: 122
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451A30E5
+  value: ''
+- field_id: CHCCCS041_TXT_122_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Contact Details (Phone number or email address)
+  table_idx: 122
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E4BE0E3
+  value: ''
+- field_id: CHCCCS041_TXT_122_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Date contacted
+  table_idx: 122
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 08D6E752
+  value: ''
+- field_id: CHCCCS041_CB_122_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_122
+  label: Yes       No   Assessor’s Notes
+  table_idx: 122
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: CHCCCS041_CB_122_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_122
+  label: Yes       No   Assessor’s Notes
+  table_idx: 122
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: CHCCCS041_TXT_122_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 122
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18D2A67F
+  value: ''
+- field_id: CHCCCS041_TXT_122_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Name of Third-party Contacted
+  table_idx: 122
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AB2776E
+  value: ''
+- field_id: CHCCCS041_TXT_122_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Role in the Candidate’s Assessment
+  table_idx: 122
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B9C71C7
+  value: ''
+- field_id: CHCCCS041_TXT_122_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Contact Details (Phone number or email address)
+  table_idx: 122
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 23166DAF
+  value: ''
+- field_id: CHCCCS041_TXT_122_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: Date contacted
+  table_idx: 122
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19F6D647
+  value: ''
+- field_id: CHCCCS041_CB_122_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_122
+  label: Yes       No   Assessor’s Notes
+  table_idx: 122
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: CHCCCS041_CB_122_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_122
+  label: Yes       No   Assessor’s Notes
+  table_idx: 122
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: CHCCCS041_TXT_122_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_122
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 122
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3BC5CFB0
+  value: ''
+- field_id: CHCCCS041_CB_123_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_123
+  label: Row 1 Col 1
+  table_idx: 123
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: CHCCCS041_CB_123_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_123
+  label: Row 1 Col 2
+  table_idx: 123
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: CHCCCS041_CB_124_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_124
+  label: Row 1 Col 1
+  table_idx: 124
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: CHCCCS041_CB_124_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_124
+  label: Row 1 Col 2
+  table_idx: 124
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: CHCCCS041_TXT_125_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_125
+  label: Assessor’s comments/feedback
+  table_idx: 125
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E889375
+  value: ''
+- field_id: CHCCCS041_TXT_126_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_126
+  label: Assessor’s name
+  table_idx: 126
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D877E66
+  value: ''
+- field_id: CHCCCS041_TXT_126_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_126
+  label: Assessor’s signature
+  table_idx: 126
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
+- field_id: CHCCCS041_TXT_126_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_126
+  label: Date signed
+  table_idx: 126
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56908E91
+  value: ''
+- field_id: CHCCCS041_TXT_126_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_126
+  label: Assessor’s signature
+  table_idx: 126
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''

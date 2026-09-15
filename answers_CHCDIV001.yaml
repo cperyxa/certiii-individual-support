@@ -1,0 +1,6160 @@
+unit: CHCDIV001
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@email.com.au
+  date: 15/09/2026
+  state: New South Wales
+  workplace: Care Connect Services
+  rto: Care Connect College
+  rto_phone: 1300 123 456
+  rto_email: info@careconnectcollege.edu.au
+fields:
+- field_id: CHCDIV001_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: First and Last Name - CHCDIV001
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36DD8154
+  value: Alex Chen
+- field_id: CHCDIV001_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Phone - CHCDIV001
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 03F782DD
+  value: 0412 345 678
+- field_id: CHCDIV001_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Email - CHCDIV001
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 24752FAC
+  value: alex.chen@email.com.au
+- field_id: CHCDIV001_TXT_2_1_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Name:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 59938E1B
+  value: Alex Chen
+- field_id: CHCDIV001_TXT_2_1_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Signature:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0CBF871D
+  value: Alex Chen
+- field_id: CHCDIV001_TXT_2_1_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Date signed:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2AAF2D31
+  value: 15/09/2026
+- field_id: CHCDIV001_CB_3_3_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Australian Capital Territory
+  table_idx: 3
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-866288860'
+  value: false
+- field_id: CHCDIV001_CB_3_3_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: South Australia
+  table_idx: 3
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1825582306'
+  value: false
+- field_id: CHCDIV001_CB_3_4_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: New South Wales
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1246844586'
+  value: true
+- field_id: CHCDIV001_CB_3_4_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Tasmania
+  table_idx: 3
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '735286758'
+  value: false
+- field_id: CHCDIV001_CB_3_5_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Northern Territory
+  table_idx: 3
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '367031501'
+  value: false
+- field_id: CHCDIV001_CB_3_5_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Victoria
+  table_idx: 3
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1363557391'
+  value: false
+- field_id: CHCDIV001_CB_3_6_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Queensland
+  table_idx: 3
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2006784169'
+  value: false
+- field_id: CHCDIV001_CB_3_6_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Western Australia
+  table_idx: 3
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1828745876'
+  value: false
+- field_id: CHCDIV001_TXT_4_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: briefly define
+  label: "Cultural awareness - In the table below, briefly define the concepts of:\
+    \ \nCultural awareness\nCultura"
+  table_idx: 4
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 07C5221E
+  value: Cultural awareness is the self-examination and understanding of one's own
+    cultural beliefs and an openness to recognizing and respecting differences in
+    others.
+- field_id: CHCDIV001_TXT_4_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: briefly define
+  label: "Cultural safety - In the table below, briefly define the concepts of: \n\
+    Cultural awareness\nCultural s"
+  table_idx: 4
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6AAA0409
+  value: Cultural safety is an environment that is spiritually, socially, and emotionally
+    safe, where there is no assault, challenge, or denial of an individual's cultural
+    identity.
+- field_id: CHCDIV001_TXT_4_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: briefly define
+  label: "Cultural competence - In the table below, briefly define the concepts of:\
+    \ \nCultural awareness\nCultur"
+  table_idx: 4
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5C30BD3B
+  value: Cultural competence is the ability of individuals and systems to effectively
+    communicate and collaborate with people across diverse cultural, ethnic, and linguistic
+    backgrounds.
+- field_id: CHCDIV001_TXT_5_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Differences in age - Given below are four concepts related to diversity.
+    Briefly explain how each co
+  table_idx: 5
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 379F6CBE
+  value: Care Connect Services
+- field_id: CHCDIV001_TXT_5_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Differences in race - Given below are four concepts related to diversity.
+    Briefly explain how each c
+  table_idx: 5
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3B30AD2A
+  value: Care Connect Services
+- field_id: CHCDIV001_TXT_5_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Differences in sexual orientation - Given below are four concepts related
+    to diversity. Briefly expl
+  table_idx: 5
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6A6C68CA
+  value: Care Connect Services
+- field_id: CHCDIV001_TXT_5_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Working with persons with disabilities - Given below are four concepts related
+    to diversity. Briefly
+  table_idx: 5
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 058CE315
+  value: Care Connect Services
+- field_id: CHCDIV001_TXT_7_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: "Policy: \nLink:"
+  table_idx: 7
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 02C3A0D2
+  value: 'National Agreement on Closing the Gap (closingthegap.gov.au): Aims to overcome
+    systemic health, justice, and economic inequality for First Nations peoples.'
+- field_id: CHCDIV001_TXT_7_1_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: "Policy: \nLink:"
+  table_idx: 7
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 6512C29E
+  value: 'National Agreement on Closing the Gap (closingthegap.gov.au): Aims to overcome
+    systemic health, justice, and economic inequality for First Nations peoples.'
+- field_id: CHCDIV001_TXT_7_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Aboriginals and Torres Strait Islanders - Impact
+  table_idx: 7
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5661F271
+  value: 'National Agreement on Closing the Gap (closingthegap.gov.au): Aims to overcome
+    systemic health, justice, and economic inequality for First Nations peoples.'
+- field_id: CHCDIV001_TXT_7_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: "Policy: \nLink:"
+  table_idx: 7
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0268629C
+  value: 'National Settlement Framework (homeaffairs.gov.au): Provides support for
+    humanitarian refugees to integrate socially, economically, and linguistically.'
+- field_id: CHCDIV001_TXT_7_2_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: "Policy: \nLink:"
+  table_idx: 7
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 59390D59
+  value: 'National Settlement Framework (homeaffairs.gov.au): Provides support for
+    humanitarian refugees to integrate socially, economically, and linguistically.'
+- field_id: CHCDIV001_TXT_7_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Refugees - Impact
+  table_idx: 7
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 37A1FD12
+  value: 'National Settlement Framework (homeaffairs.gov.au): Provides support for
+    humanitarian refugees to integrate socially, economically, and linguistically.'
+- field_id: CHCDIV001_TXT_11_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Anti-Discrimination Law - To complete this task, you must: \nSpecify one\
+    \ anti-discrimination law that"
+  table_idx: 11
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 347CC330
+  value: New South Wales
+- field_id: CHCDIV001_TXT_11_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Link: - To complete this task, you must: \nSpecify one anti-discrimination\
+    \ law that is relevant to ea"
+  table_idx: 11
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 42B71CF3
+  value: New South Wales
+- field_id: CHCDIV001_TXT_11_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Provision/Clause - To complete this task, you must: \nSpecify one anti-discrimination\
+    \ law that is rel"
+  table_idx: 11
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 32E325BD
+  value: New South Wales
+- field_id: CHCDIV001_TXT_11_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Impact on workers - To complete this task, you must: \nSpecify one anti-discrimination\
+    \ law that is re"
+  table_idx: 11
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0A157407
+  value: New South Wales
+- field_id: CHCDIV001_TXT_11_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Penalty for breaching the provision/clause - To complete this task, you\
+    \ must: \nSpecify one anti-disc"
+  table_idx: 11
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 15F26E13
+  value: New South Wales
+- field_id: CHCDIV001_TXT_12_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  label: Anti-Discrimination Law - Disability
+  table_idx: 12
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 592214D4
+  value: Disability Discrimination Act 1992 (Cth)
+- field_id: CHCDIV001_TXT_12_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  label: 'Link: - Disability'
+  table_idx: 12
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2EF5A570
+  value: https://www.legislation.gov.au/Details/C2016C00763
+- field_id: CHCDIV001_TXT_12_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  label: Provision/Clause - Disability
+  table_idx: 12
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 04B4A1DE
+  value: 'Part 2, Division 1 (Discrimination in work): Unlawful to discriminate against
+    an employee based on disability.'
+- field_id: CHCDIV001_TXT_12_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  label: Impact on workers - Disability
+  table_idx: 12
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12437EF4
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_12_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  label: Penalty for breaching the provision/clause - Disability
+  table_idx: 12
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0C88EEEE
+  value: 'Part 2, Division 1 (Discrimination in work): Unlawful to discriminate against
+    an employee based on disability.'
+- field_id: CHCDIV001_TXT_13_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Anti-Discrimination Law - Race
+  table_idx: 13
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 72320F95
+  value: Racial Discrimination Act 1975 (Cth)
+- field_id: CHCDIV001_TXT_13_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: 'Link: - Race'
+  table_idx: 13
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 62AF8295
+  value: https://www.legislation.gov.au/Details/C2016C00089
+- field_id: CHCDIV001_TXT_13_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Provision/Clause - Race
+  table_idx: 13
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 48C4F9C2
+  value: 'Section 9: Unlawful to discriminate based on race, colour, descent, or ethnic
+    origin in employment.'
+- field_id: CHCDIV001_TXT_13_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Impact on workers - Race
+  table_idx: 13
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1BF891A0
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_13_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Penalty for breaching the provision/clause - Race
+  table_idx: 13
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2692E08A
+  value: 'Section 9: Unlawful to discriminate based on race, colour, descent, or ethnic
+    origin in employment.'
+- field_id: CHCDIV001_TXT_14_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  label: Anti-Discrimination Law - Sex
+  table_idx: 14
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 00AF8123
+  value: Sex Discrimination Act 1984 (Cth)
+- field_id: CHCDIV001_TXT_14_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  label: 'Link: - Sex'
+  table_idx: 14
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36DB3E81
+  value: https://www.legislation.gov.au/Details/C2021C00420
+- field_id: CHCDIV001_TXT_14_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  label: Provision/Clause - Sex
+  table_idx: 14
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4919AF45
+  value: 'Part 2, Division 1: Unlawful to discriminate on grounds of sex, gender identity,
+    or marital status.'
+- field_id: CHCDIV001_TXT_14_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  label: Impact on workers - Sex
+  table_idx: 14
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 78CCFC2D
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_14_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  label: Penalty for breaching the provision/clause - Sex
+  table_idx: 14
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 19D71023
+  value: 'Part 2, Division 1: Unlawful to discriminate on grounds of sex, gender identity,
+    or marital status.'
+- field_id: CHCDIV001_TXT_15_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Anti-Discrimination Law - To complete this task, you must: \nSpecify one\
+    \ international anti-discrimin"
+  table_idx: 15
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 500A33FF
+  value: Anti-Discrimination Act 1977 (NSW)
+- field_id: CHCDIV001_TXT_15_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Link: - To complete this task, you must: \nSpecify one international anti-discrimination\
+    \ legislation "
+  table_idx: 15
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4B3048F7
+  value: https://www.legislation.gov.au
+- field_id: CHCDIV001_TXT_15_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Provision/Clause - To complete this task, you must: \nSpecify one international\
+    \ anti-discrimination l"
+  table_idx: 15
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2E6579F4
+  value: Part 2, General prohibitions against discrimination in the workplace.
+- field_id: CHCDIV001_TXT_15_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Impact on workers - To complete this task, you must: \nSpecify one international\
+    \ anti-discrimination "
+  table_idx: 15
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 79C97794
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_15_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Consequences for breaching the provision/clause - To complete this task,\
+    \ you must: \nSpecify one inte"
+  table_idx: 15
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0B37EAE4
+  value: Part 2, General prohibitions against discrimination in the workplace.
+- field_id: CHCDIV001_TXT_16_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: Anti-Discrimination Law - Disability
+  table_idx: 16
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0B03F18A
+  value: Disability Discrimination Act 1992 (Cth)
+- field_id: CHCDIV001_TXT_16_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: 'Link: - Disability'
+  table_idx: 16
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 14124A67
+  value: https://www.legislation.gov.au/Details/C2016C00763
+- field_id: CHCDIV001_TXT_16_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: Provision/Clause - Disability
+  table_idx: 16
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5ED405E0
+  value: 'Part 2, Division 1 (Discrimination in work): Unlawful to discriminate against
+    an employee based on disability.'
+- field_id: CHCDIV001_TXT_16_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: Impact on workers - Disability
+  table_idx: 16
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 31FECAF4
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_16_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: Consequences for breaching the provision/clause - Disability
+  table_idx: 16
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0FBFCEDB
+  value: 'Part 2, Division 1 (Discrimination in work): Unlawful to discriminate against
+    an employee based on disability.'
+- field_id: CHCDIV001_TXT_17_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Anti-Discrimination Law - Race
+  table_idx: 17
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3A59F7E1
+  value: Racial Discrimination Act 1975 (Cth)
+- field_id: CHCDIV001_TXT_17_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: 'Link: - Race'
+  table_idx: 17
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5355BA6E
+  value: https://www.legislation.gov.au/Details/C2016C00089
+- field_id: CHCDIV001_TXT_17_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Provision/Clause - Race
+  table_idx: 17
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 50BE4794
+  value: 'Section 9: Unlawful to discriminate based on race, colour, descent, or ethnic
+    origin in employment.'
+- field_id: CHCDIV001_TXT_17_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Impact on workers - Race
+  table_idx: 17
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 46F7EB49
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_17_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Consequences for breaching the provision/clause - Race
+  table_idx: 17
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 72A52795
+  value: 'Section 9: Unlawful to discriminate based on race, colour, descent, or ethnic
+    origin in employment.'
+- field_id: CHCDIV001_TXT_18_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: Anti-Discrimination Law - Sex
+  table_idx: 18
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5F423658
+  value: Sex Discrimination Act 1984 (Cth)
+- field_id: CHCDIV001_TXT_18_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: 'Link: - Sex'
+  table_idx: 18
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7865C1F0
+  value: https://www.legislation.gov.au/Details/C2021C00420
+- field_id: CHCDIV001_TXT_18_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: Provision/Clause - Sex
+  table_idx: 18
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4BD498CE
+  value: 'Part 2, Division 1: Unlawful to discriminate on grounds of sex, gender identity,
+    or marital status.'
+- field_id: CHCDIV001_TXT_18_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: Impact on workers - Sex
+  table_idx: 18
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1232BC91
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_18_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: Consequences for breaching the provision/clause - Sex
+  table_idx: 18
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 470197D3
+  value: 'Part 2, Division 1: Unlawful to discriminate on grounds of sex, gender identity,
+    or marital status.'
+- field_id: CHCDIV001_TXT_22_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Anti-Discrimination Law - To complete this task, you must: \nSpecify one\
+    \ piece of anti-discrimination"
+  table_idx: 22
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 02558C6B
+  value: Anti-Discrimination Act 1977 (NSW)
+- field_id: CHCDIV001_TXT_22_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Provision/Clause - To complete this task, you must: \nSpecify one piece\
+    \ of anti-discrimination legisl"
+  table_idx: 22
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '53460911'
+  value: Part 2, General prohibitions against discrimination in the workplace.
+- field_id: CHCDIV001_TXT_22_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Impact on workers - To complete this task, you must: \nSpecify one piece\
+    \ of anti-discrimination legis"
+  table_idx: 22
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 66DD013A
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_22_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: "Penalty for breaching the provision/clause - To complete this task, you\
+    \ must: \nSpecify one piece of "
+  table_idx: 22
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 06793DE0
+  value: Part 2, General prohibitions against discrimination in the workplace.
+- field_id: CHCDIV001_TXT_23_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Anti-Discrimination Law - Disability
+  table_idx: 23
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 080ED481
+  value: Disability Discrimination Act 1992 (Cth)
+- field_id: CHCDIV001_TXT_23_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Provision/Clause - Disability
+  table_idx: 23
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6F19B992
+  value: 'Part 2, Division 1 (Discrimination in work): Unlawful to discriminate against
+    an employee based on disability.'
+- field_id: CHCDIV001_TXT_23_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Impact on workers - Disability
+  table_idx: 23
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B0BB521
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_23_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_23
+  label: Penalty for breaching the provision/clause - Disability
+  table_idx: 23
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4FD300C6
+  value: 'Part 2, Division 1 (Discrimination in work): Unlawful to discriminate against
+    an employee based on disability.'
+- field_id: CHCDIV001_TXT_24_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_24
+  label: Anti-Discrimination Law - Race
+  table_idx: 24
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40C8FCA6
+  value: Racial Discrimination Act 1975 (Cth)
+- field_id: CHCDIV001_TXT_24_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_24
+  label: Provision/Clause - Race
+  table_idx: 24
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 64F0F44F
+  value: 'Section 9: Unlawful to discriminate based on race, colour, descent, or ethnic
+    origin in employment.'
+- field_id: CHCDIV001_TXT_24_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_24
+  label: Impact on workers - Race
+  table_idx: 24
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2FDBA09D
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_24_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_24
+  label: Penalty for breaching the provision/clause - Race
+  table_idx: 24
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3249BE91
+  value: 'Section 9: Unlawful to discriminate based on race, colour, descent, or ethnic
+    origin in employment.'
+- field_id: CHCDIV001_TXT_25_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Anti-Discrimination Law - Sex
+  table_idx: 25
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 074B5405
+  value: Sex Discrimination Act 1984 (Cth)
+- field_id: CHCDIV001_TXT_25_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Provision/Clause - Sex
+  table_idx: 25
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 66DF4ACC
+  value: 'Part 2, Division 1: Unlawful to discriminate on grounds of sex, gender identity,
+    or marital status.'
+- field_id: CHCDIV001_TXT_25_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Impact on workers - Sex
+  table_idx: 25
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2B903C87
+  value: Workers must be provided with equal opportunities, reasonable adjustments,
+    and an inclusive workplace free from harassment.
+- field_id: CHCDIV001_TXT_25_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Penalty for breaching the provision/clause - Sex
+  table_idx: 25
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2A1961D0
+  value: 'Part 2, Division 1: Unlawful to discriminate on grounds of sex, gender identity,
+    or marital status.'
+- field_id: CHCDIV001_TXT_26_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Table 26 Row 2 Col 0
+  table_idx: 26
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 64017EC8
+  value: Human needs are fundamental biological and emotional necessities (food, water,
+    safety, shelter), whereas human rights are the legal entitlements that guarantee
+    access to meeting those needs with dignity and equality.
+- field_id: CHCDIV001_TXT_27_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: "Article Number: \nArticle Statement:"
+  table_idx: 27
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F659A73
+  value: Universal Declaration of Human Rights (UDHR) Article 23 (Right to work and
+    protection against unemployment).
+- field_id: CHCDIV001_TXT_27_3_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: "Article Number: \nArticle Statement:"
+  table_idx: 27
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 57E307B1
+  value: UDHR Article 18 (Freedom of thought, conscience and religion).
+- field_id: CHCDIV001_TXT_27_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: "Article Number: \nArticle Statement:"
+  table_idx: 27
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 68BAA6C7
+  value: Universal Declaration of Human Rights (UDHR) Article 23 (Right to work and
+    protection against unemployment).
+- field_id: CHCDIV001_TXT_27_4_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: "Article Number: \nArticle Statement:"
+  table_idx: 27
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 54EE6232
+  value: UDHR Article 18 (Freedom of thought, conscience and religion).
+- field_id: CHCDIV001_TXT_27_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: "Article Number: \nArticle Statement:"
+  table_idx: 27
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 20BF9AA3
+  value: Universal Declaration of Human Rights (UDHR) Article 23 (Right to work and
+    protection against unemployment).
+- field_id: CHCDIV001_TXT_27_5_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: "Article Number: \nArticle Statement:"
+  table_idx: 27
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 1
+  para_id: '29003166'
+  value: UDHR Article 18 (Freedom of thought, conscience and religion).
+- field_id: CHCDIV001_TXT_28_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  label: Table 28 Row 2 Col 0
+  table_idx: 28
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3DE14255
+  value: 1. Document the human rights breach factually. 2. Ensure victim safety. 3.
+    Report to supervisor under grievance policy. 4. Escalate to Anti-Discrimination
+    NSW or AHRC if unresolved.
+- field_id: CHCDIV001_TXT_30_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: "Title: \n\n\nLink:"
+  table_idx: 30
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3A96FDA2
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_2_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: "Title: \n\n\nLink:"
+  table_idx: 30
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 04A7D7AC
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: 'Document Reference:'
+  table_idx: 30
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3609A78B
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_2_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: 'Document Reference:'
+  table_idx: 30
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 2EA6890C
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: National - Legal and/or ethical framework relating to human rights
+  table_idx: 30
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 63B29A93
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: "Title: \n\n\nLink:"
+  table_idx: 30
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 633E36B1
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_3_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: "Title: \n\n\nLink:"
+  table_idx: 30
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 0E00CC01
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: 'Document Reference:'
+  table_idx: 30
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4F9EFF0E
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_3_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: 'Document Reference:'
+  table_idx: 30
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 5E3789BD
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: State/Territory - Legal and/or ethical framework relating to human rights
+  table_idx: 30
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4853968A
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: "Title: \n\nLink:"
+  table_idx: 30
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 55D231C5
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_4_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: "Title: \n\nLink:"
+  table_idx: 30
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 1648B274
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: 'Document Reference:'
+  table_idx: 30
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6438075F
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_4_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: 'Document Reference:'
+  table_idx: 30
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 41A2713E
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_30_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  label: Local - Legal and/or ethical framework relating to human rights
+  table_idx: 30
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 021EFB52
+  value: 'Charter of Human Rights and Principles of Social Justice (AHRC / UN Treaties):
+    Mandating equality, dignity, participation, and protection against discrimination.'
+- field_id: CHCDIV001_TXT_33_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Reaffirm
+  table_idx: 33
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 661F2B30
+  value: 'Reaffirm: Commitment to human rights.'
+- field_id: CHCDIV001_TXT_33_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Educate
+  table_idx: 33
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 63FDFC92
+  value: 'Reaffirm: Commitment to human rights.'
+- field_id: CHCDIV001_TXT_33_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Engage
+  table_idx: 33
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 47D0836A
+  value: 'Reaffirm: Commitment to human rights.'
+- field_id: CHCDIV001_TXT_35_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: Protect
+  table_idx: 35
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36A35DDA
+  value: 'Protect: Enforcing zero-tolerance harassment.'
+- field_id: CHCDIV001_TXT_35_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: Respect
+  table_idx: 35
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 209FDD2B
+  value: 'Protect: Enforcing zero-tolerance harassment.'
+- field_id: CHCDIV001_TXT_38_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: Participation
+  table_idx: 38
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 27ABDDF0
+  value: Participation
+- field_id: CHCDIV001_TXT_38_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: Accountability
+  table_idx: 38
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 649A498F
+  value: Participation
+- field_id: CHCDIV001_TXT_38_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: Non-discrimination and Equality
+  table_idx: 38
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0AA0B915
+  value: Participation
+- field_id: CHCDIV001_TXT_38_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: Empowerment
+  table_idx: 38
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 60E3EED9
+  value: Participation
+- field_id: CHCDIV001_TXT_38_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_38
+  label: Legality
+  table_idx: 38
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7DDA9B45
+  value: Participation
+- field_id: CHCDIV001_TXT_41_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'Culture - Below are several areas of diversity:
+
+    Culture
+
+    Race
+
+    Ethnicity
+
+    Disability
+
+    Religious beliefs
+
+    '
+  table_idx: 41
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0DBB88CF
+  value: Shared values, traditions, language, and ancestral background passed through
+    generations.
+- field_id: CHCDIV001_TXT_41_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'Race - Below are several areas of diversity:
+
+    Culture
+
+    Race
+
+    Ethnicity
+
+    Disability
+
+    Religious beliefs
+
+    Spi'
+  table_idx: 41
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 34F345A6
+  value: Shared values, traditions, language, and ancestral background passed through
+    generations.
+- field_id: CHCDIV001_TXT_41_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'Ethnicity - Below are several areas of diversity:
+
+    Culture
+
+    Race
+
+    Ethnicity
+
+    Disability
+
+    Religious belief'
+  table_idx: 41
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 321A9B49
+  value: Shared values, traditions, language, and ancestral background passed through
+    generations.
+- field_id: CHCDIV001_TXT_41_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  label: 'Disability - Below are several areas of diversity:
+
+    Culture
+
+    Race
+
+    Ethnicity
+
+    Disability
+
+    Religious belie'
+  table_idx: 41
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 65DA402A
+  value: Shared values, traditions, language, and ancestral background passed through
+    generations.
+- field_id: CHCDIV001_TXT_42_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: Religious beliefs - Characteristics
+  table_idx: 42
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 27C2544B
+  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
+    that guide daily life.
+- field_id: CHCDIV001_TXT_42_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: Spiritual beliefs - Characteristics
+  table_idx: 42
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A5FF027
+  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
+    that guide daily life.
+- field_id: CHCDIV001_TXT_42_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: Gender - Characteristics
+  table_idx: 42
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3EED3758
+  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
+    that guide daily life.
+- field_id: CHCDIV001_TXT_42_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: Generational - Characteristics
+  table_idx: 42
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 31017B76
+  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
+    that guide daily life.
+- field_id: CHCDIV001_TXT_42_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: Sexual orientation - Characteristics
+  table_idx: 42
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0D1BDF39
+  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
+    that guide daily life.
+- field_id: CHCDIV001_TXT_42_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  label: Sexual identity - Characteristics
+  table_idx: 42
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4DE51EE1
+  value: Structured systems of faith, ethical rituals, and core spiritual beliefs
+    that guide daily life.
+- field_id: CHCDIV001_TXT_44_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  label: Lesbian - Definition
+  table_idx: 44
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0C07CC10
+  value: 'Lesbian: A woman who is emotionally, romantically, or sexually attracted
+    to other women.'
+- field_id: CHCDIV001_TXT_44_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  label: Gay - Definition
+  table_idx: 44
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1D4B7822
+  value: 'Gay: A person who is attracted to people of the same sex or gender.'
+- field_id: CHCDIV001_TXT_44_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  label: Heterosexual - Definition
+  table_idx: 44
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 41930C44
+  value: 'Heterosexual: A person who is attracted to people of a different gender.'
+- field_id: CHCDIV001_TXT_44_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  label: Intersex - Definition
+  table_idx: 44
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7C687552
+  value: 'Intersex: A person born with reproductive or physical sex characteristics
+    that do not fit typical male or female norms.'
+- field_id: CHCDIV001_TXT_44_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  label: Transgender - Definition
+  table_idx: 44
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6B5A8413
+  value: 'Transgender: A person whose gender identity differs from the sex assigned
+    to them at birth.'
+- field_id: CHCDIV001_TXT_45_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 45 Row 3 Col 0
+  table_idx: 45
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '52442701'
+  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+    and over-representation in the justice system.
+- field_id: CHCDIV001_TXT_45_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 45 Row 4 Col 0
+  table_idx: 45
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1C32C0B7
+  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+    and over-representation in the justice system.
+- field_id: CHCDIV001_TXT_45_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 45 Row 6 Col 0
+  table_idx: 45
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5F82B0FC
+  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+    and over-representation in the justice system.
+- field_id: CHCDIV001_TXT_45_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 45 Row 7 Col 0
+  table_idx: 45
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 18B160BD
+  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+    and over-representation in the justice system.
+- field_id: CHCDIV001_TXT_45_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 45 Row 9 Col 0
+  table_idx: 45
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 17CE591E
+  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+    and over-representation in the justice system.
+- field_id: CHCDIV001_TXT_45_10_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 45 Row 10 Col 0
+  table_idx: 45
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5EAD864B
+  value: 1. Gaps in health outcomes and life expectancy. 2. High rates of child removal
+    and over-representation in the justice system.
+- field_id: CHCDIV001_TXT_46_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_46
+  label: Table 46 Row 4 Col 0
+  table_idx: 46
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 456E682A
+  value: Western education suppressed native languages and culture, disrupting traditional
+    knowledge transmission and causing intergenerational educational disadvantage.
+- field_id: CHCDIV001_TXT_46_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_46
+  label: Table 46 Row 6 Col 0
+  table_idx: 46
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 25F50D2A
+  value: Western education suppressed native languages and culture, disrupting traditional
+    knowledge transmission and causing intergenerational educational disadvantage.
+- field_id: CHCDIV001_TXT_47_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Education system
+  table_idx: 47
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6F6C16C2
+  value: Western education suppressed native languages and culture, disrupting traditional
+    knowledge transmission and causing intergenerational educational disadvantage.
+- field_id: CHCDIV001_TXT_47_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Education system
+  table_idx: 47
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6E0C5A19
+  value: Western education suppressed native languages and culture, disrupting traditional
+    knowledge transmission and causing intergenerational educational disadvantage.
+- field_id: CHCDIV001_TXT_48_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  label: Table 48 Row 4 Col 0
+  table_idx: 48
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 21DC4B68
+  value: Imposed Western religious institutions banned traditional ceremonies, disrupted
+    kinship lore, and severed ancestral spiritual connections to Country.
+- field_id: CHCDIV001_TXT_48_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  label: Table 48 Row 6 Col 0
+  table_idx: 48
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 00740F92
+  value: Imposed Western religious institutions banned traditional ceremonies, disrupted
+    kinship lore, and severed ancestral spiritual connections to Country.
+- field_id: CHCDIV001_TXT_49_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_49
+  label: Introduction of Western religion
+  table_idx: 49
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 753F5316
+  value: Imposed Western religious institutions banned traditional ceremonies, disrupted
+    kinship lore, and severed ancestral spiritual connections to Country.
+- field_id: CHCDIV001_TXT_49_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_49
+  label: Introduction of Western religion
+  table_idx: 49
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 296B1A8A
+  value: Imposed Western religious institutions banned traditional ceremonies, disrupted
+    kinship lore, and severed ancestral spiritual connections to Country.
+- field_id: CHCDIV001_TXT_51_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Workers with physical disabilities - Protective Factor
+  table_idx: 51
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0942A9E6
+  value: Accessible adaptive sports clubs, inclusive employment programs, and peer
+    advocacy networks.
+- field_id: CHCDIV001_TXT_51_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Workers with physical disabilities - Protective Factor
+  table_idx: 51
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 492839E5
+  value: Accessible adaptive sports clubs, inclusive employment programs, and peer
+    advocacy networks.
+- field_id: CHCDIV001_TXT_51_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Aboriginal and Torres Strait Islander people - Protective Factor
+  table_idx: 51
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1FE22335
+  value: Accessible adaptive sports clubs, inclusive employment programs, and peer
+    advocacy networks.
+- field_id: CHCDIV001_TXT_51_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Aboriginal and Torres Strait Islander people - Protective Factor
+  table_idx: 51
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6076C19D
+  value: Accessible adaptive sports clubs, inclusive employment programs, and peer
+    advocacy networks.
+- field_id: CHCDIV001_TXT_53_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: 'Physical - Marginalised Group A: Workers with physical disabilities'
+  table_idx: 53
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4E4881A9
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_53_2_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: 'Physical - Marginalised Group A: Workers with physical disabilities'
+  table_idx: 53
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 34E6BDDA
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_53_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: 'Physical - Marginalised Group A: Workers with physical disabilities'
+  table_idx: 53
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 04CD5DD8
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_53_4_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: 'Physical - Marginalised Group A: Workers with physical disabilities'
+  table_idx: 53
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 5B4980A1
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_54_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Mental - Issues
+  table_idx: 54
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 14D978FD
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_54_1_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Mental - Issues
+  table_idx: 54
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 0AEF5F72
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_54_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Mental - Issues
+  table_idx: 54
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 700A5642
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_54_3_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Mental - Issues
+  table_idx: 54
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 759883DB
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_54_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Emotional - Issues
+  table_idx: 54
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2F279586
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_54_5_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Emotional - Issues
+  table_idx: 54
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 3F41A3E0
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_54_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Emotional - Issues
+  table_idx: 54
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '52362962'
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_54_7_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Emotional - Issues
+  table_idx: 54
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 712B7B11
+  value: Anxiety, depression, and social isolation resulting from environmental barriers;
+    supported by accessible counselling and peer mentoring.
+- field_id: CHCDIV001_TXT_55_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: "Physical - Marginalised Group B:\t Aboriginal and Torres Strait Islander\
+    \ people"
+  table_idx: 55
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 66AC7F9E
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_55_2_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: "Physical - Marginalised Group B:\t Aboriginal and Torres Strait Islander\
+    \ people"
+  table_idx: 55
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 02849F21
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_55_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: "Physical - Marginalised Group B:\t Aboriginal and Torres Strait Islander\
+    \ people"
+  table_idx: 55
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 322FE659
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_55_4_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: "Physical - Marginalised Group B:\t Aboriginal and Torres Strait Islander\
+    \ people"
+  table_idx: 55
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 6450E1B7
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_55_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: "Mental - Marginalised Group B:\t Aboriginal and Torres Strait Islander people"
+  table_idx: 55
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 35AA26C4
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_55_6_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: "Mental - Marginalised Group B:\t Aboriginal and Torres Strait Islander people"
+  table_idx: 55
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 12C944EB
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_55_8_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: "Mental - Marginalised Group B:\t Aboriginal and Torres Strait Islander people"
+  table_idx: 55
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 43BA4B43
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_55_8_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: "Mental - Marginalised Group B:\t Aboriginal and Torres Strait Islander people"
+  table_idx: 55
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 47CC3813
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_56_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Emotional - Issues
+  table_idx: 56
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 54389A99
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_56_1_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Emotional - Issues
+  table_idx: 56
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 597B0509
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_56_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Emotional - Issues
+  table_idx: 56
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0D51DE70
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_56_3_1_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_56
+  label: Emotional - Issues
+  table_idx: 56
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 1
+  para_id: 5A491054
+  value: Intergenerational trauma from historical dispossession; supported through
+    culturally safe community yarning circles and ACCHO services.
+- field_id: CHCDIV001_TXT_57_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  label: Table 57 Row 3 Col 0
+  table_idx: 57
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3EF802EF
+  value: Trauma from war experiences requires a calm, predictable environment and
+    clear communication before initiating tasks.
+- field_id: CHCDIV001_TXT_58_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_58
+  label: 'Trauma
+
+    Your organisation recently accommodated a former army medic who migrated to the
+    country becau'
+  table_idx: 58
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6A89414B
+  value: Adopt trauma-informed practice, avoid loud sudden alarms, explain care steps
+    clearly, and respect personal boundaries.
+- field_id: CHCDIV001_TXT_58_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_58
+  label: 'Trauma
+
+    Your organisation recently accommodated a former army medic who migrated to the
+    country becau'
+  table_idx: 58
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 588C4EFD
+  value: Adopt trauma-informed practice, avoid loud sudden alarms, explain care steps
+    clearly, and respect personal boundaries.
+- field_id: CHCDIV001_TXT_58_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_58
+  label: 'Trauma
+
+    Your organisation recently accommodated a former army medic who migrated to the
+    country becau'
+  table_idx: 58
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7A14D94B
+  value: Adopt trauma-informed practice, avoid loud sudden alarms, explain care steps
+    clearly, and respect personal boundaries.
+- field_id: CHCDIV001_TXT_59_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_59
+  label: 'Stigma
+
+    A newly opened workplace created separate areas for clients from Aboriginal and
+    Torres Strait'
+  table_idx: 59
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27F409C6
+  value: Creating separate spaces for Indigenous clients is unlawful racial segregation
+    that perpetuates deep stigma and breaches anti-discrimination laws.
+- field_id: CHCDIV001_TXT_61_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Language interpreters - How this resource can help organisations and individuals
+    embrace diversity
+  table_idx: 61
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4E116652
+  value: Care Connect Services
+- field_id: CHCDIV001_TXT_61_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Language interpreters - How this resource can help organisations and individuals
+    respond to diversit
+  table_idx: 61
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6E3A3A91
+  value: Care Connect Services
+- field_id: CHCDIV001_TXT_61_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Cultural interpreters - How this resource can help organisations and individuals
+    embrace diversity
+  table_idx: 61
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 501AA85B
+  value: 'National Multicultural Health Care Framework: Helps providers deliver linguistically
+    accessible and culturally tailored health services.'
+- field_id: CHCDIV001_TXT_61_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Cultural interpreters - How this resource can help organisations and individuals
+    respond to diversit
+  table_idx: 61
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 507F16F2
+  value: 'Australian Human Rights Commission Workplace Cultural Diversity Tool: Provides
+    self-assessment metrics for organizations to improve equity.'
+- field_id: CHCDIV001_TXT_61_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Imagery - How this resource can help organisations and individuals embrace
+    diversity
+  table_idx: 61
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2C46423E
+  value: Care Connect Services
+- field_id: CHCDIV001_TXT_61_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_61
+  label: Imagery - How this resource can help organisations and individuals respond
+    to diversity
+  table_idx: 61
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 194AFF84
+  value: Care Connect Services
+- field_id: CHCDIV001_TXT_62_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_62
+  label: Multiculturalism - Below are some of the cultural influences in Australia.
+    Briefly explain how these
+  table_idx: 62
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 14A92F75
+  value: Multicultural migration has diversified Australian society, requiring healthcare
+    workers to adapt to multilingual and diverse cultural care expectations.
+- field_id: CHCDIV001_TXT_62_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_62
+  label: Introduction of alcoholic beverages - Below are some of the cultural influences
+    in Australia. Briefl
+  table_idx: 62
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 70AC8565
+  value: Multicultural migration has diversified Australian society, requiring healthcare
+    workers to adapt to multilingual and diverse cultural care expectations.
+- field_id: CHCDIV001_TXT_62_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_62
+  label: 'Sports (e.g., cricket, rugby, basketball) - Below are some of the cultural
+    influences in Australia. '
+  table_idx: 62
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 13D77E46
+  value: Multicultural migration has diversified Australian society, requiring healthcare
+    workers to adapt to multilingual and diverse cultural care expectations.
+- field_id: CHCDIV001_TXT_63_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: Dangerous Practices of the Pearling industry - Below are some of the changing
+    practices in Australia
+  table_idx: 63
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 79D2EED0
+  value: Shift toward consumer-directed care and adoption of professional telephone
+    and digital translation services.
+- field_id: CHCDIV001_TXT_63_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: Practices of the Farming industry - Below are some of the changing practices
+    in Australia. Briefly d
+  table_idx: 63
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0D8DF4F6
+  value: Shift toward consumer-directed care and adoption of professional telephone
+    and digital translation services.
+- field_id: CHCDIV001_TXT_63_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_63
+  label: Religious Practices - Below are some of the changing practices in Australia.
+    Briefly discuss how the
+  table_idx: 63
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1C098290
+  value: Shift toward consumer-directed care and adoption of professional telephone
+    and digital translation services.
+- field_id: CHCDIV001_TXT_65_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_65
+  label: 'Diversity Practice:'
+  table_idx: 65
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 510284FD
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_65_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_65
+  label: 'Diversity Practice: - Effect on Personal Behaviour
+
+    in the Workplace'
+  table_idx: 65
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7A7B1594
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_65_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_65
+  label: 'Diversity Practice: - Effect on Interpersonal Relationships
+
+    in the Workplace'
+  table_idx: 65
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 63FCAF91
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_65_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_65
+  label: 'Diversity Experience:'
+  table_idx: 65
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 382201E1
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_65_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_65
+  label: 'Diversity Experience: - Effect on Personal Behaviour
+
+    in the Workplace'
+  table_idx: 65
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 50797BA5
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_65_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_65
+  label: 'Diversity Experience: - Effect on Interpersonal Relationships
+
+    in the Workplace'
+  table_idx: 65
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 30A87AC2
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_67_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: 'Diversity Practice:'
+  table_idx: 67
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2AB6D30A
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_67_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: 'Diversity Practice: - Effect on Perception'
+  table_idx: 67
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7DA218DF
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_67_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: 'Diversity Practice: - Effect on the Social Expectation of Others'
+  table_idx: 67
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 16638BA5
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_67_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: 'Diversity Experience:'
+  table_idx: 67
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2C3ADBD9
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_67_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: 'Diversity Experience: - Effect on Perception'
+  table_idx: 67
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 48471EFE
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_67_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: 'Diversity Experience: - Effect on the Social Expectation of Others'
+  table_idx: 67
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 310EBA44
+  value: Attending cultural diversity training enhances empathy, challenges unconscious
+    bias, and strengthens respectful teamwork.
+- field_id: CHCDIV001_TXT_69_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: A brief description of your cultural background
+  table_idx: 69
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0FFCD756
+  value: Australian multicultural background
+- field_id: CHCDIV001_TXT_69_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Your work role/title
+  table_idx: 69
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6E7D7F2F
+  value: Australian multicultural background
+- field_id: CHCDIV001_TXT_69_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Scope of your role
+  table_idx: 69
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0DBEC105
+  value: Australian multicultural background
+- field_id: CHCDIV001_TXT_69_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Organisation/workplace
+  table_idx: 69
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 19F80F26
+  value: Australian multicultural background
+- field_id: CHCDIV001_TXT_69_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Worksite/area
+  table_idx: 69
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3D7AD7F0
+  value: Australian multicultural background
+- field_id: CHCDIV001_TXT_69_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_69
+  label: Industry/sector
+  table_idx: 69
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 33B4B911
+  value: Australian multicultural background
+- field_id: CHCDIV001_CB_70_3_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Australian Capital Territory
+  table_idx: 70
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '482046106'
+  value: false
+- field_id: CHCDIV001_CB_70_3_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: South Australia
+  table_idx: 70
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1213380163'
+  value: false
+- field_id: CHCDIV001_CB_70_4_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: New South Wales
+  table_idx: 70
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1668239644'
+  value: false
+- field_id: CHCDIV001_CB_70_4_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Tasmania
+  table_idx: 70
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1551608314'
+  value: false
+- field_id: CHCDIV001_CB_70_5_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Northern Territory
+  table_idx: 70
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1200238092'
+  value: false
+- field_id: CHCDIV001_CB_70_5_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Victoria
+  table_idx: 70
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1846289013'
+  value: false
+- field_id: CHCDIV001_CB_70_6_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Queensland
+  table_idx: 70
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1724519165'
+  value: false
+- field_id: CHCDIV001_CB_70_6_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_70
+  label: Western Australia
+  table_idx: 70
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '836269862'
+  value: false
+- field_id: CHCDIV001_TXT_72_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Role 1:'
+  table_idx: 72
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3259A499
+  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
+    Designs culturally tailored service packages.'
+- field_id: CHCDIV001_TXT_72_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Role 2:'
+  table_idx: 72
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 55A0F7FF
+  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
+    Designs culturally tailored service packages.'
+- field_id: CHCDIV001_TXT_72_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Cultural Awareness - Identify two different work roles in your industry.
+    In your own words, describe
+  table_idx: 72
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0382E312
+  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
+    Designs culturally tailored service packages.'
+- field_id: CHCDIV001_TXT_72_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Cultural Awareness - Identify two different work roles in your industry.
+    In your own words, describe
+  table_idx: 72
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7A7504FE
+  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
+    Designs culturally tailored service packages.'
+- field_id: CHCDIV001_TXT_72_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Cultural Safety - Identify two different work roles in your industry. In
+    your own words, describe ho
+  table_idx: 72
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 26C4C96A
+  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
+    Designs culturally tailored service packages.'
+- field_id: CHCDIV001_TXT_72_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Cultural Safety - Identify two different work roles in your industry. In
+    your own words, describe ho
+  table_idx: 72
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 673F91AD
+  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
+    Designs culturally tailored service packages.'
+- field_id: CHCDIV001_TXT_72_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Cultural Competence - Identify two different work roles in your industry.
+    In your own words, describ
+  table_idx: 72
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1127B392
+  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
+    Designs culturally tailored service packages.'
+- field_id: CHCDIV001_TXT_72_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Cultural Competence - Identify two different work roles in your industry.
+    In your own words, describ
+  table_idx: 72
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6F454E3D
+  value: 'Support Worker: Applies cultural safety in everyday routines; Care Coordinator:
+    Designs culturally tailored service packages.'
+- field_id: CHCDIV001_TXT_73_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_73
+  label: Table 73 Row 2 Col 0
+  table_idx: 73
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D2284B9
+  value: 1. We celebrate and respect diverse cultural identities. 2. We provide culturally
+    safe care. 3. We uphold equal opportunity for all.
+- field_id: CHCDIV001_TXT_73_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_73
+  label: Table 73 Row 3 Col 0
+  table_idx: 73
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5DA202B8
+  value: 1. We celebrate and respect diverse cultural identities. 2. We provide culturally
+    safe care. 3. We uphold equal opportunity for all.
+- field_id: CHCDIV001_TXT_73_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_73
+  label: Table 73 Row 4 Col 0
+  table_idx: 73
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 799FD95A
+  value: 1. We celebrate and respect diverse cultural identities. 2. We provide culturally
+    safe care. 3. We uphold equal opportunity for all.
+- field_id: CHCDIV001_TXT_76_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_76
+  label: 'Language
+
+    E.g., English, Italian, Chinese'
+  table_idx: 76
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1BA05F1D
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_76_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_76
+  label: 'Language
+
+    E.g., English, Italian, Chinese - Impact on Different People
+
+    If your culture is similar to '
+  table_idx: 76
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6F5F1FE8
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_76_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_76
+  label: 'Language
+
+    E.g., English, Italian, Chinese - Impact on Different People
+
+    If your culture is similar to '
+  table_idx: 76
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5DBF81D4
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_77_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_77
+  label: 'Policy
+
+    This may involve laws, actions, programs, and agreements (e.g., the Racial Discrimination
+    Act'
+  table_idx: 77
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3FEEA584
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_77_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_77
+  label: 'Policy
+
+    This may involve laws, actions, programs, and agreements (e.g., the Racial Discrimination
+    Act'
+  table_idx: 77
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4916DEB2
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_78_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_78
+  label: 'Structure
+
+    A cultural structure involves an organised set of social institutions and patterns
+    of rela'
+  table_idx: 78
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 51370D7E
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_78_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_78
+  label: 'Structure
+
+    A cultural structure involves an organised set of social institutions and patterns
+    of rela'
+  table_idx: 78
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 47E91514
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_81_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: 'Language
+
+    If the candidate only speaks one language, responses here can be the same.'
+  table_idx: 81
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0C10067A
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_81_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: 'Language
+
+    If the candidate only speaks one language, responses here can be the same. - Impact
+    on diff'
+  table_idx: 81
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 55412DD3
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_81_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: 'Language
+
+    If the candidate only speaks one language, responses here can be the same. - Impact
+    on diff'
+  table_idx: 81
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 368234AD
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_81_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: 'Language
+
+    If the candidate only speaks one language, responses here can be the same.'
+  table_idx: 81
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0C10067A
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_81_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: 'Language
+
+    If the candidate only speaks one language, responses here can be the same.'
+  table_idx: 81
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0C10067A
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_81_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: 'Language
+
+    If the candidate only speaks one language, responses here can be the same.'
+  table_idx: 81
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0C10067A
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_81_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: 'Language
+
+    If the candidate only speaks one language, responses here can be the same. - Impact
+    on diff'
+  table_idx: 81
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 62D9DF70
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_81_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_81
+  label: 'Language
+
+    If the candidate only speaks one language, responses here can be the same. - Impact
+    on diff'
+  table_idx: 81
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5B5DA9D4
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_82_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Task 3.
+  label: 'Structure
+
+    The cultural structure indicated here should be different from Practical Assignment
+    Task 3'
+  table_idx: 82
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 351FEAA6
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_82_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Task 3.
+  label: 'Structure
+
+    The cultural structure indicated here should be different from Practical Assignment
+    Task 3'
+  table_idx: 82
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2479BCE5
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_82_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Task 3.
+  label: 'Structure
+
+    The cultural structure indicated here should be different from Practical Assignment
+    Task 3'
+  table_idx: 82
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 528DB979
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_82_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Task 3.
+  label: 'Structure
+
+    The cultural structure indicated here should be different from Practical Assignment
+    Task 3'
+  table_idx: 82
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '22112688'
+  value: 'Direct communication style: Appreciated by low-context cultures for clarity,
+    but may be perceived as abrupt by high-context cultures; adjusted accordingly.'
+- field_id: CHCDIV001_TXT_84_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: Ethical Consideration - Racial Discrimination
+  table_idx: 84
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 635F9F06
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: Ethical Consideration - Disability Discrimination
+  table_idx: 84
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 04CF0935
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: Ethical Consideration - Sex Discrimination
+  table_idx: 84
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 450E6898
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_1_4_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: Ethical Consideration - Age Discrimination
+  table_idx: 84
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 4D8A001C
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: How this consideration impacts individual workers - Racial Discrimination
+  table_idx: 84
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 47B434ED
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: How this consideration impacts individual workers - Disability Discrimination
+  table_idx: 84
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4EDB6A0E
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: How this consideration impacts individual workers - Sex Discrimination
+  table_idx: 84
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 247460E2
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_2_4_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: How this consideration impacts individual workers - Age Discrimination
+  table_idx: 84
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 13FA7114
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: Possible consequences of disregarding this consideration - Racial Discrimination
+  table_idx: 84
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0DB0C114
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: Possible consequences of disregarding this consideration - Disability Discrimination
+  table_idx: 84
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 04FA3641
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: Possible consequences of disregarding this consideration - Sex Discrimination
+  table_idx: 84
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 349A4828
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_84_3_4_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_84
+  label: Possible consequences of disregarding this consideration - Age Discrimination
+  table_idx: 84
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 2734865F
+  value: Treating all individuals with unconditional positive regard, challenging
+    stereotypes, and promoting self-determination.
+- field_id: CHCDIV001_TXT_86_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_86
+  label: 'Legislation:'
+  table_idx: 86
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3162CCF0
+  value: Anti-Discrimination Act 1977 (NSW) (https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-048)
+- field_id: CHCDIV001_TXT_86_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_86
+  label: 'Link:'
+  table_idx: 86
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4D669478
+  value: Anti-Discrimination Act 1977 (NSW) (https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-048)
+- field_id: CHCDIV001_TXT_87_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Right - Worker
+  table_idx: 87
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 127C4309
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_87_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Action or response upon Infringement of this right - Worker
+  table_idx: 87
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 02A20F2D
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_87_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Responsibility - Worker
+  table_idx: 87
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 538F55D9
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_87_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_87
+  label: Action or response when this responsibility is not carried out - Worker
+  table_idx: 87
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1E5010B1
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_88_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_88
+  label: Right - Employer
+  table_idx: 88
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 58A5438D
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_88_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_88
+  label: Action or response upon Infringement of this right - Employer
+  table_idx: 88
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 75015CDC
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_88_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_88
+  label: Responsibility - Employer
+  table_idx: 88
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 68979BED
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_88_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_88
+  label: Action or response when this responsibility is not carried out - Employer
+  table_idx: 88
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 64A4F29B
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_89_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_89
+  label: Right - Client
+  table_idx: 89
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0613062A
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_89_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_89
+  label: Action or response upon Infringement of this right - Client
+  table_idx: 89
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 650616C9
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_89_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_89
+  label: Responsibility - Client
+  table_idx: 89
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3A0A1E23
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_89_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_89
+  label: Action or response when this responsibility is not carried out - Client
+  table_idx: 89
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6A1A67E6
+  value: Right to a workplace free from discrimination; responsibility to treat others
+    with respect and follow equity policies.
+- field_id: CHCDIV001_TXT_91_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_91
+  label: 'Source or Document:'
+  table_idx: 91
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3AF83130
+  value: Care Connect Services Diversity and Inclusion Policy v1.2
+- field_id: CHCDIV001_TXT_92_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_92
+  label: Right - Worker
+  table_idx: 92
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 43694EF8
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_92_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_92
+  label: Action or response upon Infringement of this right - Worker
+  table_idx: 92
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3E7273C4
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_92_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_92
+  label: Responsibility - Worker
+  table_idx: 92
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 799503A2
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_92_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_92
+  label: Action or response when this responsibility is not carried out - Worker
+  table_idx: 92
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2EA02A71
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_93_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_93
+  label: Right - Employer
+  table_idx: 93
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 211D807B
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_93_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_93
+  label: Action or response upon Infringement of this right - Employer
+  table_idx: 93
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7C934DE3
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_93_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_93
+  label: Responsibility - Employer
+  table_idx: 93
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '39445324'
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_93_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_93
+  label: Action or response when this responsibility is not carried out - Employer
+  table_idx: 93
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 68CEEC30
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_94_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_94
+  label: Right - Client
+  table_idx: 94
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 70EE02E5
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_94_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_94
+  label: Action or response upon Infringement of this right - Client
+  table_idx: 94
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3E71727D
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_94_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_94
+  label: Responsibility - Client
+  table_idx: 94
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3945ECCD
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_94_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_94
+  label: Action or response when this responsibility is not carried out - Client
+  table_idx: 94
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4F2BC5FC
+  value: Right to equal treatment and respect; responsibility to comply with professional
+    codes of conduct.
+- field_id: CHCDIV001_TXT_96_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_96
+  label: Your social perspectives
+  table_idx: 96
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5DA9C69B
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_96_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_96
+  label: How it affects your work
+  table_idx: 96
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6D2A62C7
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_96_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_96
+  label: Your social perspectives
+  table_idx: 96
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5C75DB97
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_96_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_96
+  label: How it affects your work
+  table_idx: 96
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3F30175E
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_97_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: 'Social Biases
+
+    Use the following guide questions when reflecting on your social biases:
+
+    When I see a '
+  table_idx: 97
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4AA8DC40
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_97_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: 'Social Biases
+
+    Use the following guide questions when reflecting on your social biases:
+
+    When I see a '
+  table_idx: 97
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 324920B0
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_97_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: 'Social Biases
+
+    Use the following guide questions when reflecting on your social biases:
+
+    When I see a '
+  table_idx: 97
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 53EAAF63
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_97_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_97
+  label: 'Social Biases
+
+    Use the following guide questions when reflecting on your social biases:
+
+    When I see a '
+  table_idx: 97
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4945B804
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_98_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Cultural Perspectives
+
+    Use the following guide questions when reflecting on your cultural perspective'
+  table_idx: 98
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D4DBEAD
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_98_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Cultural Perspectives
+
+    Use the following guide questions when reflecting on your cultural perspective'
+  table_idx: 98
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 011CC2B2
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_98_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Cultural Perspectives
+
+    Use the following guide questions when reflecting on your cultural perspective'
+  table_idx: 98
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 570524B4
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_98_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_98
+  label: 'Cultural Perspectives
+
+    Use the following guide questions when reflecting on your cultural perspective'
+  table_idx: 98
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5C5CF587
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_99_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: 'Cultural Biases
+
+    Use the following guide questions when reflecting on your cultural biases:
+
+    How does '
+  table_idx: 99
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 34FE09DD
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_99_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: 'Cultural Biases
+
+    Use the following guide questions when reflecting on your cultural biases:
+
+    How does '
+  table_idx: 99
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 28BAF3D2
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_99_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: 'Cultural Biases
+
+    Use the following guide questions when reflecting on your cultural biases:
+
+    How does '
+  table_idx: 99
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0252F3F1
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_99_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_99
+  label: 'Cultural Biases
+
+    Use the following guide questions when reflecting on your cultural biases:
+
+    How does '
+  table_idx: 99
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 169FCA02
+  value: Self-reflection helps identify unconscious biases, enabling me to listen
+    actively and avoid imposing Western assumptions onto clients.
+- field_id: CHCDIV001_TXT_101_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_101
+  label: Self - Example
+  table_idx: 101
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4A67A8FF
+  value: 'Limitation: Limited foreign language skills; Improvement: Utilize professional
+    TIS National interpreters.'
+- field_id: CHCDIV001_TXT_101_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_101
+  label: Self - Way to Improve
+  table_idx: 101
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5A09C26A
+  value: 'Limitation: Limited foreign language skills; Improvement: Utilize professional
+    TIS National interpreters.'
+- field_id: CHCDIV001_TXT_101_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_101
+  label: Social Awareness - Example
+  table_idx: 101
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 128C04D6
+  value: 'Limitation: Limited foreign language skills; Improvement: Utilize professional
+    TIS National interpreters.'
+- field_id: CHCDIV001_TXT_101_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_101
+  label: Social Awareness - Way to Improve
+  table_idx: 101
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0A600C2F
+  value: 'Limitation: Limited foreign language skills; Improvement: Utilize professional
+    TIS National interpreters.'
+- field_id: CHCDIV001_TXT_103_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_103
+  label: Misunderstanding you encountered
+  table_idx: 103
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0948D2E9
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_103_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_103
+  label: Misunderstanding you encountered
+  table_idx: 103
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 58F034D0
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_103_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_103
+  label: Misunderstanding you encountered
+  table_idx: 103
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1D83A31A
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_104_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_104
+  label: Misunderstanding you encountered
+  table_idx: 104
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7E729172
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_104_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_104
+  label: Misunderstanding you encountered
+  table_idx: 104
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 70C22A06
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_104_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_104
+  label: Misunderstanding you encountered
+  table_idx: 104
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 05907A47
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_105_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_105
+  label: Difficulty you encountered
+  table_idx: 105
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2663E873
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_105_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_105
+  label: Difficulty you encountered
+  table_idx: 105
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6866E8BE
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_105_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_105
+  label: Difficulty you encountered
+  table_idx: 105
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 12C43675
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_106_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_106
+  label: Difficulty you encountered
+  table_idx: 106
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4DAB69A8
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_106_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_106
+  label: Difficulty you encountered
+  table_idx: 106
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1D37CCD2
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_106_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_106
+  label: Difficulty you encountered
+  table_idx: 106
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 06E525B9
+  value: Language misunderstanding resolved by engaging an accredited TIS National
+    interpreter and verifying client comfort.
+- field_id: CHCDIV001_TXT_115_1_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: 'Work Activity
+
+    (These must be the work activities identified in Preliminary Task – Before Proceeding '
+  table_idx: 115
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 554A4B1C
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_TXT_115_1_1_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: Possible Misunderstanding
+  table_idx: 115
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1E30611E
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_TXT_115_1_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: Appropriate Response
+  table_idx: 115
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 410A7D9C
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_TXT_115_2_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: 'Work Activity
+
+    (These must be the work activities identified in Preliminary Task – Before Proceeding '
+  table_idx: 115
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6C227679
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_TXT_115_2_1_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: Possible Misunderstanding
+  table_idx: 115
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0127EF01
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_TXT_115_2_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: Appropriate Response
+  table_idx: 115
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7408B454
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_TXT_115_3_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: 'Work Activity
+
+    (These must be the work activities identified in Preliminary Task – Before Proceeding '
+  table_idx: 115
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1329654A
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_TXT_115_3_1_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: Possible Misunderstanding
+  table_idx: 115
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 361F9429
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_TXT_115_3_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Task 2
+  label: Appropriate Response
+  table_idx: 115
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7483BF49
+  value: Cultural misinterpretation of non-verbal cues (e.g. eye contact); resolved
+    by apologizing and clarifying preferences respectfully.
+- field_id: CHCDIV001_CB_117_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: You have completed all the Knowledge Assessments Questions.
+  table_idx: 117
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1172607243'
+  value: true
+- field_id: CHCDIV001_CB_117_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: 'You have completed the Practical Assessments in this workbook:'
+  table_idx: 117
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-367450486'
+  value: true
+- field_id: CHCDIV001_CB_117_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 1
+  table_idx: 117
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1018311346'
+  value: true
+- field_id: CHCDIV001_CB_117_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 2
+  table_idx: 117
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1889327023'
+  value: true
+- field_id: CHCDIV001_CB_117_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 3
+  table_idx: 117
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '149946339'
+  value: true
+- field_id: CHCDIV001_CB_117_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 4
+  table_idx: 117
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '305137674'
+  value: true
+- field_id: CHCDIV001_CB_117_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 5
+  table_idx: 117
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1274316490'
+  value: true
+- field_id: CHCDIV001_CB_117_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 6
+  table_idx: 117
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1600055433'
+  value: true
+- field_id: CHCDIV001_CB_117_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 7
+  table_idx: 117
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '992061646'
+  value: true
+- field_id: CHCDIV001_CB_117_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 8
+  table_idx: 117
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1424847041'
+  value: true
+- field_id: CHCDIV001_CB_117_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 9
+  table_idx: 117
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-439692451'
+  value: true
+- field_id: CHCDIV001_CB_117_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 10
+  table_idx: 117
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1297672466'
+  value: true
+- field_id: CHCDIV001_CB_117_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 1
+  table_idx: 117
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-44145714'
+  value: true
+- field_id: CHCDIV001_CB_117_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2
+  table_idx: 117
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1912042697'
+  value: true
+- field_id: CHCDIV001_CB_117_16_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 3
+  table_idx: 117
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1563547611'
+  value: true
+- field_id: CHCDIV001_CB_117_17_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Supplementary Question
+  table_idx: 117
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1591586004'
+  value: true
+- field_id: CHCDIV001_CB_117_18_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4
+  table_idx: 117
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1669851159'
+  value: true
+- field_id: CHCDIV001_CB_118_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 118
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '94379991'
+  value: true
+- field_id: CHCDIV001_CB_118_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: This completed workbook
+  table_idx: 118
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1447926260'
+  value: true
+- field_id: CHCDIV001_CB_118_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 118
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1148632625'
+  value: true
+- field_id: CHCDIV001_CB_118_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: Practical Assignment Task 3 – Copies of documents about your own culture
+  table_idx: 118
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-943922561'
+  value: true
+- field_id: CHCDIV001_CB_118_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: Practical Assignment Task 4 – Copies of documents about your own culture
+  table_idx: 118
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1942668715'
+  value: true
+- field_id: CHCDIV001_CB_118_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: Practical Assignment Task 5 – Copies of documents containing ethical considerations
+  table_idx: 118
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '316388824'
+  value: true
+- field_id: CHCDIV001_CB_118_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: Practical Assignment Task 6 – Excerpts of legislation relevant to the legal
+    rights and responsibilit
+  table_idx: 118
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2143421128'
+  value: true
+- field_id: CHCDIV001_CB_118_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: Practical Assignment Task 7 – Copies of documents containing the ethical
+    rights and responsibilities
+  table_idx: 118
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1216969591'
+  value: true
+- field_id: CHCDIV001_CB_118_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 3
+  label: Workplace Assessment Task 4 - Email Copy
+  table_idx: 118
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-359658739'
+  value: true
+- field_id: CHCDIV001_CB_120_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: The candidate has completed all the Knowledge Assessments Questions.
+  table_idx: 120
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-579901534'
+  value: false
+- field_id: CHCDIV001_CB_120_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: 'The candidate has completed the Practical Assessments in this workbook:'
+  table_idx: 120
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '114489879'
+  value: false
+- field_id: CHCDIV001_CB_120_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 1
+  table_idx: 120
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-808399352'
+  value: false
+- field_id: CHCDIV001_CB_120_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 2
+  table_idx: 120
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1727802488'
+  value: false
+- field_id: CHCDIV001_CB_120_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 3
+  table_idx: 120
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-20942582'
+  value: false
+- field_id: CHCDIV001_CB_120_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 4
+  table_idx: 120
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-149132775'
+  value: false
+- field_id: CHCDIV001_CB_120_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 5
+  table_idx: 120
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1418627795'
+  value: false
+- field_id: CHCDIV001_CB_120_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 6
+  table_idx: 120
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1158230096'
+  value: false
+- field_id: CHCDIV001_CB_120_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 7
+  table_idx: 120
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '783385550'
+  value: false
+- field_id: CHCDIV001_CB_120_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 8
+  table_idx: 120
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-376934629'
+  value: false
+- field_id: CHCDIV001_CB_120_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 9
+  table_idx: 120
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1602941751'
+  value: false
+- field_id: CHCDIV001_CB_120_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 10
+  table_idx: 120
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-383095374'
+  value: false
+- field_id: CHCDIV001_CB_120_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 1
+  table_idx: 120
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1077488976'
+  value: false
+- field_id: CHCDIV001_CB_120_15_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2
+  table_idx: 120
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1249952597'
+  value: false
+- field_id: CHCDIV001_CB_120_16_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 3
+  table_idx: 120
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1697738579'
+  value: false
+- field_id: CHCDIV001_CB_120_17_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Supplementary Questions
+  table_idx: 120
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1613199121'
+  value: false
+- field_id: CHCDIV001_CB_120_18_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4
+  table_idx: 120
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '706916511'
+  value: false
+- field_id: CHCDIV001_CB_121_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 121
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1280181623'
+  value: false
+- field_id: CHCDIV001_CB_121_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: This completed workbook
+  table_idx: 121
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1016224711'
+  value: false
+- field_id: CHCDIV001_CB_121_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 121
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2008746071'
+  value: false
+- field_id: CHCDIV001_CB_121_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: Practical Assignment Task 3 – Copies of documents about your own culture
+  table_idx: 121
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1581097660'
+  value: false
+- field_id: CHCDIV001_CB_121_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: Practical Assignment Task 4 – Copies of documents about your own culture
+  table_idx: 121
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1544402707'
+  value: false
+- field_id: CHCDIV001_CB_121_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: Practical Assignment Task 5 – Copies of documents containing ethical considerations
+  table_idx: 121
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '991297932'
+  value: false
+- field_id: CHCDIV001_CB_121_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: Practical Assignment Task 6 – Excerpts of legislation relevant to the legal
+    rights and responsibilit
+  table_idx: 121
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-227920755'
+  value: false
+- field_id: CHCDIV001_CB_121_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: Practical Assignment Task 7 – Copies of documents containing the ethical
+    rights and responsibilities
+  table_idx: 121
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1380161369'
+  value: false
+- field_id: CHCDIV001_CB_121_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 3
+  label: Workplace Assessment Task 4 - Email Copy
+  table_idx: 121
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1210801733'
+  value: false
+- field_id: CHCDIV001_TXT_123_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_123
+  label: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 123
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 730A0435
+  value: Alex Chen
+- field_id: CHCDIV001_TXT_123_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_123
+  label: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 123
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F1CA79
+  value: Care Connect College
+- field_id: CHCDIV001_TXT_123_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_123
+  label: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 123
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A6CEC60
+  value: 1300 123 456
+- field_id: CHCDIV001_TXT_123_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_123
+  label: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 123
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6127D83D
+  value: info@careconnectcollege.edu.au
+- field_id: CHCDIV001_TXT_123_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_123
+  label: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 123
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 165860A4
+  value: ''
+- field_id: CHCDIV001_CB_124_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 124
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1628122573'
+  value: false
+- field_id: CHCDIV001_CB_124_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 124
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '41869887'
+  value: false
+- field_id: CHCDIV001_CB_124_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 124
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1085990598'
+  value: false
+- field_id: CHCDIV001_CB_124_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 124
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1484276261'
+  value: false
+- field_id: CHCDIV001_CB_124_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 124
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631007055'
+  value: false
+- field_id: CHCDIV001_CB_124_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 124
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '132760661'
+  value: false
+- field_id: CHCDIV001_CB_124_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 124
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1814549610'
+  value: false
+- field_id: CHCDIV001_CB_124_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 124
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1261265825'
+  value: false
+- field_id: CHCDIV001_CB_124_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 1
+  table_idx: 124
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '725570037'
+  value: false
+- field_id: CHCDIV001_CB_124_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 2
+  table_idx: 124
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1166288856'
+  value: false
+- field_id: CHCDIV001_CB_124_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 1
+  table_idx: 124
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1372457168'
+  value: false
+- field_id: CHCDIV001_CB_124_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 2
+  table_idx: 124
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1495609469'
+  value: false
+- field_id: CHCDIV001_CB_124_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 1
+  table_idx: 124
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1387684236'
+  value: false
+- field_id: CHCDIV001_CB_124_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 2
+  table_idx: 124
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-890026855'
+  value: false
+- field_id: CHCDIV001_CB_124_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 1
+  table_idx: 124
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-61334369'
+  value: false
+- field_id: CHCDIV001_CB_124_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 2
+  table_idx: 124
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '970940321'
+  value: false
+- field_id: CHCDIV001_CB_124_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 1
+  table_idx: 124
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1451387914'
+  value: false
+- field_id: CHCDIV001_CB_124_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 2
+  table_idx: 124
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '688568681'
+  value: false
+- field_id: CHCDIV001_CB_124_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 1
+  table_idx: 124
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1276900681'
+  value: false
+- field_id: CHCDIV001_CB_124_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 2
+  table_idx: 124
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1807235955'
+  value: false
+- field_id: CHCDIV001_CB_124_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 1
+  table_idx: 124
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '711547523'
+  value: false
+- field_id: CHCDIV001_CB_124_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 2
+  table_idx: 124
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1298521679'
+  value: false
+- field_id: CHCDIV001_CB_124_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 1
+  table_idx: 124
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1187744755'
+  value: false
+- field_id: CHCDIV001_CB_124_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 2
+  table_idx: 124
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1987055664'
+  value: false
+- field_id: CHCDIV001_CB_125_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 1 Col 1
+  table_idx: 125
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-675813330'
+  value: false
+- field_id: CHCDIV001_CB_125_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 1 Col 2
+  table_idx: 125
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-171261875'
+  value: false
+- field_id: CHCDIV001_CB_125_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 2 Col 1
+  table_idx: 125
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-588697954'
+  value: false
+- field_id: CHCDIV001_CB_125_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 2 Col 2
+  table_idx: 125
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1408496765'
+  value: false
+- field_id: CHCDIV001_CB_125_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 3 Col 1
+  table_idx: 125
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1105186946'
+  value: false
+- field_id: CHCDIV001_CB_125_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 3 Col 2
+  table_idx: 125
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-229764774'
+  value: false
+- field_id: CHCDIV001_CB_125_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 4 Col 1
+  table_idx: 125
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-2110349024'
+  value: false
+- field_id: CHCDIV001_CB_125_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 4 Col 2
+  table_idx: 125
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '219720117'
+  value: false
+- field_id: CHCDIV001_CB_125_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 5 Col 1
+  table_idx: 125
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1282768470'
+  value: false
+- field_id: CHCDIV001_CB_125_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 5 Col 2
+  table_idx: 125
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-865437357'
+  value: false
+- field_id: CHCDIV001_CB_125_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 6 Col 1
+  table_idx: 125
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1443118793'
+  value: false
+- field_id: CHCDIV001_CB_125_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 6 Col 2
+  table_idx: 125
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1448272551'
+  value: false
+- field_id: CHCDIV001_CB_125_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 7 Col 1
+  table_idx: 125
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1669314136'
+  value: false
+- field_id: CHCDIV001_CB_125_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 7 Col 2
+  table_idx: 125
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-912475424'
+  value: false
+- field_id: CHCDIV001_CB_125_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 8 Col 1
+  table_idx: 125
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1966388524'
+  value: false
+- field_id: CHCDIV001_CB_125_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 8 Col 2
+  table_idx: 125
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1737780509'
+  value: false
+- field_id: CHCDIV001_CB_125_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 9 Col 1
+  table_idx: 125
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1153216690'
+  value: false
+- field_id: CHCDIV001_CB_125_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 9 Col 2
+  table_idx: 125
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-663319127'
+  value: false
+- field_id: CHCDIV001_CB_125_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 10 Col 1
+  table_idx: 125
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1933583596'
+  value: false
+- field_id: CHCDIV001_CB_125_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 10 Col 2
+  table_idx: 125
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1651938947'
+  value: false
+- field_id: CHCDIV001_CB_125_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 11 Col 1
+  table_idx: 125
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-927570001'
+  value: false
+- field_id: CHCDIV001_CB_125_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 11 Col 2
+  table_idx: 125
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-120837877'
+  value: false
+- field_id: CHCDIV001_CB_125_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 12 Col 1
+  table_idx: 125
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-45690999'
+  value: false
+- field_id: CHCDIV001_CB_125_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 12 Col 2
+  table_idx: 125
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '782310699'
+  value: false
+- field_id: CHCDIV001_CB_125_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 13 Col 1
+  table_idx: 125
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-872691408'
+  value: false
+- field_id: CHCDIV001_CB_125_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 13 Col 2
+  table_idx: 125
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1924484445'
+  value: false
+- field_id: CHCDIV001_CB_125_14_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 14 Col 1
+  table_idx: 125
+  row_idx: 14
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1531456693'
+  value: false
+- field_id: CHCDIV001_CB_125_14_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 14 Col 2
+  table_idx: 125
+  row_idx: 14
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1165860996'
+  value: false
+- field_id: CHCDIV001_CB_125_15_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 15 Col 1
+  table_idx: 125
+  row_idx: 15
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-619918050'
+  value: false
+- field_id: CHCDIV001_CB_125_15_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 15 Col 2
+  table_idx: 125
+  row_idx: 15
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-66644503'
+  value: false
+- field_id: CHCDIV001_CB_125_16_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 16 Col 1
+  table_idx: 125
+  row_idx: 16
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1821799121'
+  value: false
+- field_id: CHCDIV001_CB_125_16_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 16 Col 2
+  table_idx: 125
+  row_idx: 16
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '858773832'
+  value: false
+- field_id: CHCDIV001_CB_126_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 1
+  table_idx: 126
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1492255000'
+  value: false
+- field_id: CHCDIV001_CB_126_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 2
+  table_idx: 126
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2002734090'
+  value: false
+- field_id: CHCDIV001_CB_126_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 1
+  table_idx: 126
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '811218801'
+  value: false
+- field_id: CHCDIV001_CB_126_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 2
+  table_idx: 126
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1295648577'
+  value: false
+- field_id: CHCDIV001_CB_126_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 1
+  table_idx: 126
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1549602813'
+  value: false
+- field_id: CHCDIV001_CB_126_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 2
+  table_idx: 126
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '509496459'
+  value: false
+- field_id: CHCDIV001_CB_126_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 1
+  table_idx: 126
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1247423853'
+  value: false
+- field_id: CHCDIV001_CB_126_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 2
+  table_idx: 126
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1099329470'
+  value: false
+- field_id: CHCDIV001_CB_126_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 6 Col 1
+  table_idx: 126
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1249573797'
+  value: false
+- field_id: CHCDIV001_CB_126_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 6 Col 2
+  table_idx: 126
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '903256986'
+  value: false
+- field_id: CHCDIV001_CB_127_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 1 Col 1
+  table_idx: 127
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-798911815'
+  value: false
+- field_id: CHCDIV001_CB_127_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 1 Col 2
+  table_idx: 127
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '512270165'
+  value: false
+- field_id: CHCDIV001_CB_127_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 2 Col 1
+  table_idx: 127
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-77980439'
+  value: false
+- field_id: CHCDIV001_CB_127_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 2 Col 2
+  table_idx: 127
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-886027890'
+  value: false
+- field_id: CHCDIV001_CB_127_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 3 Col 1
+  table_idx: 127
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-366686194'
+  value: false
+- field_id: CHCDIV001_CB_127_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 3 Col 2
+  table_idx: 127
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '584032668'
+  value: false
+- field_id: CHCDIV001_CB_127_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 4 Col 1
+  table_idx: 127
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1275828235'
+  value: false
+- field_id: CHCDIV001_CB_127_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 4 Col 2
+  table_idx: 127
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '868724840'
+  value: false
+- field_id: CHCDIV001_CB_127_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 5 Col 1
+  table_idx: 127
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-230006075'
+  value: false
+- field_id: CHCDIV001_CB_127_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 6
+  label: Row 5 Col 2
+  table_idx: 127
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1818915384'
+  value: false
+- field_id: CHCDIV001_CB_128_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 1 Col 1
+  table_idx: 128
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1509178480'
+  value: false
+- field_id: CHCDIV001_CB_128_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 1 Col 2
+  table_idx: 128
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-708488601'
+  value: false
+- field_id: CHCDIV001_CB_128_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 1
+  table_idx: 128
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1187332751'
+  value: false
+- field_id: CHCDIV001_CB_128_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 2
+  table_idx: 128
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1393777587'
+  value: false
+- field_id: CHCDIV001_CB_128_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 1
+  table_idx: 128
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2087337932'
+  value: false
+- field_id: CHCDIV001_CB_128_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 2
+  table_idx: 128
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '227340616'
+  value: false
+- field_id: CHCDIV001_CB_128_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 1
+  table_idx: 128
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1388373256'
+  value: false
+- field_id: CHCDIV001_CB_128_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 2
+  table_idx: 128
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-978463442'
+  value: false
+- field_id: CHCDIV001_CB_128_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 1
+  table_idx: 128
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-651522542'
+  value: false
+- field_id: CHCDIV001_CB_128_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 2
+  table_idx: 128
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1247386968'
+  value: false
+- field_id: CHCDIV001_CB_129_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Row 1 Col 1
+  table_idx: 129
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: CHCDIV001_CB_129_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Row 1 Col 2
+  table_idx: 129
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: CHCDIV001_CB_129_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Row 2 Col 1
+  table_idx: 129
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: CHCDIV001_CB_129_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Row 2 Col 2
+  table_idx: 129
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: CHCDIV001_CB_129_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Row 3 Col 1
+  table_idx: 129
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: CHCDIV001_CB_129_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Row 3 Col 2
+  table_idx: 129
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: CHCDIV001_CB_129_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Row 4 Col 1
+  table_idx: 129
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: CHCDIV001_CB_129_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Row 4 Col 2
+  table_idx: 129
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: CHCDIV001_CB_130_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_130
+  label: Row 2 Col 1
+  table_idx: 130
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: CHCDIV001_CB_130_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_130
+  label: Row 3 Col 1
+  table_idx: 130
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: CHCDIV001_CB_130_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_130
+  label: Row 4 Col 1
+  table_idx: 130
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: CHCDIV001_TXT_132_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Name of Third-party Contacted
+  table_idx: 132
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A969C06
+  value: ''
+- field_id: CHCDIV001_TXT_132_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Role in the Candidate’s Assessment
+  table_idx: 132
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EEC833F
+  value: ''
+- field_id: CHCDIV001_TXT_132_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Contact Details (Phone number or email address)
+  table_idx: 132
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '29882929'
+  value: ''
+- field_id: CHCDIV001_TXT_132_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Date contacted
+  table_idx: 132
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CD14B2C
+  value: ''
+- field_id: CHCDIV001_CB_132_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Yes       No   Assessor’s Notes
+  table_idx: 132
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: CHCDIV001_CB_132_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Yes       No   Assessor’s Notes
+  table_idx: 132
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: CHCDIV001_TXT_132_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 132
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3273E566
+  value: ''
+- field_id: CHCDIV001_TXT_132_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Name of Third-party Contacted
+  table_idx: 132
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27B75E8F
+  value: ''
+- field_id: CHCDIV001_TXT_132_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Role in the Candidate’s Assessment
+  table_idx: 132
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40B34E2B
+  value: ''
+- field_id: CHCDIV001_TXT_132_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Contact Details (Phone number or email address)
+  table_idx: 132
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77A6665E
+  value: ''
+- field_id: CHCDIV001_TXT_132_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Date contacted
+  table_idx: 132
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1DAFA096
+  value: ''
+- field_id: CHCDIV001_CB_132_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Yes       No   Assessor’s Notes
+  table_idx: 132
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: CHCDIV001_CB_132_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Yes       No   Assessor’s Notes
+  table_idx: 132
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: CHCDIV001_TXT_132_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 132
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 39CAA6A2
+  value: ''
+- field_id: CHCDIV001_TXT_132_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Name of Third-party Contacted
+  table_idx: 132
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D25FAFA
+  value: ''
+- field_id: CHCDIV001_TXT_132_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Role in the Candidate’s Assessment
+  table_idx: 132
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451A30E5
+  value: ''
+- field_id: CHCDIV001_TXT_132_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Contact Details (Phone number or email address)
+  table_idx: 132
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E4BE0E3
+  value: ''
+- field_id: CHCDIV001_TXT_132_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Date contacted
+  table_idx: 132
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 08D6E752
+  value: ''
+- field_id: CHCDIV001_CB_132_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Yes       No   Assessor’s Notes
+  table_idx: 132
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: CHCDIV001_CB_132_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Yes       No   Assessor’s Notes
+  table_idx: 132
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: CHCDIV001_TXT_132_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 132
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18D2A67F
+  value: ''
+- field_id: CHCDIV001_TXT_132_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Name of Third-party Contacted
+  table_idx: 132
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AB2776E
+  value: ''
+- field_id: CHCDIV001_TXT_132_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Role in the Candidate’s Assessment
+  table_idx: 132
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B9C71C7
+  value: ''
+- field_id: CHCDIV001_TXT_132_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Contact Details (Phone number or email address)
+  table_idx: 132
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 23166DAF
+  value: ''
+- field_id: CHCDIV001_TXT_132_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: Date contacted
+  table_idx: 132
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19F6D647
+  value: ''
+- field_id: CHCDIV001_CB_132_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Yes       No   Assessor’s Notes
+  table_idx: 132
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: CHCDIV001_CB_132_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Yes       No   Assessor’s Notes
+  table_idx: 132
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: CHCDIV001_TXT_132_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_132
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 132
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3BC5CFB0
+  value: ''
+- field_id: CHCDIV001_CB_133_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 1 Col 1
+  table_idx: 133
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: CHCDIV001_CB_133_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 1 Col 2
+  table_idx: 133
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: CHCDIV001_CB_134_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 1 Col 1
+  table_idx: 134
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: CHCDIV001_CB_134_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 1 Col 2
+  table_idx: 134
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: CHCDIV001_TXT_135_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_135
+  label: Assessor’s comments/feedback
+  table_idx: 135
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E889375
+  value: ''
+- field_id: CHCDIV001_TXT_136_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_136
+  label: Assessor’s name
+  table_idx: 136
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D877E66
+  value: ''
+- field_id: CHCDIV001_TXT_136_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_136
+  label: Assessor’s signature
+  table_idx: 136
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
+- field_id: CHCDIV001_TXT_136_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_136
+  label: Date signed
+  table_idx: 136
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56908E91
+  value: ''
+- field_id: CHCDIV001_TXT_136_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_136
+  label: Assessor’s signature
+  table_idx: 136
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''

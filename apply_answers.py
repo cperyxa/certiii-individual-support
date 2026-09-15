@@ -267,6 +267,18 @@ def main():
         ("CHCCOM005", "answers_CHCCOM005.yaml", "Assignment Materials-20260915 (5)/CHCCOM005-AWB-F-v1.1.docx", "Assignment Materials-20260915 (5)/CHCCOM005-AWB-Filled.docx"),
         ("HLTINF006", "answers_HLTINF006.yaml", "Assignment Materials-20260915 (8)/HLTINF006-AWB-F-v1.0.docx", "Assignment Materials-20260915 (8)/HLTINF006-AWB-Filled.docx"),
         ("CHCAGE013", "answers_CHCAGE013.yaml", "Assignment Materials-20260915 (11)/CHCAGE013-AWB-F-v1.0.docx", "Assignment Materials-20260915 (11)/CHCAGE013-AWB-Filled.docx"),
+        # Group 2 units
+        ("CHCCCS031_PartA", "answers_CHCCCS031_PartA.yaml", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part A-F-v1.0.docx", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part A-Filled.docx"),
+        ("CHCCCS031_PartB", "answers_CHCCCS031_PartB.yaml", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part B-F-v2.0.docx", "Assignment Materials-20260915 (1)/CHCCCS031-AWB-Part B-Filled.docx"),
+        ("CHCCCS038", "answers_CHCCCS038.yaml", "Assignment Materials-20260915 (2)/CHCCCS038-AWB-F-v1.0.docx", "Assignment Materials-20260915 (2)/CHCCCS038-AWB-Filled.docx"),
+        ("CHCCCS041", "answers_CHCCCS041.yaml", "Assignment Materials-20260915 (4)/CHCCCS041-AWB-F-v1.1.docx", "Assignment Materials-20260915 (4)/CHCCCS041-AWB-Filled.docx"),
+        ("CHCDIV001", "answers_CHCDIV001.yaml", "Assignment Materials-20260915 (6)/CHCDIV001-AWB-F-v2.1.docx", "Assignment Materials-20260915 (6)/CHCDIV001-AWB-Filled.docx"),
+        # Group 3 units
+        ("CHCLEG001", "answers_CHCLEG001.yaml", "Assignment Materials-20260915 (7)/CHCLEG001-AWB-F-v1.1.docx", "Assignment Materials-20260915 (7)/CHCLEG001-AWB-Filled.docx"),
+        ("HLTWHS002", "answers_HLTWHS002.yaml", "Assignment Materials-20260915 (9)/HLTWHS002-AWB-F-v1.0.docx", "Assignment Materials-20260915 (9)/HLTWHS002-AWB-Filled.docx"),
+        ("CHCAGE011", "answers_CHCAGE011.yaml", "Assignment Materials-20260915 (10)/CHCAGE011-AWB-F-v1.0.docx", "Assignment Materials-20260915 (10)/CHCAGE011-AWB-Filled.docx"),
+        ("CHCDIS011", "answers_CHCDIS011.yaml", "Assignment Materials-20260915 (12)/CHCDIS011-AWB-F-v1.1.docx", "Assignment Materials-20260915 (12)/CHCDIS011-AWB-Filled.docx"),
+        ("CHCDIS012", "answers_CHCDIS012.yaml", "Assignment Materials-20260915 (13)/CHCDIS012-AWB-F-v1.0.docx", "Assignment Materials-20260915 (13)/CHCDIS012-AWB-Filled.docx"),
     ]
 
     if args.answers and args.input and args.output:

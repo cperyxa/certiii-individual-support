@@ -1,0 +1,372 @@
+=== TABLE 0 ===: Date Summary of Modifications Version 23 December 2022 Version 1.0 released for publishing 1.0
+=== TABLE 3 ===: Listed below are years relevant to the social framework that shows the history and recent developments in disability and
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 
+  R5C2 (ff=1): 
+  R6C2 (ff=1): 
+  R7C2 (ff=1): 
+  R8C2 (ff=1): 
+=== TABLE 4 ===: Differentiate the concepts relevant to the history of and recent developments in ageing and disability listed below. Ena
+  R2C0 (ff=1): Enablement versus Reablement
+  R2C1 (ff=1): Enablement versus Reablement
+  R3C0 (ff=1): Institutionalised versus person-centred, self-directed model of support
+  R3C1 (ff=1): Institutionalised versus person-centred, self-directed model of support
+=== TABLE 5 ===: Listed below are different types of individual, emotional and environmental barriers to the empowerment of people receiv
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R5C2 (ff=1): 
+  R5C3 (ff=1): 
+  R6C2 (ff=1): 
+  R6C3 (ff=1): 
+  R7C2 (ff=1): 
+  R7C3 (ff=1): 
+=== TABLE 6 ===: Answer the following questions about structural and systemic power. What is structural power? What is structural power? 
+  R2C0 (ff=1): What is structural power?
+  R2C1 (ff=1): What is structural power?
+  R3C0 (ff=1): What is systemic power?
+  R3C1 (ff=1): What is systemic power?
+  R4C0 (ff=4): What are the four factors that affect a society or organisation's structural and
+  R4C1 (ff=4): What are the four factors that affect a society or organisation's structural and
+  R5C0 (ff=3): Identify three areas affected by the structural and systemic power that can lead
+  R5C1 (ff=3): Identify three areas affected by the structural and systemic power that can lead
+=== TABLE 7 ===: Briefly describe how structural and systemic power can become obstacles to empowerment in each area listed below. Briefl
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 
+  R5C2 (ff=1): 
+  R6C2 (ff=1): 
+  R7C2 (ff=1): 
+  R8C2 (ff=1): 
+  R9C2 (ff=1): 
+=== TABLE 8 ===: Answer the following questions about social constructs of disability and ageing. Describe a social construct of ageing f
+  R2C0 (ff=1): Describe a social construct of ageing from the perspective of older people.
+  R2C1 (ff=1): Describe a social construct of ageing from the perspective of older people.
+  R3C0 (ff=1): Describe a social construct of ageing from the perspective of younger people.
+  R3C1 (ff=1): Describe a social construct of ageing from the perspective of younger people.
+  R4C0 (ff=1): Describe the social construct of disability based on the medical model.
+  R4C1 (ff=1): Describe the social construct of disability based on the medical model.
+  R5C0 (ff=1): Describe disability based on the social model.
+  R5C1 (ff=1): Describe disability based on the social model.
+=== TABLE 9 ===: How do you feel about working with people with disabilities? Explain your answer briefly. Complete the table by: Identif
+  R0C0 (ff=1): How do you feel about working with people with disabilities? Explain your answer
+  R1C0 (ff=4): Complete the table by: Identifying two examples of your personal attitudes towar
+=== TABLE 10 ===: Answer the following questions about seeking support from more experienced and qualified staff. Describe a staff who is 
+  R2C0 (ff=1): Describe a staff who is more experienced than a care worker.
+  R2C1 (ff=1): Describe a staff who is more experienced than a care worker.
+  R3C0 (ff=1): Describe a staff who is a more qualified than a care worker.
+  R3C1 (ff=1): Describe a staff who is a more qualified than a care worker.
+  R4C0 (ff=5): Outline the five steps that a care worker must do when they need support from a 
+  R4C1 (ff=5): Outline the five steps that a care worker must do when they need support from a 
+  R5C0 (ff=2): Identify two situations where a care worker must seek support from a more experi
+  R5C1 (ff=2): Identify two situations where a care worker must seek support from a more experi
+=== TABLE 11 ===: Identify two support practices for each condition provided in the table below. Identify two support practices for each c
+  R3C2 (ff=2): 
+  R4C2 (ff=2): 
+  R5C2 (ff=2): 
+  R6C2 (ff=2): 
+  R7C2 (ff=2): 
+  R8C2 (ff=2): 
+  R9C2 (ff=2): 
+=== TABLE 12 ===: Answer the following questions about different principles relevant to providing support. What is empowerment? What is em
+  R2C0 (ff=1): What is empowerment?
+  R2C1 (ff=1): What is empowerment?
+  R3C0 (ff=4): Briefly describe the four principles of empowerment for people receiving support
+  R3C1 (ff=4): Briefly describe the four principles of empowerment for people receiving support
+  R4C0 (ff=1): Describe the principle of rights-based approaches.
+  R4C1 (ff=1): Describe the principle of rights-based approaches.
+=== TABLE 13 ===: Identify the five principles of the rights-based or human rights approach. Identify three rights of disabled persons bas
+  R0C0 (ff=5): Identify the five principles of the rights-based or human rights approach.
+  R1C0 (ff=3): Identify three rights of disabled persons based on the Australian Human Rights C
+  R2C0 (ff=2): Identify two rights of the child based on the Australian Human Rights Commission
+  R3C0 (ff=5): Identify five rights of older persons based on the Charter of Aged Care Rights.
+=== TABLE 14 ===: Briefly explain person-centred practices. Identify the five principles of the person-centred approach. What are the two 
+  R0C0 (ff=1): Briefly explain person-centred practices.
+  R1C0 (ff=5): Identify the five principles of the person-centred approach.
+  R2C0 (ff=2): What are the two important considerations that need to be upheld when delivering
+  R3C0 (ff=1): What is self-advocacy?
+  R4C0 (ff=2): List two activities that promote the self-advocacy of people receiving support.
+=== TABLE 15 ===: Briefly describe the four principles of active support. Describe active listening by listing one example of how to demon
+  R0C0 (ff=4): Briefly describe the four principles of active support.
+  R1C0 (ff=3): Describe active listening by listing one example of how to demonstrate each prin
+=== TABLE 16 ===: What is social justice? Briefly describe what a person can obtain from each of the four principles of social justice.
+  R0C0 (ff=1): What is social justice?
+  R1C0 (ff=4): Briefly describe what a person can obtain from each of the four principles of so
+=== TABLE 17 ===: List two importance of knowing each person as an individual in the context of social justice. List two significance of s
+  R0C0 (ff=2): List two importance of knowing each person as an individual in the context of so
+  R1C0 (ff=2): List two significance of showing respect for a person’s individuality in the con
+  R2C0 (ff=1): Describe the principle of strengths-based practices.
+  R3C0 (ff=3): What are the three principles of a strengths-based approach?
+=== TABLE 18 ===: Answer the following questions about restrictive practices for people receiving support. Explain what restrictive practi
+  R2C0 (ff=1): Explain what restrictive practices are according to the Australian Law Reform Co
+  R2C1 (ff=1): Explain what restrictive practices are according to the Australian Law Reform Co
+  R3C0 (ff=1): Briefly explain why authorised restrictive practices must only be used as a last
+  R3C1 (ff=1): Briefly explain why authorised restrictive practices must only be used as a last
+  R4C0 (ff=5): Identify the five forms of restrictive practices.
+  R4C1 (ff=5): Identify the five forms of restrictive practices.
+  R5C0 (ff=2): Identify two considerations within the human rights framework when implementing 
+  R5C1 (ff=2): Identify two considerations within the human rights framework when implementing 
+  R6C0 (ff=2): Describe two impacts of restrictive practices on a person’s empowerment.
+  R6C1 (ff=2): Describe two impacts of restrictive practices on a person’s empowerment.
+  R7C0 (ff=2): Identify two instances where restrictive practices may be used as reflected in t
+  R7C1 (ff=2): Identify two instances where restrictive practices may be used as reflected in t
+=== TABLE 19 ===: Identify the seven conditions when a restrictive practice can be used. Identify the six core strategies for reducing and
+  R0C0 (ff=7): Identify the seven conditions when a restrictive practice can be used.
+  R1C0 (ff=6): Identify the six core strategies for reducing and eliminating restrictive practi
+  R2C0 (ff=3): Identify one example of risk related to the use of restrictive practices for eac
+=== TABLE 20 ===: Identify the two reportable incidents regarding the unauthorised use of restrictive practices. Complete the statement be
+  R0C0 (ff=2): Identify the two reportable incidents regarding the unauthorised use of restrict
+  R1C0 (ff=2): Complete the statement below: Where an NDIS participant’s behaviours of concern 
+  R2C0 (ff=3): When restrictive practices are used as part of a person’s behaviour support plan
+  R3C0 (ff=1): Summarise the documentation requirements stated in Sections 14 and 15 of the NDI
+=== TABLE 21 ===: Answer the following questions about strategies that assist people in exercising their rights and independence. Explain 
+  R2C0 (ff=1): Explain how the use of technology can facilitate the choice for a person receivi
+  R2C1 (ff=1): Explain how the use of technology can facilitate the choice for a person receivi
+  R3C0 (ff=2): Identify two strategies to support the person in using technology to facilitate 
+  R3C1 (ff=2): Identify two strategies to support the person in using technology to facilitate 
+  R4C0 (ff=1): Briefly describe how providing choices can support people receiving support.
+  R4C1 (ff=1): Briefly describe how providing choices can support people receiving support.
+  R5C0 (ff=2): Identify two examples of how you can support people as they make choices.
+  R5C1 (ff=2): Identify two examples of how you can support people as they make choices.
+=== TABLE 22 ===: List the 13 Australian Privacy Principles, in the correct order, based on the Privacy Act 1988. Identify two strategies 
+  R0C0 (ff=13): List the 13 Australian Privacy Principles, in the correct order, based on the Pr
+  R1C0 (ff=2): Identify two strategies to assist a person to exercise their rights to privacy.
+  R2C0 (ff=1): State the right of a person with disability to be involved in planning and decis
+  R3C0 (ff=1): State an older person’s right to be involved in planning and decision making acc
+=== TABLE 23 ===: Identify two strategies to assist a person to exercise their rights to be involved in planning regarding their own care 
+  R0C0 (ff=2): Identify two strategies to assist a person to exercise their rights to be involv
+  R1C0 (ff=2): Identify two strategies to assist a person to exercise their rights to be involv
+  R2C0 (ff=1): Briefly describe the person’s right to be involved in planning and decision-maki
+  R3C0 (ff=1): Those who will provide care and support
+=== TABLE 24 ===: Listed below are different life domains where assistive technologies may be used. Complete the table below by: Providing
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R3C4 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+  R5C2 (ff=1): 
+  R5C3 (ff=1): 
+  R5C4 (ff=1): 
+  R6C2 (ff=1): 
+  R6C3 (ff=1): 
+  R6C4 (ff=1): 
+  R7C2 (ff=1): 
+  R7C3 (ff=1): 
+  R7C4 (ff=1): 
+  R8C2 (ff=1): 
+  R8C3 (ff=1): 
+  R8C4 (ff=1): 
+=== TABLE 25 ===: Life domain How assistive technologies can help individual support clients in this life domain One example of assistive 
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+  R6C1 (ff=1): 
+  R6C2 (ff=1): 
+  R7C1 (ff=1): 
+  R7C2 (ff=1): 
+  R8C1 (ff=1): 
+  R8C2 (ff=1): 
+=== TABLE 26 ===: Life domain How assistive technologies can help individual support clients in this life domain One example of assistive 
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+  R6C1 (ff=1): 
+  R6C2 (ff=1): 
+  R7C1 (ff=1): 
+  R7C2 (ff=1): 
+  R8C1 (ff=1): 
+  R8C2 (ff=1): 
+=== TABLE 27 ===: Answer the following questions about the role of assistive technologies in supporting a person’s life activities. How ca
+  R2C0 (ff=1): How can assistive technologies help maintain the independence of people receivin
+  R2C1 (ff=1): How can assistive technologies help maintain the independence of people receivin
+  R3C0 (ff=1): How can assistive technologies help promote the independence of people receiving
+  R3C1 (ff=1): How can assistive technologies help promote the independence of people receiving
+  R4C0 (ff=1): How do assistive technologies enable the inclusion of people receiving support?
+  R4C1 (ff=1): How do assistive technologies enable the inclusion of people receiving support?
+  R5C0 (ff=1): How do assistive technologies enable the participation of people receiving suppo
+  R5C1 (ff=1): How do assistive technologies enable the participation of people receiving suppo
+=== TABLE 28 ===: Complete the table below by providing: Two examples of advocacy services Two examples of complaint mechanisms. Then, for
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R4C4 (ff=1): 
+  R5C0 (ff=1): 
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+  R5C3 (ff=1): 
+  R5C4 (ff=1): 
+=== TABLE 29 ===: Complaint Mechanisms Complaint Mechanisms Complaint Mechanisms Examples How to Access How to Use
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+=== TABLE 30 ===: Identify three indicators of each of the following: Abuse Exploitation Neglect Three indicators of abuse Three indicator
+  R2C0 (ff=3): Three indicators of abuse
+  R2C1 (ff=3): Three indicators of abuse
+  R3C0 (ff=3): Three indicators of exploitation
+  R3C1 (ff=3): Three indicators of exploitation
+  R4C0 (ff=3): Three indicators of neglect
+  R4C1 (ff=3): Three indicators of neglect
+=== TABLE 31 ===: Listed below are areas relevant to working with people receiving support. Complete the table below by: Specifying the co
+=== TABLE 32 ===: Context of direct support work Aged care Home and community Disability Community service Others: State/territory Austral
+  R0C2 (ff=1): Community service Others:
+=== TABLE 33 ===: Area Legal considerations relevant to this area Include the relevant legislation in your response Ethical considerations
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R2C1 (ff=1): Legislation:
+  R2C2 (ff=1): Code of Ethics/Code of Conduct:
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): Legislation:
+  R4C2 (ff=1): Code of Ethics/Code of Conduct:
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+  R6C1 (ff=1): Legislation:
+  R6C2 (ff=1): Code of Ethics/Code of Conduct:
+  R7C1 (ff=1): 
+  R7C2 (ff=1): 
+  R8C1 (ff=1): Legislation:
+  R8C2 (ff=1): Code of Ethics/Code of Conduct:
+=== TABLE 34 ===: Area Legal considerations relevant to this area Include the relevant legislation in your response Ethical considerations
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R2C1 (ff=1): Legislation:
+  R2C2 (ff=1): Code of Ethics/Code of Conduct:
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): Legislation:
+  R4C2 (ff=1): Code of Ethics/Code of Conduct:
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+  R6C1 (ff=1): Legislation:
+  R6C2 (ff=1): Code of Ethics/Code of Conduct:
+  R7C1 (ff=1): 
+  R7C2 (ff=1): 
+  R8C1 (ff=1): Legislation:
+  R8C2 (ff=1): Code of Ethics/Code of Conduct:
+=== TABLE 35 ===: Area Legal considerations relevant to this area Include the relevant legislation in your response Ethical considerations
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R2C1 (ff=1): Legislation:
+  R2C2 (ff=1): Code of Ethics/Code of Conduct:
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): Legislation:
+  R4C2 (ff=1): Code of Ethics/Code of Conduct:
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+  R6C1 (ff=1): Legislation:
+  R6C2 (ff=1): Code of Ethics/Code of Conduct:
+=== TABLE 36 ===: Identify three work role boundaries, three responsibilities, and three limitations of care workers.
+=== TABLE 37 ===: Three work role boundaries of individual support workers Three responsibilities of individual support workers Three work
+  R0C0 (ff=3): Three work role boundaries of individual support workers
+  R1C0 (ff=3): Three responsibilities of individual support workers
+  R2C0 (ff=3): Three work role limitations of individual support workers
+=== TABLE 38 ===: Answer the following questions about professional standards relevant to working with people receiving support. Enumerate
+  R2C0 (ff=8): Enumerate the eight standards for quality of care and quality of life for the pr
+  R2C1 (ff=8): Enumerate the eight standards for quality of care and quality of life for the pr
+  R3C0 (ff=6): Enumerate the six National Standards that apply to disability services, accordin
+  R3C1 (ff=6): Enumerate the six National Standards that apply to disability services, accordin
+=== TABLE 39 ===: Some tasks in this Practical Assessment require you to refer to the legal support requirements applicable to the state/t
+=== TABLE 40 ===: The goal of these case studies is to assess your practical knowledge and skills in: Recognising and responding to breach
+=== TABLE 41 ===: Resources required for assessment: To complete this assessment, you will need access to the following: Individualised Pl
+=== TABLE 42 ===: SCENARIO You are working as a support worker at CareConnect College. CareConnect College is committed to providing high-
+=== TABLE 43 ===: These case studies include scenarios about people with different conditions and potential breaches of human rights that 
+=== TABLE 44 ===: SCENARIO Susan has been a resident in CareConnect College for two years. Susan moved to the centre after being diagnosed
+=== TABLE 45 ===: SCENARIO Date: 15 October 20xx Time: 11:45:00 AM While assisting another person in eating lunch in the common dining are
+=== TABLE 46 ===: Based on the scenario, identify: Three breaches of human rights in the scenario (refer to the Universal Declaration of H
+=== TABLE 47 ===: Breaches of human rights Breaches to the Charter of Aged Care Rights Breaches to the Charter of Aged Care Rights Potenti
+  R1C0 (ff=3): 
+  R3C0 (ff=3): 
+  R3C1 (ff=3): 
+  R5C0 (ff=2): 
+  R5C1 (ff=2): 
+  R7C0 (ff=1): YES NO Reason:
+  R7C1 (ff=1): YES NO Reason:
+=== TABLE 48 ===: This part of the assessment is a Role Play Activity. In this Role Play Activity, you are required to respond to the brea
+=== TABLE 49 ===: This part of the assessment is a Role Play Activity. In this Role Play Activity, you are required to consult with Susan 
+=== TABLE 50 ===: CareConnect College’s Policies and Procedures also require all employees to report any breaches of human rights or signs
+=== TABLE 51 ===: Details of the Incident Details of the Incident Details of the Incident Details of the Incident Name of facility Date of
+  R1C1 (ff=1): 
+  R1C3 (ff=1): 
+  R2C1 (ff=1): 
+  R2C3 (ff=1): 
+  R3C1 (ff=1): 
+  R3C3 (ff=1): 
+=== TABLE 52 ===: Details of the Resident or Community Client Details of the Resident or Community Client Details of the Resident or Commu
+  R1C1 (ff=1): 
+  R1C3 (ff=1): 
+  R2C1 (ff=1): 
+  R3C1 (ff=1): 
+  R3C3 (ff=1): 
+=== TABLE 53 ===: Details of Any Injury Details of Any Injury Details of Any Injury Details of Any Injury Nature of the injury Immediate c
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R1C3 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R2C3 (ff=1): 
+  R3C1 (ff=1): 
+  R3C3 (ff=1): 
+  R4C1 (ff=1): 
+  R4C3 (ff=1): 
+  R5C1 (ff=1): 
+  R5C3 (ff=1): 
+=== TABLE 54 ===: Description of Events Description of Events Nature of the injury Factual description of the incident or alleged incident
+  R1C1 (ff=1): 
+=== TABLE 55 ===: Details of witness/es (Attach written statements, if there’s any) Details of witness/es (Attach written statements, if t
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R1C3 (ff=1): 
+  R2C1 (ff=1): 
+  R2C3 (ff=1): 
+  R3C1 (ff=1): 
+  R3C3 (ff=1): 
+=== TABLE 56 ===: To be completed by the manager To be completed by the manager To be completed by the manager To be completed by the mana
+  R1C3 (ff=1): 
+  R2C3 (ff=1): 
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C1 (ff=1): 
+  R4C3 (ff=1): 
+=== TABLE 57 ===: SCENARIO Date: Monday, 30 November 20xx, 20xx refers to the current year Time: 1:25 PM Judith is one of CareConnect Coll
+=== TABLE 58 ===: Judith asked you if you could get medication to help her with the pain. She started feeling pain on her buttocks and bot
+=== TABLE 59 ===: Identify three indicators of possible neglect in the scenario based on your conversation with Judith.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+=== TABLE 60 ===: This part of the assessment is a Role Play Activity. In this Role Play Activity, you are required to consult with Judith
+=== TABLE 61 ===: CareConnect College’s Policies and Procedures also require all employees to report any indications or signs of possible 
+=== TABLE 62 ===: SCENARIO Matilda is 23 years old. She had been involved in an accident that left her with a fractured femur. She had und
+=== TABLE 63 ===: SCENARIO You have noticed that Matilda frequently trips or snags her leg brace on random things around her house. These 
+=== TABLE 64 ===: This part of the assessment is a Role Play Activity. In this Role Play Activity, you are required to identify and remove
+=== TABLE 65 ===: YOUR ASSESSOR WILL Organise access to the environment and resources required to complete this assessment, including one 
+=== TABLE 66 ===: SCENARIO Matilda’s leg brace is scheduled to be removed in two weeks. She mentions to you that her leg muscles have beco
+=== TABLE 67 ===: Based on the scenario provided, list one strategy you can propose for each of the following: Matilda’s need to strengthe
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 

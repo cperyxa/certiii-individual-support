@@ -1,0 +1,432 @@
+=== TABLE 0 ===: Date Summary of Modifications Version 13 January 2023 Version 1.0 released for publishing 1.0 27 March 2023 Version 1.1 
+=== TABLE 3 ===: List three basic functions of cells.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+=== TABLE 4 ===: List the five basic functions of tissues.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+  R5C0 (ff=1): 
+  R5C1 (ff=1): 
+  R6C0 (ff=1): 
+  R6C1 (ff=1): 
+=== TABLE 5 ===: Listed below are different organ systems of the human body. Briefly explain the basic function of each. Listed below are
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 
+  R5C2 (ff=1): 
+  R6C2 (ff=1): 
+  R7C2 (ff=1): 
+  R8C2 (ff=1): 
+  R9C2 (ff=1): 
+=== TABLE 6 ===: Organ System Function Male reproductive system Integumentary system Lymphatic system Nervous system Immune system Renal 
+  R1C1 (ff=1): 
+  R2C1 (ff=1): 
+  R3C1 (ff=1): 
+  R4C1 (ff=1): 
+  R5C1 (ff=1): 
+  R6C1 (ff=1): 
+=== TABLE 7 ===: Briefly explain the basic functions of the following sensory organs. Briefly explain the basic functions of the followin
+  R3C2 (ff=1): 
+  R4C2 (ff=2): Include its two main functions.
+  R5C2 (ff=1): 
+  R6C2 (ff=1): 
+=== TABLE 8 ===: 
+=== TABLE 9 ===: Identify the parts of the respiratory system shown in the diagram below: Select your answers from the drop-down lists pr
+=== TABLE 10 ===: 
+=== TABLE 11 ===: Identify the parts of the musculoskeletal system shown in the diagram below: Select your answers from the drop-down list
+=== TABLE 12 ===: 
+=== TABLE 13 ===: Identify the parts of the skeletal system shown in the diagram below: Select your answers from the drop-down lists provi
+=== TABLE 14 ===: 
+=== TABLE 15 ===: Identify the parts of the endocrine system shown in the diagram below: Select your answers from the drop-down lists prov
+=== TABLE 16 ===: 
+=== TABLE 17 ===: Identify the parts of the digestive system shown in the diagram below: Select your answers from the drop-down lists prov
+=== TABLE 18 ===: 
+=== TABLE 19 ===: Identify the parts of the urinary system shown in the diagram below: Select your answers from the drop-down lists provid
+=== TABLE 20 ===: Identify the parts of the female reproductive system shown in the diagram below: Select your answers from the drop-down 
+=== TABLE 21 ===: Identify the parts of the male reproductive system shown in the diagram below: Select your answers from the drop-down li
+=== TABLE 22 ===: 
+=== TABLE 23 ===: Identify the parts of the integumentary system shown in the diagram below: Select your answers from the drop-down lists 
+=== TABLE 24 ===: Identify the parts of the lymphatic system shown in the diagram below: Select your answers from the drop-down lists prov
+=== TABLE 25 ===: Identify the parts of the nervous system shown in the diagram below: Select your answers from the drop-down lists provid
+=== TABLE 26 ===: 
+=== TABLE 27 ===: Identify the parts of the nerve cell shown in the diagram below: Select your answers from the drop-down lists provided b
+=== TABLE 28 ===: 
+=== TABLE 29 ===: Identify the parts of the eye shown in the diagram below: Select your answers from the drop-down lists provided below.
+=== TABLE 30 ===: 
+=== TABLE 31 ===: Identify the parts of the ear shown in the diagram below: Select your answers from the drop-down lists provided below.
+=== TABLE 32 ===: 
+=== TABLE 33 ===: Identify the parts of the nose shown in the diagram below: Select your answers from the drop-down lists provided below. 
+=== TABLE 34 ===: Identify the parts of the tongue shown in the diagram below: Select your answers from the drop-down lists provided below
+=== TABLE 35 ===: Identify the parts of the renal system shown in the diagram below: Select your answers from the drop-down lists provided
+=== TABLE 36 ===: Answer the following questions about the interactions of different body systems and their associated components.
+=== TABLE 37 ===: Complete the following sentences: The and systems work together to circulate blood and oxygen in our body. moves in and 
+  R0C0 (ff=6): Complete the following sentences: The and systems work together to circulate blo
+  R1C0 (ff=1): How is the lymphatic system connected to the immune system?
+  R2C0 (ff=2): Which organ links the endocrine and nervous systems? What does this organ do?
+  R3C0 (ff=1): What type of muscle movement does the nervous system control?
+=== TABLE 38 ===: How does the integumentary system gather information for the nervous system? Complete the following sentences. found wit
+  R0C0 (ff=1): How does the integumentary system gather information for the nervous system?
+  R1C0 (ff=2): Complete the following sentences. found within the interior walls of bones is cr
+  R2C0 (ff=1): Which body system helps distribute the nutrients absorbed in the digestive syste
+  R3C0 (ff=3): Identify three ways in which the kidneys support the blood.
+=== TABLE 39 ===: Complete the following sentences. in the reproductive system produce sex hormones that are responsible for sex character
+  R0C0 (ff=5): Complete the following sentences. in the reproductive system produce sex hormone
+  R1C0 (ff=2): Complete the following sentences. The pumps blood filled with oxygen through all
+  R2C0 (ff=3): Complete the following sentences. The renal and systems help the body to elimina
+=== TABLE 40 ===: Briefly explain how our sensory organs send images, sounds, smell, and taste to the brain.
+=== TABLE 41 ===: Sensory organ Explanation Eyes Ears Nose Tongue
+  R1C1 (ff=1): 
+  R2C1 (ff=1): 
+  R3C1 (ff=1): 
+  R4C1 (ff=1): 
+=== TABLE 42 ===: Answer the following questions about how we maintain body temperature. Answer the following questions about how we maint
+  R2C0 (ff=2): Which part of the brain helps control body temperature? How does it help in main
+  R2C1 (ff=2): Which part of the brain helps control body temperature? How does it help in main
+  R3C0 (ff=1): Complete the following sentence: When exposed to hot conditions, is one of the p
+  R3C1 (ff=1): Complete the following sentence: When exposed to hot conditions, is one of the p
+  R4C0 (ff=1): How does ageing affect our ability to maintain or regulate body temperature?
+  R4C1 (ff=1): How does ageing affect our ability to maintain or regulate body temperature?
+=== TABLE 43 ===: Complete the following sentence: Anhidrosis is the inability to . It occurs when our don’t function properly. List three
+  R0C0 (ff=2): Complete the following sentence: Anhidrosis is the inability to . It occurs when
+  R1C0 (ff=3): List three examples of conditions that may cause anhidrosis.
+=== TABLE 44 ===: Answer the following questions about how we regulate fluid and electrolyte balance. Complete the following sentence: The
+  R2C0 (ff=1): Complete the following sentence: The are a pair of bean-shaped organs and are es
+  R2C1 (ff=1): Complete the following sentence: The are a pair of bean-shaped organs and are es
+  R2C2 (ff=1): Complete the following sentence: The are a pair of bean-shaped organs and are es
+  R3C0 (ff=2): How does the organ you identified in Question i help maintain pH (acid-base) bal
+  R3C1 (ff=2): How does the organ you identified in Question i help maintain pH (acid-base) bal
+  R3C2 (ff=2): How does the organ you identified in Question i help maintain pH (acid-base) bal
+  R3C3 (ff=2): How does the organ you identified in Question i help maintain pH (acid-base) bal
+  R4C0 (ff=2): What is considered a normal blood pH level? Provide the range: to
+  R4C1 (ff=2): What is considered a normal blood pH level? Provide the range: to
+  R4C2 (ff=2): What is considered a normal blood pH level? Provide the range: to
+  R4C3 (ff=2): What is considered a normal blood pH level? Provide the range: to
+  R5C0 (ff=2): List two factors associated with ageing that may affect this organ’s ability to 
+  R5C1 (ff=2): List two factors associated with ageing that may affect this organ’s ability to 
+  R5C2 (ff=2): List two factors associated with ageing that may affect this organ’s ability to 
+  R5C3 (ff=2): List two factors associated with ageing that may affect this organ’s ability to 
+  R6C0 (ff=2): Respiratory acidosis is caused by the lungs not being able to remove enough carb
+  R6C1 (ff=2): Respiratory acidosis is caused by the lungs not being able to remove enough carb
+  R6C2 (ff=2): Respiratory acidosis is caused by the lungs not being able to remove enough carb
+  R6C3 (ff=2): Respiratory acidosis is caused by the lungs not being able to remove enough carb
+=== TABLE 45 ===: Complete the sentences below regarding how our body eliminates waste from our body. The is a passive biological system t
+  R2C0 (ff=2): The is a passive biological system that removes excess and unnecessary materials
+  R2C1 (ff=2): The is a passive biological system that removes excess and unnecessary materials
+  R2C2 (ff=2): The is a passive biological system that removes excess and unnecessary materials
+  R3C0 (ff=5): The main organs involved in waste management are the , , , , and .
+  R3C1 (ff=5): The main organs involved in waste management are the , , , , and .
+  R3C2 (ff=5): The main organs involved in waste management are the , , , , and .
+  R4C0 (ff=1): The is a vital organ with a wide range of functions, including detoxification, p
+  R4C1 (ff=1): The is a vital organ with a wide range of functions, including detoxification, p
+  R4C2 (ff=1): The is a vital organ with a wide range of functions, including detoxification, p
+  R5C0 (ff=1): The skin has that secrete a fluid waste called perspiration or sweat.
+  R5C1 (ff=1): The skin has that secrete a fluid waste called perspiration or sweat.
+  R5C2 (ff=1): The skin has that secrete a fluid waste called perspiration or sweat.
+  R6C0 (ff=1): The diffuse gaseous wastes, such as carbon dioxide, from the bloodstream as a no
+  R6C1 (ff=1): The diffuse gaseous wastes, such as carbon dioxide, from the bloodstream as a no
+  R6C2 (ff=1): The diffuse gaseous wastes, such as carbon dioxide, from the bloodstream as a no
+  R7C0 (ff=2): The final step in digestion is the elimination of undigested food content and wa
+  R7C1 (ff=2): The final step in digestion is the elimination of undigested food content and wa
+  R7C2 (ff=2): The final step in digestion is the elimination of undigested food content and wa
+=== TABLE 46 ===: Answer the following questions about how our body maintains blood pressure. Complete the following sentence: Our body tr
+  R2C0 (ff=1): Complete the following sentence: Our body tries to maintain stable blood pressur
+  R2C1 (ff=1): Complete the following sentence: Our body tries to maintain stable blood pressur
+  R2C2 (ff=1): Complete the following sentence: Our body tries to maintain stable blood pressur
+  R3C0 (ff=2): What is systolic and diastolic pressure?
+  R3C1 (ff=2): What is systolic and diastolic pressure?
+  R3C2 (ff=2): What is systolic and diastolic pressure?
+  R4C0 (ff=3): List the three factors that can affect blood pressure.
+  R4C1 (ff=3): List the three factors that can affect blood pressure.
+  R4C2 (ff=3): List the three factors that can affect blood pressure.
+  R5C0 (ff=1): How does ageing affect our ability to maintain blood pressure?
+  R5C1 (ff=1): How does ageing affect our ability to maintain blood pressure?
+  R5C2 (ff=1): How does ageing affect our ability to maintain blood pressure?
+=== TABLE 47 ===: Answer the following questions about how our body protects itself against infections. Complete the following sentences: 
+  R2C0 (ff=3): Complete the following sentences: , a protein inside skin cells, makes up the sk
+  R2C1 (ff=3): Complete the following sentences: , a protein inside skin cells, makes up the sk
+  R2C2 (ff=3): Complete the following sentences: , a protein inside skin cells, makes up the sk
+  R3C0 (ff=1): How do white blood cells fight infection?
+  R3C1 (ff=1): How do white blood cells fight infection?
+  R3C2 (ff=1): How do white blood cells fight infection?
+=== TABLE 48 ===: Complete the sentences below regarding the recommended amount of physical activity. Adults aged 65 years and above, with
+  R2C0 (ff=2): Adults aged 65 years and above, with the advice of a health professional, should
+  R2C1 (ff=2): Adults aged 65 years and above, with the advice of a health professional, should
+  R2C2 (ff=2): Adults aged 65 years and above, with the advice of a health professional, should
+  R3C0 (ff=1): Those with poor mobility should perform physical activity to enhance balance and
+  R3C1 (ff=1): Those with poor mobility should perform physical activity to enhance balance and
+  R3C2 (ff=1): Those with poor mobility should perform physical activity to enhance balance and
+  R4C0 (ff=1): Muscle-strengthening activities should be done involving major muscle groups, or
+  R4C1 (ff=1): Muscle-strengthening activities should be done involving major muscle groups, or
+  R4C2 (ff=1): Muscle-strengthening activities should be done involving major muscle groups, or
+  R5C0 (ff=1): While there are no formal guidelines for people with disability or chronic condi
+  R5C1 (ff=1): While there are no formal guidelines for people with disability or chronic condi
+  R5C2 (ff=1): While there are no formal guidelines for people with disability or chronic condi
+  R6C0 (ff=1): People with a disability or chronic conditions are also recommended to try and m
+  R6C1 (ff=1): People with a disability or chronic conditions are also recommended to try and m
+  R6C2 (ff=1): People with a disability or chronic conditions are also recommended to try and m
+=== TABLE 49 ===: Answer the following questions about passive and active types of exercises. Answer the following questions about passive
+  R2C0 (ff=1): What is active exercise?
+  R2C1 (ff=1): What is active exercise?
+  R3C0 (ff=1): Which client group/s is active exercise recommended for?
+  R3C1 (ff=1): Which client group/s is active exercise recommended for?
+  R4C0 (ff=1): What is passive exercise?
+  R4C1 (ff=1): What is passive exercise?
+  R5C0 (ff=2): Identify one example of passive exercise and who may benefit from this type of e
+  R5C1 (ff=2): Identify one example of passive exercise and who may benefit from this type of e
+=== TABLE 50 ===: List one way of promoting and maintaining the health and well-being of older individuals and people with disability in e
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R5C2 (ff=1): 
+  R5C3 (ff=1): 
+  R6C2 (ff=1): 
+  R6C3 (ff=1): 
+  R7C2 (ff=1): 
+  R7C3 (ff=1): 
+=== TABLE 51 ===: How are the concepts of nutrition and hygiene related? How are the concepts of nutrition and hygiene related?
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+=== TABLE 52 ===: How does poor oral hygiene affect nutrition?
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+=== TABLE 53 ===: Answer the following questions about exercise and movement and how ageing and disability affect them. Answer the followi
+  R2C0 (ff=1): How does ageing affect exercise and movement?
+  R2C1 (ff=1): How does ageing affect exercise and movement?
+  R3C0 (ff=1): How does disability affect exercise and movement?
+  R3C1 (ff=1): How does disability affect exercise and movement?
+  R4C0 (ff=1): How do illnesses and other conditions restrict one’s daily life?
+  R4C1 (ff=1): How do illnesses and other conditions restrict one’s daily life?
+  R5C0 (ff=1): How do these restrictions (referred to in the previous question) affect their ex
+  R5C1 (ff=1): How do these restrictions (referred to in the previous question) affect their ex
+=== TABLE 54 ===: Identify one example of indicators of issues that must be reported in relation to each of the following areas. Identify 
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 
+  R5C2 (ff=1): 
+  R6C2 (ff=1): 
+  R7C2 (ff=1): 
+=== TABLE 55 ===: Area Indicator of issues (Provide one example only) Dysphagia Bone health issues Food intolerance Dementia Cognitive cha
+  R1C1 (ff=1): 
+  R1C2 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+  R3C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): 
+  R4C2 (ff=1): 
+  R5C1 (ff=1): 
+  R5C2 (ff=1): 
+=== TABLE 56 ===: How does ageing affect the following areas? How does ageing affect the following areas? Area Area How it is affected by 
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R5C2 (ff=1): 
+  R5C3 (ff=1): 
+  R6C2 (ff=1): 
+  R6C3 (ff=1): 
+  R7C2 (ff=1): 
+  R7C3 (ff=1): 
+=== TABLE 57 ===: Area How it is affected by ageing Bone health Food intolerance Skin integrity and wounds Pressure point injuries Dementi
+  R1C1 (ff=1): 
+  R2C1 (ff=1): 
+  R3C1 (ff=1): 
+  R4C1 (ff=1): 
+  R5C1 (ff=1): 
+=== TABLE 58 ===: Area How it is affected by ageing Area Mental health
+  R1C1 (ff=1): 
+  R2C1 (ff=1): 
+=== TABLE 59 ===: How does having a disability affect the following areas? How does having a disability affect the following areas? Area A
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+=== TABLE 60 ===: Describe how physical illnesses and conditions affect different areas of a person’s wellbeing. Describe how physical ill
+  R3C2 (ff=1): 
+  R4C2 (ff=1): 
+=== TABLE 61 ===: As a support worker, how can you recognise physical and mood changes that are not normal for the person? As a support wo
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+=== TABLE 62 ===: Answer the following questions about pain and discomfort. List three ways people may respond to pain and discomfort. Lis
+  R2C0 (ff=3): List three ways people may respond to pain and discomfort.
+  R2C1 (ff=3): List three ways people may respond to pain and discomfort.
+  R3C0 (ff=3): List three ways you can effectively communicate with people who are in pain and 
+  R3C1 (ff=3): List three ways you can effectively communicate with people who are in pain and 
+  R4C0 (ff=1): How does ageing affect a person’s pain and discomfort?
+  R4C1 (ff=1): How does ageing affect a person’s pain and discomfort?
+  R5C0 (ff=1): How does disability affect a person’s pain and discomfort?
+  R5C1 (ff=1): How does disability affect a person’s pain and discomfort?
+=== TABLE 63 ===: Complete the following sentence: is for the measurement of pain in people who cannot verbalise. The Wong-Baker FACES Pai
+  R0C0 (ff=1): Complete the following sentence: is for the measurement of pain in people who ca
+  R1C0 (ff=6): The Wong-Baker FACES Pain rating scale was developed for young people to help th
+=== TABLE 64 ===: Briefly explain how each of the following common diseases affects body functioning. Briefly explain how each of the foll
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+=== TABLE 65 ===: Explain how poor oral hygiene can affect a person’s quality of life.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R2C2 (ff=1): 
+=== TABLE 66 ===: List three signs to look out for to recognise oral pain in your clients. List three signs to look out for to recognise o
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+=== TABLE 67 ===: Briefly describe each type of disability listed below. Briefly describe each type of disability listed below. Type of di
+  R3C2 (ff=1): 
+  R3C3 (ff=1): 
+  R4C2 (ff=1): 
+  R4C3 (ff=1): 
+  R5C2 (ff=1): 
+  R5C3 (ff=1): 
+  R6C2 (ff=1): 
+  R6C3 (ff=1): 
+  R7C2 (ff=1): 
+  R7C3 (ff=1): 
+  R8C2 (ff=1): 
+  R8C3 (ff=1): 
+=== TABLE 68 ===: List four steps to follow when working with multidisciplinary health professionals to implement individualised plans.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+  R5C0 (ff=1): 
+  R5C1 (ff=1): 
+=== TABLE 69 ===: Briefly explain what each of the following medical terminologies means.
+=== TABLE 70 ===: Medical terminology Explanation Abrasion Cardi- or cardio- Cephalgia Contusion
+  R1C1 (ff=1): 
+  R2C1 (ff=1): 
+  R3C1 (ff=1): 
+  R4C1 (ff=1): 
+=== TABLE 71 ===: Medical terminology Explanation Febrile Pathogen
+  R1C1 (ff=1): 
+  R2C1 (ff=1): 
+=== TABLE 72 ===: Complete the table below by: Spelling out each medical abbreviation listed below, or Briefly explaining what each medica
+=== TABLE 73 ===: Abbreviation What is this? What is stands for? CBC A blood test used to assess overall health and detect a wide range of
+  R1C2 (ff=1): 
+  R2C1 (ff=1): 
+  R3C2 (ff=1): 
+  R4C1 (ff=1): 
+  R5C2 (ff=1): 
+=== TABLE 74 ===: The goal of the case study assessment is to assess your practical skills in the following: Recognising changes to the pe
+=== TABLE 75 ===: SCENARIO You are working as a support worker at CareConnect College. CareConnect College is committed to providing high-
+=== TABLE 76 ===: As a support worker, it is essential for you to familiarise yourself with your organisation’s policies and procedures, i
+=== TABLE 77 ===: In relation to the procedures listed in Case Study Task 1.1, list the actions that must be followed by support workers w
+=== TABLE 78 ===: 
+  R0C0 (ff=1): 
+  R1C0 (ff=1): 
+  R2C0 (ff=1): 
+  R3C0 (ff=1): 
+=== TABLE 79 ===: Outline CareConnect College’s procedures for escalating client concerns and changes to their health status and physical 
+=== TABLE 80 ===: 
+  R0C0 (ff=1): 
+  R1C0 (ff=1): 
+  R2C0 (ff=1): 
+=== TABLE 81 ===: 
+  R0C0 (ff=5): 
+=== TABLE 82 ===: What is CareConnect College’s policy for documenting a person’s health status and physical condition in progress notes?
+=== TABLE 83 ===: 
+  R0C0 (ff=1): 
+=== TABLE 84 ===: What is CareConnect College’s policy for verbally reporting a person’s health status and physical condition to relevant 
+=== TABLE 85 ===: 
+  R0C0 (ff=1): 
+=== TABLE 86 ===: Outline CareConnect College’s procedures for documenting a person’s health status and physical condition in progress not
+=== TABLE 87 ===: 
+  R0C0 (ff=1): 
+  R1C0 (ff=1): 
+  R2C0 (ff=1): 
+  R3C0 (ff=1): 
+  R4C0 (ff=1): 
+  R5C0 (ff=1): 
+  R6C0 (ff=1): 
+  R7C0 (ff=1): 
+  R8C0 (ff=1): 
+=== TABLE 88 ===: Madge has been staying at CareConnect College for the past two years. Madge has four children. All of them have their ow
+=== TABLE 89 ===: SCENARIO Friday, 11 March 20xx, 8:00 AM Where 20xx refers to the current year Madge has been in your care since she arri
+=== TABLE 90 ===: When she was on her side, you saw some bleeding through her pants and on the bedsheets from the upper part of her buttoc
+=== TABLE 91 ===: Access and review CareConnect College’s Policies and Procedures. Answer the following questions: As a support worker, wh
+  R2C0 (ff=1): As a support worker, what is your responsibility when there are changes to the p
+  R2C1 (ff=1): As a support worker, what is your responsibility when there are changes to the p
+  R3C0 (ff=1): To whom should these changes be reported?
+  R3C1 (ff=1): To whom should these changes be reported?
+  R4C0 (ff=1): How should these changes be reported?
+  R4C1 (ff=1): How should these changes be reported?
+  R5C0 (ff=1): When should these changes be reported?
+  R5C1 (ff=1): When should these changes be reported?
+=== TABLE 92 ===: Madge exhibited three physical conditions that are beyond the support worker’s role and responsibilities.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C0 (ff=1): 
+  R3C1 (ff=1): 
+  R4C0 (ff=1): 
+  R4C1 (ff=1): 
+=== TABLE 93 ===: Additionally, Madge exhibited a change in her psychological or mental well-being. Describe this change.
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+=== TABLE 94 ===: Given what you have observed in the scenario, you suspect that Madge may have experienced abuse and neglect. CareConnect
+=== TABLE 95 ===: Incident Report Form Location: Supervisor: Contact phone: Setting:
+  R2C0 (ff=1): Location:
+  R3C0 (ff=1): Supervisor:
+  R4C0 (ff=1): Contact phone:
+  R5C0 (ff=1): Setting:
+=== TABLE 96 ===: Incident Details Incident Details Incident Details Day Date Time Report completed by: Report completed by: Report comple
+  R1C0 (ff=1): Day
+  R1C1 (ff=1): Date
+  R1C2 (ff=1): Time
+  R2C0 (ff=1): Report completed by:
+  R2C1 (ff=1): Report completed by:
+  R2C2 (ff=1): Report completed by:
+=== TABLE 97 ===: Type of incident (indicate which is applicable) Type of incident (indicate which is applicable) Type of incident (indica
+  R2C0 (ff=1): Name of the person injured:
+  R2C1 (ff=1): Name of the person injured:
+  R2C2 (ff=1): Name of the person injured:
+  R2C3 (ff=1): Name of the person injured:
+=== TABLE 98 ===: Part of body injured (if relevant): Part of body injured (if relevant): Part of body injured (if relevant): Part of body
+  R0C0 (ff=1): Part of body injured (if relevant):
+  R0C1 (ff=1): Part of body injured (if relevant):
+  R0C2 (ff=1): Part of body injured (if relevant):
+  R0C3 (ff=1): Part of body injured (if relevant):
+  R1C2 (ff=1): Nature of injury sustained: Abrasions, scrapes Bite Broken bone/fracture Bruise 
+  R1C3 (ff=1): Nature of injury sustained: Abrasions, scrapes Bite Broken bone/fracture Bruise 
+  R2C0 (ff=1): Approximate size/colour of injury:
+  R2C1 (ff=1): Approximate size/colour of injury:
+  R2C2 (ff=1): Approximate size/colour of injury:
+  R2C3 (ff=1): Approximate size/colour of injury:
+  R3C3 (ff=1): Other
+=== TABLE 99 ===: Response to the incident (indicate which is applicable) Response to the incident (indicate which is applicable) Response
+  R1C1 (ff=1): (Please specify what/by whom, etc.)
+  R1C2 (ff=1): (Please specify what/by whom, etc.)
+  R1C3 (ff=1): (Please specify what/by whom, etc.)
+  R2C1 (ff=1): (Please specify what/by whom, etc.)
+  R2C2 (ff=1): (Please specify what/by whom, etc.)
+  R2C3 (ff=1): (Please specify what/by whom, etc.)
+  R3C0 (ff=1): Assistance sought
+=== TABLE 100 ===: Other information Who witnessed the incident? (Please use the full name, details of staff’s job title where applicable, 
+  R1C0 (ff=1): Who witnessed the incident? (Please use the full name, details of staff’s job ti
+=== TABLE 101 ===: NOTE: Be specific. Describe in detail what actually happened, stating the facts in a clear and precise manner. Include t
+  R0C0 (ff=1): NOTE: Be specific. Describe in detail what actually happened, stating the facts 
+=== TABLE 102 ===: Other details Other details This report was compiled by (full name, title, and contact telephone): On (date and time) Th
+  R1C0 (ff=1): This report was compiled by (full name, title, and contact telephone):
+  R1C1 (ff=1): On (date and time)
+  R2C0 (ff=1): This report is a true and accurate summary of the incident that occurred (please
+  R2C1 (ff=1): This report is a true and accurate summary of the incident that occurred (please
+=== TABLE 103 ===: The goal of this assessment is to assess your practical knowledge and skills in using and sharing information about heal
+=== TABLE 104 ===: Resources required for assessment: To complete this assessment, you will need access to the following: A workplace withi
+=== TABLE 105 ===: IMPORTANT: This task must be done for a client (ageing or living with a disability) whom you are supporting/caring for. 
+=== TABLE 106 ===: YOUR ASSESSOR WILL Organise workplace resources required for you to complete this assessment. Discuss with you the requi
+=== TABLE 107 ===: While being observed by your assessor, meet with your workplace supervisor/registered nurse and report the client’s heal

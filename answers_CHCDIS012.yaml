@@ -1,0 +1,5636 @@
+unit: CHCDIS012
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@careconnect.edu.au
+  rto: Care Connect College
+  rto_phone: 1300 123 456
+  rto_email: info@careconnect.edu.au
+  workplace: Care Connect Services
+  state: New South Wales
+  date: 15/09/2026
+fields:
+- field_id: CHCDIS012_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: First and Last Name - CHCDIS012
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36DD8154
+  value: Alex Chen
+- field_id: CHCDIS012_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: Phone - CHCDIS012
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 03F782DD
+  value: 0412 345 678
+- field_id: CHCDIS012_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: Email - CHCDIS012
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 24752FAC
+  value: alex.chen@careconnect.edu.au
+- field_id: CHCDIS012_TXT_1_6_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: 'Name:'
+  table_idx: 1
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 602B0F0F
+  value: Alex Chen
+- field_id: CHCDIS012_TXT_1_6_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: 'Signature:'
+  table_idx: 1
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6EED9427
+  value: Alex Chen
+- field_id: CHCDIS012_TXT_1_6_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: 'Date signed:'
+  table_idx: 1
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F091D23
+  value: 15/09/2026
+- field_id: CHCDIS012_CB_2_3_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 10
+  label: Australian Capital Territory
+  table_idx: 2
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1677645946'
+  value: false
+- field_id: CHCDIS012_CB_2_3_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 10
+  label: South Australia
+  table_idx: 2
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2078584711'
+  value: false
+- field_id: CHCDIS012_CB_2_4_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 10
+  label: New South Wales
+  table_idx: 2
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1407455938'
+  value: true
+- field_id: CHCDIS012_CB_2_4_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 10
+  label: Tasmania
+  table_idx: 2
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '850910922'
+  value: false
+- field_id: CHCDIS012_CB_2_5_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 10
+  label: Northern Territory
+  table_idx: 2
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '725038383'
+  value: false
+- field_id: CHCDIS012_CB_2_5_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 10
+  label: Victoria
+  table_idx: 2
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1425572324'
+  value: false
+- field_id: CHCDIS012_CB_2_6_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 10
+  label: Queensland
+  table_idx: 2
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1808969160'
+  value: false
+- field_id: CHCDIS012_CB_2_6_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Question 10
+  label: Western Australia
+  table_idx: 2
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1627578605'
+  value: false
+- field_id: CHCDIS012_TXT_3_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 3 Row 3 Col 0
+  table_idx: 3
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7034B999
+  value: 'Article 30 - Participation in cultural life, recreation, leisure and sport: Ensures equal access to cultural venues, sporting activities, and leisure pursuits.'
+- field_id: CHCDIS012_TXT_3_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Access and review the Convention on the Rights of Persons with Disabilities. Complete the table by:
+
+    Identifying two rights of persons with disability.'
+  table_idx: 3
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5780404A
+  value: 'Article 30 - Participation in cultural life, recreation, leisure and sport: Ensures equal access to cultural venues, sporting activities, and leisure pursuits.'
+- field_id: CHCDIS012_TXT_3_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 3 Row 4 Col 0
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 36B41540
+  value: Upholds the fundamental dignity, autonomy, non-discrimination, and full societal participation of people with disability.
+- field_id: CHCDIS012_TXT_3_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Access and review the Convention on the Rights of Persons with Disabilities. Complete the table by:
+
+    Identifying two rights of persons with disability.'
+  table_idx: 3
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 561CCDF8
+  value: Upholds the fundamental dignity, autonomy, non-discrimination, and full societal participation of people with disability.
+- field_id: CHCDIS012_TXT_4_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 4 Row 3 Col 0
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5F97DA40
+  value: Communicating personal preferences and dietary/mobility needs clearly to support workers.
+- field_id: CHCDIS012_TXT_4_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table by:
+
+    Identifying two responsibilities of people with disability.
+
+    Explaining how these responsibilities are fulfilled in workplaces i'
+  table_idx: 4
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 19F25AF5
+  value: Enables support workers to deliver customized, person-centred support aligned with the individual's genuine choices.
+- field_id: CHCDIS012_TXT_4_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 4 Row 4 Col 0
+  table_idx: 4
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 370458FD
+  value: Treating service staff, fellow participants, and community members with courtesy and respect.
+- field_id: CHCDIS012_TXT_4_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table by:
+
+    Identifying two responsibilities of people with disability.
+
+    Explaining how these responsibilities are fulfilled in workplaces i'
+  table_idx: 4
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '13669803'
+  value: Maintains a safe, harmonious, and welcoming environment for everyone in shared community settings.
+- field_id: CHCDIS012_TXT_5_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 5 Row 3 Col 0
+  table_idx: 5
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 79AD49AC
+  value: Focusing on individual capabilities and potential rather than perceived limitations or medical deficits.
+- field_id: CHCDIS012_TXT_5_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table by:
+
+    Identifying two principles of strengths-based practice in varied disability contexts.
+
+    Briefly explaining how the principles of '
+  table_idx: 5
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 26D9C49A
+  value: Builds self-efficacy, motivates the participant to attempt new community activities, and fosters positive self-identity.
+- field_id: CHCDIS012_TXT_5_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 5 Row 4 Col 0
+  table_idx: 5
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1E80AAC4
+  value: Collaborative partnership where the participant is recognized as the expert in their own life.
+- field_id: CHCDIS012_TXT_5_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table by:
+
+    Identifying two principles of strengths-based practice in varied disability contexts.
+
+    Briefly explaining how the principles of '
+  table_idx: 5
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0024178F
+  value: Ensures support plans reflect the participant's authentic goals and community inclusion desires.
+- field_id: CHCDIS012_TXT_6_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 6 Row 3 Col 0
+  table_idx: 6
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 64EC105E
+  value: Respect for personal autonomy and self-determination in all aspects of daily life.
+- field_id: CHCDIS012_TXT_6_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table by:
+
+    Identifying two principles of person-centred practice in varied disability contexts.
+
+    Briefly explaining how the principles of p'
+  table_idx: 6
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 68AC7DEF
+  value: Empowers the participant to decide which community groups, hobbies, and social networks to join.
+- field_id: CHCDIS012_TXT_6_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 6 Row 4 Col 0
+  table_idx: 6
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 19700C19
+  value: Holistic approach considering emotional, cultural, physical, and spiritual aspirations.
+- field_id: CHCDIS012_TXT_6_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table by:
+
+    Identifying two principles of person-centred practice in varied disability contexts.
+
+    Briefly explaining how the principles of p'
+  table_idx: 6
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 06982FBB
+  value: Ensures community participation activities resonate with the person's overall lifestyle and wellbeing.
+- field_id: CHCDIS012_TXT_8_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: Principles of human rights framework
+  table_idx: 8
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '72888730'
+  value: 'Inherent dignity and individual autonomy: Respecting the person''s freedom to make their own choices.'
+- field_id: CHCDIS012_TXT_8_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: How the principles help support community participation and social inclusion
+  table_idx: 8
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5FB2D2F3
+  value: Ensures community participation is directed by the participant's own interests rather than passive scheduling.
+- field_id: CHCDIS012_TXT_8_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: Principles of human rights framework
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 060ACABF
+  value: 'Non-discrimination and equality of opportunity: Ensuring equal access to public services and venues.'
+- field_id: CHCDIS012_TXT_8_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: How the principles help support community participation and social inclusion
+  table_idx: 8
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 08252662
+  value: Breaks down societal stigma and guarantees equal access to recreational, educational, and civic spaces.
+- field_id: CHCDIS012_TXT_9_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 9 Row 3 Col 0
+  table_idx: 9
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4B05F16B
+  value: 'Universal accessibility: Ensuring physical environments, communications, and transport are accessible to all.'
+- field_id: CHCDIS012_TXT_9_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table by:
+
+    Identifying two principles of community inclusion in varied disability contexts.
+
+    Briefly explaining how the principles of commu'
+  table_idx: 9
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 595BD8AF
+  value: Enables people with physical, sensory, or cognitive impairments to enter, navigate, and participate in venues independently.
+- field_id: CHCDIS012_TXT_9_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 9 Row 4 Col 0
+  table_idx: 9
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 635283F1
+  value: 'Valued social participation: Active contribution and presence in mainstream community groups.'
+- field_id: CHCDIS012_TXT_9_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table by:
+
+    Identifying two principles of community inclusion in varied disability contexts.
+
+    Briefly explaining how the principles of commu'
+  table_idx: 9
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 669BE6A4
+  value: Fosters genuine social belonging, friendship building, and combats isolation and loneliness.
+- field_id: CHCDIS012_TXT_10_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: Table 10 Row 2 Col 0
+  table_idx: 10
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 71CC1EE1
+  value: Partnering with mainstream community clubs (e.g. local sports leagues, art studios) and providing individualized active travel training.
+- field_id: CHCDIS012_TXT_10_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: Table 10 Row 3 Col 0
+  table_idx: 10
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6F968A5D
+  value: Implementing natural community mentorship programs and supported volunteer opportunities.
+- field_id: CHCDIS012_TXT_11_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: 'Complete the following statement:
+
+    According to the World Health Organization (WHO), social and emotional wellbeing are closely related to the concept '
+  table_idx: 11
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5F16235D
+  value: a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+- field_id: CHCDIS012_TXT_11_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: How does a person with disability achieve social and emotional wellbeing?
+  table_idx: 11
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 463B84C0
+  value: Through strong social connections, reciprocal relationships, feelings of belonging, purpose, autonomy, and active participation in community life.
+- field_id: CHCDIS012_TXT_12_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  prompt: How can the following factors negatively affect the social and emotional wellbeing of a person with disability?
+  table_idx: 12
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 67F02E35
+  value: Social isolation leads to chronic loneliness, depression, cognitive decline, and reduced self-worth.
+- field_id: CHCDIS012_TXT_12_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  prompt: How can the following factors negatively affect the social and emotional wellbeing of a person with disability?
+  table_idx: 12
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 51B806D7
+  value: Stigma and discrimination generate feelings of alienation, fear of public judgment, anxiety, and low self-esteem.
+- field_id: CHCDIS012_TXT_12_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  prompt: How can the following factors negatively affect the social and emotional wellbeing of a person with disability?
+  table_idx: 12
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 6B14E6D8
+  value: Lack of transport prevents access to social gatherings, employment, and healthcare, reinforcing seclusion.
+- field_id: CHCDIS012_TXT_12_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  prompt: How can the following factors negatively affect the social and emotional wellbeing of a person with disability?
+  table_idx: 12
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 3755B4CE
+  value: Unemployment or financial hardship restricts participation in fee-based social, cultural, and recreational activities.
+- field_id: CHCDIS012_TXT_12_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  prompt: How does social and emotional wellbeing support a person with disability’s community participation and social inclusion?
+  table_idx: 12
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 32F887D4
+  value: Social isolation leads to chronic loneliness, depression, cognitive decline, and reduced self-worth.
+- field_id: CHCDIS012_TXT_13_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 13 Row 4 Col 0
+  table_idx: 13
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7EB7C571
+  value: Facilitating membership in local interest-based hobby groups (e.g. community choir, pottery class).
+- field_id: CHCDIS012_TXT_13_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: "Complete the following table below by: \nIdentifying two strategies for strengthening the following:\nCommunity participation options\nNetworks\nServices\n"
+  table_idx: 13
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 08B2D766
+  value: Encourages organic peer connections with individuals sharing mutual passions, fostering authentic friendships.
+- field_id: CHCDIS012_TXT_13_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 13 Row 5 Col 0
+  table_idx: 13
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0F30400B
+  value: Providing travel training to use local buses, trains, and light rail independently.
+- field_id: CHCDIS012_TXT_13_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: "Complete the following table below by: \nIdentifying two strategies for strengthening the following:\nCommunity participation options\nNetworks\nServices\n"
+  table_idx: 13
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F28CC0C
+  value: Removes transport dependency, expanding access to broader community events and employment hubs.
+- field_id: CHCDIS012_TXT_14_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: Networks
+  table_idx: 14
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 574BD622
+  value: Local disability sports networks (e.g. Wheelchair Sports NSW).
+- field_id: CHCDIS012_TXT_14_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: Networks
+  table_idx: 14
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '50862600'
+  value: Provides accessible competitive and social athletic opportunities, promoting fitness and peer bonding.
+- field_id: CHCDIS012_TXT_14_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: Networks
+  table_idx: 14
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2D78B290
+  value: Neighbourhood community centre social hubs.
+- field_id: CHCDIS012_TXT_14_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: Networks
+  table_idx: 14
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2F58AA60
+  value: Offers weekly social gatherings, art workshops, computer literacy classes, and volunteering avenues.
+- field_id: CHCDIS012_TXT_15_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: Services
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2ADC690D
+  value: National Disability Insurance Scheme (NDIS) Local Area Coordination (LAC).
+- field_id: CHCDIS012_TXT_15_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: Services
+  table_idx: 15
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 55C8FC3D
+  value: Connects participants to mainstream community programs, local services, and funded support.
+- field_id: CHCDIS012_TXT_15_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: Services
+  table_idx: 15
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2C74168D
+  value: Community transport services.
+- field_id: CHCDIS012_TXT_15_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: Services
+  table_idx: 15
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 06EA2E0A
+  value: Provides accessible door-to-door transportation for individuals unable to access standard public transport.
+- field_id: CHCDIS012_TXT_17_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: Systemic - Strategies
+  table_idx: 17
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7D050C93
+  value: Community education campaigns
+- field_id: CHCDIS012_TXT_17_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: Systemic - Techniques
+  table_idx: 17
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0240F179
+  value: Community education campaigns
+- field_id: CHCDIS012_TXT_17_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: Systemic - Strategies
+  table_idx: 17
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 485EDA71
+  value: Community education campaigns
+- field_id: CHCDIS012_TXT_17_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: Systemic - Techniques
+  table_idx: 17
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 61E1FA11
+  value: Community education campaigns
+- field_id: CHCDIS012_TXT_17_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: Individual - Strategies
+  table_idx: 17
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 59EEF560
+  value: Community education campaigns
+- field_id: CHCDIS012_TXT_17_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: Individual - Techniques
+  table_idx: 17
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 51EA41D9
+  value: Community education campaigns
+- field_id: CHCDIS012_TXT_17_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: Individual - Strategies
+  table_idx: 17
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 02523297
+  value: Community education campaigns
+- field_id: CHCDIS012_TXT_17_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: Individual - Techniques
+  table_idx: 17
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 05EB6845
+  value: Community education campaigns
+- field_id: CHCDIS012_TXT_18_3_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Sporting groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies or servi'
+  table_idx: 18
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 06583FB2
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_3_3_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Sporting groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies or servi'
+  table_idx: 18
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 729AB730
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_4_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Sporting groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies or servi'
+  table_idx: 18
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7C3EDF7C
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_4_3_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Sporting groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies or servi'
+  table_idx: 18
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7C88999F
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_5_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Cultural groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies or servi'
+  table_idx: 18
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4748D0E8
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_5_3_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Cultural groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies or servi'
+  table_idx: 18
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 75D81514
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_6_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Cultural groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies or servi'
+  table_idx: 18
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1323A841
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_6_3_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Cultural groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies or servi'
+  table_idx: 18
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7926B779
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_7_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Specific-interest groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies'
+  table_idx: 18
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 12DE8012
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_7_3_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Specific-interest groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies'
+  table_idx: 18
+  row_idx: 7
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CB73EBE
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_8_2_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Specific-interest groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies'
+  table_idx: 18
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 31B99490
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_18_8_3_1
+  type: text
+  section: Preliminary Task
+  question_ref: Complete the table
+  prompt: 'Specific-interest groups - Listed below are different interest groups for persons with disability. Complete the table by:
+
+    Providing two local agencies'
+  table_idx: 18
+  row_idx: 8
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 0A9462D8
+  value: Wheelchair basketball / boccia clubs
+- field_id: CHCDIS012_TXT_19_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Define active citizenship.
+  table_idx: 19
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2558AAD6
+  value: Active citizenship is the philosophy that individuals have rights and civic responsibilities to engage actively in democracy, public debate, and community decision-making.
+- field_id: CHCDIS012_TXT_19_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Briefly explain how the concept of active citizenship is relevant to a person with disability’s rightful place in their communities.
+  table_idx: 19
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1F8788E8
+  value: It empowers people with disability to exercise their voting rights, participate in local councils, express opinions, and contribute to public policy.
+- field_id: CHCDIS012_TXT_20_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 20 Row 3 Col 0
+  table_idx: 20
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7D178955
+  value: Supporting attendance at local community forums and council meetings.
+- field_id: CHCDIS012_TXT_20_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table below by:
+
+    Providing two strategies for supporting the person’s participation in work.
+
+    Explaining how the strategies can be applied '
+  table_idx: 20
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '12036961'
+  value: Ensures the individual's voice and lived experience inform local urban and social planning.
+- field_id: CHCDIS012_TXT_20_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 20 Row 4 Col 0
+  table_idx: 20
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 324DF1FC
+  value: Assisting with Australian Electoral Commission voter registration and accessible voting options.
+- field_id: CHCDIS012_TXT_20_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table below by:
+
+    Providing two strategies for supporting the person’s participation in work.
+
+    Explaining how the strategies can be applied '
+  table_idx: 20
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 57E38109
+  value: Upholds the person's fundamental democratic right to vote independently and secretly.
+- field_id: CHCDIS012_TXT_21_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 21 Row 3 Col 0
+  table_idx: 21
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E5A0EAD
+  value: Connecting with independent disability advocacy services (e.g. People with Disability Australia).
+- field_id: CHCDIS012_TXT_21_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table below by:
+
+    Providing two strategies that can be used by employers to facilitate the person’s inclusion in the workplace.
+
+    Explaining '
+  table_idx: 21
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 695943E3
+  value: Empowers the person to resolve housing, funding, or service delivery disputes effectively.
+- field_id: CHCDIS012_TXT_21_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 21 Row 4 Col 0
+  table_idx: 21
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 589B4529
+  value: Providing self-advocacy training workshops on asserting rights and effective communication.
+- field_id: CHCDIS012_TXT_21_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table below by:
+
+    Providing two strategies that can be used by employers to facilitate the person’s inclusion in the workplace.
+
+    Explaining '
+  table_idx: 21
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 753267B6
+  value: Builds self-confidence in speaking up during medical consultations and planning meetings.
+- field_id: CHCDIS012_TXT_22_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 22 Row 3 Col 0
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 172FD1D7
+  value: Providing accessible information in Easy Read, large print, or digital screen-reader formats.
+- field_id: CHCDIS012_TXT_22_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table below by:
+
+    Providing two strategies that can be used by employers to facilitate the person’s engagement in work.
+
+    Explaining how to a'
+  table_idx: 22
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 171A5333
+  value: Ensures participants fully understand legal agreements, care options, and community resources.
+- field_id: CHCDIS012_TXT_22_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 22 Row 4 Col 0
+  table_idx: 22
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A2F0F99
+  value: Pre-meeting preparation to list questions and goals the client wants to discuss.
+- field_id: CHCDIS012_TXT_22_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table below by:
+
+    Providing two strategies that can be used by employers to facilitate the person’s engagement in work.
+
+    Explaining how to a'
+  table_idx: 22
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 081BAB56
+  value: Maximizes meaningful participation and ensures the client's priorities are central to the meeting.
+- field_id: CHCDIS012_TXT_23_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 23 Row 3 Col 0
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6B351A03
+  value: Installing wheelchair access ramps, automatic wide doors, and height-adjustable desks.
+- field_id: CHCDIS012_TXT_23_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table below by:
+
+    Providing two reasonable adjustment strategies
+
+    Explaining how the strategies can be used to increase the person’s indepen'
+  table_idx: 23
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 35605B06
+  value: Eliminates physical barriers, enabling unrestricted physical access to community buildings.
+- field_id: CHCDIS012_TXT_23_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 23 Row 4 Col 0
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1933879E
+  value: Providing flexible scheduling and quiet sensory rest areas in community centers.
+- field_id: CHCDIS012_TXT_23_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Complete the table below by:
+
+    Providing two reasonable adjustment strategies
+
+    Explaining how the strategies can be used to increase the person’s indepen'
+  table_idx: 23
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6DC1DFA5
+  value: Accommodates fatigue, sensory overload, and personal care routines comfortably.
+- field_id: CHCDIS012_TXT_24_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Self-care - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life domain.
+
+    Briefly explaining how the assistive t'
+  table_idx: 24
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7337F141
+  value: Adaptive dressing sticks and button hooks
+- field_id: CHCDIS012_TXT_24_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Self-care - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life domain.
+
+    Briefly explaining how the assistive t'
+  table_idx: 24
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6624FC5C
+  value: Adaptive dressing sticks and button hooks
+- field_id: CHCDIS012_TXT_24_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Self-care - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life domain.
+
+    Briefly explaining how the assistive t'
+  table_idx: 24
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 06875D21
+  value: Adaptive dressing sticks and button hooks
+- field_id: CHCDIS012_TXT_24_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Self-care - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life domain.
+
+    Briefly explaining how the assistive t'
+  table_idx: 24
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 02E5322C
+  value: Adaptive dressing sticks and button hooks
+- field_id: CHCDIS012_TXT_24_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Continence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life domain.
+
+    Briefly explaining how the assistive '
+  table_idx: 24
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7C79C6B3
+  value: Adaptive dressing sticks and button hooks
+- field_id: CHCDIS012_TXT_24_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Continence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life domain.
+
+    Briefly explaining how the assistive '
+  table_idx: 24
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4025351C
+  value: Adaptive dressing sticks and button hooks
+- field_id: CHCDIS012_TXT_24_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Continence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life domain.
+
+    Briefly explaining how the assistive '
+  table_idx: 24
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1F966385
+  value: Adaptive dressing sticks and button hooks
+- field_id: CHCDIS012_TXT_24_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Continence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life domain.
+
+    Briefly explaining how the assistive '
+  table_idx: 24
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7EFF7673
+  value: Adaptive dressing sticks and button hooks
+- field_id: CHCDIS012_TXT_25_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Hygiene - Example of Assistive Technology
+  table_idx: 25
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 21B5A4F4
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Hygiene - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 25
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3B3397E3
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Hygiene - Example of Assistive Technology
+  table_idx: 25
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 31E6C7B6
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Hygiene - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 25
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 72852CD1
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Communication - Example of Assistive Technology
+  table_idx: 25
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7625D0AF
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Communication - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 25
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2931E844
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Communication - Example of Assistive Technology
+  table_idx: 25
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 27172EEA
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Communication - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 25
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 378341A0
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Mobility - Example of Assistive Technology
+  table_idx: 25
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2BF6C006
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Mobility - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 25
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '65408894'
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Mobility - Example of Assistive Technology
+  table_idx: 25
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 57738F3B
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_25_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Mobility - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 25
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 568417FA
+  value: Swivel shower stool with backrest
+- field_id: CHCDIS012_TXT_26_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Transferring - Example of Assistive Technology
+  table_idx: 26
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5B83432F
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Transferring - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 26
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 25C5464D
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Transferring - Example of Assistive Technology
+  table_idx: 26
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '54574467'
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Transferring - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 26
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0BAEBED6
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Cognition - Example of Assistive Technology
+  table_idx: 26
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 533E2E17
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Cognition - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 26
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 722F7CE7
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Cognition - Example of Assistive Technology
+  table_idx: 26
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 220E41D5
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Cognition - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 26
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5C752D2F
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Memory loss - Example of Assistive Technology
+  table_idx: 26
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F6641B
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Memory loss - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 26
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5451035F
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Memory loss - Example of Assistive Technology
+  table_idx: 26
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7E3E2E5F
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_26_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  prompt: Memory loss - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 26
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 59F08EE1
+  value: Slide transfer board with low-friction coating
+- field_id: CHCDIS012_TXT_27_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Vision - Example of Assistive Technology
+  table_idx: 27
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0619BECF
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Vision - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 27
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 046A694F
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Vision - Example of Assistive Technology
+  table_idx: 27
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5526E72A
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Vision - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 27
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 379BE99B
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Hearing - Example of Assistive Technology
+  table_idx: 27
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1C51E05A
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Hearing - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 27
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 255CE54A
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Hearing - Example of Assistive Technology
+  table_idx: 27
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 74F0EDC7
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Hearing - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 27
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5545982E
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Daily living activities - Example of Assistive Technology
+  table_idx: 27
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2AF4D597
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Daily living activities - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 27
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 20A8F897
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Daily living activities - Example of Assistive Technology
+  table_idx: 27
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4F8353EF
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_27_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Daily living activities - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 27
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 04145CB4
+  value: Screen-reading software (JAWS / NVDA)
+- field_id: CHCDIS012_TXT_28_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Recreation - Example of Assistive Technology
+  table_idx: 28
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 38CA79B0
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Recreation - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 28
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 24BE1380
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Recreation - Example of Assistive Technology
+  table_idx: 28
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2A6B788F
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Recreation - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 28
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 38FA32E3
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Leisure - Example of Assistive Technology
+  table_idx: 28
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4607AD1F
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Leisure - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 28
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 456153F5
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Leisure - Example of Assistive Technology
+  table_idx: 28
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1BC47F6E
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Leisure - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 28
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6C404763
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Education - Example of Assistive Technology
+  table_idx: 28
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 347B5B80
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Education - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 28
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F10C327
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Education - Example of Assistive Technology
+  table_idx: 28
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 43F11437
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_28_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Education - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 28
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5426DA98
+  value: All-terrain power wheelchair with off-road tires
+- field_id: CHCDIS012_TXT_29_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Employment - Example of Assistive Technology
+  table_idx: 29
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 636B91AD
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Employment - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 29
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 648A1CEF
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Employment - Example of Assistive Technology
+  table_idx: 29
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2B983CEC
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Employment - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 29
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 06AF6F90
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Home environment - Example of Assistive Technology
+  table_idx: 29
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4AF043B8
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Home environment - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 29
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '30278928'
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Home environment - Example of Assistive Technology
+  table_idx: 29
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 33F615AF
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Home environment - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 29
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 67AD5123
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Shops - Example of Assistive Technology
+  table_idx: 29
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 654D1E71
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Shops - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 29
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3F8DA285
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Shops - Example of Assistive Technology
+  table_idx: 29
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5589445F
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_29_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  prompt: Shops - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 29
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 36E77C95
+  value: Ergonomic vertical mouse and specialized split keyboard
+- field_id: CHCDIS012_TXT_30_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Eating - Example of Assistive Technology
+  table_idx: 30
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4946FA0D
+  value: Weighted utensils with thick ribbed handles
+- field_id: CHCDIS012_TXT_30_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Eating - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 30
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 168CD232
+  value: Weighted utensils with thick ribbed handles
+- field_id: CHCDIS012_TXT_30_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Eating - Example of Assistive Technology
+  table_idx: 30
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 040AF4D0
+  value: Weighted utensils with thick ribbed handles
+- field_id: CHCDIS012_TXT_30_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Eating - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 30
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4AEA32E9
+  value: Weighted utensils with thick ribbed handles
+- field_id: CHCDIS012_TXT_30_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Drinking - Example of Assistive Technology
+  table_idx: 30
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3E212EEF
+  value: Weighted utensils with thick ribbed handles
+- field_id: CHCDIS012_TXT_30_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Drinking - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 30
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4F1B9F88
+  value: Weighted utensils with thick ribbed handles
+- field_id: CHCDIS012_TXT_30_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Drinking - Example of Assistive Technology
+  table_idx: 30
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 61A855C7
+  value: Weighted utensils with thick ribbed handles
+- field_id: CHCDIS012_TXT_30_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Drinking - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 30
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 31E8B647
+  value: Weighted utensils with thick ribbed handles
+- field_id: CHCDIS012_TXT_31_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  prompt: Pressure area management - Example of Assistive Technology
+  table_idx: 31
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4D19031C
+  value: Alternating air pressure mattress overlay
+- field_id: CHCDIS012_TXT_31_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  prompt: Pressure area management - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 31
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3554020E
+  value: Alternating air pressure mattress overlay
+- field_id: CHCDIS012_TXT_31_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  prompt: Pressure area management - Example of Assistive Technology
+  table_idx: 31
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0CFF9E5F
+  value: Alternating air pressure mattress overlay
+- field_id: CHCDIS012_TXT_31_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  prompt: Pressure area management - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 31
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 40F42669
+  value: Alternating air pressure mattress overlay
+- field_id: CHCDIS012_TXT_31_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  prompt: Carer support - Example of Assistive Technology
+  table_idx: 31
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 60EF999E
+  value: Alternating air pressure mattress overlay
+- field_id: CHCDIS012_TXT_31_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  prompt: Carer support - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 31
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0B08DB5F
+  value: Alternating air pressure mattress overlay
+- field_id: CHCDIS012_TXT_31_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  prompt: Carer support - Example of Assistive Technology
+  table_idx: 31
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7EA8B68A
+  value: Alternating air pressure mattress overlay
+- field_id: CHCDIS012_TXT_31_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  prompt: Carer support - How the Assistive Technology Provided Helps the Individual in the Particular Life Domain
+  table_idx: 31
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3D9AB80C
+  value: Alternating air pressure mattress overlay
+- field_id: CHCDIS012_TXT_32_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Maintaining independence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life activity.
+
+    Identify the role of '
+  table_idx: 32
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 451676D9
+  value: Automated electronic pill dispenser with alarm
+- field_id: CHCDIS012_TXT_32_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Maintaining independence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life activity.
+
+    Identify the role of '
+  table_idx: 32
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 16560D24
+  value: Automated electronic pill dispenser with alarm
+- field_id: CHCDIS012_TXT_32_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Maintaining independence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life activity.
+
+    Identify the role of '
+  table_idx: 32
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 00FCB555
+  value: Automated electronic pill dispenser with alarm
+- field_id: CHCDIS012_TXT_32_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Maintaining independence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life activity.
+
+    Identify the role of '
+  table_idx: 32
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1B0F183D
+  value: Automated electronic pill dispenser with alarm
+- field_id: CHCDIS012_TXT_32_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Promoting independence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life activity.
+
+    Identify the role of th'
+  table_idx: 32
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 566A3FD4
+  value: Automated electronic pill dispenser with alarm
+- field_id: CHCDIS012_TXT_32_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Promoting independence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life activity.
+
+    Identify the role of th'
+  table_idx: 32
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 68FB6FBB
+  value: Automated electronic pill dispenser with alarm
+- field_id: CHCDIS012_TXT_32_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Promoting independence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life activity.
+
+    Identify the role of th'
+  table_idx: 32
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6A8A02D0
+  value: Automated electronic pill dispenser with alarm
+- field_id: CHCDIS012_TXT_32_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Promoting independence - Complete the table below by:
+
+    Identifying two examples of assistive technology for each life activity.
+
+    Identify the role of th'
+  table_idx: 32
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 0F9B8B52
+  value: Automated electronic pill dispenser with alarm
+- field_id: CHCDIS012_TXT_33_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Enabling inclusion - Assistive Technologies
+  table_idx: 33
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 52CCB897
+  value: Smartphone GPS public transit navigation app with voice alerts
+- field_id: CHCDIS012_TXT_33_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Enabling inclusion - The Role of the Assistive Technology Provided in Supporting the Given Life Activity
+  table_idx: 33
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2C72E90A
+  value: Smartphone GPS public transit navigation app with voice alerts
+- field_id: CHCDIS012_TXT_33_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Enabling inclusion - Assistive Technologies
+  table_idx: 33
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 16747B28
+  value: Smartphone GPS public transit navigation app with voice alerts
+- field_id: CHCDIS012_TXT_33_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Enabling inclusion - The Role of the Assistive Technology Provided in Supporting the Given Life Activity
+  table_idx: 33
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1C875B67
+  value: Smartphone GPS public transit navigation app with voice alerts
+- field_id: CHCDIS012_TXT_33_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Enabling participation - Assistive Technologies
+  table_idx: 33
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 64103BDB
+  value: Smartphone GPS public transit navigation app with voice alerts
+- field_id: CHCDIS012_TXT_33_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Enabling participation - The Role of the Assistive Technology Provided in Supporting the Given Life Activity
+  table_idx: 33
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5470C092
+  value: Smartphone GPS public transit navigation app with voice alerts
+- field_id: CHCDIS012_TXT_33_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Enabling participation - Assistive Technologies
+  table_idx: 33
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 27E8DEA4
+  value: Smartphone GPS public transit navigation app with voice alerts
+- field_id: CHCDIS012_TXT_33_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Enabling participation - The Role of the Assistive Technology Provided in Supporting the Given Life Activity
+  table_idx: 33
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6852508B
+  value: Smartphone GPS public transit navigation app with voice alerts
+- field_id: CHCDIS012_TXT_35_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Physical - One example of the given barrier
+  table_idx: 35
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6977C352
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Physical - How these barriers affect community participation
+  table_idx: 35
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6A152F01
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Physical - How these barriers affect social inclusion
+  table_idx: 35
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 60F3AC14
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Skill - One example of the given barrier
+  table_idx: 35
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1C85EAE2
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Skill - How these barriers affect community participation
+  table_idx: 35
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3D9CE4E3
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Skill - How these barriers affect social inclusion
+  table_idx: 35
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3EDB7FED
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Personal - One example of the given barrier
+  table_idx: 35
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3E130FA0
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Personal - How these barriers affect community participation
+  table_idx: 35
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6CFFD9A5
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Personal - How these barriers affect social inclusion
+  table_idx: 35
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6D6B735D
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Systemic - One example of the given barrier
+  table_idx: 35
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 56F53B01
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Systemic - How these barriers affect community participation
+  table_idx: 35
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3934DE08
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_35_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Systemic - How these barriers affect social inclusion
+  table_idx: 35
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: '18910547'
+  value: Entrance steps without an accompanying access ramp.
+- field_id: CHCDIS012_TXT_36_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Structural - One example of the given barrier
+  table_idx: 36
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6C870E38
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Structural - How these barriers affect community participation
+  table_idx: 36
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7BB1E384
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Structural - How these barriers affect social inclusion
+  table_idx: 36
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: '25608286'
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Psychological - One example of the given barrier
+  table_idx: 36
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1A4B06D9
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Psychological - How these barriers affect community participation
+  table_idx: 36
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4B526B54
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Psychological - How these barriers affect social inclusion
+  table_idx: 36
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 33EC5935
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Stigma - One example of the given barrier
+  table_idx: 36
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4CA147FC
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Stigma - How these barriers affect community participation
+  table_idx: 36
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 62537E1D
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Stigma - How these barriers affect social inclusion
+  table_idx: 36
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 381A0A22
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Self-Stigma - One example of the given barrier
+  table_idx: 36
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1577C567
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Self-Stigma - How these barriers affect community participation
+  table_idx: 36
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2EDCBAA3
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_36_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Self-Stigma - How these barriers affect social inclusion
+  table_idx: 36
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 64F0DE39
+  value: Inadequate scheduled weekend accessible public transport routes.
+- field_id: CHCDIS012_TXT_37_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Discrimination - One example of the given barrier
+  table_idx: 37
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 053A440F
+  value: Community venue refusing entry to a person with an assistance animal.
+- field_id: CHCDIS012_TXT_37_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Discrimination - How these barriers affect community participation
+  table_idx: 37
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2751B6E3
+  value: Community venue refusing entry to a person with an assistance animal.
+- field_id: CHCDIS012_TXT_37_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Discrimination - How these barriers affect social inclusion
+  table_idx: 37
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 04E1E83A
+  value: Community venue refusing entry to a person with an assistance animal.
+- field_id: CHCDIS012_TXT_37_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Lack of Resources - One example of the given barrier
+  table_idx: 37
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4B85EB2C
+  value: Community venue refusing entry to a person with an assistance animal.
+- field_id: CHCDIS012_TXT_37_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Lack of Resources - How these barriers affect community participation
+  table_idx: 37
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 548A161B
+  value: Community venue refusing entry to a person with an assistance animal.
+- field_id: CHCDIS012_TXT_37_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Lack of Resources - How these barriers affect social inclusion
+  table_idx: 37
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 31D5C79D
+  value: Community venue refusing entry to a person with an assistance animal.
+- field_id: CHCDIS012_TXT_38_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Carer - Listed below are people in the PWD’s support system. Complete the table below by:
+
+    Describing the role of the given people in supporting commun'
+  table_idx: 38
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7B47844C
+  value: Provides vital insight into participant routines and comforting communication cues.
+- field_id: CHCDIS012_TXT_38_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Carer - Listed below are people in the PWD’s support system. Complete the table below by:
+
+    Describing the role of the given people in supporting commun'
+  table_idx: 38
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 2354EF55
+  value: Provides vital insight into participant routines and comforting communication cues.
+- field_id: CHCDIS012_TXT_38_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Family - Listed below are people in the PWD’s support system. Complete the table below by:
+
+    Describing the role of the given people in supporting commu'
+  table_idx: 38
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2AD04F1A
+  value: Provides vital insight into participant routines and comforting communication cues.
+- field_id: CHCDIS012_TXT_38_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Family - Listed below are people in the PWD’s support system. Complete the table below by:
+
+    Describing the role of the given people in supporting commu'
+  table_idx: 38
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 406EC57C
+  value: Provides vital insight into participant routines and comforting communication cues.
+- field_id: CHCDIS012_TXT_38_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Friends of person with disability - Listed below are people in the PWD’s support system. Complete the table below by:
+
+    Describing the role of the given'
+  table_idx: 38
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 758976FA
+  value: Provides vital insight into participant routines and comforting communication cues.
+- field_id: CHCDIS012_TXT_38_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Friends of person with disability - Listed below are people in the PWD’s support system. Complete the table below by:
+
+    Describing the role of the given'
+  table_idx: 38
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 46F3918D
+  value: Provides vital insight into participant routines and comforting communication cues.
+- field_id: CHCDIS012_TXT_38_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Colleagues - Listed below are people in the PWD’s support system. Complete the table below by:
+
+    Describing the role of the given people in supporting c'
+  table_idx: 38
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7A91286D
+  value: Provides vital insight into participant routines and comforting communication cues.
+- field_id: CHCDIS012_TXT_38_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Colleagues - Listed below are people in the PWD’s support system. Complete the table below by:
+
+    Describing the role of the given people in supporting c'
+  table_idx: 38
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 0D1FFCBD
+  value: Provides vital insight into participant routines and comforting communication cues.
+- field_id: CHCDIS012_TXT_39_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Carer - Listed below are people in a PWD’s support system who may still express negative attitudes. Complete the table by:
+
+    Providing one negative atti'
+  table_idx: 39
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5C4A0213
+  value: Support worker / Key worker
+- field_id: CHCDIS012_TXT_39_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Carer - Listed below are people in a PWD’s support system who may still express negative attitudes. Complete the table by:
+
+    Providing one negative atti'
+  table_idx: 39
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 5CC19C7A
+  value: Support worker / Key worker
+- field_id: CHCDIS012_TXT_39_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Family - Listed below are people in a PWD’s support system who may still express negative attitudes. Complete the table by:
+
+    Providing one negative att'
+  table_idx: 39
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 33B4CE83
+  value: Support worker / Key worker
+- field_id: CHCDIS012_TXT_39_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Family - Listed below are people in a PWD’s support system who may still express negative attitudes. Complete the table by:
+
+    Providing one negative att'
+  table_idx: 39
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 0F7417EC
+  value: Support worker / Key worker
+- field_id: CHCDIS012_TXT_39_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Employer - Listed below are people in a PWD’s support system who may still express negative attitudes. Complete the table by:
+
+    Providing one negative a'
+  table_idx: 39
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 12457CC0
+  value: Support worker / Key worker
+- field_id: CHCDIS012_TXT_39_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Employer - Listed below are people in a PWD’s support system who may still express negative attitudes. Complete the table by:
+
+    Providing one negative a'
+  table_idx: 39
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4ACC5885
+  value: Support worker / Key worker
+- field_id: CHCDIS012_TXT_39_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Healthcare worker - Listed below are people in a PWD’s support system who may still express negative attitudes. Complete the table by:
+
+    Providing one n'
+  table_idx: 39
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2616D2EC
+  value: Support worker / Key worker
+- field_id: CHCDIS012_TXT_39_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Healthcare worker - Listed below are people in a PWD’s support system who may still express negative attitudes. Complete the table by:
+
+    Providing one n'
+  table_idx: 39
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1183C490
+  value: Support worker / Key worker
+- field_id: CHCDIS012_TXT_42_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Person With Disability A
+  table_idx: 42
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 47F6302E
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_42_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Person With Disability A
+  table_idx: 42
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '71350948'
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_42_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Person With Disability A
+  table_idx: 42
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 380D5BE5
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_42_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Person With Disability A
+  table_idx: 42
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40CDA49A
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_42_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Person With Disability A
+  table_idx: 42
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4929D1FD
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_42_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Person With Disability A
+  table_idx: 42
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6469C354
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_42_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Person With Disability A
+  table_idx: 42
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27C4A883
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_42_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Person With Disability A
+  table_idx: 42
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3E8161A3
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_43_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Person With Disability B
+  table_idx: 43
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 04B7760A
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_43_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Person With Disability B
+  table_idx: 43
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0D3819A7
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_43_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Person With Disability B
+  table_idx: 43
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 06BACF66
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_43_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Person With Disability B
+  table_idx: 43
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 47B32843
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_43_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Person With Disability B
+  table_idx: 43
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3CD77BFD
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_43_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Person With Disability B
+  table_idx: 43
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 31BC5D8C
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_43_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Person With Disability B
+  table_idx: 43
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 78EB5690
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_43_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Person With Disability B
+  table_idx: 43
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7764CFF7
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_47_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  prompt: Person With Disability A
+  table_idx: 47
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 22ECA2B9
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_47_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  prompt: Person With Disability A
+  table_idx: 47
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7ACFA4DE
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_47_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  prompt: Person With Disability A
+  table_idx: 47
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2DBE11B9
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_47_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  prompt: Person With Disability A
+  table_idx: 47
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 07269303
+  value: Person A (James, 28 years old, cerebral palsy, passionate about community radio and swimming)
+- field_id: CHCDIS012_TXT_48_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  prompt: Person With Disability B
+  table_idx: 48
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 013B555D
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_48_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  prompt: Person With Disability B
+  table_idx: 48
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1804F340
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_48_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  prompt: Person With Disability B
+  table_idx: 48
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 325FF629
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_TXT_48_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_48
+  prompt: Person With Disability B
+  table_idx: 48
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6D306A7A
+  value: Person B (Maria, 45 years old, mild intellectual disability, interested in cooking and botanical gardening)
+- field_id: CHCDIS012_CB_68_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: You have completed all the Knowledge Assessments Questions.
+  table_idx: 68
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1172607243'
+  value: true
+- field_id: CHCDIS012_CB_68_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: 'You have completed the Practical Assessments in this workbook:'
+  table_idx: 68
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-367450486'
+  value: true
+- field_id: CHCDIS012_CB_68_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 1
+  table_idx: 68
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '622200672'
+  value: true
+- field_id: CHCDIS012_CB_68_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 1
+  table_idx: 68
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1503812178'
+  value: true
+- field_id: CHCDIS012_CB_68_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2
+  table_idx: 68
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '649024082'
+  value: true
+- field_id: CHCDIS012_CB_68_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 3
+  table_idx: 68
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '835270830'
+  value: true
+- field_id: CHCDIS012_CB_68_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4
+  table_idx: 68
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '728803991'
+  value: true
+- field_id: CHCDIS012_CB_68_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 5
+  table_idx: 68
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1832794130'
+  value: true
+- field_id: CHCDIS012_CB_68_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 6
+  table_idx: 68
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1305086044'
+  value: true
+- field_id: CHCDIS012_CB_68_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 7
+  table_idx: 68
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-51778570'
+  value: true
+- field_id: CHCDIS012_CB_68_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 8
+  table_idx: 68
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1594243269'
+  value: true
+- field_id: CHCDIS012_CB_68_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 9
+  table_idx: 68
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1984531805'
+  value: true
+- field_id: CHCDIS012_CB_68_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 68
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '94379991'
+  value: true
+- field_id: CHCDIS012_CB_68_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: This completed workbook
+  table_idx: 68
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1472658093'
+  value: true
+- field_id: CHCDIS012_CB_68_16_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 68
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1961214800'
+  value: true
+- field_id: CHCDIS012_CB_68_17_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 1 – Individualised plan for Person With Disability A
+  table_idx: 68
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '786320630'
+  value: true
+- field_id: CHCDIS012_CB_68_18_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 1 – Individualised plan for Person With Disability B
+  table_idx: 68
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1272979518'
+  value: true
+- field_id: CHCDIS012_CB_69_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 1 – Individualised plan for Person With Disability A
+  table_idx: 69
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-443620503'
+  value: true
+- field_id: CHCDIS012_CB_69_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 1 – Individualised plan for Person With Disability B
+  table_idx: 69
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '470178830'
+  value: true
+- field_id: CHCDIS012_CB_69_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Individualised plan for Person With Disability A
+  table_idx: 69
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1658108132'
+  value: true
+- field_id: CHCDIS012_CB_69_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Individualised plan for Person With Disability B
+  table_idx: 69
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1909272494'
+  value: true
+- field_id: CHCDIS012_CB_69_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Documentation of options, networks and services (Person With Disabilit
+  table_idx: 69
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-509063004'
+  value: true
+- field_id: CHCDIS012_CB_69_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Documentation of options, networks and services (Person With Disabilit
+  table_idx: 69
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1134624493'
+  value: true
+- field_id: CHCDIS012_CB_69_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Meeting minutes (Person With Disability A)
+  table_idx: 69
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1141465424'
+  value: true
+- field_id: CHCDIS012_CB_69_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Meeting minutes (Person With Disability B)
+  table_idx: 69
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1299104614'
+  value: true
+- field_id: CHCDIS012_CB_69_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Individualised plan for Person With Disability A
+  table_idx: 69
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-89316464'
+  value: true
+- field_id: CHCDIS012_CB_69_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Individualised plan for Person With Disability B
+  table_idx: 69
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1877916980'
+  value: true
+- field_id: CHCDIS012_CB_69_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Individualised plan for Person With Disability A
+  table_idx: 69
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1594276355'
+  value: true
+- field_id: CHCDIS012_CB_69_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Individualised plan for Person With Disability B
+  table_idx: 69
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1770507273'
+  value: true
+- field_id: CHCDIS012_CB_69_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Documentation of options, networks and services (Person With Disabilit
+  table_idx: 69
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-364674935'
+  value: true
+- field_id: CHCDIS012_CB_69_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Documentation of options, networks and services (Person With Disabilit
+  table_idx: 69
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1507480793'
+  value: true
+- field_id: CHCDIS012_CB_70_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 5 – Feedback forms (Person With Disability A)
+  table_idx: 70
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1389755376'
+  value: true
+- field_id: CHCDIS012_CB_70_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 5 – Feedback forms (Person With Disability B)
+  table_idx: 70
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-702937332'
+  value: true
+- field_id: CHCDIS012_CB_70_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Observation journals (Person With Disability A)
+  table_idx: 70
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1797641853'
+  value: true
+- field_id: CHCDIS012_CB_70_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Observation journals (Person With Disability B)
+  table_idx: 70
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1930309722'
+  value: true
+- field_id: CHCDIS012_CB_70_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Individualised plan for Person With Disability A
+  table_idx: 70
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1871797124'
+  value: true
+- field_id: CHCDIS012_CB_70_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Individualised plan for Person With Disability B
+  table_idx: 70
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '879286623'
+  value: true
+- field_id: CHCDIS012_CB_70_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Copy of minutes of meeting (Person With Disability A)
+  table_idx: 70
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1946763239'
+  value: true
+- field_id: CHCDIS012_CB_70_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Copy of minutes of meeting (Person With Disability B)
+  table_idx: 70
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1848447619'
+  value: true
+- field_id: CHCDIS012_CB_70_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 – Copy of minutes of meeting (Person With Disability A)
+  table_idx: 70
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '469106945'
+  value: true
+- field_id: CHCDIS012_CB_70_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 – Copy of minutes of meeting (Person With Disability B)
+  table_idx: 70
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1466691289'
+  value: true
+- field_id: CHCDIS012_CB_70_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 –Assistive technology report form (Person With Disability A)
+  table_idx: 70
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-378946972'
+  value: true
+- field_id: CHCDIS012_CB_70_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 –Assistive technology report form (Person With Disability A)
+  table_idx: 70
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-619534890'
+  value: true
+- field_id: CHCDIS012_CB_70_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 – Individualised plan for Person With Disability A
+  table_idx: 70
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '811837118'
+  value: true
+- field_id: CHCDIS012_CB_70_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 – Individualised plan for Person With Disability B
+  table_idx: 70
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '670306414'
+  value: true
+- field_id: CHCDIS012_CB_70_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 –Policies and procedures followed
+  table_idx: 70
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-395360610'
+  value: true
+- field_id: CHCDIS012_CB_71_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Copy of minutes of meeting (Person With Disability A)
+  table_idx: 71
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-252817298'
+  value: true
+- field_id: CHCDIS012_CB_71_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Copy of minutes of meeting (Person With Disability B)
+  table_idx: 71
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-435293295'
+  value: true
+- field_id: CHCDIS012_CB_71_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 –Strategy monitoring forms (Person With Disability A)
+  table_idx: 71
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '86280095'
+  value: true
+- field_id: CHCDIS012_CB_71_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 –Strategy monitoring forms (Person With Disability B)
+  table_idx: 71
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1199620922'
+  value: true
+- field_id: CHCDIS012_CB_71_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Individualised plan for Person With Disability A
+  table_idx: 71
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1780763681'
+  value: true
+- field_id: CHCDIS012_CB_71_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Individualised plan for Person With Disability B
+  table_idx: 71
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-336849121'
+  value: true
+- field_id: CHCDIS012_CB_71_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Copy of minutes of meeting from Task 7 (Person With Disability A)
+  table_idx: 71
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1207713258'
+  value: true
+- field_id: CHCDIS012_CB_71_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Copy of minutes of meeting from Task 7 (Person With Disability B)
+  table_idx: 71
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '889468203'
+  value: true
+- field_id: CHCDIS012_CB_71_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 9 – Reflective journal
+  table_idx: 71
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1059865729'
+  value: true
+- field_id: CHCDIS012_CB_71_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 8
+  label: Workplace Assessment Task 9 – Minutes of meeting
+  table_idx: 71
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1390158239'
+  value: true
+- field_id: CHCDIS012_CB_73_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: The candidate has completed all the Knowledge Assessments Questions.
+  table_idx: 73
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '101396198'
+  value: false
+- field_id: CHCDIS012_CB_73_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: 'The candidate has completed the Practical Assessments in this workbook:'
+  table_idx: 73
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1847366684'
+  value: false
+- field_id: CHCDIS012_CB_73_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 1
+  table_idx: 73
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1206063535'
+  value: false
+- field_id: CHCDIS012_CB_73_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 1
+  table_idx: 73
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2003539960'
+  value: false
+- field_id: CHCDIS012_CB_73_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2
+  table_idx: 73
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1542318395'
+  value: false
+- field_id: CHCDIS012_CB_73_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 3
+  table_idx: 73
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1477805526'
+  value: false
+- field_id: CHCDIS012_CB_73_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4
+  table_idx: 73
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1349708548'
+  value: false
+- field_id: CHCDIS012_CB_73_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 5
+  table_idx: 73
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1417662406'
+  value: false
+- field_id: CHCDIS012_CB_73_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 6
+  table_idx: 73
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1170221078'
+  value: false
+- field_id: CHCDIS012_CB_73_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 7
+  table_idx: 73
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '740066096'
+  value: false
+- field_id: CHCDIS012_CB_73_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 8
+  table_idx: 73
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '533856949'
+  value: false
+- field_id: CHCDIS012_CB_73_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 9
+  table_idx: 73
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '566237393'
+  value: false
+- field_id: CHCDIS012_CB_73_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 73
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1719703944'
+  value: false
+- field_id: CHCDIS012_CB_73_15_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: This completed workbook
+  table_idx: 73
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1361939078'
+  value: false
+- field_id: CHCDIS012_CB_73_16_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 73
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1553151625'
+  value: false
+- field_id: CHCDIS012_CB_73_17_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 1 – Individualised plan for Person With Disability A
+  table_idx: 73
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1221796736'
+  value: false
+- field_id: CHCDIS012_CB_73_18_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 1 – Individualised plan for Person With Disability B
+  table_idx: 73
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1195579750'
+  value: false
+- field_id: CHCDIS012_CB_73_19_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 1 – Individualised plan for Person With Disability A
+  table_idx: 73
+  row_idx: 19
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1392195033'
+  value: false
+- field_id: CHCDIS012_CB_74_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 1 – Individualised plan for Person With Disability B
+  table_idx: 74
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1459090235'
+  value: false
+- field_id: CHCDIS012_CB_74_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Individualised plan for Person With Disability A
+  table_idx: 74
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '695741957'
+  value: false
+- field_id: CHCDIS012_CB_74_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Individualised plan for Person With Disability B
+  table_idx: 74
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-885724133'
+  value: false
+- field_id: CHCDIS012_CB_74_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Documentation of options, networks and services (Person With Disabilit
+  table_idx: 74
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '765818279'
+  value: false
+- field_id: CHCDIS012_CB_74_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Documentation of options, networks and services (Person With Disabilit
+  table_idx: 74
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-753046709'
+  value: false
+- field_id: CHCDIS012_CB_74_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Meeting minutes (Person With Disability A)
+  table_idx: 74
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-389963117'
+  value: false
+- field_id: CHCDIS012_CB_74_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Meeting minutes (Person With Disability B)
+  table_idx: 74
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1197822032'
+  value: false
+- field_id: CHCDIS012_CB_74_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Individualised plan for Person With Disability A
+  table_idx: 74
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1461608372'
+  value: false
+- field_id: CHCDIS012_CB_74_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 3 – Individualised plan for Person With Disability B
+  table_idx: 74
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-891652051'
+  value: false
+- field_id: CHCDIS012_CB_74_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Individualised plan for Person With Disability A
+  table_idx: 74
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1591161286'
+  value: false
+- field_id: CHCDIS012_CB_74_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Individualised plan for Person With Disability B
+  table_idx: 74
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-517475237'
+  value: false
+- field_id: CHCDIS012_CB_74_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Documentation of options, networks and services (Person With Disabilit
+  table_idx: 74
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1247884391'
+  value: false
+- field_id: CHCDIS012_CB_74_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Documentation of options, networks and services (Person With Disabilit
+  table_idx: 74
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '223339849'
+  value: false
+- field_id: CHCDIS012_CB_74_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 5 – Feedback forms (Person With Disability A)
+  table_idx: 74
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1400817176'
+  value: false
+- field_id: CHCDIS012_CB_75_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 5 – Feedback forms (Person With Disability B)
+  table_idx: 75
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-791904451'
+  value: false
+- field_id: CHCDIS012_CB_75_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Observation journals (Person With Disability A)
+  table_idx: 75
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1365667943'
+  value: false
+- field_id: CHCDIS012_CB_75_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Observation journals (Person With Disability B)
+  table_idx: 75
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1143004121'
+  value: false
+- field_id: CHCDIS012_CB_75_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Individualised plan for Person With Disability A
+  table_idx: 75
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2049406478'
+  value: false
+- field_id: CHCDIS012_CB_75_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Individualised plan for Person With Disability B
+  table_idx: 75
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1600757520'
+  value: false
+- field_id: CHCDIS012_CB_75_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Copy of minutes of meeting (Person With Disability A)
+  table_idx: 75
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-230167598'
+  value: false
+- field_id: CHCDIS012_CB_75_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 6 – Copy of minutes of meeting (Person With Disability B)
+  table_idx: 75
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1406347321'
+  value: false
+- field_id: CHCDIS012_CB_75_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 – Copy of minutes of meeting (Person With Disability A)
+  table_idx: 75
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1754961492'
+  value: false
+- field_id: CHCDIS012_CB_75_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 – Copy of minutes of meeting (Person With Disability B)
+  table_idx: 75
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1454987938'
+  value: false
+- field_id: CHCDIS012_CB_75_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 –Assistive technology report form (Person With Disability A)
+  table_idx: 75
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1252549150'
+  value: false
+- field_id: CHCDIS012_CB_75_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 –Assistive technology report form (Person With Disability A)
+  table_idx: 75
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1912887014'
+  value: false
+- field_id: CHCDIS012_CB_75_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 – Individualised plan for Person With Disability A
+  table_idx: 75
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '516822942'
+  value: false
+- field_id: CHCDIS012_CB_75_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 – Individualised plan for Person With Disability B
+  table_idx: 75
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1372112377'
+  value: false
+- field_id: CHCDIS012_CB_75_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 7 –Policies and procedures followed
+  table_idx: 75
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1079647083'
+  value: false
+- field_id: CHCDIS012_CB_75_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 5
+  label: Workplace Assessment Task 8 – Copy of minutes of meeting (Person With Disability A)
+  table_idx: 75
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '607087676'
+  value: false
+- field_id: CHCDIS012_CB_76_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Copy of minutes of meeting (Person With Disability B)
+  table_idx: 76
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2141633667'
+  value: false
+- field_id: CHCDIS012_CB_76_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 –Strategy monitoring forms (Person With Disability A)
+  table_idx: 76
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1430542843'
+  value: false
+- field_id: CHCDIS012_CB_76_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 –Strategy monitoring forms (Person With Disability B)
+  table_idx: 76
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1501697991'
+  value: false
+- field_id: CHCDIS012_CB_76_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Individualised plan for Person With Disability A
+  table_idx: 76
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2032952787'
+  value: false
+- field_id: CHCDIS012_CB_76_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Individualised plan for Person With Disability B
+  table_idx: 76
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-14000217'
+  value: false
+- field_id: CHCDIS012_CB_76_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Copy of minutes of meeting from Task 7 (Person With Disability A)
+  table_idx: 76
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-475521934'
+  value: false
+- field_id: CHCDIS012_CB_76_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 8 – Copy of minutes of meeting from Task 7 (Person With Disability B)
+  table_idx: 76
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1953081109'
+  value: false
+- field_id: CHCDIS012_CB_76_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 9 – Reflective journal
+  table_idx: 76
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1818643271'
+  value: false
+- field_id: CHCDIS012_CB_76_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 8
+  label: Workplace Assessment Task 9 – Minutes of meeting
+  table_idx: 76
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2072494899'
+  value: false
+- field_id: CHCDIS012_TXT_78_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_78
+  prompt: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 78
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 730A0435
+  value: Alex Chen
+- field_id: CHCDIS012_TXT_78_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_78
+  prompt: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 78
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F1CA79
+  value: Care Connect College
+- field_id: CHCDIS012_TXT_78_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_78
+  prompt: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 78
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A6CEC60
+  value: 1300 123 456
+- field_id: CHCDIS012_TXT_78_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_78
+  prompt: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 78
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6127D83D
+  value: info@careconnect.edu.au
+- field_id: CHCDIS012_TXT_78_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_78
+  prompt: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 78
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 165860A4
+  value: ''
+- field_id: CHCDIS012_CB_79_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 79
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1628122573'
+  value: false
+- field_id: CHCDIS012_CB_79_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 79
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '41869887'
+  value: false
+- field_id: CHCDIS012_CB_79_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 79
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1085990598'
+  value: false
+- field_id: CHCDIS012_CB_79_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 79
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1484276261'
+  value: false
+- field_id: CHCDIS012_CB_79_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 79
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631007055'
+  value: false
+- field_id: CHCDIS012_CB_79_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 79
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '132760661'
+  value: false
+- field_id: CHCDIS012_CB_79_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 79
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1814549610'
+  value: false
+- field_id: CHCDIS012_CB_79_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 79
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1261265825'
+  value: false
+- field_id: CHCDIS012_CB_79_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 1
+  table_idx: 79
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '725570037'
+  value: false
+- field_id: CHCDIS012_CB_79_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 2
+  table_idx: 79
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1166288856'
+  value: false
+- field_id: CHCDIS012_CB_79_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 1
+  table_idx: 79
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-26567731'
+  value: false
+- field_id: CHCDIS012_CB_79_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 2
+  table_idx: 79
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1574235319'
+  value: false
+- field_id: CHCDIS012_CB_79_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 1
+  table_idx: 79
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1513837362'
+  value: false
+- field_id: CHCDIS012_CB_79_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 2
+  table_idx: 79
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1103025485'
+  value: false
+- field_id: CHCDIS012_CB_79_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 1
+  table_idx: 79
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1582403110'
+  value: false
+- field_id: CHCDIS012_CB_79_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 2
+  table_idx: 79
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1713565099'
+  value: false
+- field_id: CHCDIS012_CB_79_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 1
+  table_idx: 79
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-2079043424'
+  value: false
+- field_id: CHCDIS012_CB_79_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 2
+  table_idx: 79
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1448267841'
+  value: false
+- field_id: CHCDIS012_CB_79_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 1
+  table_idx: 79
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1493097569'
+  value: false
+- field_id: CHCDIS012_CB_79_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 2
+  table_idx: 79
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-694229634'
+  value: false
+- field_id: CHCDIS012_CB_79_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 1
+  table_idx: 79
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-58095632'
+  value: false
+- field_id: CHCDIS012_CB_79_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 2
+  table_idx: 79
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1688874910'
+  value: false
+- field_id: CHCDIS012_CB_79_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 1
+  table_idx: 79
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '452139889'
+  value: false
+- field_id: CHCDIS012_CB_79_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 2
+  table_idx: 79
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '480590962'
+  value: false
+- field_id: CHCDIS012_CB_80_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 1 Col 1
+  table_idx: 80
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1102758850'
+  value: false
+- field_id: CHCDIS012_CB_80_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 1 Col 2
+  table_idx: 80
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1077864212'
+  value: false
+- field_id: CHCDIS012_CB_80_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 2 Col 1
+  table_idx: 80
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1651714751'
+  value: false
+- field_id: CHCDIS012_CB_80_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 2 Col 2
+  table_idx: 80
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '828333116'
+  value: false
+- field_id: CHCDIS012_CB_80_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 3 Col 1
+  table_idx: 80
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-812404170'
+  value: false
+- field_id: CHCDIS012_CB_80_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 3 Col 2
+  table_idx: 80
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '341595532'
+  value: false
+- field_id: CHCDIS012_CB_80_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 4 Col 1
+  table_idx: 80
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '158193887'
+  value: false
+- field_id: CHCDIS012_CB_80_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 4 Col 2
+  table_idx: 80
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1429458542'
+  value: false
+- field_id: CHCDIS012_CB_80_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 5 Col 1
+  table_idx: 80
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1291131384'
+  value: false
+- field_id: CHCDIS012_CB_80_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 5 Col 2
+  table_idx: 80
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '632523153'
+  value: false
+- field_id: CHCDIS012_CB_80_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 6 Col 1
+  table_idx: 80
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-306314109'
+  value: false
+- field_id: CHCDIS012_CB_80_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 6 Col 2
+  table_idx: 80
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1542780338'
+  value: false
+- field_id: CHCDIS012_CB_80_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 7 Col 1
+  table_idx: 80
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '150336855'
+  value: false
+- field_id: CHCDIS012_CB_80_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 7 Col 2
+  table_idx: 80
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2034795219'
+  value: false
+- field_id: CHCDIS012_CB_80_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 8 Col 1
+  table_idx: 80
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-704561837'
+  value: false
+- field_id: CHCDIS012_CB_80_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 8 Col 2
+  table_idx: 80
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-270859365'
+  value: false
+- field_id: CHCDIS012_CB_80_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 9 Col 1
+  table_idx: 80
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '273449722'
+  value: false
+- field_id: CHCDIS012_CB_80_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 13
+  label: Row 9 Col 2
+  table_idx: 80
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2119909829'
+  value: false
+- field_id: CHCDIS012_CB_81_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 1
+  table_idx: 81
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1492255000'
+  value: false
+- field_id: CHCDIS012_CB_81_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 2
+  table_idx: 81
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2002734090'
+  value: false
+- field_id: CHCDIS012_CB_81_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 1
+  table_idx: 81
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1509178480'
+  value: false
+- field_id: CHCDIS012_CB_81_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 2
+  table_idx: 81
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-708488601'
+  value: false
+- field_id: CHCDIS012_CB_81_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 1
+  table_idx: 81
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1187332751'
+  value: false
+- field_id: CHCDIS012_CB_81_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 2
+  table_idx: 81
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1393777587'
+  value: false
+- field_id: CHCDIS012_CB_81_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 6 Col 1
+  table_idx: 81
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2087337932'
+  value: false
+- field_id: CHCDIS012_CB_81_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 6 Col 2
+  table_idx: 81
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '227340616'
+  value: false
+- field_id: CHCDIS012_CB_81_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 7 Col 1
+  table_idx: 81
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-651522542'
+  value: false
+- field_id: CHCDIS012_CB_81_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 7 Col 2
+  table_idx: 81
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1247386968'
+  value: false
+- field_id: CHCDIS012_CB_81_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 8 Col 1
+  table_idx: 81
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1531562784'
+  value: false
+- field_id: CHCDIS012_CB_81_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 8 Col 2
+  table_idx: 81
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1969237934'
+  value: false
+- field_id: CHCDIS012_CB_81_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 9 Col 1
+  table_idx: 81
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1656874074'
+  value: false
+- field_id: CHCDIS012_CB_81_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 9 Col 2
+  table_idx: 81
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1063177165'
+  value: false
+- field_id: CHCDIS012_CB_81_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 10 Col 1
+  table_idx: 81
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1339770266'
+  value: false
+- field_id: CHCDIS012_CB_81_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 10 Col 2
+  table_idx: 81
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '10891500'
+  value: false
+- field_id: CHCDIS012_CB_81_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 11 Col 1
+  table_idx: 81
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1023004221'
+  value: false
+- field_id: CHCDIS012_CB_81_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 11 Col 2
+  table_idx: 81
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1274777360'
+  value: false
+- field_id: CHCDIS012_CB_81_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 12 Col 1
+  table_idx: 81
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-386416380'
+  value: false
+- field_id: CHCDIS012_CB_81_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 12 Col 2
+  table_idx: 81
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-749348999'
+  value: false
+- field_id: CHCDIS012_CB_82_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 1 Col 1
+  table_idx: 82
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: CHCDIS012_CB_82_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 1 Col 2
+  table_idx: 82
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: CHCDIS012_CB_82_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 2 Col 1
+  table_idx: 82
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: CHCDIS012_CB_82_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 2 Col 2
+  table_idx: 82
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: CHCDIS012_CB_82_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 3 Col 1
+  table_idx: 82
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: CHCDIS012_CB_82_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 3 Col 2
+  table_idx: 82
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: CHCDIS012_CB_82_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 4 Col 1
+  table_idx: 82
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: CHCDIS012_CB_82_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 4 Col 2
+  table_idx: 82
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: CHCDIS012_CB_83_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_83
+  label: Row 2 Col 1
+  table_idx: 83
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: CHCDIS012_CB_83_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_83
+  label: Row 3 Col 1
+  table_idx: 83
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: CHCDIS012_CB_83_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_83
+  label: Row 4 Col 1
+  table_idx: 83
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: CHCDIS012_TXT_85_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Name of Third-party Contacted
+  table_idx: 85
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A969C06
+  value: ''
+- field_id: CHCDIS012_TXT_85_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 85
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EEC833F
+  value: ''
+- field_id: CHCDIS012_TXT_85_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 85
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '29882929'
+  value: ''
+- field_id: CHCDIS012_TXT_85_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Date contacted
+  table_idx: 85
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CD14B2C
+  value: ''
+- field_id: CHCDIS012_CB_85_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Yes       No   Assessor’s Notes
+  table_idx: 85
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: CHCDIS012_CB_85_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Yes       No   Assessor’s Notes
+  table_idx: 85
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: CHCDIS012_TXT_85_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 85
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3273E566
+  value: ''
+- field_id: CHCDIS012_TXT_85_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Name of Third-party Contacted
+  table_idx: 85
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27B75E8F
+  value: ''
+- field_id: CHCDIS012_TXT_85_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 85
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40B34E2B
+  value: ''
+- field_id: CHCDIS012_TXT_85_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 85
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77A6665E
+  value: ''
+- field_id: CHCDIS012_TXT_85_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Date contacted
+  table_idx: 85
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1DAFA096
+  value: ''
+- field_id: CHCDIS012_CB_85_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Yes       No   Assessor’s Notes
+  table_idx: 85
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: CHCDIS012_CB_85_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Yes       No   Assessor’s Notes
+  table_idx: 85
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: CHCDIS012_TXT_85_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 85
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 39CAA6A2
+  value: ''
+- field_id: CHCDIS012_TXT_85_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Name of Third-party Contacted
+  table_idx: 85
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D25FAFA
+  value: ''
+- field_id: CHCDIS012_TXT_85_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 85
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451A30E5
+  value: ''
+- field_id: CHCDIS012_TXT_85_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 85
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E4BE0E3
+  value: ''
+- field_id: CHCDIS012_TXT_85_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Date contacted
+  table_idx: 85
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 08D6E752
+  value: ''
+- field_id: CHCDIS012_CB_85_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Yes       No   Assessor’s Notes
+  table_idx: 85
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: CHCDIS012_CB_85_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Yes       No   Assessor’s Notes
+  table_idx: 85
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: CHCDIS012_TXT_85_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 85
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18D2A67F
+  value: ''
+- field_id: CHCDIS012_TXT_85_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Name of Third-party Contacted
+  table_idx: 85
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AB2776E
+  value: ''
+- field_id: CHCDIS012_TXT_85_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 85
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B9C71C7
+  value: ''
+- field_id: CHCDIS012_TXT_85_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 85
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 23166DAF
+  value: ''
+- field_id: CHCDIS012_TXT_85_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: Date contacted
+  table_idx: 85
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19F6D647
+  value: ''
+- field_id: CHCDIS012_CB_85_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Yes       No   Assessor’s Notes
+  table_idx: 85
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: CHCDIS012_CB_85_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_85
+  label: Yes       No   Assessor’s Notes
+  table_idx: 85
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: CHCDIS012_TXT_85_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 85
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3BC5CFB0
+  value: ''
+- field_id: CHCDIS012_CB_86_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_86
+  label: Row 1 Col 1
+  table_idx: 86
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: CHCDIS012_CB_86_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_86
+  label: Row 1 Col 2
+  table_idx: 86
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: CHCDIS012_CB_87_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_87
+  label: Row 1 Col 1
+  table_idx: 87
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: CHCDIS012_CB_87_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_87
+  label: Row 1 Col 2
+  table_idx: 87
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: CHCDIS012_TXT_88_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_88
+  prompt: Assessor’s comments/feedback
+  table_idx: 88
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E889375
+  value: ''
+- field_id: CHCDIS012_TXT_89_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_89
+  prompt: Assessor’s name
+  table_idx: 89
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D877E66
+  value: ''
+- field_id: CHCDIS012_TXT_89_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_89
+  prompt: Assessor’s signature
+  table_idx: 89
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
+- field_id: CHCDIS012_TXT_89_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_89
+  prompt: Date signed
+  table_idx: 89
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56908E91
+  value: ''
+- field_id: CHCDIS012_TXT_89_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_89
+  prompt: Assessor’s signature
+  table_idx: 89
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''

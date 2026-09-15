@@ -1,0 +1,5048 @@
+unit: HLTWHS002
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@careconnect.edu.au
+  rto: Care Connect College
+  rto_phone: 1300 123 456
+  rto_email: info@careconnect.edu.au
+  workplace: Care Connect Services
+  state: New South Wales
+  date: 15/09/2026
+fields:
+- field_id: HLTWHS002_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: First and Last Name - HLTWHS002
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 013BE3B1
+  value: Alex Chen
+- field_id: HLTWHS002_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: Phone - HLTWHS002
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 76789EC8
+  value: 0412 345 678
+- field_id: HLTWHS002_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: Email - HLTWHS002
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 10C5D775
+  value: alex.chen@careconnect.edu.au
+- field_id: HLTWHS002_TXT_2_1_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  prompt: 'Name:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 602B0F0F
+  value: Alex Chen
+- field_id: HLTWHS002_TXT_2_1_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  prompt: 'Signature:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6EED9427
+  value: Alex Chen
+- field_id: HLTWHS002_TXT_2_1_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  prompt: 'Date signed:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F091D23
+  value: 15/09/2026
+- field_id: HLTWHS002_CB_3_3_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Australian Capital Territory
+  table_idx: 3
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-426346118'
+  value: false
+- field_id: HLTWHS002_CB_3_3_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: South Australia
+  table_idx: 3
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1980366571'
+  value: false
+- field_id: HLTWHS002_CB_3_4_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: New South Wales
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-612981882'
+  value: true
+- field_id: HLTWHS002_CB_3_4_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Tasmania
+  table_idx: 3
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1305546797'
+  value: false
+- field_id: HLTWHS002_CB_3_5_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Northern Territory
+  table_idx: 3
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-702783972'
+  value: false
+- field_id: HLTWHS002_CB_3_5_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Victoria
+  table_idx: 3
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1375308391'
+  value: false
+- field_id: HLTWHS002_CB_3_6_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Queensland
+  table_idx: 3
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '847757288'
+  value: false
+- field_id: HLTWHS002_CB_3_6_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Western Australia
+  table_idx: 3
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-437444091'
+  value: false
+- field_id: HLTWHS002_TXT_4_2_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: What is the purpose of Work Health and Safety (WHS) legislation?
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2D9E99AF
+  value: Provides a balanced and nationally consistent framework to secure the health and safety of workers and workplaces in NSW.
+- field_id: HLTWHS002_TXT_4_3_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: 'What is the WHS legislation currently enforced in your state/territory?
+
+    You must identify the WHS legislation in the state/territory you selected in t'
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 76C462F1
+  value: Provides a balanced and nationally consistent framework to secure the health and safety of workers and workplaces in NSW.
+- field_id: HLTWHS002_TXT_5_2_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: What is the purpose of Work Health and Safety (WHS) regulations?
+  table_idx: 5
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 266BA3D6
+  value: Specifies practical legal requirements for managing hazardous manual tasks, hazardous chemicals, infection control, and emergency plans.
+- field_id: HLTWHS002_TXT_5_3_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: How does state/territory WHS legislation impact workplace regulations?
+  table_idx: 5
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7A91C8D0
+  value: Part 4.2 - Hazardous Manual Tasks
+- field_id: HLTWHS002_TXT_5_4_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: 'What are the WHS regulations currently enforced in your state/territory?
+
+    You must identify the WHS regulations in the state/territory you selected in '
+  table_idx: 5
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 79F4562B
+  value: Mandates duty to identify, manage, and control risks associated with musculoskeletal disorders.
+- field_id: HLTWHS002_TXT_5_7_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: What are codes of practice?
+  table_idx: 5
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 34CEFF07
+  value: SafeWork NSW
+- field_id: HLTWHS002_TXT_5_8_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: 'Complete the statement: To have legal effect, a model Code of Practice must .'
+  table_idx: 5
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2F9FB7E2
+  value: be approved by the relevant Minister and published in the NSW Government Gazette.
+- field_id: HLTWHS002_TXT_5_9_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: How does state/territory WHS legislation impact the codes of practice?
+  table_idx: 5
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5F1D5F59
+  value: New South Wales
+- field_id: HLTWHS002_CB_5_10_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: answer the following
+  label: 'True or false: Approved codes of practice are law.  Tick the box that corresponds to your answer. If'
+  table_idx: 5
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1642159283'
+  value: false
+- field_id: HLTWHS002_CB_5_10_0_2
+  type: checkbox
+  section: Preliminary Task
+  question_ref: answer the following
+  label: 'True or false: Approved codes of practice are law.  Tick the box that corresponds to your answer. If'
+  table_idx: 5
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 1
+  sdt_id: '-1457248322'
+  value: true
+- field_id: HLTWHS002_TXT_5_10_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: answer the following
+  prompt: "True or false: Approved codes of practice are law. \nTick the box that corresponds to your answer. If your answer is false, provide an explanation for "
+  table_idx: 5
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0FB195BD
+  value: False. Approved codes of practice are not law themselves, but they are admissible in court proceedings as evidence of whether or not a duty or obligation under the WHS Act has been complied with.
+- field_id: HLTWHS002_TXT_6_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Title/name of code of practice
+  table_idx: 6
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 77967F79
+  value: Hazardous Manual Tasks Code of Practice (SafeWork NSW)
+- field_id: HLTWHS002_TXT_6_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Link
+  table_idx: 6
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 54895C97
+  value: Hazardous Manual Tasks Code of Practice (SafeWork NSW)
+- field_id: HLTWHS002_TXT_6_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Purpose of the code of practice
+  table_idx: 6
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2B364672
+  value: Hazardous Manual Tasks Code of Practice (SafeWork NSW)
+- field_id: HLTWHS002_TXT_6_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Title/name of code of practice
+  table_idx: 6
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2EB9C323
+  value: https://www.safework.nsw.gov.au/resource-library/list-of-all-codes-of-practice/hazardous-manual-tasks
+- field_id: HLTWHS002_TXT_6_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Link
+  table_idx: 6
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6DDD1CE2
+  value: https://www.safework.nsw.gov.au/resource-library/list-of-all-codes-of-practice/hazardous-manual-tasks
+- field_id: HLTWHS002_TXT_6_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: .
+  table_idx: 6
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 50C80D35
+  value: https://www.safework.nsw.gov.au/resource-library/list-of-all-codes-of-practice/hazardous-manual-tasks
+- field_id: HLTWHS002_TXT_6_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Title/name of code of practice
+  table_idx: 6
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 538CE33D
+  value: Provides practical guidance to identify postures, movements, and forces that produce musculoskeletal strain and implement mechanical controls.
+- field_id: HLTWHS002_TXT_6_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Link
+  table_idx: 6
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 31F2FBA7
+  value: Provides practical guidance to identify postures, movements, and forces that produce musculoskeletal strain and implement mechanical controls.
+- field_id: HLTWHS002_TXT_6_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Purpose of the code of practice
+  table_idx: 6
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 767548B1
+  value: Provides practical guidance to identify postures, movements, and forces that produce musculoskeletal strain and implement mechanical controls.
+- field_id: HLTWHS002_TXT_7_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: What are industry standards in the context of work health and safety?
+  table_idx: 7
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0B951B18
+  value: AS/NZS ISO 45001:2018 Occupational health and safety management systems.
+- field_id: HLTWHS002_TXT_7_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: 'Why is it important for a specific industry to have its own work health and safety standards?
+
+    .'
+  table_idx: 7
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 30C891F9
+  value: Provides organizations with a structured framework to improve employee safety, reduce workplace risks, and create safer working environments.
+- field_id: HLTWHS002_TXT_7_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: 'How does state/territory WHS legislation impact industry standards?
+
+    .'
+  table_idx: 7
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2FC39D34
+  value: New South Wales
+- field_id: HLTWHS002_TXT_8_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: 'Complete the statement: The Commonwealth, state, and territory WHS authorities are responsible for , , and  WHS laws in their jurisdictions.'
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7886ECDB
+  value: Inspects workplaces, issues improvement and prohibition notices, investigates serious workplace incidents, and enforces WHS laws in NSW.
+- field_id: HLTWHS002_TXT_8_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: 'Complete the statement: The Commonwealth, state, and territory WHS authorities are responsible for , , and  WHS laws in their jurisdictions.'
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7886ECDB
+  value: Inspects workplaces, issues improvement and prohibition notices, investigates serious workplace incidents, and enforces WHS laws in NSW.
+- field_id: HLTWHS002_TXT_8_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: 'Complete the statement: The Commonwealth, state, and territory WHS authorities are responsible for , , and  WHS laws in their jurisdictions.'
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 7886ECDB
+  value: Inspects workplaces, issues improvement and prohibition notices, investigates serious workplace incidents, and enforces WHS laws in NSW.
+- field_id: HLTWHS002_TXT_8_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: For states/territories that implement the model WHS laws, how must the states/territories implement the model WHS laws in their jurisdiction?
+  table_idx: 8
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 72B07D19
+  value: Health and Safety Representative (HSR) and Workplace Health and Safety Committee.
+- field_id: HLTWHS002_TXT_8_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide a link to your state/territory WHS regulator’s website/page.
+  table_idx: 8
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6491D965
+  value: Facilitates consultation between workers and management, conducts hazard inspections, and assists in incident reviews.
+- field_id: HLTWHS002_TXT_9_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: Persons conducting business or undertaking (PCBU) - Access and review your state/territory’s current work health and safety legislation and outline th
+  table_idx: 9
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4661BF76
+  value: Provide necessary information, training, instruction, and supervision to protect workers from risks.
+- field_id: HLTWHS002_TXT_9_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: 'Reference:'
+  table_idx: 9
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 67139D8E
+  value: 'Section 28 Worker Duties: Take reasonable care for own health and safety and ensure actions do not adversely affect others.'
+- field_id: HLTWHS002_TXT_9_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: 'Officers - Access and review your state/territory’s current work health and safety legislation and outline the duty of care of each the following:
+
+    Per'
+  table_idx: 9
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 243FB2B7
+  value: Comply with any reasonable instruction and cooperate with reasonable WHS policies and procedures.
+- field_id: HLTWHS002_TXT_9_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: 'Reference:'
+  table_idx: 9
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4692C697
+  value: Report hazards, injuries, and unsafe work practices immediately to the workplace supervisor.
+- field_id: HLTWHS002_TXT_9_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: 'Workers - Access and review your state/territory’s current work health and safety legislation and outline the duty of care of each the following:
+
+    Pers'
+  table_idx: 9
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7DBB8A4A
+  value: New South Wales
+- field_id: HLTWHS002_TXT_9_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: 'Reference:'
+  table_idx: 9
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 29E34161
+  value: Section 28 of the Work Health and Safety Act 2011 (NSW).
+- field_id: HLTWHS002_TXT_10_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: Table 10 Row 4 Col 0
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 09A3F822
+  value: Right to access adequate first aid, personal protective equipment, and WHS training free of charge.
+- field_id: HLTWHS002_TXT_10_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: Access and review your state/territory’s current work health and safety legislation and provide two examples of the rights and two examples of the res
+  table_idx: 10
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 65E5F12D
+  value: Right to access adequate first aid, personal protective equipment, and WHS training free of charge.
+- field_id: HLTWHS002_TXT_10_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: 'Reference:'
+  table_idx: 10
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5B15BFA8
+  value: Responsibility to wear and maintain required PPE properly in accordance with manufacturer instructions.
+- field_id: HLTWHS002_TXT_10_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: 'Reference:'
+  table_idx: 10
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6C666838
+  value: Responsibility to wear and maintain required PPE properly in accordance with manufacturer instructions.
+- field_id: HLTWHS002_TXT_10_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: Table 10 Row 6 Col 0
+  table_idx: 10
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D1B45C7
+  value: Responsibility not to intentionally or recklessly interfere with or misuse safety equipment.
+- field_id: HLTWHS002_TXT_10_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: Access and review your state/territory’s current work health and safety legislation and provide two examples of the rights and two examples of the res
+  table_idx: 10
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5073027E
+  value: Responsibility not to intentionally or recklessly interfere with or misuse safety equipment.
+- field_id: HLTWHS002_TXT_10_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: 'Reference:'
+  table_idx: 10
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5616F4CA
+  value: Responsibility to actively participate in workplace health and safety consultation and debriefing sessions.
+- field_id: HLTWHS002_TXT_10_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  prompt: 'Reference:'
+  table_idx: 10
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 49B9BC41
+  value: Responsibility to actively participate in workplace health and safety consultation and debriefing sessions.
+- field_id: HLTWHS002_TXT_11_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Officers (Senior management, executive personnel)
+  table_idx: 11
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7173584A
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Officers (Senior management, executive personnel)
+  table_idx: 11
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 158D5AD3
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Reference:'
+  table_idx: 11
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6DAC50A4
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Reference:'
+  table_idx: 11
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 069E892F
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Officers (Senior management, executive personnel)
+  table_idx: 11
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3C0ADBE5
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Officers (Senior management, executive personnel)
+  table_idx: 11
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 53FDCE6D
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Reference:'
+  table_idx: 11
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 55E0F5B8
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Reference:'
+  table_idx: 11
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 323F7687
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_8_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Officers (Senior management, executive personnel)
+  table_idx: 11
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 44E3E860
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_8_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Officers (Senior management, executive personnel)
+  table_idx: 11
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7A02149E
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Reference:'
+  table_idx: 11
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 73CFA629
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_9_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Reference:'
+  table_idx: 11
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0026665D
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_10_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Officers (Senior management, executive personnel)
+  table_idx: 11
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7C0691F5
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_10_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Officers (Senior management, executive personnel)
+  table_idx: 11
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0B034656
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_11_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Reference:'
+  table_idx: 11
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1E4C87D4
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_11_11_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Reference:'
+  table_idx: 11
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7903934C
+  value: Acquire and maintain up-to-date knowledge of work health and safety matters.
+- field_id: HLTWHS002_TXT_12_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: What is the PCBU’s responsibility with regard to hazardous manual tasks?
+  table_idx: 12
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7B18BAD1
+  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+- field_id: HLTWHS002_TXT_12_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the seven factors that PCBU’s must review and consider when determining control measures to implement for managing risks related to hazardous
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 317314AF
+  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+- field_id: HLTWHS002_TXT_12_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the seven factors that PCBU’s must review and consider when determining control measures to implement for managing risks related to hazardous
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 26ED540B
+  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+- field_id: HLTWHS002_TXT_12_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the seven factors that PCBU’s must review and consider when determining control measures to implement for managing risks related to hazardous
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 79BDF4FF
+  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+- field_id: HLTWHS002_TXT_12_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the seven factors that PCBU’s must review and consider when determining control measures to implement for managing risks related to hazardous
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 076CD406
+  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+- field_id: HLTWHS002_TXT_12_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the seven factors that PCBU’s must review and consider when determining control measures to implement for managing risks related to hazardous
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 750EA78B
+  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+- field_id: HLTWHS002_TXT_12_3_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the seven factors that PCBU’s must review and consider when determining control measures to implement for managing risks related to hazardous
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 4E3E76A2
+  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+- field_id: HLTWHS002_TXT_12_3_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the seven factors that PCBU’s must review and consider when determining control measures to implement for managing risks related to hazardous
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 1371B40D
+  value: Hazard is a situation or thing with potential to cause harm; Risk is the likelihood and consequence that harm will occur from exposure to the hazard.
+- field_id: HLTWHS002_TXT_13_2_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Provide five examples of notifiable conditions/diseases in your state/territory.
+
+    Provide a link where you sourced your responses for your assessor’s r'
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5DDEF5A9
+  value: Elimination
+- field_id: HLTWHS002_TXT_13_2_0_2
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Provide five examples of notifiable conditions/diseases in your state/territory.
+
+    Provide a link where you sourced your responses for your assessor’s r'
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4D833D5E
+  value: Substitution
+- field_id: HLTWHS002_TXT_13_2_0_3
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Provide five examples of notifiable conditions/diseases in your state/territory.
+
+    Provide a link where you sourced your responses for your assessor’s r'
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 3ED62B58
+  value: Isolation
+- field_id: HLTWHS002_TXT_13_2_0_4
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Provide five examples of notifiable conditions/diseases in your state/territory.
+
+    Provide a link where you sourced your responses for your assessor’s r'
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 3949B3E6
+  value: Engineering controls
+- field_id: HLTWHS002_TXT_13_2_0_5
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Provide five examples of notifiable conditions/diseases in your state/territory.
+
+    Provide a link where you sourced your responses for your assessor’s r'
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 24AD79CD
+  value: Administrative controls
+- field_id: HLTWHS002_TXT_13_3_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Source:'
+  table_idx: 13
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D63ECC6
+  value: Elimination
+- field_id: HLTWHS002_TXT_13_4_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'What is the principal infection control legislation currently enforced in your state/territory? Provide an active and current link to the legislation '
+  table_idx: 13
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 65D97E0A
+  value: Elimination
+- field_id: HLTWHS002_TXT_13_4_0_2
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'What is the principal infection control legislation currently enforced in your state/territory? Provide an active and current link to the legislation '
+  table_idx: 13
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: '50434081'
+  value: Substitution
+- field_id: HLTWHS002_TXT_13_5_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: In your own words, explain how PCBUs can exercise their duty of care in relation to infection control.
+  table_idx: 13
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 44082AC5
+  value: Elimination
+- field_id: HLTWHS002_TXT_14_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 405FCCE2
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 61E4A4B5
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7BDCE1AB
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 64D2B1D4
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6DBD3A8B
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1B32221C
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 75960C33
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 0DC32DAB
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1EAB5F67
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_7_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 7
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1E20DCFA
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_9_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2251D865
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_9_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 9
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 21DBBDAD
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_10_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 554762AE
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_10_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 10
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 09C6215C
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_11_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6E1E92CE
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_11_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 11
+  col_idx: 3
+  index_in_cell: 0
+  para_id: '71702723'
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_12_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3F76B6B9
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_12_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 12
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3F98BD65
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_13_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 57CF9066
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_14_13_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_14
+  prompt: 'The following are emergency equipment signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each emergency equipment s'
+  table_idx: 14
+  row_idx: 13
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 422B7C4F
+  value: Identify hazards, assess the risk level (likelihood x consequence), implement control measures following the hierarchy of controls, and review controls regularly.
+- field_id: HLTWHS002_TXT_15_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: 'The following are personal protective equipment (PPE) signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each PPE s'
+  table_idx: 15
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4CA83731
+  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+- field_id: HLTWHS002_TXT_15_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: 'The following are personal protective equipment (PPE) signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each PPE s'
+  table_idx: 15
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 587B37C0
+  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+- field_id: HLTWHS002_TXT_15_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: 'The following are personal protective equipment (PPE) signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each PPE s'
+  table_idx: 15
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2B963F1D
+  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+- field_id: HLTWHS002_TXT_15_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: 'The following are personal protective equipment (PPE) signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each PPE s'
+  table_idx: 15
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 2274EA3E
+  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+- field_id: HLTWHS002_TXT_15_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: 'The following are personal protective equipment (PPE) signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each PPE s'
+  table_idx: 15
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7A786DD9
+  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+- field_id: HLTWHS002_TXT_15_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  prompt: 'The following are personal protective equipment (PPE) signs that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each PPE s'
+  table_idx: 15
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1CC43A67
+  value: Musculoskeletal disorders (MSD) caused by repetitive bending, twisting, lifting heavy clients without mechanical aids, or pushing wheelchairs over rough ground.
+- field_id: HLTWHS002_TXT_16_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: Name
+  table_idx: 16
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 22BCE4D9
+  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+- field_id: HLTWHS002_TXT_16_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: Meaning
+  table_idx: 16
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0CD146D1
+  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+- field_id: HLTWHS002_TXT_16_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: Name
+  table_idx: 16
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 001BC59D
+  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+- field_id: HLTWHS002_TXT_16_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: Meaning
+  table_idx: 16
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 65D71848
+  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+- field_id: HLTWHS002_TXT_16_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: Name
+  table_idx: 16
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6079E1B8
+  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+- field_id: HLTWHS002_TXT_16_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: Meaning
+  table_idx: 16
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 13D7E2CD
+  value: Use electric client hoists, slide sheets, height-adjustable beds, and ensure two care workers are present for bariatric or complex transfers.
+- field_id: HLTWHS002_TXT_17_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: 'The following are safety signs for classifying hazards that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each sign for c'
+  table_idx: 17
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 38B9152A
+  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+- field_id: HLTWHS002_TXT_17_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: 'The following are safety signs for classifying hazards that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each sign for c'
+  table_idx: 17
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1F72947C
+  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+- field_id: HLTWHS002_TXT_17_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: 'The following are safety signs for classifying hazards that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each sign for c'
+  table_idx: 17
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E58CDDE
+  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+- field_id: HLTWHS002_TXT_17_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: 'The following are safety signs for classifying hazards that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each sign for c'
+  table_idx: 17
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6949A960
+  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+- field_id: HLTWHS002_TXT_17_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: 'The following are safety signs for classifying hazards that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each sign for c'
+  table_idx: 17
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 65A562A9
+  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+- field_id: HLTWHS002_TXT_17_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: 'The following are safety signs for classifying hazards that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each sign for c'
+  table_idx: 17
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 2CD56C6E
+  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+- field_id: HLTWHS002_TXT_17_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: 'The following are safety signs for classifying hazards that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each sign for c'
+  table_idx: 17
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 68AF823E
+  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+- field_id: HLTWHS002_TXT_17_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  prompt: 'The following are safety signs for classifying hazards that can commonly be seen in Australian organisations.
+
+    In the table below:
+
+    Name each sign for c'
+  table_idx: 17
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 018C41B3
+  value: Perform a preliminary dynamic risk assessment, clear obstacles, check client mobility plan, adjust bed height, lock wheels, and communicate each step.
+- field_id: HLTWHS002_TXT_18_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Name
+  table_idx: 18
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7AE899DD
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Meaning
+  table_idx: 18
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 33541AE2
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Name
+  table_idx: 18
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 274A2BF7
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Meaning
+  table_idx: 18
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0DE719D1
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Name
+  table_idx: 18
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 061CEFCD
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Meaning
+  table_idx: 18
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 64A511BA
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Name
+  table_idx: 18
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1A420B23
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Meaning
+  table_idx: 18
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2EACDFEA
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Name
+  table_idx: 18
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 77A97766
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Meaning
+  table_idx: 18
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7E650904
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Name
+  table_idx: 18
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1266761F
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_18_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Meaning
+  table_idx: 18
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 25DA398A
+  value: R - Remove people in immediate danger; A - Alert emergency services (000) and sound alarm; C - Contain smoke and fire by closing doors; E - Evacuate to designated assembly area.
+- field_id: HLTWHS002_TXT_19_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: 'What are hazards? - In your own words, briefly explain the following in the context of direct client care:
+
+    What are hazards?
+
+    What are risks?'
+  table_idx: 19
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 52F6EE53
+  value: 'Check DRSABCD: Danger, Response, Send for help (000), Airway, Breathing, CPR (30 compressions : 2 breaths), Defibrillation (AED).'
+- field_id: HLTWHS002_TXT_19_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: 'What are risks? - In your own words, briefly explain the following in the context of direct client care:
+
+    What are hazards?
+
+    What are risks?'
+  table_idx: 19
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 617C7B06
+  value: 'Check DRSABCD: Danger, Response, Send for help (000), Airway, Breathing, CPR (30 compressions : 2 breaths), Defibrillation (AED).'
+- field_id: HLTWHS002_TXT_20_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  prompt: Using mechanical methods - Briefly describe the following strategies for minimising risk.
+  table_idx: 20
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 46799B24
+  value: Blood-borne viruses (HBV, HCV, HIV), respiratory pathogens (COVID-19, Influenza), and enteric pathogens (Norovirus).
+- field_id: HLTWHS002_TXT_20_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  prompt: Using administrative methods - Briefly describe the following strategies for minimising risk.
+  table_idx: 20
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 504DA082
+  value: Blood-borne viruses (HBV, HCV, HIV), respiratory pathogens (COVID-19, Influenza), and enteric pathogens (Norovirus).
+- field_id: HLTWHS002_TXT_20_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  prompt: Using personal protective equipment (PPE) - Briefly describe the following strategies for minimising risk.
+  table_idx: 20
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 54A704D7
+  value: Blood-borne viruses (HBV, HCV, HIV), respiratory pathogens (COVID-19, Influenza), and enteric pathogens (Norovirus).
+- field_id: HLTWHS002_TXT_21_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 21 Row 3 Col 0
+  table_idx: 21
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4E1B9586
+  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+- field_id: HLTWHS002_TXT_21_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 21 Row 4 Col 0
+  table_idx: 21
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 358FCD6E
+  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+- field_id: HLTWHS002_TXT_21_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 21 Row 5 Col 0
+  table_idx: 21
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7711E9EA
+  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+- field_id: HLTWHS002_TXT_21_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 21 Row 6 Col 0
+  table_idx: 21
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 29573C43
+  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+- field_id: HLTWHS002_TXT_21_8_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 21 Row 8 Col 0
+  table_idx: 21
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7E34E7CB
+  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+- field_id: HLTWHS002_TXT_21_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 21 Row 9 Col 0
+  table_idx: 21
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6C5A89AC
+  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+- field_id: HLTWHS002_TXT_21_10_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 21 Row 10 Col 0
+  table_idx: 21
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 592F6407
+  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+- field_id: HLTWHS002_TXT_21_11_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 21 Row 11 Col 0
+  table_idx: 21
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 20639B9C
+  value: Hand hygiene before and after client contact, correct PPE usage, safe sharps handling, prompt spill clean-up, and routine environmental disinfection.
+- field_id: HLTWHS002_TXT_22_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 22 Row 3 Col 0
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5ED6412A
+  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+- field_id: HLTWHS002_TXT_22_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 22 Row 4 Col 0
+  table_idx: 22
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6D821630
+  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+- field_id: HLTWHS002_TXT_22_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 22 Row 5 Col 0
+  table_idx: 22
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5F9B5E54
+  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+- field_id: HLTWHS002_TXT_22_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 22 Row 7 Col 0
+  table_idx: 22
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2BC8373B
+  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+- field_id: HLTWHS002_TXT_22_8_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 22 Row 8 Col 0
+  table_idx: 22
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6368F279
+  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+- field_id: HLTWHS002_TXT_22_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 22 Row 9 Col 0
+  table_idx: 22
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 25626D69
+  value: A notifiable incident under WHS Act Section 38 involves death of a person, serious injury/illness requiring immediate hospital treatment, or a dangerous incident (e.g. fire/gas leak).
+- field_id: HLTWHS002_TXT_23_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: What is basic home fire safety?
+  table_idx: 23
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0BA4B6C3
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three groups of people who are at high-risk of injury or death in a home fire.
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3B5121F3
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three groups of people who are at high-risk of injury or death in a home fire.
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 32904DEE
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three groups of people who are at high-risk of injury or death in a home fire.
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 44441E96
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 408D8403
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 100E42CE
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 0E2598E7
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 47CC4551
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 028C1B3B
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 53FD6200
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 7AACED02
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_8
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 7
+  para_id: 570D5358
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_9
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 8
+  para_id: 35434D48
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_10
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 9
+  para_id: 6894E0DA
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_11
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 10
+  para_id: 3282F4C5
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_23_4_0_12
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by providing four examples of behaviours that contribute to fire injuries and fatalities. Explain how each contributes to fir
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 11
+  para_id: 64F500C8
+  value: Notify SafeWork NSW immediately via telephone (13 10 50) and follow up with written notice within 48 hours; preserve incident site.
+- field_id: HLTWHS002_TXT_24_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of places where smoke alarms can be efficiently placed for the prevention of home fires.
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6DDA43A7
+  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+- field_id: HLTWHS002_TXT_24_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of places where smoke alarms can be efficiently placed for the prevention of home fires.
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 48BD37EC
+  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+- field_id: HLTWHS002_TXT_24_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two ways you can ensure that smoke alarms are properly installed.
+  table_idx: 24
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 689EE41C
+  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+- field_id: HLTWHS002_TXT_24_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two ways you can ensure that smoke alarms are properly installed.
+  table_idx: 24
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 45D55C94
+  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+- field_id: HLTWHS002_TXT_24_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of how to properly maintain smoke alarms.
+  table_idx: 24
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 32E4CC2C
+  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+- field_id: HLTWHS002_TXT_24_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of how to properly maintain smoke alarms.
+  table_idx: 24
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 134C5E7E
+  value: Complete the organizational Incident/Accident Report Form, document factual objective observations, record vital signs and first aid given, and notify the RN.
+- field_id: HLTWHS002_TXT_25_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Water - Briefly explain how each personal safety risk below is considered a risk in the context of home-based care
+  table_idx: 25
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '51429231'
+  value: Workplace debriefings provide emotional support to workers, reduce psychological distress/trauma, identify root causes, and prevent recurrence.
+- field_id: HLTWHS002_TXT_25_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Damaged or irregular floor surfaces - Briefly explain how each personal safety risk below is considered a risk in the context of home-based care
+  table_idx: 25
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 34735E69
+  value: Workplace debriefings provide emotional support to workers, reduce psychological distress/trauma, identify root causes, and prevent recurrence.
+- field_id: HLTWHS002_TXT_25_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  prompt: Allergens - Briefly explain how each personal safety risk below is considered a risk in the context of home-based care
+  table_idx: 25
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0D80FE9B
+  value: Workplace debriefings provide emotional support to workers, reduce psychological distress/trauma, identify root causes, and prevent recurrence.
+- field_id: HLTWHS002_TXT_26_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: What are infectious diseases?
+  table_idx: 26
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 389883A3
+  value: Illnesses caused by pathogenic microorganisms (bacteria, viruses, fungi, parasites) that can be transmitted directly or indirectly from one person to another or from environmental vectors.
+- field_id: HLTWHS002_TXT_26_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three common sources of infection in a home-based care environment.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 36745F2F
+  value: Contaminated household surfaces and high-touch areas (door handles, bathroom taps, bedside tables).
+- field_id: HLTWHS002_TXT_26_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three common sources of infection in a home-based care environment.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 29746A16
+  value: Client bodily fluids and soiled personal laundry or linen.
+- field_id: HLTWHS002_TXT_26_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three common sources of infection in a home-based care environment.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 62864E5B
+  value: Improperly stored or prepared food and domestic pets/pest vectors.
+- field_id: HLTWHS002_TXT_26_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three means to minimise the transfer of infectious diseases
+  table_idx: 26
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5B548C32
+  value: Performing strict hand hygiene using soap and water or alcohol-based hand rub.
+- field_id: HLTWHS002_TXT_26_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three means to minimise the transfer of infectious diseases
+  table_idx: 26
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 55934EFA
+  value: Wearing appropriate personal protective equipment (gloves, aprons, masks) when exposed to fluids.
+- field_id: HLTWHS002_TXT_26_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three means to minimise the transfer of infectious diseases
+  table_idx: 26
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 40C1DC50
+  value: Cleaning and disinfecting touch points with hospital-grade disinfectant and bagging soiled linen immediately.
+- field_id: HLTWHS002_TXT_27_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: What is the musculoskeletal system?
+  table_idx: 27
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5D630977
+  value: The complex bodily system comprising bones, joints, muscles, tendons, ligaments, and cartilage that provides form, support, stability, and movement to the body.
+- field_id: HLTWHS002_TXT_27_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three examples of musculoskeletal disorders (MSDs) that can affect parts of the musculoskeletal system.
+  table_idx: 27
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1C40AFA8
+  value: Lumbar spinal disc herniation or acute low back muscle strain.
+- field_id: HLTWHS002_TXT_27_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three examples of musculoskeletal disorders (MSDs) that can affect parts of the musculoskeletal system.
+  table_idx: 27
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 789F83D7
+  value: Carpal tunnel syndrome or repetitive wrist tendonitis.
+- field_id: HLTWHS002_TXT_27_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide three examples of musculoskeletal disorders (MSDs) that can affect parts of the musculoskeletal system.
+  table_idx: 27
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 651C50CF
+  value: Rotator cuff tendinopathy or shoulder impingement syndrome.
+- field_id: HLTWHS002_TXT_28_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 28 Row 3 Col 0
+  table_idx: 28
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 577571CB
+  value: Identify hazardous manual tasks involving repetitive, awkward, or high-force movements.
+- field_id: HLTWHS002_TXT_28_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 28 Row 4 Col 0
+  table_idx: 28
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 183CEDD1
+  value: Assess the risk using the Hazardous Manual Tasks risk assessment matrix.
+- field_id: HLTWHS002_TXT_28_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 28 Row 6 Col 0
+  table_idx: 28
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 15631CAF
+  value: Implement control measures following the hierarchy of control (e.g. hoists, slide sheets).
+- field_id: HLTWHS002_TXT_28_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: Table 28 Row 7 Col 0
+  table_idx: 28
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1C44FDB9
+  value: Review control measures regularly and update client care plans when physical condition changes.
+- field_id: HLTWHS002_TXT_30_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Your work role/title
+  table_idx: 30
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2E55443E
+  value: Support Worker / Care Assistant
+- field_id: HLTWHS002_TXT_30_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Responsibilities
+  table_idx: 30
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 175F64B8
+  value: Delivering direct personal care, assisting with client transfers, following WHS procedures, and reporting hazards.
+- field_id: HLTWHS002_TXT_30_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Organisation/workplace
+  table_idx: 30
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 42ADF144
+  value: Care Connect Services
+- field_id: HLTWHS002_TXT_30_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Worksite/area
+  table_idx: 30
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 02989F4B
+  value: Residential Aged Care Facility / Community Home-based Care
+- field_id: HLTWHS002_TXT_30_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Industry/sector
+  table_idx: 30
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6801C42B
+  value: Aged Care and Disability Support Sector
+- field_id: HLTWHS002_TXT_30_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: State/territory (where your workplace is based)
+  table_idx: 30
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 79D4A293
+  value: New South Wales
+- field_id: HLTWHS002_TXT_39_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: Table 39 Row 2 Col 0
+  table_idx: 39
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 300B247E
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_39_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: Table 39 Row 3 Col 0
+  table_idx: 39
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6CC27950
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_39_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: Table 39 Row 4 Col 0
+  table_idx: 39
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 67FDC102
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_39_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: Add more fields as necessary.
+  table_idx: 39
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 07AA1E22
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_40_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: Table 40 Row 2 Col 0
+  table_idx: 40
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1DC6C5D7
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_40_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: Table 40 Row 3 Col 0
+  table_idx: 40
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7B7F7635
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_40_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: Table 40 Row 4 Col 0
+  table_idx: 40
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 17277F07
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_40_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: Table 40 Row 5 Col 0
+  table_idx: 40
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4E2DC246
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_41_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: Table 41 Row 0 Col 0
+  table_idx: 41
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3FEDCE62
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_41_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: Table 41 Row 1 Col 0
+  table_idx: 41
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4C58EAB6
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_41_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: Table 41 Row 2 Col 0
+  table_idx: 41
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4C3403F6
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_41_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: Add more fields as necessary.
+  table_idx: 41
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D583FDA
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_42_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Table 42 Row 2 Col 0
+  table_idx: 42
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 37D4AE8F
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_42_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Table 42 Row 3 Col 0
+  table_idx: 42
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0FBFC1C1
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_42_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Add more fields as necessary.
+  table_idx: 42
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 15B3D559
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_43_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Work health - Access and review your organisation’s policies and procedures for work health and safety.
+
+    Complete the table below by identifying the fo'
+  table_idx: 43
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1E540EE6
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_43_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Work health - Access and review your organisation’s policies and procedures for work health and safety.
+
+    Complete the table below by identifying the fo'
+  table_idx: 43
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19CC418F
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_43_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Work safety - Access and review your organisation’s policies and procedures for work health and safety.
+
+    Complete the table below by identifying the fo'
+  table_idx: 43
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7AA6F22C
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_43_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  prompt: 'Work safety - Access and review your organisation’s policies and procedures for work health and safety.
+
+    Complete the table below by identifying the fo'
+  table_idx: 43
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 71A581CF
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_44_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 44 Row 3 Col 0
+  table_idx: 44
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6C8FCA94
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_44_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 44 Row 4 Col 0
+  table_idx: 44
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 60E45DE2
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_44_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 44 Row 6 Col 0
+  table_idx: 44
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0DF472F9
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_44_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 44 Row 7 Col 0
+  table_idx: 44
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '67353558'
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_44_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 44 Row 9 Col 0
+  table_idx: 44
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1957206D
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_TXT_44_10_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 44 Row 10 Col 0
+  table_idx: 44
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5F278AF9
+  value: Reported hazard immediately to workplace supervisor Sarah Jenkins, isolated the area with warning signage, and logged details in the workplace hazard register.
+- field_id: HLTWHS002_CB_54_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: You have completed all the Knowledge Assessments Questions.
+  table_idx: 54
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1172607243'
+  value: true
+- field_id: HLTWHS002_CB_54_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: 'You have completed the Practical Assessments in this workbook:'
+  table_idx: 54
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-367450486'
+  value: true
+- field_id: HLTWHS002_CB_54_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Case Study Task 1
+  table_idx: 54
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '622200672'
+  value: true
+- field_id: HLTWHS002_CB_54_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Case Study Task 2
+  table_idx: 54
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1883081024'
+  value: true
+- field_id: HLTWHS002_CB_54_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 1
+  table_idx: 54
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '835270830'
+  value: true
+- field_id: HLTWHS002_CB_54_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 2
+  table_idx: 54
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '728803991'
+  value: true
+- field_id: HLTWHS002_CB_54_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 3
+  table_idx: 54
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '947663881'
+  value: true
+- field_id: HLTWHS002_CB_54_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 4
+  table_idx: 54
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '321939779'
+  value: true
+- field_id: HLTWHS002_CB_54_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 5
+  table_idx: 54
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1399708036'
+  value: true
+- field_id: HLTWHS002_CB_54_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 1
+  table_idx: 54
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1832794130'
+  value: true
+- field_id: HLTWHS002_CB_54_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2
+  table_idx: 54
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1305086044'
+  value: true
+- field_id: HLTWHS002_CB_54_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 3
+  table_idx: 54
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1378664723'
+  value: true
+- field_id: HLTWHS002_CB_54_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4
+  table_idx: 54
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1229567673'
+  value: true
+- field_id: HLTWHS002_CB_54_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 5
+  table_idx: 54
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '591361321'
+  value: true
+- field_id: HLTWHS002_CB_54_16_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 6
+  table_idx: 54
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-173426389'
+  value: true
+- field_id: HLTWHS002_CB_54_17_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 7
+  table_idx: 54
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1214471807'
+  value: true
+- field_id: HLTWHS002_CB_54_18_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 8
+  table_idx: 54
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1794896360'
+  value: true
+- field_id: HLTWHS002_CB_55_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 55
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '94379991'
+  value: true
+- field_id: HLTWHS002_CB_55_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: This completed workbook
+  table_idx: 55
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1472658093'
+  value: true
+- field_id: HLTWHS002_CB_55_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 55
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1961214800'
+  value: true
+- field_id: HLTWHS002_CB_55_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Case Study Task 1 - Accident Report
+  table_idx: 55
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '786320630'
+  value: true
+- field_id: HLTWHS002_CB_55_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Case Study Task 2 - Accident Report
+  table_idx: 55
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-443620503'
+  value: true
+- field_id: HLTWHS002_CB_55_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 1 – Copy of organisation’s procedures for hazard identification
+  table_idx: 55
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-130483235'
+  value: true
+- field_id: HLTWHS002_CB_55_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 2 – Copy of organisation’s procedures for fire emergency situations
+  table_idx: 55
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1141465424'
+  value: true
+- field_id: HLTWHS002_CB_55_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 3 – Copy of organisation’s procedures for medical emergency situations
+  table_idx: 55
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1389755376'
+  value: true
+- field_id: HLTWHS002_CB_55_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 4 – Copy of organisation’s policies and procedures for work health and saf
+  table_idx: 55
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-702937332'
+  value: true
+- field_id: HLTWHS002_CB_55_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Practical Assignment Task 5 – Workplace documents that detail job tasks and responsibilities
+  table_idx: 55
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1602640985'
+  value: true
+- field_id: HLTWHS002_CB_55_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 1 – Hazard Identification Form
+  table_idx: 55
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-67269061'
+  value: true
+- field_id: HLTWHS002_CB_55_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 1 – Risk Register
+  table_idx: 55
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-678507129'
+  value: true
+- field_id: HLTWHS002_CB_55_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Meeting Minutes
+  table_idx: 55
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '771595006'
+  value: true
+- field_id: HLTWHS002_CB_55_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Hazard Identification Form completed from Task 1
+  table_idx: 55
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1338509237'
+  value: true
+- field_id: HLTWHS002_CB_55_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Risk Register Form completed from Task 1
+  table_idx: 55
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '27378971'
+  value: true
+- field_id: HLTWHS002_CB_55_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Meeting Minutes for safety meeting 1
+  table_idx: 55
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-154229290'
+  value: true
+- field_id: HLTWHS002_CB_55_16_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Meeting Minutes for safety meeting 2
+  table_idx: 55
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1728417318'
+  value: true
+- field_id: HLTWHS002_CB_55_17_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Meeting Minutes for consultative activity 1
+  table_idx: 55
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '99384927'
+  value: true
+- field_id: HLTWHS002_CB_55_18_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Meeting Minutes for consultative activity 2
+  table_idx: 55
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1683927189'
+  value: true
+- field_id: HLTWHS002_CB_55_19_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 5 – Workplace Inspection Checklist 1
+  table_idx: 55
+  row_idx: 19
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1410304340'
+  value: true
+- field_id: HLTWHS002_CB_55_20_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 5 – Workplace Inspection Checklist 2
+  table_idx: 55
+  row_idx: 20
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-183669656'
+  value: true
+- field_id: HLTWHS002_CB_55_21_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 6 – Additional Infection Control Record
+  table_idx: 55
+  row_idx: 21
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '192427347'
+  value: true
+- field_id: HLTWHS002_CB_55_22_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 7 – Reflective Journal
+  table_idx: 55
+  row_idx: 22
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '525997482'
+  value: true
+- field_id: HLTWHS002_CB_55_23_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 8 – Meeting Minutes
+  table_idx: 55
+  row_idx: 23
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1842819126'
+  value: true
+- field_id: HLTWHS002_CB_55_24_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Workplace Assessment Task 8 – Reflective Journal completed from Task 7
+  table_idx: 55
+  row_idx: 24
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-981072373'
+  value: true
+- field_id: HLTWHS002_CB_57_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: The candidate has completed all the Knowledge Assessments Questions.
+  table_idx: 57
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-579901534'
+  value: false
+- field_id: HLTWHS002_CB_57_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: 'The candidate has completed the Practical Assessments in this workbook:'
+  table_idx: 57
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '114489879'
+  value: false
+- field_id: HLTWHS002_CB_57_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Case Study Task 1
+  table_idx: 57
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1805459780'
+  value: false
+- field_id: HLTWHS002_CB_57_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Case Study Task 2
+  table_idx: 57
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1076556080'
+  value: false
+- field_id: HLTWHS002_CB_57_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 1
+  table_idx: 57
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1045331261'
+  value: false
+- field_id: HLTWHS002_CB_57_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 2
+  table_idx: 57
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-545991958'
+  value: false
+- field_id: HLTWHS002_CB_57_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 3
+  table_idx: 57
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-919098473'
+  value: false
+- field_id: HLTWHS002_CB_57_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 4
+  table_idx: 57
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '463924111'
+  value: false
+- field_id: HLTWHS002_CB_57_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 5
+  table_idx: 57
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1222483611'
+  value: false
+- field_id: HLTWHS002_CB_57_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 1
+  table_idx: 57
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '73488215'
+  value: false
+- field_id: HLTWHS002_CB_57_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2
+  table_idx: 57
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-83077187'
+  value: false
+- field_id: HLTWHS002_CB_57_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 3
+  table_idx: 57
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '869105214'
+  value: false
+- field_id: HLTWHS002_CB_57_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4
+  table_idx: 57
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1763412735'
+  value: false
+- field_id: HLTWHS002_CB_57_15_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 5
+  table_idx: 57
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1423024562'
+  value: false
+- field_id: HLTWHS002_CB_57_16_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 6
+  table_idx: 57
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '602539182'
+  value: false
+- field_id: HLTWHS002_CB_57_17_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 7
+  table_idx: 57
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-991251197'
+  value: false
+- field_id: HLTWHS002_CB_57_18_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 8
+  table_idx: 57
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1976824240'
+  value: false
+- field_id: HLTWHS002_CB_57_19_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 57
+  row_idx: 19
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1280181623'
+  value: false
+- field_id: HLTWHS002_CB_57_20_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: This completed workbook
+  table_idx: 57
+  row_idx: 20
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1573380914'
+  value: false
+- field_id: HLTWHS002_CB_57_21_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 57
+  row_idx: 21
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1709139062'
+  value: false
+- field_id: HLTWHS002_CB_57_22_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Case Study Task 1 - Accident Report
+  table_idx: 57
+  row_idx: 22
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1466227487'
+  value: false
+- field_id: HLTWHS002_CB_57_23_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Case Study Task 2 - Accident Report
+  table_idx: 57
+  row_idx: 23
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1326399878'
+  value: false
+- field_id: HLTWHS002_CB_57_24_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 1 – Copy of organisation’s procedures for hazard identification
+  table_idx: 57
+  row_idx: 24
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '250628618'
+  value: false
+- field_id: HLTWHS002_CB_57_25_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 2 – Copy of organisation’s procedures for fire emergency situations
+  table_idx: 57
+  row_idx: 25
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1237703383'
+  value: false
+- field_id: HLTWHS002_CB_57_26_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 3 – Copy of organisation’s procedures for medical emergency situations
+  table_idx: 57
+  row_idx: 26
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-604108696'
+  value: false
+- field_id: HLTWHS002_CB_57_27_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 4 – Copy of organisation’s policies and procedures for work health and saf
+  table_idx: 57
+  row_idx: 27
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1129701512'
+  value: false
+- field_id: HLTWHS002_CB_57_28_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Practical Assignment Task 5 – Workplace documents that detail job tasks and responsibilities
+  table_idx: 57
+  row_idx: 28
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1638178110'
+  value: false
+- field_id: HLTWHS002_CB_57_29_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 1 – Hazard Identification Form
+  table_idx: 57
+  row_idx: 29
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '75336226'
+  value: false
+- field_id: HLTWHS002_CB_57_30_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 1 – Risk Register
+  table_idx: 57
+  row_idx: 30
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1949682292'
+  value: false
+- field_id: HLTWHS002_CB_57_31_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Meeting Minutes
+  table_idx: 57
+  row_idx: 31
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2061830703'
+  value: false
+- field_id: HLTWHS002_CB_57_32_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Hazard Identification Form completed from Task 1
+  table_idx: 57
+  row_idx: 32
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-210264942'
+  value: false
+- field_id: HLTWHS002_CB_57_33_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 2 – Risk Register Form completed from Task 1
+  table_idx: 57
+  row_idx: 33
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-547920419'
+  value: false
+- field_id: HLTWHS002_CB_57_34_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Meeting Minutes for safety meeting 1
+  table_idx: 57
+  row_idx: 34
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1815450001'
+  value: false
+- field_id: HLTWHS002_CB_57_35_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Meeting Minutes for safety meeting 2
+  table_idx: 57
+  row_idx: 35
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-679815427'
+  value: false
+- field_id: HLTWHS002_CB_57_36_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Meeting Minutes for consultative activity 1
+  table_idx: 57
+  row_idx: 36
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '413747258'
+  value: false
+- field_id: HLTWHS002_CB_57_37_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 4 – Meeting Minutes for consultative activity 2
+  table_idx: 57
+  row_idx: 37
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '788556741'
+  value: false
+- field_id: HLTWHS002_CB_57_38_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 5 – Workplace Inspection Checklist 1
+  table_idx: 57
+  row_idx: 38
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-664853672'
+  value: false
+- field_id: HLTWHS002_CB_57_39_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 5 – Workplace Inspection Checklist 2
+  table_idx: 57
+  row_idx: 39
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1105309415'
+  value: false
+- field_id: HLTWHS002_CB_57_40_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 6 – Additional Infection Control Record
+  table_idx: 57
+  row_idx: 40
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1543181374'
+  value: false
+- field_id: HLTWHS002_CB_57_41_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 7 – Reflective Journal
+  table_idx: 57
+  row_idx: 41
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-900980536'
+  value: false
+- field_id: HLTWHS002_CB_57_42_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 8 – Meeting Minutes
+  table_idx: 57
+  row_idx: 42
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-560562289'
+  value: false
+- field_id: HLTWHS002_CB_57_43_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Workplace Assessment Task 8 – Reflective Journal completed from Task 7
+  table_idx: 57
+  row_idx: 43
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1370334056'
+  value: false
+- field_id: HLTWHS002_TXT_59_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_59
+  prompt: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 59
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 730A0435
+  value: Alex Chen
+- field_id: HLTWHS002_TXT_59_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_59
+  prompt: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 59
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F1CA79
+  value: Care Connect College
+- field_id: HLTWHS002_TXT_59_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_59
+  prompt: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 59
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A6CEC60
+  value: 1300 123 456
+- field_id: HLTWHS002_TXT_59_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_59
+  prompt: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 59
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6127D83D
+  value: info@careconnect.edu.au
+- field_id: HLTWHS002_TXT_59_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_59
+  prompt: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 59
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 165860A4
+  value: ''
+- field_id: HLTWHS002_CB_60_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 60
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1628122573'
+  value: false
+- field_id: HLTWHS002_CB_60_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 60
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '41869887'
+  value: false
+- field_id: HLTWHS002_CB_60_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 60
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1085990598'
+  value: false
+- field_id: HLTWHS002_CB_60_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 60
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1484276261'
+  value: false
+- field_id: HLTWHS002_CB_60_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 60
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631007055'
+  value: false
+- field_id: HLTWHS002_CB_60_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 60
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '132760661'
+  value: false
+- field_id: HLTWHS002_CB_60_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 60
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1814549610'
+  value: false
+- field_id: HLTWHS002_CB_60_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 60
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1261265825'
+  value: false
+- field_id: HLTWHS002_CB_60_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 1
+  table_idx: 60
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '725570037'
+  value: false
+- field_id: HLTWHS002_CB_60_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 2
+  table_idx: 60
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1166288856'
+  value: false
+- field_id: HLTWHS002_CB_60_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 1
+  table_idx: 60
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1905602362'
+  value: false
+- field_id: HLTWHS002_CB_60_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 2
+  table_idx: 60
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1338463252'
+  value: false
+- field_id: HLTWHS002_CB_60_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 1
+  table_idx: 60
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-571197868'
+  value: false
+- field_id: HLTWHS002_CB_60_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 2
+  table_idx: 60
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2053534496'
+  value: false
+- field_id: HLTWHS002_CB_60_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 1
+  table_idx: 60
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1109739436'
+  value: false
+- field_id: HLTWHS002_CB_60_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 2
+  table_idx: 60
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1060623526'
+  value: false
+- field_id: HLTWHS002_CB_60_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 1
+  table_idx: 60
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2063053205'
+  value: false
+- field_id: HLTWHS002_CB_60_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 2
+  table_idx: 60
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-193230918'
+  value: false
+- field_id: HLTWHS002_CB_60_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 1
+  table_idx: 60
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1282453428'
+  value: false
+- field_id: HLTWHS002_CB_60_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 2
+  table_idx: 60
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-238329000'
+  value: false
+- field_id: HLTWHS002_CB_60_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 1
+  table_idx: 60
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-658998925'
+  value: false
+- field_id: HLTWHS002_CB_60_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 11 Col 2
+  table_idx: 60
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2028856782'
+  value: false
+- field_id: HLTWHS002_CB_60_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 1
+  table_idx: 60
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1004784948'
+  value: false
+- field_id: HLTWHS002_CB_60_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 12 Col 2
+  table_idx: 60
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1129693731'
+  value: false
+- field_id: HLTWHS002_CB_60_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 13 Col 1
+  table_idx: 60
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1568335918'
+  value: false
+- field_id: HLTWHS002_CB_60_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 13 Col 2
+  table_idx: 60
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '332260191'
+  value: false
+- field_id: HLTWHS002_CB_60_14_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 14 Col 1
+  table_idx: 60
+  row_idx: 14
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '800428877'
+  value: false
+- field_id: HLTWHS002_CB_60_14_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 14 Col 2
+  table_idx: 60
+  row_idx: 14
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1657339256'
+  value: false
+- field_id: HLTWHS002_CB_60_15_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 15 Col 1
+  table_idx: 60
+  row_idx: 15
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1584253087'
+  value: false
+- field_id: HLTWHS002_CB_60_15_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 15 Col 2
+  table_idx: 60
+  row_idx: 15
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-401756159'
+  value: false
+- field_id: HLTWHS002_CB_60_16_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 16 Col 1
+  table_idx: 60
+  row_idx: 16
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '554586968'
+  value: false
+- field_id: HLTWHS002_CB_60_16_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 16 Col 2
+  table_idx: 60
+  row_idx: 16
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1544050846'
+  value: false
+- field_id: HLTWHS002_CB_60_17_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 17 Col 1
+  table_idx: 60
+  row_idx: 17
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1086760985'
+  value: false
+- field_id: HLTWHS002_CB_60_17_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 17 Col 2
+  table_idx: 60
+  row_idx: 17
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1786419510'
+  value: false
+- field_id: HLTWHS002_CB_60_18_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 18 Col 1
+  table_idx: 60
+  row_idx: 18
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1464259402'
+  value: false
+- field_id: HLTWHS002_CB_60_18_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 18 Col 2
+  table_idx: 60
+  row_idx: 18
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1609726398'
+  value: false
+- field_id: HLTWHS002_CB_60_19_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 19 Col 1
+  table_idx: 60
+  row_idx: 19
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-302769423'
+  value: false
+- field_id: HLTWHS002_CB_60_19_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 19 Col 2
+  table_idx: 60
+  row_idx: 19
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-778332626'
+  value: false
+- field_id: HLTWHS002_CB_60_20_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 20 Col 1
+  table_idx: 60
+  row_idx: 20
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1006665023'
+  value: false
+- field_id: HLTWHS002_CB_60_20_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 20 Col 2
+  table_idx: 60
+  row_idx: 20
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2096387182'
+  value: false
+- field_id: HLTWHS002_CB_60_21_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 21 Col 1
+  table_idx: 60
+  row_idx: 21
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1859878190'
+  value: false
+- field_id: HLTWHS002_CB_60_21_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 21 Col 2
+  table_idx: 60
+  row_idx: 21
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '329722125'
+  value: false
+- field_id: HLTWHS002_CB_60_22_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 22 Col 1
+  table_idx: 60
+  row_idx: 22
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '450752595'
+  value: false
+- field_id: HLTWHS002_CB_60_22_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 22 Col 2
+  table_idx: 60
+  row_idx: 22
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '82570888'
+  value: false
+- field_id: HLTWHS002_CB_61_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 1
+  table_idx: 61
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-63487235'
+  value: false
+- field_id: HLTWHS002_CB_61_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 2
+  table_idx: 61
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '757873382'
+  value: false
+- field_id: HLTWHS002_CB_61_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 1
+  table_idx: 61
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '649727270'
+  value: false
+- field_id: HLTWHS002_CB_61_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 2
+  table_idx: 61
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1249806015'
+  value: false
+- field_id: HLTWHS002_CB_61_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 1
+  table_idx: 61
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1492255000'
+  value: false
+- field_id: HLTWHS002_CB_61_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 2
+  table_idx: 61
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2002734090'
+  value: false
+- field_id: HLTWHS002_CB_61_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 6 Col 1
+  table_idx: 61
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '811218801'
+  value: false
+- field_id: HLTWHS002_CB_61_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 6 Col 2
+  table_idx: 61
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1295648577'
+  value: false
+- field_id: HLTWHS002_CB_61_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 7 Col 1
+  table_idx: 61
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1256327577'
+  value: false
+- field_id: HLTWHS002_CB_61_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 7 Col 2
+  table_idx: 61
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1931264492'
+  value: false
+- field_id: HLTWHS002_CB_61_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 8 Col 1
+  table_idx: 61
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-396357316'
+  value: false
+- field_id: HLTWHS002_CB_61_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 8 Col 2
+  table_idx: 61
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2098779444'
+  value: false
+- field_id: HLTWHS002_CB_61_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 9 Col 1
+  table_idx: 61
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '189577891'
+  value: false
+- field_id: HLTWHS002_CB_61_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 9 Col 2
+  table_idx: 61
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1977176358'
+  value: false
+- field_id: HLTWHS002_CB_62_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 1 Col 1
+  table_idx: 62
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1509178480'
+  value: false
+- field_id: HLTWHS002_CB_62_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 1 Col 2
+  table_idx: 62
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-708488601'
+  value: false
+- field_id: HLTWHS002_CB_62_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 1
+  table_idx: 62
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1187332751'
+  value: false
+- field_id: HLTWHS002_CB_62_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 2
+  table_idx: 62
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1393777587'
+  value: false
+- field_id: HLTWHS002_CB_62_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 1
+  table_idx: 62
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2087337932'
+  value: false
+- field_id: HLTWHS002_CB_62_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 2
+  table_idx: 62
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '227340616'
+  value: false
+- field_id: HLTWHS002_CB_62_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 1
+  table_idx: 62
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-651522542'
+  value: false
+- field_id: HLTWHS002_CB_62_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 2
+  table_idx: 62
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1247386968'
+  value: false
+- field_id: HLTWHS002_CB_62_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 1
+  table_idx: 62
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1531562784'
+  value: false
+- field_id: HLTWHS002_CB_62_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 5 Col 2
+  table_idx: 62
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1969237934'
+  value: false
+- field_id: HLTWHS002_CB_62_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 6 Col 1
+  table_idx: 62
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '889692355'
+  value: false
+- field_id: HLTWHS002_CB_62_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 6 Col 2
+  table_idx: 62
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1135398863'
+  value: false
+- field_id: HLTWHS002_CB_62_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 7 Col 1
+  table_idx: 62
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '656962137'
+  value: false
+- field_id: HLTWHS002_CB_62_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 7 Col 2
+  table_idx: 62
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '416908179'
+  value: false
+- field_id: HLTWHS002_CB_62_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 8 Col 1
+  table_idx: 62
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-273945379'
+  value: false
+- field_id: HLTWHS002_CB_62_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 8 Col 2
+  table_idx: 62
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1150862881'
+  value: false
+- field_id: HLTWHS002_CB_63_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_63
+  label: Row 1 Col 1
+  table_idx: 63
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: HLTWHS002_CB_63_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_63
+  label: Row 1 Col 2
+  table_idx: 63
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: HLTWHS002_CB_63_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_63
+  label: Row 2 Col 1
+  table_idx: 63
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: HLTWHS002_CB_63_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_63
+  label: Row 2 Col 2
+  table_idx: 63
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: HLTWHS002_CB_63_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_63
+  label: Row 3 Col 1
+  table_idx: 63
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: HLTWHS002_CB_63_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_63
+  label: Row 3 Col 2
+  table_idx: 63
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: HLTWHS002_CB_63_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_63
+  label: Row 4 Col 1
+  table_idx: 63
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: HLTWHS002_CB_63_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_63
+  label: Row 4 Col 2
+  table_idx: 63
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: HLTWHS002_CB_64_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_64
+  label: Row 2 Col 1
+  table_idx: 64
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: HLTWHS002_CB_64_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_64
+  label: Row 3 Col 1
+  table_idx: 64
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: HLTWHS002_CB_64_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_64
+  label: Row 4 Col 1
+  table_idx: 64
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: HLTWHS002_TXT_66_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Name of Third-party Contacted
+  table_idx: 66
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A969C06
+  value: ''
+- field_id: HLTWHS002_TXT_66_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 66
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EEC833F
+  value: ''
+- field_id: HLTWHS002_TXT_66_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 66
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '29882929'
+  value: ''
+- field_id: HLTWHS002_TXT_66_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Date contacted
+  table_idx: 66
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CD14B2C
+  value: ''
+- field_id: HLTWHS002_CB_66_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Yes       No   Assessor’s Notes
+  table_idx: 66
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: HLTWHS002_CB_66_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Yes       No   Assessor’s Notes
+  table_idx: 66
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: HLTWHS002_TXT_66_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 66
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3273E566
+  value: ''
+- field_id: HLTWHS002_TXT_66_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Name of Third-party Contacted
+  table_idx: 66
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27B75E8F
+  value: ''
+- field_id: HLTWHS002_TXT_66_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 66
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40B34E2B
+  value: ''
+- field_id: HLTWHS002_TXT_66_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 66
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77A6665E
+  value: ''
+- field_id: HLTWHS002_TXT_66_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Date contacted
+  table_idx: 66
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1DAFA096
+  value: ''
+- field_id: HLTWHS002_CB_66_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Yes       No   Assessor’s Notes
+  table_idx: 66
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: HLTWHS002_CB_66_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Yes       No   Assessor’s Notes
+  table_idx: 66
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: HLTWHS002_TXT_66_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 66
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 39CAA6A2
+  value: ''
+- field_id: HLTWHS002_TXT_66_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Name of Third-party Contacted
+  table_idx: 66
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D25FAFA
+  value: ''
+- field_id: HLTWHS002_TXT_66_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 66
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451A30E5
+  value: ''
+- field_id: HLTWHS002_TXT_66_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 66
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E4BE0E3
+  value: ''
+- field_id: HLTWHS002_TXT_66_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Date contacted
+  table_idx: 66
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 08D6E752
+  value: ''
+- field_id: HLTWHS002_CB_66_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Yes       No   Assessor’s Notes
+  table_idx: 66
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: HLTWHS002_CB_66_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Yes       No   Assessor’s Notes
+  table_idx: 66
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: HLTWHS002_TXT_66_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 66
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18D2A67F
+  value: ''
+- field_id: HLTWHS002_TXT_66_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Name of Third-party Contacted
+  table_idx: 66
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AB2776E
+  value: ''
+- field_id: HLTWHS002_TXT_66_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 66
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B9C71C7
+  value: ''
+- field_id: HLTWHS002_TXT_66_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 66
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 23166DAF
+  value: ''
+- field_id: HLTWHS002_TXT_66_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: Date contacted
+  table_idx: 66
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19F6D647
+  value: ''
+- field_id: HLTWHS002_CB_66_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Yes       No   Assessor’s Notes
+  table_idx: 66
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: HLTWHS002_CB_66_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Yes       No   Assessor’s Notes
+  table_idx: 66
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: HLTWHS002_TXT_66_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_66
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 66
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3BC5CFB0
+  value: ''
+- field_id: HLTWHS002_CB_67_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_67
+  label: Row 1 Col 1
+  table_idx: 67
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: HLTWHS002_CB_67_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_67
+  label: Row 1 Col 2
+  table_idx: 67
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: HLTWHS002_CB_68_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_68
+  label: Row 1 Col 1
+  table_idx: 68
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: HLTWHS002_CB_68_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_68
+  label: Row 1 Col 2
+  table_idx: 68
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: HLTWHS002_TXT_69_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Assessor’s comments/feedback
+  table_idx: 69
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E889375
+  value: ''
+- field_id: HLTWHS002_TXT_70_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_70
+  prompt: Assessor’s name
+  table_idx: 70
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D877E66
+  value: ''
+- field_id: HLTWHS002_TXT_70_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_70
+  prompt: Assessor’s signature
+  table_idx: 70
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
+- field_id: HLTWHS002_TXT_70_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_70
+  prompt: Date signed
+  table_idx: 70
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56908E91
+  value: ''
+- field_id: HLTWHS002_TXT_70_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_70
+  prompt: Assessor’s signature
+  table_idx: 70
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''

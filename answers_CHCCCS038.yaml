@@ -1,0 +1,6463 @@
+unit: CHCCCS038
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@email.com.au
+  date: 15/09/2026
+  state: New South Wales
+  workplace: Care Connect Services
+  rto: Care Connect College
+  rto_phone: 1300 123 456
+  rto_email: info@careconnectcollege.edu.au
+fields:
+- field_id: CHCCCS038_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: First and Last Name - CHCCCS038
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36DD8154
+  value: Alex Chen
+- field_id: CHCCCS038_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Phone - CHCCCS038
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 03F782DD
+  value: 0412 345 678
+- field_id: CHCCCS038_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Email - CHCCCS038
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 24752FAC
+  value: alex.chen@email.com.au
+- field_id: CHCCCS038_TXT_2_1_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Name:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 602B0F0F
+  value: Alex Chen
+- field_id: CHCCCS038_TXT_2_1_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Signature:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6EED9427
+  value: Alex Chen
+- field_id: CHCCCS038_TXT_2_1_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Date signed:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F091D23
+  value: 15/09/2026
+- field_id: CHCCCS038_TXT_3_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 1986 - Listed below are years relevant to the social framework that shows
+    the history and recent dev
+  table_idx: 3
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 01336A37
+  value: 'Disability Services Act 1986: Shifted funding from institutional segregation
+    toward community-based integration and individual rights.'
+- field_id: CHCCCS038_TXT_3_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 1993 - Listed below are years relevant to the social framework that shows
+    the history and recent dev
+  table_idx: 3
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 40543E0A
+  value: 'Disability Discrimination Act 1992: Made discrimination unlawful in employment,
+    education, transport, and public accommodation across Australia.'
+- field_id: CHCCCS038_TXT_3_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 1998 - Listed below are years relevant to the social framework that shows
+    the history and recent dev
+  table_idx: 3
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7686C245
+  value: 'Aged Care Act 1997: Established national framework, user rights, funding
+    principles, and quality standards for residential and home aged care.'
+- field_id: CHCCCS038_TXT_3_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 2005 - Listed below are years relevant to the social framework that shows
+    the history and recent dev
+  table_idx: 3
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4664AF01
+  value: 'National Disability Strategy 2010-2020: Ten-year national policy framework
+    driving systemic inclusion and barrier removal across government sectors.'
+- field_id: CHCCCS038_TXT_3_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 2009 - Listed below are years relevant to the social framework that shows
+    the history and recent dev
+  table_idx: 3
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77B1E57A
+  value: 'National Disability Insurance Scheme Act 2013: Created the NDIS, shifting
+    funding control directly into participants'' hands via individualised budgets.'
+- field_id: CHCCCS038_TXT_3_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 2013 - Listed below are years relevant to the social framework that shows
+    the history and recent dev
+  table_idx: 3
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4815C7E7
+  value: 'Royal Commission into Aged Care Quality and Safety (2018-2021): Highlighted
+    rights-based care, leading to comprehensive sector-wide quality reforms.'
+- field_id: CHCCCS038_TXT_4_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Enablement versus Reablement
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6665D64E
+  value: Enablement is a collaborative approach that assists individuals to do things
+    for themselves to maintain autonomy, while reablement focuses on intensive, time-limited
+    interventions to regain lost physical and social skills following an acute illness
+    or injury.
+- field_id: CHCCCS038_TXT_4_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_4
+  label: Institutionalised versus person-centred, self-directed model of support
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5971F53B
+  value: An institutional model enforces uniform schedules, medical routines, and
+    provider dominance, treating individuals as passive care recipients.
+- field_id: CHCCCS038_TXT_5_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Attitudinal barriers - Listed below are different types of individual, emotional
+    and environmental b
+  table_idx: 5
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0303C732
+  value: 'Individual barrier: Low self-confidence or internalized defeatism resulting
+    from prolonged dependency on care providers.'
+- field_id: CHCCCS038_TXT_5_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Attitudinal barriers - Listed below are different types of individual, emotional
+    and environmental b
+  table_idx: 5
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 42FD6FC1
+  value: 'Strategy: Utilize positive reinforcement and incremental skill-building
+    to celebrate small achievements and foster self-efficacy.'
+- field_id: CHCCCS038_TXT_5_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Communication barriers - Listed below are different types of individual,
+    emotional and environmental
+  table_idx: 5
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0D4F4B5D
+  value: 'Emotional barrier: Fear of failure, anxiety, or vulnerability when attempting
+    new tasks independently.'
+- field_id: CHCCCS038_TXT_5_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Communication barriers - Listed below are different types of individual,
+    emotional and environmental
+  table_idx: 5
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 360AEA34
+  value: 'Strategy: Provide empathetic active listening, reassurance, and a supportive
+    safety net without judgment.'
+- field_id: CHCCCS038_TXT_5_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Physical barriers - Listed below are different types of individual, emotional
+    and environmental barr
+  table_idx: 5
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 34525D4A
+  value: 'Physical environmental barrier: Lack of wheelchair ramps, narrow doorways,
+    or inaccessible bathroom facilities.'
+- field_id: CHCCCS038_TXT_5_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Physical barriers - Listed below are different types of individual, emotional
+    and environmental barr
+  table_idx: 5
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 56D19FDF
+  value: 'Strategy: Advocate for home modifications, install grab rails, and remove
+    environmental obstacles.'
+- field_id: CHCCCS038_TXT_5_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Social barriers - Listed below are different types of individual, emotional
+    and environmental barrie
+  table_idx: 5
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 60241F6E
+  value: 'Social environmental barrier: Negative public stereotypes, ageism, or patronizing
+    societal attitudes.'
+- field_id: CHCCCS038_TXT_5_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Social barriers - Listed below are different types of individual, emotional
+    and environmental barrie
+  table_idx: 5
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 175A8607
+  value: 'Strategy: Educate community members, promote positive representation, and
+    facilitate inclusive community participation.'
+- field_id: CHCCCS038_TXT_5_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Cognitive barriers - Listed below are different types of individual, emotional
+    and environmental bar
+  table_idx: 5
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 20DC5414
+  value: 'Communication barrier: Complex jargon, fine print documents, or lack of
+    assistive communication aids.'
+- field_id: CHCCCS038_TXT_5_7_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Cognitive barriers - Listed below are different types of individual, emotional
+    and environmental bar
+  table_idx: 5
+  row_idx: 7
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3F924281
+  value: 'Strategy: Provide materials in Easy Read formats, visual communication charts,
+    and utilize accredited interpreters.'
+- field_id: CHCCCS038_TXT_6_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is structural power?
+  table_idx: 6
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 51DC45F8
+  value: Structural power refers to the formal institutional hierarchies, legal frameworks,
+    and organizational rules that dictate how resources, privileges, and authority
+    are distributed across a system.
+- field_id: CHCCCS038_TXT_6_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is systemic power?
+  table_idx: 6
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 32A73A4F
+  value: Systemic power is the pervasive, entrenched set of cultural norms, policies,
+    and societal practices that systematically advantage certain dominant social groups
+    while marginalizing others.
+- field_id: CHCCCS038_TXT_6_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What are the four factors that affect a society or organisation's structural
+    and systemic power?
+  table_idx: 6
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 285C7FDD
+  value: 1. Legislative and regulatory policies established by government.
+- field_id: CHCCCS038_TXT_6_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What are the four factors that affect a society or organisation's structural
+    and systemic power?
+  table_idx: 6
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7FA21846
+  value: 2. Economic resource allocation and funding distribution models.
+- field_id: CHCCCS038_TXT_6_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What are the four factors that affect a society or organisation's structural
+    and systemic power?
+  table_idx: 6
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 088A3137
+  value: 3. Institutional leadership structures and professional hierarchies.
+- field_id: CHCCCS038_TXT_6_4_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What are the four factors that affect a society or organisation's structural
+    and systemic power?
+  table_idx: 6
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 64479BF3
+  value: 4. Societal culture, historical traditions, and prevailing media narratives.
+- field_id: CHCCCS038_TXT_6_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify three areas affected by the structural and systemic power that can
+    lead to obstacles to the
+  table_idx: 6
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3F4094BB
+  value: 1. Service access and funding eligibility determinations.
+- field_id: CHCCCS038_TXT_6_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify three areas affected by the structural and systemic power that can
+    lead to obstacles to the
+  table_idx: 6
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2B968CEC
+  value: 2. Personal decision-making capacity and legal guardianship arrangements.
+- field_id: CHCCCS038_TXT_6_5_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify three areas affected by the structural and systemic power that can
+    lead to obstacles to the
+  table_idx: 6
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 1875014F
+  value: 3. Daily routine scheduling and freedom of movement within facilities.
+- field_id: CHCCCS038_TXT_7_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Social - Briefly describe how structural and systemic power can become obstacles
+    to empowerment in e
+  table_idx: 7
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5A1F03D7
+  value: 'Health and community services: Rigid provider schedules can override individual
+    preferences, dictating when clients wake, eat, and shower.'
+- field_id: CHCCCS038_TXT_7_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Physical - Briefly describe how structural and systemic power can become
+    obstacles to empowerment in
+  table_idx: 7
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5552F2D7
+  value: 'Education and employment: Systemic entry barriers and inflexible workplaces
+    exclude people with disability from career progression.'
+- field_id: CHCCCS038_TXT_7_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Emotional - Briefly describe how structural and systemic power can become
+    obstacles to empowerment i
+  table_idx: 7
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4A78971D
+  value: 'Housing and accommodation: Lack of accessible social housing forces individuals
+    into restrictive group homes or residential care.'
+- field_id: CHCCCS038_TXT_7_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Stigma - Briefly describe how structural and systemic power can become obstacles
+    to empowerment in e
+  table_idx: 7
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0A515393
+  value: 'Legal and justice systems: Complex legal language and lack of communication
+    supports deny marginalized individuals equal standing.'
+- field_id: CHCCCS038_TXT_7_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Ageism - Briefly describe how structural and systemic power can become obstacles
+    to empowerment in e
+  table_idx: 7
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7EF062E1
+  value: 'Financial services: Strict banking criteria and risk models restrict independent
+    management of personal finances.'
+- field_id: CHCCCS038_TXT_7_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Cultural - Briefly describe how structural and systemic power can become
+    obstacles to empowerment in
+  table_idx: 7
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7931B400
+  value: 'Public transport and infrastructure: Inaccessible buses, trains, and urban
+    footpaths severely restrict independent mobility.'
+- field_id: CHCCCS038_TXT_7_9_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Economic - Briefly describe how structural and systemic power can become
+    obstacles to empowerment in
+  table_idx: 7
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3B4CF8E3
+  value: 'Social and civic participation: Physical and attitudinal barriers exclude
+    individuals from voting, volunteering, and community governance.'
+- field_id: CHCCCS038_TXT_8_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe a social construct of ageing from the perspective of older people.
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1CEC756D
+  value: Older people often construct ageing as a natural life stage characterized
+    by wisdom, continued personal growth, resilience, and valuable life experience,
+    while seeking continued dignity and autonomy.
+- field_id: CHCCCS038_TXT_8_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe a social construct of ageing from the perspective of younger people.
+  table_idx: 8
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1329FE71
+  value: Younger people often view ageing through an ageist deficit lens, associating
+    it primarily with physical decay, cognitive decline, burden, and technological
+    irrelevance.
+- field_id: CHCCCS038_TXT_8_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe the social construct of disability based on the medical model.
+  table_idx: 8
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 00B750C6
+  value: The medical model views disability as an individual physical or psychological
+    pathology or defect that resides within the person and must be cured or medically
+    managed by experts.
+- field_id: CHCCCS038_TXT_8_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe disability based on the social model.
+  table_idx: 8
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7F64D4D7
+  value: The social model views disability as the result of physical, systemic, and
+    attitudinal barriers created by society, which disadvantage and exclude people
+    with impairments.
+- field_id: CHCCCS038_TXT_9_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: How do you feel about working with people with disabilities? Explain your
+    answer briefly.
+  table_idx: 9
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6CB3BA43
+  value: I feel passionate and deeply committed to working collaboratively with people
+    with disabilities, viewing them as equal rights-holders who possess distinct strengths,
+    goals, and rights to full self-determination.
+- field_id: CHCCCS038_TXT_9_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 'Complete the table by:
+
+    Identifying two examples of your personal attitudes towards people with disab'
+  table_idx: 9
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 757532CA
+  value: '1. Positive attitude: Believing every individual has inherent worth and
+    capacity for lifelong learning and growth.'
+- field_id: CHCCCS038_TXT_9_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 'Complete the table by:
+
+    Identifying two examples of your personal attitudes towards people with disab'
+  table_idx: 9
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2C2A5F08
+  value: 'Impact: Encourages proactive support that promotes independence, active
+    support, and dignity of risk.'
+- field_id: CHCCCS038_TXT_9_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 'Complete the table by:
+
+    Identifying two examples of your personal attitudes towards people with disab'
+  table_idx: 9
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 571DD5FA
+  value: '2. Unconscious paternalism: Feeling an instinct to protect or do things
+    for the person to save time or avoid struggle.'
+- field_id: CHCCCS038_TXT_9_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: 'Complete the table by:
+
+    Identifying two examples of your personal attitudes towards people with disab'
+  table_idx: 9
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 2EA6C30B
+  value: 'Impact: Risks disempowering the client; must be actively managed by stepping
+    back and providing graded guidance.'
+- field_id: CHCCCS038_TXT_10_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe a staff who is more experienced than a care worker.
+  table_idx: 10
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7B1C5D1B
+  value: An experienced staff member possesses extensive practical on-the-job history,
+    seasoned situational judgment, and deep practical problem-solving skills developed
+    over years of client support.
+- field_id: CHCCCS038_TXT_10_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe a staff who is a more qualified than a care worker.
+  table_idx: 10
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 293D72F1
+  value: A qualified staff member holds recognized formal tertiary or vocational credentials
+    (e.g. Registered Nurse, Occupational Therapist, Behaviour Support Practitioner)
+    granting clinical and legal authority.
+- field_id: CHCCCS038_TXT_10_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Outline the five steps that a care worker must do when they need support
+    from a more experienced or '
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4105CCD8
+  value: 1. Identify and clarify the specific issue, boundary limitation, or emerging
+    challenge encountered.
+- field_id: CHCCCS038_TXT_10_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Outline the five steps that a care worker must do when they need support
+    from a more experienced or '
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6B42DC1D
+  value: 2. Check relevant client care plans, organizational procedures, and emergency
+    guidelines.
+- field_id: CHCCCS038_TXT_10_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Outline the five steps that a care worker must do when they need support
+    from a more experienced or '
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 03A084B7
+  value: 3. Approach the qualified colleague in a timely, professional manner and
+    explain the situation clearly.
+- field_id: CHCCCS038_TXT_10_4_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Outline the five steps that a care worker must do when they need support
+    from a more experienced or '
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 6FFB97DA
+  value: 4. Receive clinical directives or mentoring instructions and apply them carefully
+    to support the client.
+- field_id: CHCCCS038_TXT_10_4_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Outline the five steps that a care worker must do when they need support
+    from a more experienced or '
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 3A7AC6D0
+  value: 5. Document the discussion, outcome, and actions taken in the client management
+    record.
+- field_id: CHCCCS038_TXT_10_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two situations where a care worker must seek support from a more
+    experienced or qualified s
+  table_idx: 10
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5479190F
+  value: 1. When a client exhibits acute physical deterioration, unmanaged pain, or
+    signs of a serious medical emergency.
+- field_id: CHCCCS038_TXT_10_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two situations where a care worker must seek support from a more
+    experienced or qualified s
+  table_idx: 10
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 11F2BA9B
+  value: 2. When encountering complex behaviours of concern or suspected abuse that
+    exceed the worker's training and scope of practice.
+- field_id: CHCCCS038_TXT_11_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Attention Deficit Hyperactivity Disorder (ADHD) - Identify two support practices
+    for each condition '
+  table_idx: 11
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 55564ACB
+  value: 'Sensory disability (Vision loss): Verbally describe surroundings, announce
+    entrances/exits, and ensure hallways are well-lit and clear of obstacles.'
+- field_id: CHCCCS038_TXT_11_3_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Attention Deficit Hyperactivity Disorder (ADHD) - Identify two support practices
+    for each condition '
+  table_idx: 11
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 6A802C14
+  value: 'Sensory disability (Hearing loss): Maintain clear face-to-face eye contact,
+    speak clearly without shouting, and utilize hearing loop systems or visual communication
+    aids.'
+- field_id: CHCCCS038_TXT_11_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Sickle Cell Disease - Identify two support practices for each condition provided
+    in the table below.
+  table_idx: 11
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5FBBEEB5
+  value: 'Intellectual disability: Break instructions down into simple, concrete steps,
+    use visual prompt cards, and allow ample time for responses.'
+- field_id: CHCCCS038_TXT_11_4_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Sickle Cell Disease - Identify two support practices for each condition provided
+    in the table below.
+  table_idx: 11
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 7E54744C
+  value: 'Intellectual disability: Implement active support techniques to engage the
+    person in everyday tasks using consistent routines and positive reinforcement.'
+- field_id: CHCCCS038_TXT_11_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Physical Trauma - Identify two support practices for each condition provided
+    in the table below.
+  table_idx: 11
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 79A087DB
+  value: 'Physical disability (Mobility impairment): Ensure ergonomic physical access,
+    position transfer equipment correctly, and support client to use adaptive cutlery/aids.'
+- field_id: CHCCCS038_TXT_11_5_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Physical Trauma - Identify two support practices for each condition provided
+    in the table below.
+  table_idx: 11
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 1E88CFBA
+  value: 'Physical disability (Cerebral palsy): Encourage comfortable positioning,
+    allow extra time for speech, and collaborate with speech/physiotherapy directives.'
+- field_id: CHCCCS038_TXT_11_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Psychological Trauma - Identify two support practices for each condition
+    provided in the table below
+  table_idx: 11
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1A2457CB
+  value: 'Acquired brain injury: Maintain a predictable, calm daily schedule, use
+    written checklist organizers, and avoid over-stimulating environments.'
+- field_id: CHCCCS038_TXT_11_6_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Psychological Trauma - Identify two support practices for each condition
+    provided in the table below
+  table_idx: 11
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 2472CA05
+  value: 'Acquired brain injury: Use gentle verbal cues for redirection and support
+    memory through digital calendar reminders.'
+- field_id: CHCCCS038_TXT_11_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Arthritis - Identify two support practices for each condition provided in
+    the table below.
+  table_idx: 11
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 433FCB47
+  value: 'Mental health condition (Depression): Provide empathetic, non-judgmental
+    active listening and support engagement in small, meaningful social activities.'
+- field_id: CHCCCS038_TXT_11_7_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Arthritis - Identify two support practices for each condition provided in
+    the table below.
+  table_idx: 11
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 54CBCC5F
+  value: 'Mental health condition (Anxiety): Implement grounding and relaxation strategies,
+    validate feelings, and maintain a quiet, predictable atmosphere.'
+- field_id: CHCCCS038_TXT_11_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Asthma - Identify two support practices for each condition provided in the
+    table below.
+  table_idx: 11
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3C866387
+  value: 'Dementia (Cognitive decline): Use reminiscence therapy, validate emotional
+    reality rather than arguing, and provide clear environmental signage.'
+- field_id: CHCCCS038_TXT_11_8_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Asthma - Identify two support practices for each condition provided in the
+    table below.
+  table_idx: 11
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 09DD1A5A
+  value: 'Dementia (Wandering risk): Facilitate purposeful movement within secure,
+    pleasant garden spaces and maintain familiar comforting objects.'
+- field_id: CHCCCS038_TXT_11_9_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Acquired Brain Injury - Identify two support practices for each condition
+    provided in the table belo
+  table_idx: 11
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 423D8FF8
+  value: 'Autism spectrum condition: Respect sensory sensitivities (lighting, noise),
+    provide clear advance notice of routine changes, and use structured visual timetables.'
+- field_id: CHCCCS038_TXT_11_9_2_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Acquired Brain Injury - Identify two support practices for each condition
+    provided in the table belo
+  table_idx: 11
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 1
+  para_id: 38F2FAD7
+  value: 'Autism spectrum condition: Support special interests and accommodate preferred
+    communication styles without forcing direct eye contact.'
+- field_id: CHCCCS038_TXT_12_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is empowerment?
+  table_idx: 12
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E5475B2
+  value: Empowerment is the process of enabling individuals to gain greater control,
+    choice, and influence over decisions, actions, and services that affect their
+    lives.
+- field_id: CHCCCS038_TXT_12_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Briefly describe the four principles of empowerment for people receiving
+    support.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0218D597
+  value: '1. Self-determination: Recognizing the individual as the rightful director
+    of their own choices and goals.'
+- field_id: CHCCCS038_TXT_12_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Briefly describe the four principles of empowerment for people receiving
+    support.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 71F44827
+  value: '2. Capacity building: Equipping the person with information, skills, and
+    tools to advocate for themselves.'
+- field_id: CHCCCS038_TXT_12_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Briefly describe the four principles of empowerment for people receiving
+    support.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 1E1AB21F
+  value: '3. Participation: Ensuring active inclusion in planning, community life,
+    and policy feedback.'
+- field_id: CHCCCS038_TXT_12_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Briefly describe the four principles of empowerment for people receiving
+    support.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 7E36CEDD
+  value: '4. Equality and dignity: Treating the person with respect, removing attitudinal
+    barriers, and upholding dignity of risk.'
+- field_id: CHCCCS038_TXT_12_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe the principle of rights-based approaches.
+  table_idx: 12
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '51046938'
+  value: A rights-based approach integrates international human rights principles
+    into everyday service delivery, viewing clients as entitlement holders rather
+    than objects of charity.
+- field_id: CHCCCS038_TXT_13_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the rights-based or human rights approach.
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '31302552'
+  value: '1. Participation: Everyone has the right to participate in decisions that
+    affect their lives.'
+- field_id: CHCCCS038_TXT_13_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the rights-based or human rights approach.
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 734406F9
+  value: '2. Accountability: Providers and governments must be answerable for the
+    realization of rights.'
+- field_id: CHCCCS038_TXT_13_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the rights-based or human rights approach.
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 55B0F39D
+  value: '3. Non-discrimination: Equal treatment without distinction based on disability,
+    age, or background.'
+- field_id: CHCCCS038_TXT_13_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the rights-based or human rights approach.
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 7080C2AA
+  value: '4. Empowerment: People must be supported to claim their rights independently.'
+- field_id: CHCCCS038_TXT_13_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the rights-based or human rights approach.
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 3D227DE6
+  value: '5. Legality: Care practices must comply with statutory human rights frameworks.'
+- field_id: CHCCCS038_TXT_13_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three rights of disabled persons based on the Australian Human Rights
+    Commission Act 1986 D
+  table_idx: 13
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2DEF8554
+  value: 1. Right to equality before the law and non-discrimination.
+- field_id: CHCCCS038_TXT_13_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three rights of disabled persons based on the Australian Human Rights
+    Commission Act 1986 D
+  table_idx: 13
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0B02A3C7
+  value: 2. Right to personal liberty, security, and freedom from torture or degrading
+    treatment.
+- field_id: CHCCCS038_TXT_13_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three rights of disabled persons based on the Australian Human Rights
+    Commission Act 1986 D
+  table_idx: 13
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: '35146011'
+  value: 3. Right to live independently and be included in the community.
+- field_id: CHCCCS038_TXT_13_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify two rights of the child based on the Australian Human Rights Commission
+    Act 1986 Declaratio
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 452EE36B
+  value: 1. Right to protection from all forms of physical or mental violence, injury,
+    or neglect.
+- field_id: CHCCCS038_TXT_13_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify two rights of the child based on the Australian Human Rights Commission
+    Act 1986 Declaratio
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2988DD7A
+  value: 2. Right to participate and have their views given due weight in all matters
+    affecting them.
+- field_id: CHCCCS038_TXT_13_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify five rights of older persons based on the Charter of Aged Care Rights.
+  table_idx: 13
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 22CB6D40
+  value: 1. Safe and high-quality care and services.
+- field_id: CHCCCS038_TXT_13_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify five rights of older persons based on the Charter of Aged Care Rights.
+  table_idx: 13
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 712AF721
+  value: 2. Be treated with dignity and respect.
+- field_id: CHCCCS038_TXT_13_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify five rights of older persons based on the Charter of Aged Care Rights.
+  table_idx: 13
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 1857A6C0
+  value: 3. Have my identity, culture and diversity valued and supported.
+- field_id: CHCCCS038_TXT_13_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify five rights of older persons based on the Charter of Aged Care Rights.
+  table_idx: 13
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 33016ECD
+  value: 4. Live without abuse and neglect.
+- field_id: CHCCCS038_TXT_13_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify five rights of older persons based on the Charter of Aged Care Rights.
+  table_idx: 13
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 0D5D83A3
+  value: 5. Exercise choice and make decisions about my care, including personal relationships
+    and financial affairs.
+- field_id: CHCCCS038_TXT_14_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Briefly explain person-centred practices.
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 056EBFA7
+  value: Person-centred practice is an approach where the individual leads the planning
+    and delivery of their own support, ensuring their goals, preferences, and rights
+    direct every aspect of care.
+- field_id: CHCCCS038_TXT_14_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the person-centred approach.
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 15AB880D
+  value: 1. Knowing the person deeply (biography, values, relationships).
+- field_id: CHCCCS038_TXT_14_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the person-centred approach.
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 708F2A72
+  value: 2. Fostering genuine partnership and collaboration.
+- field_id: CHCCCS038_TXT_14_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the person-centred approach.
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 3F5C3B72
+  value: 3. Respecting autonomy and dignity of risk.
+- field_id: CHCCCS038_TXT_14_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the person-centred approach.
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 50614AC5
+  value: 4. Recognizing and utilizing existing strengths and capabilities.
+- field_id: CHCCCS038_TXT_14_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the five principles of the person-centred approach.
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 268B1A34
+  value: 5. Continuous communication, responsiveness, and flexibility.
+- field_id: CHCCCS038_TXT_14_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: What are the two important considerations that need to be upheld when delivering
+    person-centred serv
+  table_idx: 14
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 174975F9
+  value: 1. Ensuring that the individual's informed consent is sought and respected.
+- field_id: CHCCCS038_TXT_14_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: What are the two important considerations that need to be upheld when delivering
+    person-centred serv
+  table_idx: 14
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 14BFE5EE
+  value: 2. Maintaining confidentiality and upholding privacy rights throughout all
+    interactions.
+- field_id: CHCCCS038_TXT_14_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: What is self-advocacy?
+  table_idx: 14
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4C4A59E3
+  value: Self-advocacy is the ability of an individual to effectively speak up, negotiate,
+    and assert their own rights, choices, and interests without relying on an intermediary.
+- field_id: CHCCCS038_TXT_14_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List two activities that promote the self-advocacy of people receiving support.
+  table_idx: 14
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 027263CA
+  value: 1. Facilitating participation in independent self-advocacy peer groups and
+    workshops.
+- field_id: CHCCCS038_TXT_14_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List two activities that promote the self-advocacy of people receiving support.
+  table_idx: 14
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 075E4933
+  value: 2. Providing accessible information and coaching clients to express their
+    preferences at care planning meetings.
+- field_id: CHCCCS038_TXT_15_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  label: Briefly describe the four principles of active support.
+  table_idx: 15
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5AF98239
+  value: '1. Every moment has potential: Turning ordinary daily routines into opportunities
+    for learning and engagement.'
+- field_id: CHCCCS038_TXT_15_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  label: Briefly describe the four principles of active support.
+  table_idx: 15
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 417F6909
+  value: '2. Little and often: Breaking tasks down so the person participates frequently
+    across the day.'
+- field_id: CHCCCS038_TXT_15_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  label: Briefly describe the four principles of active support.
+  table_idx: 15
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 62B4F62C
+  value: '3. Graded assistance: Providing precisely the right level of prompting and
+    physical support.'
+- field_id: CHCCCS038_TXT_15_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  label: Briefly describe the four principles of active support.
+  table_idx: 15
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 1F35CD03
+  value: '4. Maximising choice and control: Offering ongoing, meaningful choices during
+    activities.'
+- field_id: CHCCCS038_TXT_15_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  label: Describe active listening by listing one example of how to demonstrate each
+    principle listed below.
+  table_idx: 15
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 249B7D1D
+  value: '1. Attentive non-verbal cues: Maintaining open body posture, nodding, and
+    gentle eye contact.'
+- field_id: CHCCCS038_TXT_15_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  label: Describe active listening by listing one example of how to demonstrate each
+    principle listed below.
+  table_idx: 15
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 50C6D496
+  value: '2. Paraphrasing and reflecting: Summarizing what the client expressed in
+    your own words to verify understanding.'
+- field_id: CHCCCS038_TXT_15_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_15
+  label: Describe active listening by listing one example of how to demonstrate each
+    principle listed below.
+  table_idx: 15
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: '17066895'
+  value: '3. Empathetic validation: Acknowledging and validating the person''s emotions
+    without judging or dismissing them.'
+- field_id: CHCCCS038_TXT_16_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: What is social justice?
+  table_idx: 16
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 75A48558
+  value: Social justice is the fair and equitable distribution of resources, opportunities,
+    rights, and privileges within a society.
+- field_id: CHCCCS038_TXT_16_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: Briefly describe what a person can obtain from each of the four principles
+    of social justice.
+  table_idx: 16
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2B57CF09
+  value: '1. Access: Fair and equal opportunity to access health services, education,
+    transport, and community infrastructure.'
+- field_id: CHCCCS038_TXT_16_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: Briefly describe what a person can obtain from each of the four principles
+    of social justice.
+  table_idx: 16
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 3D24EE63
+  value: '2. Equity: Additional resources and personalized support allocated to overcome
+    disadvantage.'
+- field_id: CHCCCS038_TXT_16_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: Briefly describe what a person can obtain from each of the four principles
+    of social justice.
+  table_idx: 16
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 4C34042A
+  value: '3. Participation: Meaningful involvement in decision-making and civic society.'
+- field_id: CHCCCS038_TXT_16_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  label: Briefly describe what a person can obtain from each of the four principles
+    of social justice.
+  table_idx: 16
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 71BFB467
+  value: '4. Rights: Full statutory protection against discrimination and guarantee
+    of human rights.'
+- field_id: CHCCCS038_TXT_17_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: List two importance of knowing each person as an individual in the context
+    of social justice.
+  table_idx: 17
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3A71624D
+  value: 1. Prevents generic stereotyping and ensures care plans address true individual
+    needs.
+- field_id: CHCCCS038_TXT_17_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: List two importance of knowing each person as an individual in the context
+    of social justice.
+  table_idx: 17
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0C318039
+  value: 2. Builds authentic trust and empowers the person to lead a fulfilling life
+    on their own terms.
+- field_id: CHCCCS038_TXT_17_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: List two significance of showing respect for a person’s individuality in
+    the context of social justi
+  table_idx: 17
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7A2969AB
+  value: 1. Affirms their inherent human dignity, self-worth, and cultural identity.
+- field_id: CHCCCS038_TXT_17_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: List two significance of showing respect for a person’s individuality in
+    the context of social justi
+  table_idx: 17
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5B80295B
+  value: 2. Enhances emotional wellbeing and reduces feelings of depersonalization
+    in care systems.
+- field_id: CHCCCS038_TXT_17_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: Describe the principle of strengths-based practices.
+  table_idx: 17
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '36377411'
+  value: Strengths-based practice focuses on recognizing, utilizing, and expanding
+    an individual's existing abilities and resources rather than focusing primarily
+    on their deficits.
+- field_id: CHCCCS038_TXT_17_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: What are the three principles of a strengths-based approach?
+  table_idx: 17
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 105AA865
+  value: 1. Goal-directed and forward-looking.
+- field_id: CHCCCS038_TXT_17_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: What are the three principles of a strengths-based approach?
+  table_idx: 17
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 00FAE78A
+  value: 2. Collaborative partnership between worker and client.
+- field_id: CHCCCS038_TXT_17_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_17
+  label: What are the three principles of a strengths-based approach?
+  table_idx: 17
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 3DF4358B
+  value: 3. Treating the person as the expert in their own life.
+- field_id: CHCCCS038_TXT_18_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Explain what restrictive practices are according to the Australian Law Reform
+    Commission.
+  table_idx: 18
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 63A0495E
+  value: According to the ALRC, restrictive practices refer to any intervention that
+    has the effect of restricting the free movement or liberty of a person with disability.
+- field_id: CHCCCS038_TXT_18_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Briefly explain why authorised restrictive practices must only be used as
+    a last resort.
+  table_idx: 18
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 75F53565
+  value: Authorised restrictive practices must only be used as a last resort to prevent
+    serious harm after exhausting all positive behaviour support strategies.
+- field_id: CHCCCS038_TXT_18_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify the five forms of restrictive practices.
+  table_idx: 18
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4361B572
+  value: 'Chemical restraint: Using medication for the primary purpose of controlling
+    behaviour.'
+- field_id: CHCCCS038_TXT_18_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify the five forms of restrictive practices.
+  table_idx: 18
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 167ABEA4
+  value: 'Mechanical restraint: Using devices or equipment to restrict free bodily
+    movement.'
+- field_id: CHCCCS038_TXT_18_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify the five forms of restrictive practices.
+  table_idx: 18
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 7DF06673
+  value: 'Physical restraint: Using physical force to restrict or subdue movement.'
+- field_id: CHCCCS038_TXT_18_4_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify the five forms of restrictive practices.
+  table_idx: 18
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 0A9757EB
+  value: 'Environmental restraint: Restricting free access to parts of the environment
+    or personal items.'
+- field_id: CHCCCS038_TXT_18_4_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify the five forms of restrictive practices.
+  table_idx: 18
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 6B149BE0
+  value: 'Seclusion: Confinement of a person alone in a room from which free exit
+    is denied.'
+- field_id: CHCCCS038_TXT_18_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two considerations within the human rights framework when implementing
+    restrictive practice
+  table_idx: 18
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D08C5A4
+  value: Right to liberty and security of person under Article 14 of the UNCRPD.
+- field_id: CHCCCS038_TXT_18_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two considerations within the human rights framework when implementing
+    restrictive practice
+  table_idx: 18
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7AD381EA
+  value: Right to freedom from cruel, inhuman or degrading treatment under Article
+    15 of the UNCRPD.
+- field_id: CHCCCS038_TXT_18_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe two impacts of restrictive practices on a person’s empowerment.
+  table_idx: 18
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6D23921B
+  value: 'Physical impacts: Muscle deconditioning, pressure sores, loss of functional
+    mobility, and injury.'
+- field_id: CHCCCS038_TXT_18_6_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe two impacts of restrictive practices on a person’s empowerment.
+  table_idx: 18
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 771BE6D1
+  value: 'Psychological impacts: Trauma, depression, loss of dignity, diminished trust,
+    and heightened anxiety.'
+- field_id: CHCCCS038_TXT_18_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two instances where restrictive practices may be used as reflected
+    in the behaviour support
+  table_idx: 18
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4FE232F8
+  value: To prevent imminent, serious physical injury to the person or others after
+    all proactive de-escalation strategies have been exhausted.
+- field_id: CHCCCS038_TXT_18_7_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two instances where restrictive practices may be used as reflected
+    in the behaviour support
+  table_idx: 18
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 3590CF14
+  value: During acute, severe behavioral crises as an emergency measure while awaiting
+    clinical assistance.
+- field_id: CHCCCS038_TXT_19_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the seven conditions when a restrictive practice can be used.
+  table_idx: 19
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1C9BC7D4
+  value: 1. Used only as a last resort.
+- field_id: CHCCCS038_TXT_19_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the seven conditions when a restrictive practice can be used.
+  table_idx: 19
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1F4DCBE3
+  value: 2. Proportional to the potential harm.
+- field_id: CHCCCS038_TXT_19_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the seven conditions when a restrictive practice can be used.
+  table_idx: 19
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 574A76CA
+  value: 3. Least restrictive option available.
+- field_id: CHCCCS038_TXT_19_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the seven conditions when a restrictive practice can be used.
+  table_idx: 19
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 5EBBFCFF
+  value: 4. Used for the shortest time possible.
+- field_id: CHCCCS038_TXT_19_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the seven conditions when a restrictive practice can be used.
+  table_idx: 19
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 6CE5A5C4
+  value: 5. Included in a Behaviour Support Plan.
+- field_id: CHCCCS038_TXT_19_0_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the seven conditions when a restrictive practice can be used.
+  table_idx: 19
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 411535F5
+  value: 6. Authorized under state/territory legislation.
+- field_id: CHCCCS038_TXT_19_0_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the seven conditions when a restrictive practice can be used.
+  table_idx: 19
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 557CDC85
+  value: 7. Subject to regular monitoring and review.
+- field_id: CHCCCS038_TXT_19_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the six core strategies for reducing and eliminating restrictive
+    practices identified by th
+  table_idx: 19
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7D547035
+  value: 1. Leadership towards organizational cultural change.
+- field_id: CHCCCS038_TXT_19_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the six core strategies for reducing and eliminating restrictive
+    practices identified by th
+  table_idx: 19
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0EC4254A
+  value: 2. Use of data to inform practice.
+- field_id: CHCCCS038_TXT_19_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the six core strategies for reducing and eliminating restrictive
+    practices identified by th
+  table_idx: 19
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 15D7307F
+  value: 3. Workforce development and trauma-informed training.
+- field_id: CHCCCS038_TXT_19_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the six core strategies for reducing and eliminating restrictive
+    practices identified by th
+  table_idx: 19
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 7B6C3CD8
+  value: 4. Inclusion of individual debriefing techniques.
+- field_id: CHCCCS038_TXT_19_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the six core strategies for reducing and eliminating restrictive
+    practices identified by th
+  table_idx: 19
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 026719F7
+  value: 5. Meaningful consumer and carer participation.
+- field_id: CHCCCS038_TXT_19_1_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the six core strategies for reducing and eliminating restrictive
+    practices identified by th
+  table_idx: 19
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 5B57D6DF
+  value: 6. Rigorous prevention tools (sensory modulation, positive behaviour support).
+- field_id: CHCCCS038_TXT_19_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify one example of risk related to the use of restrictive practices
+    for each aspect listed belo
+  table_idx: 19
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7467514C
+  value: Risks include physical injury, asphyxiation, cardiovascular distress, severe
+    psychological trauma, and dehumanisation.
+- field_id: CHCCCS038_TXT_19_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify one example of risk related to the use of restrictive practices
+    for each aspect listed belo
+  table_idx: 19
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 3AFFF659
+  value: Risks include physical injury, asphyxiation, cardiovascular distress, severe
+    psychological trauma, and dehumanisation.
+- field_id: CHCCCS038_TXT_19_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify one example of risk related to the use of restrictive practices
+    for each aspect listed belo
+  table_idx: 19
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 2F039483
+  value: Risks include physical injury, asphyxiation, cardiovascular distress, severe
+    psychological trauma, and dehumanisation.
+- field_id: CHCCCS038_TXT_20_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the two reportable incidents regarding the unauthorised use of restrictive
+    practices.
+  table_idx: 20
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7D7FAB28
+  value: 1. Any unauthorized use of a restrictive practice.
+- field_id: CHCCCS038_TXT_20_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the two reportable incidents regarding the unauthorised use of restrictive
+    practices.
+  table_idx: 20
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 643F7E95
+  value: 2. Any use of a prohibited restrictive practice (e.g. prone or supine restraint).
+- field_id: CHCCCS038_TXT_20_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Complete the statement below:
+
+    Where an NDIS participant’s behaviours of concern place themselves or '
+  table_idx: 20
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1DEF14D2
+  value: must be reported to the NDIS Quality and Safeguards Commission within 5 business
+    days.
+- field_id: CHCCCS038_TXT_20_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: 'Complete the statement below:
+
+    Where an NDIS participant’s behaviours of concern place themselves or '
+  table_idx: 20
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1DEF14D2
+  value: must be reported to the NDIS Quality and Safeguards Commission within 5 business
+    days.
+- field_id: CHCCCS038_TXT_20_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: When restrictive practices are used as part of a person’s behaviour support
+    plan, the plan must cont
+  table_idx: 20
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 090F2396
+  value: The Behaviour Support Plan must contain proactive strategies, functional
+    behaviour assessment, explicit authorization, and fading protocols.
+- field_id: CHCCCS038_TXT_20_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: When restrictive practices are used as part of a person’s behaviour support
+    plan, the plan must cont
+  table_idx: 20
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 24D4DD54
+  value: The Behaviour Support Plan must contain proactive strategies, functional
+    behaviour assessment, explicit authorization, and fading protocols.
+- field_id: CHCCCS038_TXT_20_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: When restrictive practices are used as part of a person’s behaviour support
+    plan, the plan must cont
+  table_idx: 20
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 493A54B6
+  value: The Behaviour Support Plan must contain proactive strategies, functional
+    behaviour assessment, explicit authorization, and fading protocols.
+- field_id: CHCCCS038_TXT_20_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Summarise the documentation requirements stated in Sections 14 and 15 of
+    the NDIS Restrictive Practi
+  table_idx: 20
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 14DEC473
+  value: 1. Authorisation under state legislation. 2. Regular clinical review. 3.
+    Monthly reporting to the NDIS Commission.
+- field_id: CHCCCS038_TXT_21_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Explain how the use of technology can facilitate the choice for a person
+    receiving support.
+  table_idx: 21
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3DC1A237
+  value: Smart home automation, voice-activated environmental controls, and tablet
+    scheduling apps allow individuals to control their own environment and schedule
+    independently.
+- field_id: CHCCCS038_TXT_21_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two strategies to support the person in using technology to facilitate
+    choice.
+  table_idx: 21
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 37572A12
+  value: 1. Providing accessible, transparent information about service options. 2.
+    Supporting the individual to run their own care meetings.
+- field_id: CHCCCS038_TXT_21_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two strategies to support the person in using technology to facilitate
+    choice.
+  table_idx: 21
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6BFB95F2
+  value: 1. Providing accessible, transparent information about service options. 2.
+    Supporting the individual to run their own care meetings.
+- field_id: CHCCCS038_TXT_21_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Briefly describe how providing choices can support people receiving support.
+  table_idx: 21
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3A8F5097
+  value: Providing choices empowers individuals, validates their identity and preferences,
+    fosters self-esteem, and reduces frustration and feelings of helplessness.
+- field_id: CHCCCS038_TXT_21_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two examples of how you can support people as they make choices.
+  table_idx: 21
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 406C7874
+  value: Presenting daily options in accessible formats (visual cards, Easy Read)
+    and explaining the benefits and risks of each option clearly.
+- field_id: CHCCCS038_TXT_21_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify two examples of how you can support people as they make choices.
+  table_idx: 21
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 01F9C930
+  value: Allowing adequate time for the person to make their own decision without
+    rushing, and upholding their dignity of risk.
+- field_id: CHCCCS038_TXT_22_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D2B3E3F
+  value: APP 1 — Open and transparent management of personal information
+- field_id: CHCCCS038_TXT_22_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 32FEF6D8
+  value: APP 2 — Anonymity and pseudonymity
+- field_id: CHCCCS038_TXT_22_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 7A509A93
+  value: APP 3 — Collection of solicited personal information
+- field_id: CHCCCS038_TXT_22_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 0146FF01
+  value: APP 4 — Dealing with unsolicited personal information
+- field_id: CHCCCS038_TXT_22_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 1BB177BF
+  value: APP 5 — Notification of the collection of personal information
+- field_id: CHCCCS038_TXT_22_0_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 024B9E94
+  value: APP 6 — Use or disclosure of personal information
+- field_id: CHCCCS038_TXT_22_0_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 2A0F379F
+  value: APP 7 — Direct marketing
+- field_id: CHCCCS038_TXT_22_0_0_8
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 7
+  para_id: 24D5922A
+  value: APP 8 — Cross-border disclosure of personal information
+- field_id: CHCCCS038_TXT_22_0_0_9
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 8
+  para_id: 30551B5B
+  value: APP 9 — Adoption, use or disclosure of government related identifiers
+- field_id: CHCCCS038_TXT_22_0_0_10
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 9
+  para_id: 4C0735D5
+  value: APP 10 — Quality of personal information
+- field_id: CHCCCS038_TXT_22_0_0_11
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 10
+  para_id: 4BA8FE50
+  value: APP 11 — Security of personal information
+- field_id: CHCCCS038_TXT_22_0_0_12
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 11
+  para_id: 2D3121A0
+  value: APP 12 — Access to personal information
+- field_id: CHCCCS038_TXT_22_0_0_13
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List the 13 Australian Privacy Principles, in the correct order, based on
+    the Privacy Act 1988.
+  table_idx: 22
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 12
+  para_id: '72074779'
+  value: APP 13 — Correction of personal information
+- field_id: CHCCCS038_TXT_22_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify two strategies to assist a person to exercise their rights to privacy.
+  table_idx: 22
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2ABEAB85
+  value: 1. Storing hard-copy client files in locked filing cabinets and digital records
+    behind two-factor password protection.
+- field_id: CHCCCS038_TXT_22_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify two strategies to assist a person to exercise their rights to privacy.
+  table_idx: 22
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 299E6A64
+  value: 2. Never discussing client details in public areas or with unauthorized third
+    parties without signed consent.
+- field_id: CHCCCS038_TXT_22_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: State the right of a person with disability to be involved in planning and
+    decision making according
+  table_idx: 22
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '78929173'
+  value: Under the NDIS Act 2013 and UNCRPD Article 12, persons with disability have
+    the right to be central to planning and make decisions about their own lives.
+- field_id: CHCCCS038_TXT_22_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: State an older person’s right to be involved in planning and decision making
+    according to the Charte
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 494AA09D
+  value: Under the Charter of Aged Care Rights, consumers have the right to have control
+    over and make decisions about their care, personal and social life.
+- field_id: CHCCCS038_TXT_23_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify two strategies to assist a person to exercise their rights to be
+    involved in planning regar
+  table_idx: 23
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 42C1CCE4
+  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
+    advocacy support during decision-making.
+- field_id: CHCCCS038_TXT_23_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify two strategies to assist a person to exercise their rights to be
+    involved in planning regar
+  table_idx: 23
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0447D4B7
+  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
+    advocacy support during decision-making.
+- field_id: CHCCCS038_TXT_23_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify two strategies to assist a person to exercise their rights to be
+    involved in decision makin
+  table_idx: 23
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1D34B1BE
+  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
+    advocacy support during decision-making.
+- field_id: CHCCCS038_TXT_23_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify two strategies to assist a person to exercise their rights to be
+    involved in decision makin
+  table_idx: 23
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 57FC1915
+  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
+    advocacy support during decision-making.
+- field_id: CHCCCS038_TXT_23_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Briefly describe the person’s right to be involved in planning and decision-making
+    regarding the fol
+  table_idx: 23
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 381682FB
+  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
+    advocacy support during decision-making.
+- field_id: CHCCCS038_TXT_23_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Those who will provide care and support
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 592E3238
+  value: 1. Pre-meeting preparation using visual planning tools. 2. Facilitating independent
+    advocacy support during decision-making.
+- field_id: CHCCCS038_TXT_24_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Self-care - Listed below are different life domains where assistive technologies
+    may be used. Comple
+  table_idx: 24
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 61D81E4F
+  value: Assists client to dress, eat, and perform grooming tasks independently without
+    fatigue.
+- field_id: CHCCCS038_TXT_24_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Self-care - Listed below are different life domains where assistive technologies
+    may be used. Comple
+  table_idx: 24
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1C55C204
+  value: Assists client to dress, eat, and perform grooming tasks independently without
+    fatigue.
+- field_id: CHCCCS038_TXT_24_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Continence - Listed below are different life domains where assistive technologies
+    may be used. Compl
+  table_idx: 24
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2377CF7D
+  value: Maintains skin dignity and prevents embarrassing leaks or skin breakdown.
+- field_id: CHCCCS038_TXT_24_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Continence - Listed below are different life domains where assistive technologies
+    may be used. Compl
+  table_idx: 24
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 0DF2012F
+  value: Maintains skin dignity and prevents embarrassing leaks or skin breakdown.
+- field_id: CHCCCS038_TXT_24_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Hygiene - Listed below are different life domains where assistive technologies
+    may be used. Complete
+  table_idx: 24
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77BB2ED1
+  value: Enables safe, unassisted showering and teeth cleaning.
+- field_id: CHCCCS038_TXT_24_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Hygiene - Listed below are different life domains where assistive technologies
+    may be used. Complete
+  table_idx: 24
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 16A615B2
+  value: Enables safe, unassisted showering and teeth cleaning.
+- field_id: CHCCCS038_TXT_24_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Communication - Listed below are different life domains where assistive technologies
+    may be used. Co
+  table_idx: 24
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77C1AFE4
+  value: Allows non-verbal clients or those with dysarthria to express choices and
+    needs.
+- field_id: CHCCCS038_TXT_24_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Communication - Listed below are different life domains where assistive technologies
+    may be used. Co
+  table_idx: 24
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 00BF1A0B
+  value: Allows non-verbal clients or those with dysarthria to express choices and
+    needs.
+- field_id: CHCCCS038_TXT_24_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Mobility - Listed below are different life domains where assistive technologies
+    may be used. Complet
+  table_idx: 24
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7F86D22F
+  value: Provides stability and endurance during indoor and outdoor walking.
+- field_id: CHCCCS038_TXT_24_7_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Mobility - Listed below are different life domains where assistive technologies
+    may be used. Complet
+  table_idx: 24
+  row_idx: 7
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 06116F81
+  value: Provides stability and endurance during indoor and outdoor walking.
+- field_id: CHCCCS038_TXT_24_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Transferring - Listed below are different life domains where assistive technologies
+    may be used. Com
+  table_idx: 24
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2CE58BFB
+  value: Facilitates safe movement between bed, chair, and wheelchair without manual
+    strain.
+- field_id: CHCCCS038_TXT_24_8_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Transferring - Listed below are different life domains where assistive technologies
+    may be used. Com
+  table_idx: 24
+  row_idx: 8
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 64D4979D
+  value: Facilitates safe movement between bed, chair, and wheelchair without manual
+    strain.
+- field_id: CHCCCS038_TXT_25_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Cognition - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 25
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 248D5E84
+  value: Provides visual prompts and task organizers.
+- field_id: CHCCCS038_TXT_25_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Cognition - One example of assistive technology that can be used in this
+    life domain.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 764B2768
+  value: Digital pictorial schedule tablet
+- field_id: CHCCCS038_TXT_25_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Memory loss - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 25
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1A1B0152
+  value: Delivers automated voice reminders for medication and meals.
+- field_id: CHCCCS038_TXT_25_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Memory loss - One example of assistive technology that can be used in this
+    life domain.
+  table_idx: 25
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 367C1871
+  value: Talking digital calendar day clock
+- field_id: CHCCCS038_TXT_25_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Vision - How assistive technologies can help individual support clients in
+    this life domain
+  table_idx: 25
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 216859FC
+  value: Magnifies text and provides auditory readouts.
+- field_id: CHCCCS038_TXT_25_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Vision - One example of assistive technology that can be used in this life
+    domain.
+  table_idx: 25
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3DB949CD
+  value: Electronic video magnifier / Screen-reading software
+- field_id: CHCCCS038_TXT_25_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Hearing - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 25
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 11B7DC44
+  value: Amplifies speech sounds and reduces background noise.
+- field_id: CHCCCS038_TXT_25_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Hearing - One example of assistive technology that can be used in this life
+    domain.
+  table_idx: 25
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3EF670C1
+  value: Digital hearing aid with Bluetooth loop connectivity
+- field_id: CHCCCS038_TXT_25_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Daily living activities - How assistive technologies can help individual
+    support clients in this lif
+  table_idx: 25
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 366EBF2C
+  value: Assists with cooking, cleaning, and meal prep.
+- field_id: CHCCCS038_TXT_25_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Daily living activities - One example of assistive technology that can be
+    used in this life domain.
+  table_idx: 25
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1DA57C76
+  value: Ergonomic easy-grip kitchen utensils
+- field_id: CHCCCS038_TXT_25_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Recreation - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 25
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 727D47DA
+  value: Allows independent participation in games and hobbies.
+- field_id: CHCCCS038_TXT_25_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Recreation - One example of assistive technology that can be used in this
+    life domain.
+  table_idx: 25
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 06CA4293
+  value: Adaptive card holders and large-print games
+- field_id: CHCCCS038_TXT_25_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Leisure - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 25
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 787ABE49
+  value: Facilitates reading and audio enjoyment.
+- field_id: CHCCCS038_TXT_25_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Leisure - One example of assistive technology that can be used in this life
+    domain.
+  table_idx: 25
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 00EF69E7
+  value: Audiobook player with high-contrast buttons
+- field_id: CHCCCS038_TXT_25_8_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Education - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 25
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 45431B30
+  value: Supports digital learning, typing, and research.
+- field_id: CHCCCS038_TXT_25_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: Education - One example of assistive technology that can be used in this
+    life domain.
+  table_idx: 25
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3DD7B241
+  value: Voice-to-text software and adaptive keyboard
+- field_id: CHCCCS038_TXT_26_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Employment - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 26
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3A1103CA
+  value: Enables accessible computer work and workspace ergonomics.
+- field_id: CHCCCS038_TXT_26_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Employment - One example of assistive technology that can be used in this
+    life domain.
+  table_idx: 26
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6D08688E
+  value: Adjustable motorized sit-stand desk and trackball mouse
+- field_id: CHCCCS038_TXT_26_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Home - How assistive technologies can help individual support clients in
+    this life domain
+  table_idx: 26
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2B7B1498
+  value: Enables independent home entry and environmental control.
+- field_id: CHCCCS038_TXT_26_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Home - One example of assistive technology that can be used in this life
+    domain.
+  table_idx: 26
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4FDEDF1F
+  value: Smart door lock with sensor and lever door handles
+- field_id: CHCCCS038_TXT_26_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Care residence - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 26
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 15855AA3
+  value: Provides rapid emergency alerting to support staff.
+- field_id: CHCCCS038_TXT_26_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Care residence - One example of assistive technology that can be used in
+    this life domain.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1250E05C
+  value: Wearable wireless nurse call pendant
+- field_id: CHCCCS038_TXT_26_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Outdoors - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 26
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 27A07C55
+  value: Allows safe navigation of uneven terrain and community spaces.
+- field_id: CHCCCS038_TXT_26_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Outdoors - One example of assistive technology that can be used in this life
+    domain.
+  table_idx: 26
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 16CF7202
+  value: All-terrain motorized mobility scooter
+- field_id: CHCCCS038_TXT_26_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Eating - How assistive technologies can help individual support clients in
+    this life domain
+  table_idx: 26
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 493B3CF2
+  value: Prevents spills and facilitates self-feeding with tremors.
+- field_id: CHCCCS038_TXT_26_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Eating - One example of assistive technology that can be used in this life
+    domain.
+  table_idx: 26
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '68713694'
+  value: Weighted adaptive cutlery and high-rim scooper plate
+- field_id: CHCCCS038_TXT_26_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Drinking - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 26
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 28C6F8E7
+  value: Enables controlled fluid intake without neck hyperextension.
+- field_id: CHCCCS038_TXT_26_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Drinking - One example of assistive technology that can be used in this life
+    domain.
+  table_idx: 26
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1F613ADF
+  value: Two-handled weighted mug with dysphagia cut-out lid
+- field_id: CHCCCS038_TXT_26_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Pressure area management - How assistive technologies can help individual
+    support clients in this li
+  table_idx: 26
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4ABCBC35
+  value: Relieves sustained tissue pressure over bony prominences.
+- field_id: CHCCCS038_TXT_26_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Pressure area management - One example of assistive technology that can be
+    used in this life domain.
+  table_idx: 26
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 16CD4F75
+  value: Alternating air pressure mattress overlay
+- field_id: CHCCCS038_TXT_26_8_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Carer support - How assistive technologies can help individual support clients
+    in this life domain
+  table_idx: 26
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 52A96C16
+  value: Reduces physical lifting strain on informal and formal carers.
+- field_id: CHCCCS038_TXT_26_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_26
+  label: Carer support - One example of assistive technology that can be used in this
+    life domain.
+  table_idx: 26
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3FF5CBE8
+  value: Slide sheets and ceiling track transfer hoist
+- field_id: CHCCCS038_TXT_27_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How can assistive technologies help maintain the independence of people receiving
+    support?
+  table_idx: 27
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 05193939
+  value: AT compensates for functional impairments, empowering individuals to perform
+    domestic, educational, and vocational tasks on their own terms.
+- field_id: CHCCCS038_TXT_27_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How can assistive technologies help promote the independence of people receiving
+    support?
+  table_idx: 27
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 24507AED
+  value: AT compensates for functional impairments, empowering individuals to perform
+    domestic, educational, and vocational tasks on their own terms.
+- field_id: CHCCCS038_TXT_27_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How do assistive technologies enable the inclusion of people receiving support?
+  table_idx: 27
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7DEBB52D
+  value: AT compensates for functional impairments, empowering individuals to perform
+    domestic, educational, and vocational tasks on their own terms.
+- field_id: CHCCCS038_TXT_27_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: How do assistive technologies enable the participation of people receiving
+    support?
+  table_idx: 27
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2032773E
+  value: AT compensates for functional impairments, empowering individuals to perform
+    domestic, educational, and vocational tasks on their own terms.
+- field_id: CHCCCS038_TXT_28_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Table 28 Row 4 Col 0
+  table_idx: 28
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 09E135AC
+  value: 'People with Disability Australia (PWDA): Free independent advocacy and representation
+    across NSW.'
+- field_id: CHCCCS038_TXT_28_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: "Complete the table below by providing: \nTwo examples of advocacy services\n\
+    Two examples of complaint "
+  table_idx: 28
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 60ED148B
+  value: Accessible via phone 1800 422 015 or online referral at pwd.org.au
+- field_id: CHCCCS038_TXT_28_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: "Complete the table below by providing: \nTwo examples of advocacy services\n\
+    Two examples of complaint "
+  table_idx: 28
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3E5A6972
+  value: Accessible via phone 1800 422 015 or online referral at pwd.org.au
+- field_id: CHCCCS038_TXT_28_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: Table 28 Row 5 Col 0
+  table_idx: 28
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 71C6B539
+  value: 'People with Disability Australia (PWDA): Free independent advocacy and representation
+    across NSW.'
+- field_id: CHCCCS038_TXT_28_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: "Complete the table below by providing: \nTwo examples of advocacy services\n\
+    Two examples of complaint "
+  table_idx: 28
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6A47FF89
+  value: Accessible via phone 1800 422 015 or online referral at pwd.org.au
+- field_id: CHCCCS038_TXT_28_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Complete the table
+  label: "Complete the table below by providing: \nTwo examples of advocacy services\n\
+    Two examples of complaint "
+  table_idx: 28
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 35D6B5FB
+  value: Accessible via phone 1800 422 015 or online referral at pwd.org.au
+- field_id: CHCCCS038_TXT_29_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  label: Complaint Mechanisms
+  table_idx: 29
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '21576753'
+  value: 'Internal Complaint Mechanism: Complete confidential client feedback form;
+    investigated by Quality Manager within 14 days.'
+- field_id: CHCCCS038_TXT_29_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  label: Complaint Mechanisms
+  table_idx: 29
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 31238CFB
+  value: 'Aged Care Quality and Safety Commission: Phone 1800 951 822 or lodge online
+    complaint.'
+- field_id: CHCCCS038_TXT_29_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  label: Complaint Mechanisms
+  table_idx: 29
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3BE44B02
+  value: 'Aged Care Quality and Safety Commission: Phone 1800 951 822 or lodge online
+    complaint.'
+- field_id: CHCCCS038_TXT_29_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  label: Complaint Mechanisms
+  table_idx: 29
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6570E848
+  value: 'Internal Complaint Mechanism: Complete confidential client feedback form;
+    investigated by Quality Manager within 14 days.'
+- field_id: CHCCCS038_TXT_29_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  label: Complaint Mechanisms
+  table_idx: 29
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 378C0506
+  value: 'Aged Care Quality and Safety Commission: Phone 1800 951 822 or lodge online
+    complaint.'
+- field_id: CHCCCS038_TXT_29_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_29
+  label: Complaint Mechanisms
+  table_idx: 29
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 11A97C1E
+  value: 'Aged Care Quality and Safety Commission: Phone 1800 951 822 or lodge online
+    complaint.'
+- field_id: CHCCCS038_TXT_30_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of abuse
+  table_idx: 30
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 07CB995C
+  value: 1. Unexplained bruising, welts, abrasions, or fearfulness in the presence
+    of specific persons.
+- field_id: CHCCCS038_TXT_30_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of abuse
+  table_idx: 30
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 28C7005E
+  value: 1. Unexplained bruising, welts, abrasions, or fearfulness in the presence
+    of specific persons.
+- field_id: CHCCCS038_TXT_30_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of abuse
+  table_idx: 30
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 7565D47C
+  value: 1. Unexplained bruising, welts, abrasions, or fearfulness in the presence
+    of specific persons.
+- field_id: CHCCCS038_TXT_30_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of exploitation
+  table_idx: 30
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 33CB78FF
+  value: 2. Sudden changes in financial assets, missing property, or unauthorized
+    bank account withdrawals.
+- field_id: CHCCCS038_TXT_30_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of exploitation
+  table_idx: 30
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1FEDB0B8
+  value: 2. Sudden changes in financial assets, missing property, or unauthorized
+    bank account withdrawals.
+- field_id: CHCCCS038_TXT_30_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of exploitation
+  table_idx: 30
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 7CA153C3
+  value: 2. Sudden changes in financial assets, missing property, or unauthorized
+    bank account withdrawals.
+- field_id: CHCCCS038_TXT_30_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of neglect
+  table_idx: 30
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 65835AC2
+  value: 3. Untreated pressure ulcers, severe malnutrition, poor hygiene, or unaddressed
+    medical conditions.
+- field_id: CHCCCS038_TXT_30_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of neglect
+  table_idx: 30
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7B3DAF8C
+  value: 3. Untreated pressure ulcers, severe malnutrition, poor hygiene, or unaddressed
+    medical conditions.
+- field_id: CHCCCS038_TXT_30_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Three indicators of neglect
+  table_idx: 30
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 08847D5B
+  value: 3. Untreated pressure ulcers, severe malnutrition, poor hygiene, or unaddressed
+    medical conditions.
+- field_id: CHCCCS038_CB_32_0_1_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Aged care  Home and community  Disability
+  table_idx: 32
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-351183848'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_0_1_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Aged care  Home and community  Disability
+  table_idx: 32
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 1
+  sdt_id: '-380250418'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_0_1_3
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Aged care  Home and community  Disability
+  table_idx: 32
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 2
+  sdt_id: '1337959951'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_0_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: 'Community service  Others:'
+  table_idx: 32
+  row_idx: 0
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1632516910'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_0_2_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: 'Community service  Others:'
+  table_idx: 32
+  row_idx: 0
+  col_idx: 2
+  index_in_cell: 1
+  sdt_id: '1389533535'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_TXT_32_0_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: "Community service\n Others:"
+  table_idx: 32
+  row_idx: 0
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 776E10AD
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_1_1_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Australian Capital Territory  New South Wales  Northern Territory  Queensland
+  table_idx: 32
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '943276459'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_1_1_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Australian Capital Territory  New South Wales  Northern Territory  Queensland
+  table_idx: 32
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 1
+  sdt_id: '-2108027211'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_1_1_3
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Australian Capital Territory  New South Wales  Northern Territory  Queensland
+  table_idx: 32
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 2
+  sdt_id: '-1332831859'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_1_1_4
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Australian Capital Territory  New South Wales  Northern Territory  Queensland
+  table_idx: 32
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 3
+  sdt_id: '490841566'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_1_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: South Australia Tasmania  Victoria  Western Australia
+  table_idx: 32
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1151592805'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_1_2_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: South Australia Tasmania  Victoria  Western Australia
+  table_idx: 32
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 1
+  sdt_id: '-2006119583'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_1_2_3
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: South Australia Tasmania  Victoria  Western Australia
+  table_idx: 32
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 2
+  sdt_id: '-920409599'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_CB_32_1_2_4
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: South Australia Tasmania  Victoria  Western Australia
+  table_idx: 32
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 3
+  sdt_id: '1255477493'
+  value: Aged Care and Disability Support Services
+- field_id: CHCCCS038_TXT_33_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Discrimination - Legal considerations relevant to this area
+
+    Include the relevant legislation in your'
+  table_idx: 33
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 35CC14E5
+  value: Anti-Discrimination Act 1977 (NSW) / DDA 1992
+- field_id: CHCCCS038_TXT_33_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Discrimination - Ethical considerations relevant to this area
+
+    Include your reference in your respons'
+  table_idx: 33
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4C36DE3F
+  value: Part 4A, Disability Discrimination
+- field_id: CHCCCS038_TXT_33_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Legislation:'
+  table_idx: 33
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5C208A54
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_33_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 33
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0CFEAC5F
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_33_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Dignity of risk - Legal considerations relevant to this area
+
+    Include the relevant legislation in you'
+  table_idx: 33
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 47215F26
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_33_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Dignity of risk - Ethical considerations relevant to this area
+
+    Include your reference in your respon'
+  table_idx: 33
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0FF454F1
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_33_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Legislation:'
+  table_idx: 33
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '67031890'
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_33_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 33
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2AD1157F
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_33_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Duty of care - Legal considerations relevant to this area
+
+    Include the relevant legislation in your r'
+  table_idx: 33
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2CD158A9
+  value: Civil Liability Act 2002 (NSW)
+- field_id: CHCCCS038_TXT_33_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Duty of care - Ethical considerations relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 33
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3B8D361D
+  value: Part 1A, Negligence
+- field_id: CHCCCS038_TXT_33_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Legislation:'
+  table_idx: 33
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0D1C668B
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_33_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 33
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4E68B318
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_33_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Human rights - Legal considerations relevant to this area
+
+    Include the relevant legislation in your r'
+  table_idx: 33
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 15CC10B8
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_33_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Human rights - Ethical considerations relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 33
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 27D97CF4
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_33_8_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Legislation:'
+  table_idx: 33
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A74CEAE
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_33_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 33
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 33FB9216
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_34_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Informed consent - Legal considerations relevant to this area
+
+    Include the relevant legislation in yo'
+  table_idx: 34
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0BF8AFA4
+  value: Guardianship Act 1987 (NSW) / Common Law
+- field_id: CHCCCS038_TXT_34_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Informed consent - Ethical considerations relevant to this area
+
+    Include your reference in your respo'
+  table_idx: 34
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0F87090C
+  value: Part 5, Medical and dental treatment
+- field_id: CHCCCS038_TXT_34_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Legislation:'
+  table_idx: 34
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 34280A13
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_34_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 34
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '31293703'
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_34_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Mandatory reporting - Legal considerations relevant to this area
+
+    Include the relevant legislation in'
+  table_idx: 34
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 69451A07
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_34_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Mandatory reporting - Ethical considerations relevant to this area
+
+    Include your reference in your re'
+  table_idx: 34
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1FAF654F
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_34_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Legislation:'
+  table_idx: 34
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2E727E82
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_34_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 34
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 41DBBDEB
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_34_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Privacy - Legal considerations relevant to this area
+
+    Include the relevant legislation in your respon'
+  table_idx: 34
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4A6000C3
+  value: Privacy Act 1988 (Cth) / HRIPA Act 2002 (NSW)
+- field_id: CHCCCS038_TXT_34_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Privacy - Ethical considerations relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 34
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7B036E97
+  value: Health Privacy Principles (HPPs 1-15)
+- field_id: CHCCCS038_TXT_34_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Legislation:'
+  table_idx: 34
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 25D3B9B2
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_34_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 34
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E036E9F
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_34_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Confidentiality - Legal considerations relevant to this area
+
+    Include the relevant legislation in you'
+  table_idx: 34
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 47B889E1
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_34_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Confidentiality - Ethical considerations relevant to this area
+
+    Include your reference in your respon'
+  table_idx: 34
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 280F63C7
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_34_8_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Legislation:'
+  table_idx: 34
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 02BEDD8E
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_34_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 34
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 74E79468
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_35_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Disclosure - Legal considerations relevant to this area
+
+    Include the relevant legislation in your res'
+  table_idx: 35
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7529E386
+  value: Ageing and Disability Commissioner Act 2019 (NSW)
+- field_id: CHCCCS038_TXT_35_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Disclosure - Ethical considerations relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 35
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2418AC22
+  value: Part 2, Reports of abuse or neglect
+- field_id: CHCCCS038_TXT_35_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Legislation:'
+  table_idx: 35
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 76D97771
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_35_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 35
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0A85EE55
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_35_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Work role boundaries, responsibilities and limitations - Legal considerations
+    relevant to this area
+
+    '
+  table_idx: 35
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4143251E
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_35_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: Work role boundaries, responsibilities and limitations - Ethical considerations
+    relevant to this are
+  table_idx: 35
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4C6DE3D5
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_35_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Legislation:'
+  table_idx: 35
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4BC3B4E1
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_35_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 35
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 286528D8
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_35_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Work health and safety - Legal considerations relevant to this area
+
+    Include the relevant legislation'
+  table_idx: 35
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 16E6397A
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_35_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Work health and safety - Ethical considerations relevant to this area
+
+    Include your reference in your'
+  table_idx: 35
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0C54C7F1
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_35_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Legislation:'
+  table_idx: 35
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 056AEB57
+  value: Disability Inclusion Act 2014 (NSW)
+- field_id: CHCCCS038_TXT_35_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: 'Code of Ethics/Code of Conduct:'
+  table_idx: 35
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6F5F7300
+  value: Part 1, General principles
+- field_id: CHCCCS038_TXT_37_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three work role boundaries of individual support workers
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3B3179CC
+  value: 'Three work role boundaries: 1. No financial transactions/loans with clients.
+    2. Maintain strict professional detachment (no personal relationships). 3. Only
+    perform delegated tasks within certified competencies.'
+- field_id: CHCCCS038_TXT_37_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three work role boundaries of individual support workers
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 741A6B36
+  value: 'Three work role boundaries: 1. No financial transactions/loans with clients.
+    2. Maintain strict professional detachment (no personal relationships). 3. Only
+    perform delegated tasks within certified competencies.'
+- field_id: CHCCCS038_TXT_37_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three work role boundaries of individual support workers
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 348FEA3C
+  value: 'Three work role boundaries: 1. No financial transactions/loans with clients.
+    2. Maintain strict professional detachment (no personal relationships). 3. Only
+    perform delegated tasks within certified competencies.'
+- field_id: CHCCCS038_TXT_37_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three responsibilities of individual support workers
+  table_idx: 37
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6118E587
+  value: 'Three responsibilities: 1. Deliver person-centred care aligned with care
+    plan. 2. Maintain accurate daily progress notes. 3. Promptly report health deterioration
+    or hazards.'
+- field_id: CHCCCS038_TXT_37_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three responsibilities of individual support workers
+  table_idx: 37
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 132A485C
+  value: 'Three responsibilities: 1. Deliver person-centred care aligned with care
+    plan. 2. Maintain accurate daily progress notes. 3. Promptly report health deterioration
+    or hazards.'
+- field_id: CHCCCS038_TXT_37_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three responsibilities of individual support workers
+  table_idx: 37
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 58269C81
+  value: 'Three responsibilities: 1. Deliver person-centred care aligned with care
+    plan. 2. Maintain accurate daily progress notes. 3. Promptly report health deterioration
+    or hazards.'
+- field_id: CHCCCS038_TXT_37_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three work role limitations of individual support workers
+  table_idx: 37
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7FF10D61
+  value: 'Three limitations: 1. Cannot alter prescribed medications or clinical doses.
+    2. Cannot provide financial or legal advice. 3. Cannot perform invasive nursing
+    procedures.'
+- field_id: CHCCCS038_TXT_37_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three work role limitations of individual support workers
+  table_idx: 37
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5D9B3F24
+  value: 'Three limitations: 1. Cannot alter prescribed medications or clinical doses.
+    2. Cannot provide financial or legal advice. 3. Cannot perform invasive nursing
+    procedures.'
+- field_id: CHCCCS038_TXT_37_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  label: Three work role limitations of individual support workers
+  table_idx: 37
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 27D2407D
+  value: 'Three limitations: 1. Cannot alter prescribed medications or clinical doses.
+    2. Cannot provide financial or legal advice. 3. Cannot perform invasive nursing
+    procedures.'
+- field_id: CHCCCS038_TXT_38_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the eight standards for quality of care and quality of life for
+    the provision of aged care
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 549BF137
+  value: '8 Aged Care Quality Standards: 1. Consumer dignity and choice. 2. Ongoing
+    assessment and planning. 3. Personal and clinical care. 4. Services and supports
+    for daily living. 5. Organisation''s service environment. 6. Feedback and complaints.
+    7. Human resources. 8. Organisational governance.'
+- field_id: CHCCCS038_TXT_38_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the eight standards for quality of care and quality of life for
+    the provision of aged care
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7D819F45
+  value: '8 Aged Care Quality Standards: 1. Consumer dignity and choice. 2. Ongoing
+    assessment and planning. 3. Personal and clinical care. 4. Services and supports
+    for daily living. 5. Organisation''s service environment. 6. Feedback and complaints.
+    7. Human resources. 8. Organisational governance.'
+- field_id: CHCCCS038_TXT_38_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the eight standards for quality of care and quality of life for
+    the provision of aged care
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 70C82787
+  value: '8 Aged Care Quality Standards: 1. Consumer dignity and choice. 2. Ongoing
+    assessment and planning. 3. Personal and clinical care. 4. Services and supports
+    for daily living. 5. Organisation''s service environment. 6. Feedback and complaints.
+    7. Human resources. 8. Organisational governance.'
+- field_id: CHCCCS038_TXT_38_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the eight standards for quality of care and quality of life for
+    the provision of aged care
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 49A163D9
+  value: '8 Aged Care Quality Standards: 1. Consumer dignity and choice. 2. Ongoing
+    assessment and planning. 3. Personal and clinical care. 4. Services and supports
+    for daily living. 5. Organisation''s service environment. 6. Feedback and complaints.
+    7. Human resources. 8. Organisational governance.'
+- field_id: CHCCCS038_TXT_38_2_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the eight standards for quality of care and quality of life for
+    the provision of aged care
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 4F8054C5
+  value: '8 Aged Care Quality Standards: 1. Consumer dignity and choice. 2. Ongoing
+    assessment and planning. 3. Personal and clinical care. 4. Services and supports
+    for daily living. 5. Organisation''s service environment. 6. Feedback and complaints.
+    7. Human resources. 8. Organisational governance.'
+- field_id: CHCCCS038_TXT_38_2_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the eight standards for quality of care and quality of life for
+    the provision of aged care
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 11501C7B
+  value: '8 Aged Care Quality Standards: 1. Consumer dignity and choice. 2. Ongoing
+    assessment and planning. 3. Personal and clinical care. 4. Services and supports
+    for daily living. 5. Organisation''s service environment. 6. Feedback and complaints.
+    7. Human resources. 8. Organisational governance.'
+- field_id: CHCCCS038_TXT_38_2_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the eight standards for quality of care and quality of life for
+    the provision of aged care
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 496165E9
+  value: '8 Aged Care Quality Standards: 1. Consumer dignity and choice. 2. Ongoing
+    assessment and planning. 3. Personal and clinical care. 4. Services and supports
+    for daily living. 5. Organisation''s service environment. 6. Feedback and complaints.
+    7. Human resources. 8. Organisational governance.'
+- field_id: CHCCCS038_TXT_38_2_0_8
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the eight standards for quality of care and quality of life for
+    the provision of aged care
+  table_idx: 38
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 7
+  para_id: 3FBCCAF5
+  value: '8 Aged Care Quality Standards: 1. Consumer dignity and choice. 2. Ongoing
+    assessment and planning. 3. Personal and clinical care. 4. Services and supports
+    for daily living. 5. Organisation''s service environment. 6. Feedback and complaints.
+    7. Human resources. 8. Organisational governance.'
+- field_id: CHCCCS038_TXT_38_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the six National Standards that apply to disability services, according
+    to the National St
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 63B37F7C
+  value: '6 NDIS Code of Conduct Rules: 1. Act with respect for individual rights
+    to freedom of expression and self-determination. 2. Respect privacy of people
+    with disability. 3. Provide supports in a safe and competent manner. 4. Act with
+    integrity, honesty and transparency. 5. Promptly take steps to prevent and respond
+    to violence, abuse, and neglect. 6. Prevent and respond to sexual misconduct.'
+- field_id: CHCCCS038_TXT_38_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the six National Standards that apply to disability services, according
+    to the National St
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 782E9601
+  value: '6 NDIS Code of Conduct Rules: 1. Act with respect for individual rights
+    to freedom of expression and self-determination. 2. Respect privacy of people
+    with disability. 3. Provide supports in a safe and competent manner. 4. Act with
+    integrity, honesty and transparency. 5. Promptly take steps to prevent and respond
+    to violence, abuse, and neglect. 6. Prevent and respond to sexual misconduct.'
+- field_id: CHCCCS038_TXT_38_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the six National Standards that apply to disability services, according
+    to the National St
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 2E3DAA69
+  value: '6 NDIS Code of Conduct Rules: 1. Act with respect for individual rights
+    to freedom of expression and self-determination. 2. Respect privacy of people
+    with disability. 3. Provide supports in a safe and competent manner. 4. Act with
+    integrity, honesty and transparency. 5. Promptly take steps to prevent and respond
+    to violence, abuse, and neglect. 6. Prevent and respond to sexual misconduct.'
+- field_id: CHCCCS038_TXT_38_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the six National Standards that apply to disability services, according
+    to the National St
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 0EBF5657
+  value: '6 NDIS Code of Conduct Rules: 1. Act with respect for individual rights
+    to freedom of expression and self-determination. 2. Respect privacy of people
+    with disability. 3. Provide supports in a safe and competent manner. 4. Act with
+    integrity, honesty and transparency. 5. Promptly take steps to prevent and respond
+    to violence, abuse, and neglect. 6. Prevent and respond to sexual misconduct.'
+- field_id: CHCCCS038_TXT_38_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the six National Standards that apply to disability services, according
+    to the National St
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 5D5FF310
+  value: '6 NDIS Code of Conduct Rules: 1. Act with respect for individual rights
+    to freedom of expression and self-determination. 2. Respect privacy of people
+    with disability. 3. Provide supports in a safe and competent manner. 4. Act with
+    integrity, honesty and transparency. 5. Promptly take steps to prevent and respond
+    to violence, abuse, and neglect. 6. Prevent and respond to sexual misconduct.'
+- field_id: CHCCCS038_TXT_38_3_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the six National Standards that apply to disability services, according
+    to the National St
+  table_idx: 38
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 0CD90611
+  value: '6 NDIS Code of Conduct Rules: 1. Act with respect for individual rights
+    to freedom of expression and self-determination. 2. Respect privacy of people
+    with disability. 3. Provide supports in a safe and competent manner. 4. Act with
+    integrity, honesty and transparency. 5. Promptly take steps to prevent and respond
+    to violence, abuse, and neglect. 6. Prevent and respond to sexual misconduct.'
+- field_id: CHCCCS038_CB_39_3_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Australian Capital Territory
+  table_idx: 39
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '482046106'
+  value: false
+- field_id: CHCCCS038_CB_39_3_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: South Australia
+  table_idx: 39
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1213380163'
+  value: false
+- field_id: CHCCCS038_CB_39_4_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: New South Wales
+  table_idx: 39
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1756166536'
+  value: false
+- field_id: CHCCCS038_CB_39_4_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Tasmania
+  table_idx: 39
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1551608314'
+  value: false
+- field_id: CHCCCS038_CB_39_5_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Northern Territory
+  table_idx: 39
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1200238092'
+  value: false
+- field_id: CHCCCS038_CB_39_5_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Victoria
+  table_idx: 39
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1846289013'
+  value: false
+- field_id: CHCCCS038_CB_39_6_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Queensland
+  table_idx: 39
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1724519165'
+  value: false
+- field_id: CHCCCS038_CB_39_6_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Western Australia
+  table_idx: 39
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '836269862'
+  value: false
+- field_id: CHCCCS038_TXT_47_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Breaches of human rights
+  table_idx: 47
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2FC6D408
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_47_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Breaches of human rights
+  table_idx: 47
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 58C7E48C
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_47_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Breaches of human rights
+  table_idx: 47
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 28BD70C7
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_47_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Breaches of human rights
+  table_idx: 47
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6B323AC0
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_47_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Breaches of human rights
+  table_idx: 47
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: '48955597'
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_47_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Breaches of human rights
+  table_idx: 47
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 728FE2CD
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_47_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Breaches of human rights
+  table_idx: 47
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1C6CCA50
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_47_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: Breaches of human rights
+  table_idx: 47
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 66ECEEE8
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_CB_47_7_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: 'YES  NO Reason:'
+  table_idx: 47
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '274761625'
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_CB_47_7_0_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: 'YES  NO Reason:'
+  table_idx: 47
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 1
+  sdt_id: '1264186870'
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_47_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_47
+  label: "YES\n NO\nReason:"
+  table_idx: 47
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1BE87345
+  value: 'Breach of Charter of Aged Care Rights: Failing to respect consumer dignity,
+    locking doors to restrict movement without authorization, or ignoring expressed
+    care preferences.'
+- field_id: CHCCCS038_TXT_51_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Name of facility - Details of the Incident
+  table_idx: 51
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1DFB500F
+  value: 15/09/2026
+- field_id: CHCCCS038_TXT_51_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Name of facility - Details of the Incident
+  table_idx: 51
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6F4FD8DF
+  value: Care Connect Services Residential Care Wing
+- field_id: CHCCCS038_TXT_51_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Name of person reporting the incident - Details of the Incident
+  table_idx: 51
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5F3A4491
+  value: '78'
+- field_id: CHCCCS038_TXT_51_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Name of person reporting the incident - Details of the Incident
+  table_idx: 51
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 0A77F3EC
+  value: Care Connect Services Residential Care Wing
+- field_id: CHCCCS038_TXT_51_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Name of person incident is reported to - Details of the Incident
+  table_idx: 51
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 45D353A9
+  value: Sarah Jenkins (Registered Nurse / Workplace Supervisor)
+- field_id: CHCCCS038_TXT_51_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_51
+  label: Name of person incident is reported to - Details of the Incident
+  table_idx: 51
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4E6210F3
+  value: Care Connect Services Residential Care Wing
+- field_id: CHCCCS038_TXT_52_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_52
+  label: Name of resident/client - Details of the Resident or Community Client
+  table_idx: 52
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4A8700E1
+  value: First aid applied (wound cleansed and dressed with sterile dressing); vital
+    signs checked; client reassured.
+- field_id: CHCCCS038_TXT_52_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_52
+  label: Name of resident/client - Details of the Resident or Community Client
+  table_idx: 52
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7EB5E508
+  value: Judith M (78 years old, Room 14)
+- field_id: CHCCCS038_TXT_52_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_52
+  label: Medical diagnosis and relevant history - Details of the Resident or Community
+    Client
+  table_idx: 52
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7F14B930
+  value: Osteoarthritis, hypertension, and mild cognitive impairment; history of osteoporosis.
+- field_id: CHCCCS038_CB_52_2_3_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_52
+  label: Male  Female
+  table_idx: 52
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  sdt_id: '2076692090'
+  value: Judith M (78 years old, Room 14)
+- field_id: CHCCCS038_CB_52_2_3_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_52
+  label: Male  Female
+  table_idx: 52
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 1
+  sdt_id: '-369233977'
+  value: Judith M (78 years old, Room 14)
+- field_id: CHCCCS038_TXT_52_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_52
+  label: Name of resident or client’s representative - Details of the Resident or
+    Community Client
+  table_idx: 52
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EBCEDB0
+  value: Robert M (Son and primary family contact)
+- field_id: CHCCCS038_TXT_52_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_52
+  label: Name of resident or client’s representative - Details of the Resident or
+    Community Client
+  table_idx: 52
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3BD70C2D
+  value: Judith M (78 years old, Room 14)
+- field_id: CHCCCS038_TXT_53_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: Nature of the injury - Details of Any Injury
+  table_idx: 53
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 20D6B9E0
+  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
+    high emotional distress.
+- field_id: CHCCCS038_TXT_53_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: Immediate care given - Details of Any Injury
+  table_idx: 53
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7DBF1646
+  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
+    high emotional distress.
+- field_id: CHCCCS038_TXT_53_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: Name of medical practitioner (MP) notified - Details of Any Injury
+  table_idx: 53
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 251E5561
+  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
+    high emotional distress.
+- field_id: CHCCCS038_TXT_53_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: Name of medical practitioner (MP) notified - Details of Any Injury
+  table_idx: 53
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 121086F6
+  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
+    high emotional distress.
+- field_id: CHCCCS038_TXT_53_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: Name of attending police officers & police station - Details of Any Injury
+  table_idx: 53
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 32A12C29
+  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
+    high emotional distress.
+- field_id: CHCCCS038_TXT_53_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: Name of attending police officers & police station - Details of Any Injury
+  table_idx: 53
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 67FFD4E2
+  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
+    high emotional distress.
+- field_id: CHCCCS038_TXT_53_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: Name of the hospital if transferred - Details of Any Injury
+  table_idx: 53
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 09ACF5D1
+  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
+    high emotional distress.
+- field_id: CHCCCS038_TXT_53_5_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  label: Name of the hospital if transferred - Details of Any Injury
+  table_idx: 53
+  row_idx: 5
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3D7383ED
+  value: Bruising and 3cm skin tear on left forearm; disheveled clothing, pain, and
+    high emotional distress.
+- field_id: CHCCCS038_TXT_54_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of the injury
+
+    Factual description of the incident or alleged incident.
+
+    Please be specific, no'
+  table_idx: 54
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 261F0FE5
+  value: Judith disclosed rough handling by agency staff during morning transfer;
+    emergency call buzzer was unplugged behind bedside table; client left unattended.
+- field_id: CHCCCS038_TXT_55_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Name - Details of witness/es (Attach written statements, if there’s any)
+  table_idx: 55
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4D74B11E
+  value: Alex Chen (Support Worker) and Sarah Jenkins (Registered Nurse).
+- field_id: CHCCCS038_TXT_55_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Address - Details of witness/es (Attach written statements, if there’s any)
+  table_idx: 55
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1E4BF631
+  value: Alex Chen (Support Worker) and Sarah Jenkins (Registered Nurse).
+- field_id: CHCCCS038_TXT_55_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Address - Details of witness/es (Attach written statements, if there’s any)
+  table_idx: 55
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 68C1D862
+  value: Alex Chen (Support Worker) and Sarah Jenkins (Registered Nurse).
+- field_id: CHCCCS038_TXT_55_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Phone - Details of witness/es (Attach written statements, if there’s any)
+  table_idx: 55
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 64D118E3
+  value: Alex Chen (Support Worker) and Sarah Jenkins (Registered Nurse).
+- field_id: CHCCCS038_TXT_55_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Phone - Details of witness/es (Attach written statements, if there’s any)
+  table_idx: 55
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3827AAAA
+  value: Alex Chen (Support Worker) and Sarah Jenkins (Registered Nurse).
+- field_id: CHCCCS038_CB_56_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_56
+  label: Yes  No
+  table_idx: 56
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1968810153'
+  value: false
+- field_id: CHCCCS038_CB_56_1_1_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_56
+  label: Yes  No
+  table_idx: 56
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 1
+  sdt_id: '-353882168'
+  value: false
+- field_id: CHCCCS038_TXT_56_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_56
+  label: Incident reported to Department of Health and Ageing? - To be completed by
+    the manager
+  table_idx: 56
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 5D99BC50
+  value: ''
+- field_id: CHCCCS038_CB_56_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_56
+  label: Yes  No
+  table_idx: 56
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1399710716'
+  value: false
+- field_id: CHCCCS038_CB_56_2_1_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_56
+  label: Yes  No
+  table_idx: 56
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 1
+  sdt_id: '-1226379415'
+  value: false
+- field_id: CHCCCS038_TXT_56_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_56
+  label: Incident reported to Department of Health and Police? - To be completed by
+    the manager
+  table_idx: 56
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 2961AF89
+  value: ''
+- field_id: CHCCCS038_TXT_56_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_56
+  label: Date and time of investigation form completed - To be completed by the manager
+  table_idx: 56
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7AEA11AA
+  value: ''
+- field_id: CHCCCS038_TXT_56_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_56
+  label: Signature of manager - To be completed by the manager
+  table_idx: 56
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 58B7D861
+  value: ''
+- field_id: CHCCCS038_TXT_56_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_56
+  label: Signature of manager - To be completed by the manager
+  table_idx: 56
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 10C75175
+  value: ''
+- field_id: CHCCCS038_TXT_59_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 59 Row 2 Col 0
+  table_idx: 59
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7F055C4F
+  value: 1. Judith was left in soiled clothing for an extended period despite calling
+    for assistance.
+- field_id: CHCCCS038_TXT_59_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 59 Row 3 Col 0
+  table_idx: 59
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 26669C47
+  value: 2. Her emergency call buzzer was unplugged and out of physical reach.
+- field_id: CHCCCS038_TXT_59_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Table 59 Row 4 Col 0
+  table_idx: 59
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5F0C9657
+  value: 3. Prescribed morning medication and fluids were missed on the morning shift.
+- field_id: CHCCCS038_TXT_67_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: Need to strengthen legs - Based on the scenario provided, list one strategy
+    you can propose for each
+  table_idx: 67
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1156986C
+  value: Facilitate a consultation with a physiotherapist to design an individualised
+    strength and balance mobility program.
+- field_id: CHCCCS038_TXT_67_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_67
+  label: Need to wean off pain medication - Based on the scenario provided, list one
+    strategy you can propose
+  table_idx: 67
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5490845D
+  value: Encourage Matilda to join the weekly facility gardening group to foster friendships.
+- field_id: CHCCCS038_CB_68_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: You have completed all the Knowledge Assessments Questions.
+  table_idx: 68
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1172607243'
+  value: true
+- field_id: CHCCCS038_CB_68_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: 'You have completed the Practical Assessments in this workbook:'
+  table_idx: 68
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-367450486'
+  value: true
+- field_id: CHCCCS038_CB_68_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 1.1
+  table_idx: 68
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '622200672'
+  value: true
+- field_id: CHCCCS038_CB_68_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 1.2
+  table_idx: 68
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2053413686'
+  value: true
+- field_id: CHCCCS038_CB_68_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 1.3
+  table_idx: 68
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1503812178'
+  value: true
+- field_id: CHCCCS038_CB_68_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 1.4
+  table_idx: 68
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '649024082'
+  value: true
+- field_id: CHCCCS038_CB_68_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 2.1
+  table_idx: 68
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-553842108'
+  value: true
+- field_id: CHCCCS038_CB_68_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 2.2
+  table_idx: 68
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '637385496'
+  value: true
+- field_id: CHCCCS038_CB_68_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 2.3
+  table_idx: 68
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-517388419'
+  value: true
+- field_id: CHCCCS038_CB_68_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 3.1
+  table_idx: 68
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-482703424'
+  value: true
+- field_id: CHCCCS038_CB_68_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.1
+  label: Case Study Task 3.2
+  table_idx: 68
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '527609193'
+  value: true
+- field_id: CHCCCS038_CB_69_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.4
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 69
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '94379991'
+  value: true
+- field_id: CHCCCS038_CB_69_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.4
+  label: This completed workbook
+  table_idx: 69
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1472658093'
+  value: true
+- field_id: CHCCCS038_CB_69_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.4
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 69
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1961214800'
+  value: true
+- field_id: CHCCCS038_CB_69_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1.4
+  label: Case Study Task 1.4 Abuse Incident Report Form
+  table_idx: 69
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '786320630'
+  value: true
+- field_id: CHCCCS038_CB_71_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: The candidate has completed all the Knowledge Assessments Questions.
+  table_idx: 71
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-579901534'
+  value: false
+- field_id: CHCCCS038_CB_71_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: 'You have completed the Practical Assessments in this workbook:'
+  table_idx: 71
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2036307888'
+  value: false
+- field_id: CHCCCS038_CB_71_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 1.1
+  table_idx: 71
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2006124672'
+  value: false
+- field_id: CHCCCS038_CB_71_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 1.2
+  table_idx: 71
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1508863357'
+  value: false
+- field_id: CHCCCS038_CB_71_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 1.3
+  table_idx: 71
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1554072056'
+  value: false
+- field_id: CHCCCS038_CB_71_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 1.4
+  table_idx: 71
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1902979949'
+  value: false
+- field_id: CHCCCS038_CB_71_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 2.1
+  table_idx: 71
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2128146611'
+  value: false
+- field_id: CHCCCS038_CB_71_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 2.2
+  table_idx: 71
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1492057263'
+  value: false
+- field_id: CHCCCS038_CB_71_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 2.3
+  table_idx: 71
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '719017498'
+  value: false
+- field_id: CHCCCS038_CB_71_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 3.1
+  table_idx: 71
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2045795021'
+  value: false
+- field_id: CHCCCS038_CB_71_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Case Study Task 3.2
+  table_idx: 71
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-970287097'
+  value: false
+- field_id: CHCCCS038_CB_72_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.4
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 72
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1280181623'
+  value: false
+- field_id: CHCCCS038_CB_72_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.4
+  label: This completed workbook
+  table_idx: 72
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1016224711'
+  value: false
+- field_id: CHCCCS038_CB_72_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.4
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 72
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2008746071'
+  value: false
+- field_id: CHCCCS038_CB_72_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.4
+  label: Case Study Task 1.4 Abuse Incident Report Form
+  table_idx: 72
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1700310853'
+  value: false
+- field_id: CHCCCS038_TXT_74_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_74
+  label: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 74
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 730A0435
+  value: Alex Chen
+- field_id: CHCCCS038_TXT_74_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_74
+  label: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 74
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F1CA79
+  value: Care Connect College
+- field_id: CHCCCS038_TXT_74_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_74
+  label: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 74
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A6CEC60
+  value: 1300 123 456
+- field_id: CHCCCS038_TXT_74_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_74
+  label: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 74
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6127D83D
+  value: info@careconnectcollege.edu.au
+- field_id: CHCCCS038_TXT_74_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_74
+  label: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 74
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 165860A4
+  value: ''
+- field_id: CHCCCS038_CB_75_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 75
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1628122573'
+  value: false
+- field_id: CHCCCS038_CB_75_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 75
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '41869887'
+  value: false
+- field_id: CHCCCS038_CB_75_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 75
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1085990598'
+  value: false
+- field_id: CHCCCS038_CB_75_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 75
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1484276261'
+  value: false
+- field_id: CHCCCS038_CB_75_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 75
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631007055'
+  value: false
+- field_id: CHCCCS038_CB_75_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 75
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '132760661'
+  value: false
+- field_id: CHCCCS038_CB_75_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 75
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1814549610'
+  value: false
+- field_id: CHCCCS038_CB_75_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 75
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1261265825'
+  value: false
+- field_id: CHCCCS038_CB_75_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 1
+  table_idx: 75
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '725570037'
+  value: false
+- field_id: CHCCCS038_CB_75_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 2
+  table_idx: 75
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1166288856'
+  value: false
+- field_id: CHCCCS038_CB_75_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 1
+  table_idx: 75
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1241401644'
+  value: false
+- field_id: CHCCCS038_CB_75_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 2
+  table_idx: 75
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1015576993'
+  value: false
+- field_id: CHCCCS038_CB_75_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 1
+  table_idx: 75
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2141447646'
+  value: false
+- field_id: CHCCCS038_CB_75_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 2
+  table_idx: 75
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-676887717'
+  value: false
+- field_id: CHCCCS038_CB_75_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 1
+  table_idx: 75
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1895878625'
+  value: false
+- field_id: CHCCCS038_CB_75_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 2
+  table_idx: 75
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '2021737177'
+  value: false
+- field_id: CHCCCS038_CB_75_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 1
+  table_idx: 75
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-815728007'
+  value: false
+- field_id: CHCCCS038_CB_75_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 2
+  table_idx: 75
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1910029653'
+  value: false
+- field_id: CHCCCS038_CB_75_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 1
+  table_idx: 75
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1123764847'
+  value: false
+- field_id: CHCCCS038_CB_75_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 2
+  table_idx: 75
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-354580058'
+  value: false
+- field_id: CHCCCS038_CB_76_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 1 Col 1
+  table_idx: 76
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '775138469'
+  value: false
+- field_id: CHCCCS038_CB_76_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 1 Col 2
+  table_idx: 76
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1487007027'
+  value: false
+- field_id: CHCCCS038_CB_76_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 2 Col 1
+  table_idx: 76
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1921163801'
+  value: false
+- field_id: CHCCCS038_CB_76_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 2 Col 2
+  table_idx: 76
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1219978278'
+  value: false
+- field_id: CHCCCS038_CB_76_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 3 Col 1
+  table_idx: 76
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1545714769'
+  value: false
+- field_id: CHCCCS038_CB_76_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 3 Col 2
+  table_idx: 76
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1020845472'
+  value: false
+- field_id: CHCCCS038_CB_76_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 4 Col 1
+  table_idx: 76
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '282236639'
+  value: false
+- field_id: CHCCCS038_CB_76_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 4 Col 2
+  table_idx: 76
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1339350262'
+  value: false
+- field_id: CHCCCS038_CB_76_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 5 Col 1
+  table_idx: 76
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '943888838'
+  value: false
+- field_id: CHCCCS038_CB_76_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 5 Col 2
+  table_idx: 76
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1866893043'
+  value: false
+- field_id: CHCCCS038_CB_76_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 6 Col 1
+  table_idx: 76
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631934636'
+  value: false
+- field_id: CHCCCS038_CB_76_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 6 Col 2
+  table_idx: 76
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1722348119'
+  value: false
+- field_id: CHCCCS038_CB_76_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 7 Col 1
+  table_idx: 76
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1692104010'
+  value: false
+- field_id: CHCCCS038_CB_76_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 7 Col 2
+  table_idx: 76
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-538051330'
+  value: false
+- field_id: CHCCCS038_CB_76_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 8 Col 1
+  table_idx: 76
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '270126493'
+  value: false
+- field_id: CHCCCS038_CB_76_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 8 Col 2
+  table_idx: 76
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1806039556'
+  value: false
+- field_id: CHCCCS038_CB_77_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 2 Col 1
+  table_idx: 77
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-63487235'
+  value: false
+- field_id: CHCCCS038_CB_77_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 2 Col 2
+  table_idx: 77
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '757873382'
+  value: false
+- field_id: CHCCCS038_CB_77_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 3 Col 1
+  table_idx: 77
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-778329699'
+  value: false
+- field_id: CHCCCS038_CB_77_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 3 Col 2
+  table_idx: 77
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-993106303'
+  value: false
+- field_id: CHCCCS038_CB_77_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 4 Col 1
+  table_idx: 77
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '607162588'
+  value: false
+- field_id: CHCCCS038_CB_77_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 4 Col 2
+  table_idx: 77
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1275558271'
+  value: false
+- field_id: CHCCCS038_CB_77_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 5 Col 1
+  table_idx: 77
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '872969293'
+  value: false
+- field_id: CHCCCS038_CB_77_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 5 Col 2
+  table_idx: 77
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '824328842'
+  value: false
+- field_id: CHCCCS038_CB_77_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 6 Col 1
+  table_idx: 77
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1680191360'
+  value: false
+- field_id: CHCCCS038_CB_77_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 6 Col 2
+  table_idx: 77
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1832364543'
+  value: false
+- field_id: CHCCCS038_CB_77_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 7 Col 1
+  table_idx: 77
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-982692543'
+  value: false
+- field_id: CHCCCS038_CB_77_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 7 Col 2
+  table_idx: 77
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '509648981'
+  value: false
+- field_id: CHCCCS038_CB_77_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 8 Col 1
+  table_idx: 77
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1217167595'
+  value: false
+- field_id: CHCCCS038_CB_77_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 8 Col 2
+  table_idx: 77
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '78032864'
+  value: false
+- field_id: CHCCCS038_CB_77_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 9 Col 1
+  table_idx: 77
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1837675182'
+  value: false
+- field_id: CHCCCS038_CB_77_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 9 Col 2
+  table_idx: 77
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1658220487'
+  value: false
+- field_id: CHCCCS038_CB_77_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 10 Col 1
+  table_idx: 77
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1484281844'
+  value: false
+- field_id: CHCCCS038_CB_77_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1.1
+  label: Row 10 Col 2
+  table_idx: 77
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1986046274'
+  value: false
+- field_id: CHCCCS038_CB_78_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_78
+  label: Row 1 Col 1
+  table_idx: 78
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: CHCCCS038_CB_78_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_78
+  label: Row 1 Col 2
+  table_idx: 78
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: CHCCCS038_CB_78_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_78
+  label: Row 2 Col 1
+  table_idx: 78
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: CHCCCS038_CB_78_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_78
+  label: Row 2 Col 2
+  table_idx: 78
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: CHCCCS038_CB_78_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_78
+  label: Row 3 Col 1
+  table_idx: 78
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: CHCCCS038_CB_78_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_78
+  label: Row 3 Col 2
+  table_idx: 78
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: CHCCCS038_CB_78_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_78
+  label: Row 4 Col 1
+  table_idx: 78
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: CHCCCS038_CB_78_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_78
+  label: Row 4 Col 2
+  table_idx: 78
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: CHCCCS038_CB_79_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_79
+  label: Row 2 Col 1
+  table_idx: 79
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: CHCCCS038_CB_79_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_79
+  label: Row 3 Col 1
+  table_idx: 79
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: CHCCCS038_CB_79_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_79
+  label: Row 4 Col 1
+  table_idx: 79
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: CHCCCS038_TXT_81_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Name of Third-party Contacted
+  table_idx: 81
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A969C06
+  value: ''
+- field_id: CHCCCS038_TXT_81_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Role in the Candidate’s Assessment
+  table_idx: 81
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EEC833F
+  value: ''
+- field_id: CHCCCS038_TXT_81_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Contact Details (Phone number or email address)
+  table_idx: 81
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '29882929'
+  value: ''
+- field_id: CHCCCS038_TXT_81_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Date contacted
+  table_idx: 81
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CD14B2C
+  value: ''
+- field_id: CHCCCS038_CB_81_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_81
+  label: Yes       No   Assessor’s Notes
+  table_idx: 81
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: CHCCCS038_CB_81_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_81
+  label: Yes       No   Assessor’s Notes
+  table_idx: 81
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: CHCCCS038_TXT_81_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 81
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3273E566
+  value: ''
+- field_id: CHCCCS038_TXT_81_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Name of Third-party Contacted
+  table_idx: 81
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27B75E8F
+  value: ''
+- field_id: CHCCCS038_TXT_81_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Role in the Candidate’s Assessment
+  table_idx: 81
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40B34E2B
+  value: ''
+- field_id: CHCCCS038_TXT_81_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Contact Details (Phone number or email address)
+  table_idx: 81
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77A6665E
+  value: ''
+- field_id: CHCCCS038_TXT_81_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Date contacted
+  table_idx: 81
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1DAFA096
+  value: ''
+- field_id: CHCCCS038_CB_81_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_81
+  label: Yes       No   Assessor’s Notes
+  table_idx: 81
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: CHCCCS038_CB_81_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_81
+  label: Yes       No   Assessor’s Notes
+  table_idx: 81
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: CHCCCS038_TXT_81_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 81
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 39CAA6A2
+  value: ''
+- field_id: CHCCCS038_TXT_81_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Name of Third-party Contacted
+  table_idx: 81
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D25FAFA
+  value: ''
+- field_id: CHCCCS038_TXT_81_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Role in the Candidate’s Assessment
+  table_idx: 81
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451A30E5
+  value: ''
+- field_id: CHCCCS038_TXT_81_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Contact Details (Phone number or email address)
+  table_idx: 81
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E4BE0E3
+  value: ''
+- field_id: CHCCCS038_TXT_81_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Date contacted
+  table_idx: 81
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 08D6E752
+  value: ''
+- field_id: CHCCCS038_CB_81_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_81
+  label: Yes       No   Assessor’s Notes
+  table_idx: 81
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: CHCCCS038_CB_81_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_81
+  label: Yes       No   Assessor’s Notes
+  table_idx: 81
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: CHCCCS038_TXT_81_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 81
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18D2A67F
+  value: ''
+- field_id: CHCCCS038_TXT_81_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Name of Third-party Contacted
+  table_idx: 81
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AB2776E
+  value: ''
+- field_id: CHCCCS038_TXT_81_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Role in the Candidate’s Assessment
+  table_idx: 81
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B9C71C7
+  value: ''
+- field_id: CHCCCS038_TXT_81_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Contact Details (Phone number or email address)
+  table_idx: 81
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 23166DAF
+  value: ''
+- field_id: CHCCCS038_TXT_81_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: Date contacted
+  table_idx: 81
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19F6D647
+  value: ''
+- field_id: CHCCCS038_CB_81_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_81
+  label: Yes       No   Assessor’s Notes
+  table_idx: 81
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: CHCCCS038_CB_81_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_81
+  label: Yes       No   Assessor’s Notes
+  table_idx: 81
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: CHCCCS038_TXT_81_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_81
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 81
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3BC5CFB0
+  value: ''
+- field_id: CHCCCS038_CB_82_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 1 Col 1
+  table_idx: 82
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: CHCCCS038_CB_82_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 1 Col 2
+  table_idx: 82
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: CHCCCS038_CB_82_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 2 Col 1
+  table_idx: 82
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '77255906'
+  value: false
+- field_id: CHCCCS038_CB_82_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_82
+  label: Row 2 Col 2
+  table_idx: 82
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1240757628'
+  value: false
+- field_id: CHCCCS038_CB_83_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_83
+  label: Row 1 Col 1
+  table_idx: 83
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: CHCCCS038_CB_83_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_83
+  label: Row 1 Col 2
+  table_idx: 83
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: CHCCCS038_TXT_84_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_84
+  label: Assessor’s comments/feedback
+  table_idx: 84
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E889375
+  value: ''
+- field_id: CHCCCS038_TXT_85_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  label: Assessor’s name
+  table_idx: 85
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D877E66
+  value: ''
+- field_id: CHCCCS038_TXT_85_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  label: Assessor’s signature
+  table_idx: 85
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
+- field_id: CHCCCS038_TXT_85_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  label: Date signed
+  table_idx: 85
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56908E91
+  value: ''
+- field_id: CHCCCS038_TXT_85_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_85
+  label: Assessor’s signature
+  table_idx: 85
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''

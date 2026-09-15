@@ -1,0 +1,114 @@
+=== TABLE 0 ===: Date Summary of Modifications Version 13 January 2023 Version 1.0 released for publishing 1.0 19 January 2023 Added Case
+=== TABLE 3 ===: IMPORTANT: You must complete this Simulated Assessment before you proceed with the assessments in the Skills Workbook. T
+=== TABLE 4 ===: This is illustrated below:
+=== TABLE 5 ===: This assessment is done through simulated activities and must be completed prior to the start of your vocational placeme
+=== TABLE 6 ===: The case studies refer to the following: Hearing aid Walking stick Dentures Colostomy bag or stoma bag Cold compress Per
+=== TABLE 7 ===: Bed bathing Shaving Transferring a person in and out of car Falls recovery Taking pre-packaged medication Computer, fili
+=== TABLE 8 ===: SCENARIO You are working as a support worker at CareConnect College. CareConnect College is committed to providing high-
+=== TABLE 9 ===: SCENARIO Abraham is a new client at CareConnect College. Abraham never married and has no kids of his own. Before moving
+=== TABLE 10 ===: Access and carefully review the following: Abraham’s individualised support/care plan. CareConnect College – Client Reco
+=== TABLE 11 ===: SCENARIO After reviewing Abraham’s individualised care plan and relevant policies and procedures, you are now ready to m
+=== TABLE 12 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Meet with the client and their family and carer/s. Du
+=== TABLE 13 ===: SCENARIO Before proceeding with the support activities, you are required to conduct a risk assessment for Abraham. This 
+=== TABLE 14 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Conduct risk assessment prior to facilitating the req
+=== TABLE 15 ===: OBSERVATION FORM AND ASSESSOR’S CHECKLIST Before starting this task, review the following forms provided along with this
+=== TABLE 16 ===: Inspection completed by Location Date completed
+=== TABLE 17 ===: Likelihood of an accident occurring as a result of this hazard Potential consequence Potential consequence Potential con
+=== TABLE 18 ===: AREA Likelihood of risk occurring Consequence of risk Risk rating Comments
+=== TABLE 19 ===: Bathroom (all bathrooms in the client’s residence) Bathroom (all bathrooms in the client’s residence) Bathroom (all bath
+=== TABLE 20 ===: Other comments Recommendations
+=== TABLE 21 ===: SCENARIO As per his care plan, Abraham will require the following aids, devices/appliances, and equipment: Hearing aid D
+=== TABLE 22 ===: While being observed by your assessor, prepare, and assemble aids, devices/appliances, and equipment required by the cli
+=== TABLE 23 ===: SCENARIO After completing the necessary preparations, you are now ready to facilitate the following support activities f
+=== TABLE 24 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Facilitate the following support activities for the c
+=== TABLE 25 ===: OBSERVATION FORM Before starting this task, review the Case Study 1 Task 1.5 – Observation Form provided along with this
+=== TABLE 26 ===: SCENARIO After facilitating the support activities for Abraham, you will need to meet with him to get his feedback and i
+=== TABLE 27 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Meet with the client to monitor the effectiveness of 
+=== TABLE 28 ===: OBSERVATION FORM & ASSESSOR’S CHECKLIST Before starting this task, review the following forms provided along with this w
+=== TABLE 29 ===: Date and time
+  R0C1 (ff=1): 
+=== TABLE 30 ===: Name Address
+  R0C1 (ff=1): 
+  R1C1 (ff=1): 
+=== TABLE 31 ===: Name Position title
+  R0C1 (ff=1): 
+  R1C1 (ff=1): 
+=== TABLE 32 ===: 
+  R0C0 (ff=1): 
+  R1C0 (ff=1): 
+  R2C0 (ff=1): 
+=== TABLE 33 ===: Reviewer/Health Professional’s signature
+  R0C0 (ff=1): 
+  R0C1 (ff=1): 
+  R1C0 (ff=1): 
+  R1C1 (ff=1): 
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C1 (ff=1): 
+=== TABLE 34 ===: SCENARIO After meeting with Abraham, you will need to meet with your supervisor to report the outcomes of your discussio
+=== TABLE 35 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Meet with your supervisor to report the outcomes of y
+=== TABLE 36 ===: YOU WILL BE ASSESSED ON YOUR Practical knowledge of the person’s individualised support/care plan and relevant service s
+=== TABLE 37 ===: SCENARIO Henry is 76 years old and lives with Florence, his wife, in an apartment they have had for the past 20 years. H
+=== TABLE 38 ===: Access and carefully review the following: Henry’s individualised support/care plan. CareConnect College – Client Record
+=== TABLE 39 ===: SCENARIO After reviewing Henry’s individualised care plan and relevant policies and procedures, you are now ready to mee
+=== TABLE 40 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Meet with the client and their family and carer/s. Du
+=== TABLE 41 ===: SCENARIO Before proceeding with the support activities, you are required to conduct a risk assessment for Henry. This wi
+=== TABLE 42 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Conduct risk assessment prior to facilitating the req
+=== TABLE 43 ===: OBSERVATION FORM AND ASSESSOR’S CHECKLIST Before starting this task, review the following forms provided along with this
+=== TABLE 44 ===: Inspection completed by Location Date completed
+=== TABLE 45 ===: Likelihood of an accident occurring as a result of this hazard Potential consequence Potential consequence Potential con
+=== TABLE 46 ===: AREA Likelihood of risk occurring Consequence of risk Risk rating Comments
+=== TABLE 47 ===: Bathroom (all bathrooms in the client’s residence) Bathroom (all bathrooms in the client’s residence) Bathroom (all bath
+=== TABLE 48 ===: Other comments Recommendations
+=== TABLE 49 ===: SCENARIO As per his care plan, Henry will require the following aids, devices/appliances, and equipment: Colostomy bag P
+=== TABLE 50 ===: While being observed by your assessor, prepare, and assemble aids, devices/appliances, and equipment required by the cli
+=== TABLE 51 ===: YOUR ASSESSOR WILL Organise access to the environment and resources required to complete this assessment, including: Aid
+=== TABLE 52 ===: SCENARIO After completing the necessary preparations, you are now ready to facilitate the following support activities f
+=== TABLE 53 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Facilitate the following support activities for the c
+=== TABLE 54 ===: While completing this task, ensure that you: Follow Henry’s individualised support/care plan. Follow the organisation’s 
+=== TABLE 55 ===: Advise you on the time and location of the assessment. Discuss with you the practical skills listed in the Observation F
+=== TABLE 56 ===: SCENARIO After facilitating the support activities for Henry, you will need to meet with him to get his feedback and ins
+=== TABLE 57 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Meet with the client to monitor the effectiveness of 
+=== TABLE 58 ===: OBSERVATION FORM & ASSESSOR’S CHECKLIST Before starting this task, review the following forms provided along with this w
+=== TABLE 59 ===: Date and time
+  R0C1 (ff=1): 
+=== TABLE 60 ===: Name Address
+  R0C1 (ff=1): 
+  R1C1 (ff=1): 
+=== TABLE 61 ===: Name Position title
+  R0C1 (ff=1): 
+  R1C1 (ff=1): 
+=== TABLE 62 ===: 
+  R0C0 (ff=1): 
+  R1C0 (ff=1): 
+  R2C0 (ff=1): 
+=== TABLE 63 ===: Reviewer/Health Professional’s signature
+  R0C0 (ff=1): 
+  R0C1 (ff=1): 
+  R1C0 (ff=1): 
+  R1C1 (ff=1): 
+  R2C0 (ff=1): 
+  R2C1 (ff=1): 
+  R3C1 (ff=1): 
+=== TABLE 64 ===: SCENARIO After meeting with Henry, you will need to meet with your supervisor to report the outcomes of your discussion 
+=== TABLE 65 ===: This part of the assessment is a Role Play Activity. STEPS TO TAKE Meet with your supervisor to report the outcomes of y
+=== TABLE 66 ===: YOU WILL BE ASSESSED ON YOUR Practical knowledge of the person’s individualised support/care plan and relevant service s
+=== TABLE 67 ===: SCENARIO In this part of the assessment, you have been requested to demonstrate the use of the following equipment to a 
+=== TABLE 68 ===: While being observed by your assessor, demonstrate the use of the following equipment: Slide sheets Hoist with slings St
+=== TABLE 69 ===: Outline the procedures for providing support in bed bathing, including preparing for the bath and during the bed bath. B
+  R3C0 (ff=5): Add more rows as needed.
+  R3C1 (ff=5): Add more rows as needed.
+=== TABLE 70 ===: During the bed bath Add more rows as needed.
+  R1C0 (ff=5): Add more rows as needed.
+=== TABLE 71 ===: Outline the procedures for providing support in shaving. Base your responses on the individualised plans you followed in
+  R2C0 (ff=5): Add more rows as needed.
+  R2C1 (ff=5): Add more rows as needed.
+=== TABLE 72 ===: Outline the procedures for safe manual handling for transferring in and out of a car. Outline the procedures for safe ma
+  R3C0 (ff=5): Add more rows as needed.
+  R3C1 (ff=5): Add more rows as needed.
+  R3C2 (ff=5): Add more rows as needed.
+=== TABLE 73 ===: Transferring the client out of the car Add more rows as needed.
+  R1C0 (ff=5): Add more rows as needed.
+=== TABLE 74 ===: Outline the procedures for safe manual handling for assisting a person in falls recovery. Add more rows as needed. Add m
+  R2C0 (ff=5): Add more rows as needed.
+  R2C1 (ff=5): Add more rows as needed.

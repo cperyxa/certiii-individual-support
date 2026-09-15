@@ -1,0 +1,5466 @@
+unit: CHCAGE011
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@careconnect.edu.au
+  rto: Care Connect College
+  rto_phone: 1300 123 456
+  rto_email: info@careconnect.edu.au
+  workplace: Care Connect Services
+  state: New South Wales
+  date: 15/09/2026
+fields:
+- field_id: CHCAGE011_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: First and Last Name - CHCAGE011
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 36DD8154
+  value: Alex Chen
+- field_id: CHCAGE011_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: Phone - CHCAGE011
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 03F782DD
+  value: 0412 345 678
+- field_id: CHCAGE011_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  prompt: Email - CHCAGE011
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 24752FAC
+  value: alex.chen@careconnect.edu.au
+- field_id: CHCAGE011_TXT_2_1_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  prompt: 'Name:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 602B0F0F
+  value: Alex Chen
+- field_id: CHCAGE011_TXT_2_1_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  prompt: 'Signature:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6EED9427
+  value: Alex Chen
+- field_id: CHCAGE011_TXT_2_1_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  prompt: 'Date signed:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5F091D23
+  value: 15/09/2026
+- field_id: CHCAGE011_TXT_3_2_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: Identify three tests currently used to diagnose dementia.
+  table_idx: 3
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1BAB25D8
+  value: 'Montreal Cognitive Assessment (MoCA): Assesses short-term memory, executive functioning, visuospatial abilities, language, and abstraction.'
+- field_id: CHCAGE011_TXT_3_2_0_2
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: Identify three tests currently used to diagnose dementia.
+  table_idx: 3
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7FD5257D
+  value: 'Montreal Cognitive Assessment (MoCA): Assesses short-term memory, executive functioning, visuospatial abilities, language, and abstraction.'
+- field_id: CHCAGE011_TXT_3_2_0_3
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: Identify three tests currently used to diagnose dementia.
+  table_idx: 3
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 0FD79C59
+  value: 'Montreal Cognitive Assessment (MoCA): Assesses short-term memory, executive functioning, visuospatial abilities, language, and abstraction.'
+- field_id: CHCAGE011_CB_3_3_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Answer the following
+  label: 'True or false: There is a cure for dementia  True      False'
+  table_idx: 3
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1232380829'
+  value: false
+- field_id: CHCAGE011_CB_3_3_0_2
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Answer the following
+  label: 'True or false: There is a cure for dementia  True      False'
+  table_idx: 3
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  sdt_id: '1596587748'
+  value: true
+- field_id: CHCAGE011_TXT_3_4_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: Identify the three current treatments that researchers are currently working on to help stop or slow down the progression of symptoms of dementia.
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1DF08054
+  value: Early diagnosis enables proactive care planning, timely therapeutic intervention, access to support services, and client involvement in advanced care directives.
+- field_id: CHCAGE011_TXT_3_4_0_2
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: Identify the three current treatments that researchers are currently working on to help stop or slow down the progression of symptoms of dementia.
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 34E74EC4
+  value: Early diagnosis enables proactive care planning, timely therapeutic intervention, access to support services, and client involvement in advanced care directives.
+- field_id: CHCAGE011_TXT_3_4_0_3
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: Identify the three current treatments that researchers are currently working on to help stop or slow down the progression of symptoms of dementia.
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 2E77E63E
+  value: Early diagnosis enables proactive care planning, timely therapeutic intervention, access to support services, and client involvement in advanced care directives.
+- field_id: CHCAGE011_TXT_3_5_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Complete the statement below:
+
+    Research on caring for people with dementia aims to . It also aims to support  and .'
+  table_idx: 3
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D520E24
+  value: Biomarker imaging (Amyloid and Tau PET scans) and cerebrospinal fluid (CSF) or plasma biomarker analysis.
+- field_id: CHCAGE011_TXT_3_5_0_2
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Complete the statement below:
+
+    Research on caring for people with dementia aims to . It also aims to support  and .'
+  table_idx: 3
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4D520E24
+  value: Biomarker imaging (Amyloid and Tau PET scans) and cerebrospinal fluid (CSF) or plasma biomarker analysis.
+- field_id: CHCAGE011_TXT_3_5_0_3
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Complete the statement below:
+
+    Research on caring for people with dementia aims to . It also aims to support  and .'
+  table_idx: 3
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 4D520E24
+  value: Biomarker imaging (Amyloid and Tau PET scans) and cerebrospinal fluid (CSF) or plasma biomarker analysis.
+- field_id: CHCAGE011_TXT_4_2_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Complete the statement below:
+
+    Dementia is caused by  or loss of  and their connections in the .'
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6915CA97
+  value: 'Vascular disease: Multiple cerebral infarctions, strokes, and atherosclerosis reducing cerebral oxygenation and damaging neural pathways.'
+- field_id: CHCAGE011_TXT_4_2_0_2
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Complete the statement below:
+
+    Dementia is caused by  or loss of  and their connections in the .'
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6915CA97
+  value: 'Vascular disease: Multiple cerebral infarctions, strokes, and atherosclerosis reducing cerebral oxygenation and damaging neural pathways.'
+- field_id: CHCAGE011_TXT_4_2_0_3
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: 'Complete the statement below:
+
+    Dementia is caused by  or loss of  and their connections in the .'
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 6915CA97
+  value: 'Vascular disease: Multiple cerebral infarctions, strokes, and atherosclerosis reducing cerebral oxygenation and damaging neural pathways.'
+- field_id: CHCAGE011_TXT_4_3_0_1
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: List three common causes of dementia.
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7423C111
+  value: 'Genetic mutation: Familial mutations in APP, PSEN1, and PSEN2 genes leading to early-onset neurodegeneration.'
+- field_id: CHCAGE011_TXT_4_3_0_2
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: List three common causes of dementia.
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2EFB049E
+  value: 'Genetic mutation: Familial mutations in APP, PSEN1, and PSEN2 genes leading to early-onset neurodegeneration.'
+- field_id: CHCAGE011_TXT_4_3_0_3
+  type: text
+  section: Preliminary Task
+  question_ref: Answer the following
+  prompt: List three common causes of dementia.
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 725EB371
+  value: 'Genetic mutation: Familial mutations in APP, PSEN1, and PSEN2 genes leading to early-onset neurodegeneration.'
+- field_id: CHCAGE011_TXT_5_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  prompt: Alzheimer's disease - Describe the following types of dementia.
+  table_idx: 5
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 503A0E26
+  value: 'Frontotemporal Dementia: Early onset degeneration of frontal and temporal lobes, causing pronounced personality changes, behavioural disinhibition, and aphasia.'
+- field_id: CHCAGE011_TXT_5_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  prompt: Vascular dementia - Describe the following types of dementia.
+  table_idx: 5
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 47E5A2E8
+  value: 'Vascular dementia: Caused by reduced cerebral blood flow due to stroke, arteriosclerosis, or small vessel disease, leading to a stepwise decline in cognitive function, executive planning, and motor coordination.'
+- field_id: CHCAGE011_TXT_5_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  prompt: Multi-infarct dementia (a form of vascular dementia) - Describe the following types of dementia.
+  table_idx: 5
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 78557F42
+  value: 'Multi-infarct dementia: A specific form of vascular dementia caused by multiple successive mini-strokes (transient ischemic attacks) damaging localized areas of brain tissue.'
+- field_id: CHCAGE011_TXT_6_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Lewy bodies dementia - Description
+  table_idx: 6
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 13DDF173
+  value: 'Lewy Body Dementia: Cognitive decline marked by recurrent visual hallucinations, parkinsonian motor symptoms (rigidity, tremor), and marked fluctuations in attention.'
+- field_id: CHCAGE011_TXT_6_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Korsakov Syndrome - Description
+  table_idx: 6
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 110B3823
+  value: 'Korsakoff Syndrome: Severe chronic memory disorder caused by thiamine (Vitamin B1) deficiency, frequently linked to prolonged alcohol abuse, causing anterograde amnesia and confabulation.'
+- field_id: CHCAGE011_TXT_6_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Frontotemporal lobar degeneration (FLTD) - Description
+  table_idx: 6
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1F2E051F
+  value: 'Frontotemporal lobar degeneration: Atrophy in the frontotemporal cortices resulting in progressive language impairment (primary progressive aphasia) or social conduct deterioration.'
+- field_id: CHCAGE011_TXT_6_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Huntington's disease - Description
+  table_idx: 6
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 75890EBF
+  value: 'Huntington''s disease: An inherited autosomal dominant neurodegenerative genetic disorder causing progressive chorea (involuntary movements), emotional disturbances, and cognitive decline.'
+- field_id: CHCAGE011_TXT_6_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Parkinson's Disease - Description
+  table_idx: 6
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 10A2DBD9
+  value: 'Parkinson''s Disease: A neurodegenerative disease characterized by loss of dopamine-producing brain cells, producing tremor, bradykinesia, rigidity, and late-stage dementia with Lewy bodies.'
+- field_id: CHCAGE011_TXT_6_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  prompt: Younger onset dementia - Description
+  table_idx: 6
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12CABC9B
+  value: 'Younger onset dementia: Dementia diagnosed in individuals under the age of 65, often presenting with significant atypical behavioural or linguistic changes and profound socioeconomic impact.'
+- field_id: CHCAGE011_TXT_7_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Explain how dementia is a progressive neurological condition.
+  table_idx: 7
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2F57BD1E
+  value: Amyloid plaques are extracellular deposits composed of misfolded insoluble beta-amyloid peptide aggregates that accumulate between nerve cells.
+- field_id: CHCAGE011_TXT_7_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: What are amyloid plaques?
+  table_idx: 7
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7BB84B4D
+  value: Plaques disrupt inter-neuronal chemical communication, trigger neuroinflammation, and activate microglial immune responses that damage surrounding synapses.
+- field_id: CHCAGE011_TXT_7_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: How do amyloid plaques contribute to the progression of dementia?
+  table_idx: 7
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 71DDBDCC
+  value: Amyloid plaques accumulate between neurons, disrupting synaptic communication, triggering chronic localized neuroinflammation, and activating microglia that destroy surrounding neural pathways.
+- field_id: CHCAGE011_TXT_8_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: What are neurofibrillary tangles?
+  table_idx: 8
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 650B4FC7
+  value: Neurofibrillary tangles are abnormal intracellular accumulations of hyperphosphorylated tau protein inside neurons.
+- field_id: CHCAGE011_TXT_8_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: What happens to tau proteins when neurofibrillary tangles occur in people with dementia?
+  table_idx: 8
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 14EC1E8B
+  value: Neurofibrillary tangles are abnormal intracellular accumulations of hyperphosphorylated tau protein inside neurons.
+- field_id: CHCAGE011_TXT_8_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: How do amyloid plaques and neurofibrillary tangles contribute to the loss of connection between cells to other parts of the body?
+  table_idx: 8
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 278798A4
+  value: Tau protein detaches from microtubules and tangles into insoluble filaments, causing internal transport systems to collapse and leading to cell death.
+- field_id: CHCAGE011_TXT_8_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: Complete the diagram below by listing the four key events that happen in cell death in people with dementia.
+  table_idx: 8
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 17A2AA4E
+  value: Progressive cerebral cortex atrophy and ventricular enlargement.
+- field_id: CHCAGE011_TXT_8_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: Complete the diagram below by listing the four key events that happen in cell death in people with dementia.
+  table_idx: 8
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 566C3ACA
+  value: Progressive cerebral cortex atrophy and ventricular enlargement.
+- field_id: CHCAGE011_TXT_8_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: Complete the diagram below by listing the four key events that happen in cell death in people with dementia.
+  table_idx: 8
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 11184A07
+  value: Progressive cerebral cortex atrophy and ventricular enlargement.
+- field_id: CHCAGE011_TXT_8_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_8
+  prompt: Complete the diagram below by listing the four key events that happen in cell death in people with dementia.
+  table_idx: 8
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 6BDC9E92
+  value: Progressive cerebral cortex atrophy and ventricular enlargement.
+- field_id: CHCAGE011_TXT_9_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: Table 9 Row 3 Col 0
+  table_idx: 9
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7AA67EBC
+  value: 'Disorientation: Confusion regarding the current time, day, season, and becoming lost in familiar environments.'
+- field_id: CHCAGE011_TXT_9_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: Table 9 Row 4 Col 0
+  table_idx: 9
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 793B62E6
+  value: 'Indicator: Neglect of personal hygiene, unwashed clothing, and skipping meals.'
+- field_id: CHCAGE011_TXT_9_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: Table 9 Row 5 Col 0
+  table_idx: 9
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5EA04219
+  value: 'Indicator: Uncharacteristic mood swings, withdrawal from social hobbies, and sudden paranoia.'
+- field_id: CHCAGE011_TXT_9_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: Table 9 Row 7 Col 0
+  table_idx: 9
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 70BC3495
+  value: 'Progressive aphasia: Increasing difficulty understanding or expressing spoken and written words.'
+- field_id: CHCAGE011_TXT_9_8_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: Table 9 Row 8 Col 0
+  table_idx: 9
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7875DC47
+  value: 'Apraxia: Inability to execute purposeful motor movements (e.g. buttoning a shirt) despite intact physical ability.'
+- field_id: CHCAGE011_TXT_9_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  prompt: Table 9 Row 9 Col 0
+  table_idx: 9
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2E841752
+  value: 'Agnosia: Failure to recognize familiar objects, sounds, or faces (e.g. not recognizing a comb or close family member).'
+- field_id: CHCAGE011_TXT_10_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five types of behaviours of concern for people living with dementia.
+  table_idx: 10
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 30CAD6A4
+  value: 'Agitation: Restlessness, pacing, shouting, or emotional distress often triggered by environmental overstimulation.'
+- field_id: CHCAGE011_TXT_10_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five types of behaviours of concern for people living with dementia.
+  table_idx: 10
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 70991BAE
+  value: 'Agitation: Restlessness, pacing, shouting, or emotional distress often triggered by environmental overstimulation.'
+- field_id: CHCAGE011_TXT_10_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five types of behaviours of concern for people living with dementia.
+  table_idx: 10
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 3CC7D4B4
+  value: 'Agitation: Restlessness, pacing, shouting, or emotional distress often triggered by environmental overstimulation.'
+- field_id: CHCAGE011_TXT_10_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five types of behaviours of concern for people living with dementia.
+  table_idx: 10
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 714113D3
+  value: 'Agitation: Restlessness, pacing, shouting, or emotional distress often triggered by environmental overstimulation.'
+- field_id: CHCAGE011_TXT_10_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: How can you identify potential triggers of behaviours of concern in people living with dementia?
+  table_idx: 10
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 53A399AD
+  value: 'Sundowning: Increased confusion, anxiety, and restlessness in the late afternoon and evening.'
+- field_id: CHCAGE011_TXT_10_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: The following are types of triggers of behaviours of concern. Identify one example of a trigger for each type.
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 654EE4E0
+  value: 'Vocal disruption: Repetitive shouting, calling out for family, or groaning expressing underlying discomfort.'
+- field_id: CHCAGE011_TXT_10_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: The following are types of triggers of behaviours of concern. Identify one example of a trigger for each type.
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4334BA2D
+  value: 'Vocal disruption: Repetitive shouting, calling out for family, or groaning expressing underlying discomfort.'
+- field_id: CHCAGE011_TXT_10_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: The following are types of triggers of behaviours of concern. Identify one example of a trigger for each type.
+  table_idx: 10
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: '37308688'
+  value: 'Vocal disruption: Repetitive shouting, calling out for family, or groaning expressing underlying discomfort.'
+- field_id: CHCAGE011_TXT_11_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: Explain how behaviours can be an indicator of unmet needs in people living with dementia.
+  table_idx: 11
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 65708D00
+  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+- field_id: CHCAGE011_TXT_11_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Provide one example of behaviours that may be an indicator of unmet needs in each of the following:'
+  table_idx: 11
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4E67EE31
+  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+- field_id: CHCAGE011_TXT_11_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Provide one example of behaviours that may be an indicator of unmet needs in each of the following:'
+  table_idx: 11
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 28224AE8
+  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+- field_id: CHCAGE011_TXT_11_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: 'Provide one example of behaviours that may be an indicator of unmet needs in each of the following:'
+  table_idx: 11
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 7DDDA7DE
+  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+- field_id: CHCAGE011_TXT_11_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  prompt: How does a person’s environment impact behaviours of concern?
+  table_idx: 11
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5C038191
+  value: Validation therapy involves accepting and acknowledging the person's subjective feelings and reality rather than attempting reality reorientation or arguing.
+- field_id: CHCAGE011_TXT_12_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: What are restrictive practices?
+  table_idx: 12
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 19B7B418
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify five forms of restrictive practices.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 23017F9E
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify five forms of restrictive practices.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0B899D5A
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify five forms of restrictive practices.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 39664E14
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify five forms of restrictive practices.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 24CE1A94
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify five forms of restrictive practices.
+  table_idx: 12
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 11DE53EB
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the three legislative instruments that set out the conditions under which regulated restrictive practices can be used.
+  table_idx: 12
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0687F1BC
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the three legislative instruments that set out the conditions under which regulated restrictive practices can be used.
+  table_idx: 12
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2851631C
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_4_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Identify the three legislative instruments that set out the conditions under which regulated restrictive practices can be used.
+  table_idx: 12
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 0990CAA9
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five examples of conditions under which regulated restrictive practices can be used according to the three legislative instruments you identified
+  table_idx: 12
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 09C9E5DB
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five examples of conditions under which regulated restrictive practices can be used according to the three legislative instruments you identified
+  table_idx: 12
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2183B07E
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_5_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five examples of conditions under which regulated restrictive practices can be used according to the three legislative instruments you identified
+  table_idx: 12
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 2
+  para_id: '54169283'
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_5_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five examples of conditions under which regulated restrictive practices can be used according to the three legislative instruments you identified
+  table_idx: 12
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 00FF8309
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_12_5_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List five examples of conditions under which regulated restrictive practices can be used according to the three legislative instruments you identified
+  table_idx: 12
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 158EFA30
+  value: Reminiscence therapy uses sensory prompts (photos, music, familiar objects) to encourage the person to talk about past positive memories, enhancing self-worth and mood.
+- field_id: CHCAGE011_TXT_13_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: The National Framework for Reducing and Eliminating the Use of Restrictive Practices in the Disability Service Sector identified six core strategies f
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7D061C25
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: The National Framework for Reducing and Eliminating the Use of Restrictive Practices in the Disability Service Sector identified six core strategies f
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6E72A762
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: The National Framework for Reducing and Eliminating the Use of Restrictive Practices in the Disability Service Sector identified six core strategies f
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 69F28E40
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: The National Framework for Reducing and Eliminating the Use of Restrictive Practices in the Disability Service Sector identified six core strategies f
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 1948139B
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: The National Framework for Reducing and Eliminating the Use of Restrictive Practices in the Disability Service Sector identified six core strategies f
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 7D24D96D
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_0_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: The National Framework for Reducing and Eliminating the Use of Restrictive Practices in the Disability Service Sector identified six core strategies f
+  table_idx: 13
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 3FBF6715
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: 'Complete the statement below:
+
+    Where an NDIS participant’s behaviours of concern place themselves or others at risk of harm, and subsequently a regulat'
+  table_idx: 13
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 747F0DFE
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: 'Complete the statement below:
+
+    Where an NDIS participant’s behaviours of concern place themselves or others at risk of harm, and subsequently a regulat'
+  table_idx: 13
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 747F0DFE
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: When restrictive practices are used as part of a person’s behaviour support plan, the plan must contain three positive strategies. List these strategi
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 59A7DCB8
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: When restrictive practices are used as part of a person’s behaviour support plan, the plan must contain three positive strategies. List these strategi
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 17CB6965
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: When restrictive practices are used as part of a person’s behaviour support plan, the plan must contain three positive strategies. List these strategi
+  table_idx: 13
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 74BB43DA
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_13_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  prompt: Explain the ethical considerations relating to the use of restrictive practices.
+  table_idx: 13
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56A00AC9
+  value: Speak in a calm, soothing voice; use short, simple sentences; maintain friendly eye contact; allow ample processing time; and use gentle reassuring gestures.
+- field_id: CHCAGE011_TXT_14_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: In relation to the use of restrictive practices, identify three rights of older people that should be upheld in accordance with the Universal Declarat
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 08042FB1
+  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+- field_id: CHCAGE011_TXT_14_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: In relation to the use of restrictive practices, identify three rights of older people that should be upheld in accordance with the Universal Declarat
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4F192CC2
+  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+- field_id: CHCAGE011_TXT_14_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: In relation to the use of restrictive practices, identify three rights of older people that should be upheld in accordance with the Universal Declarat
+  table_idx: 14
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 5E7C350D
+  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+- field_id: CHCAGE011_TXT_14_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: 'Complete the statement below:
+
+    According to Sections 14 and 15 of the NDIS Restrictive Practices and Behaviour Support Rules 2018, NDIS providers imple'
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6EB74BDF
+  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+- field_id: CHCAGE011_TXT_14_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: 'Complete the statement below:
+
+    According to Sections 14 and 15 of the NDIS Restrictive Practices and Behaviour Support Rules 2018, NDIS providers imple'
+  table_idx: 14
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6EB74BDF
+  value: Non-verbal communication includes facial expressions, warm smile, relaxed open posture, gentle touch on forearm, and nodding to show empathy.
+- field_id: CHCAGE011_TXT_15_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2D3B4B4D
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_15_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1DD3090B
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_15_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 440EB613
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_15_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 0E2079FE
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_15_2_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 0EF4ABCA
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_15_2_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 5CF8A445
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_15_2_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 49C2D89C
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_15_2_0_8
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 7
+  para_id: 7F6EB975
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_15_2_0_9
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide two examples of indicators that will help you recognise the following conditions.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 8
+  para_id: 55CDAA26
+  value: Unmet needs such as undetected physical pain, urinary tract infections, hunger, thirst, full bladder, feeling cold, fatigue, or boredom.
+- field_id: CHCAGE011_TXT_16_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: Explain how indicators of conditions, such as injuries, infection, illness, and pain, may affect a person’s behaviour.
+  table_idx: 16
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 76B614BA
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: List three steps you may follow when reporting indicators of conditions to your supervisor verbally or face-to-face.
+  table_idx: 16
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 32DDE3C5
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: List three steps you may follow when reporting indicators of conditions to your supervisor verbally or face-to-face.
+  table_idx: 16
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5A331D0E
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: List three steps you may follow when reporting indicators of conditions to your supervisor verbally or face-to-face.
+  table_idx: 16
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 1BB8EAE5
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: 'A written report must be completed after verbally reporting indicators of conditions to the supervisor.
+
+    List two steps that you may follow when comple'
+  table_idx: 16
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7801CDD1
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: 'A written report must be completed after verbally reporting indicators of conditions to the supervisor.
+
+    List two steps that you may follow when comple'
+  table_idx: 16
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 10B3E7BA
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: List five items that must be included when documenting changes in the client’s health or wellbeing.
+  table_idx: 16
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1D60D5D5
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: List five items that must be included when documenting changes in the client’s health or wellbeing.
+  table_idx: 16
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6FD06DCC
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: List five items that must be included when documenting changes in the client’s health or wellbeing.
+  table_idx: 16
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 4E751C71
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: List five items that must be included when documenting changes in the client’s health or wellbeing.
+  table_idx: 16
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 73EADA3F
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_16_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_16
+  prompt: List five items that must be included when documenting changes in the client’s health or wellbeing.
+  table_idx: 16
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 071EBE1A
+  value: 'Abbey Pain Scale: Evaluates non-verbal cues including vocalization, facial grimacing, change in body language, physiological indicators, and physical changes.'
+- field_id: CHCAGE011_TXT_18_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Loss and grieving - …on the person living with dementia
+  table_idx: 18
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5C99F0BD
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Loss and grieving - …on the person’s carer and family
+  table_idx: 18
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 56A942BD
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Anger - …on the person living with dementia
+  table_idx: 18
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7C09C54E
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Anger - …on the person’s carer and family
+  table_idx: 18
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 338D9A18
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Despair - …on the person living with dementia
+  table_idx: 18
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 49E31B85
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Despair - …on the person’s carer and family
+  table_idx: 18
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 28A3ACA9
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Self-harm - …on the person living with dementia
+  table_idx: 18
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1DAAC1A5
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Self-harm - …on the person’s carer and family
+  table_idx: 18
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3AD3A086
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Delirium - …on the person living with dementia
+  table_idx: 18
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7BE8AE45
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Delirium - …on the person’s carer and family
+  table_idx: 18
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '28728447'
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_7_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Depression - …on the person living with dementia
+  table_idx: 18
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1B7688F0
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Depression - …on the person’s carer and family
+  table_idx: 18
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2D702911
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_8_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Suicidal ideation - …on the person living with dementia
+  table_idx: 18
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 168328C6
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_8_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Suicidal ideation - …on the person’s carer and family
+  table_idx: 18
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 40BFF724
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_9_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Dysphagia - …on the person living with dementia
+  table_idx: 18
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 59CCACF5
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_9_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Dysphagia - …on the person’s carer and family
+  table_idx: 18
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1C140640
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_10_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Loss of inhibition - …on the person living with dementia
+  table_idx: 18
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4CBAFC45
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_10_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: 'Provide only one response for loss of inhibition and social embarrassment:'
+  table_idx: 18
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3C6CBEC7
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_11_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: Social embarrassment - …on the person living with dementia
+  table_idx: 18
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 49682BFE
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_18_11_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  prompt: 'Provide only one response for loss of inhibition and social embarrassment:'
+  table_idx: 18
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3C6CBEC7
+  value: Clear pictorial and bold text signage at eye level on bathroom and bedroom doors, and high color contrast between toilet seat, walls, and flooring.
+- field_id: CHCAGE011_TXT_19_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: Loss of speech and cognition - …on the person living with dementia
+  table_idx: 19
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1144020B
+  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+- field_id: CHCAGE011_TXT_19_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: Loss of speech and cognition - …on the person’s carer and family
+  table_idx: 19
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 790F1AA9
+  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+- field_id: CHCAGE011_TXT_19_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: Social devaluation - …on the person living with dementia
+  table_idx: 19
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4153E540
+  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+- field_id: CHCAGE011_TXT_19_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: Social devaluation - …on the person’s carer and family
+  table_idx: 19
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4A8EADED
+  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+- field_id: CHCAGE011_TXT_19_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: Isolation - …on the person living with dementia
+  table_idx: 19
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 249F5BC2
+  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+- field_id: CHCAGE011_TXT_19_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: Isolation - …on the person’s carer and family
+  table_idx: 19
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7AA9D222
+  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+- field_id: CHCAGE011_TXT_19_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: Aggression toward carer, family, or others - …on the person living with dementia
+  table_idx: 19
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7CE070D9
+  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+- field_id: CHCAGE011_TXT_19_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_19
+  prompt: Include in your response its impact on the carer, family, and other people.
+  table_idx: 19
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4956430C
+  value: Even, glare-free natural lighting, minimizing loud background television/radio noise, and providing quiet, comforting sensory break spaces.
+- field_id: CHCAGE011_TXT_20_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 20 Row 2 Col 0
+  table_idx: 20
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6E0BFE03
+  value: Maintain consistent daily care routines, familiar caregivers, and keep personal mementos and family photographs prominently visible.
+- field_id: CHCAGE011_TXT_20_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 20 Row 3 Col 0
+  table_idx: 20
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 31EC04C5
+  value: Maintain consistent daily care routines, familiar caregivers, and keep personal mementos and family photographs prominently visible.
+- field_id: CHCAGE011_TXT_20_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 20 Row 4 Col 0
+  table_idx: 20
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 31D808BB
+  value: Maintain consistent daily care routines, familiar caregivers, and keep personal mementos and family photographs prominently visible.
+- field_id: CHCAGE011_TXT_21_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  prompt: "Accommodation - Listed below are psychosocial issues that people living with dementia face or experience. \nExplain how each issue affects people livin"
+  table_idx: 21
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 39F7281A
+  value: Dignity of risk allows the person living with dementia to engage in chosen meaningful activities (e.g. supervised gardening, folding towels) while managing risks safely.
+- field_id: CHCAGE011_TXT_21_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  prompt: "Financial - Listed below are psychosocial issues that people living with dementia face or experience. \nExplain how each issue affects people living wi"
+  table_idx: 21
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 21E805F7
+  value: Dignity of risk allows the person living with dementia to engage in chosen meaningful activities (e.g. supervised gardening, folding towels) while managing risks safely.
+- field_id: CHCAGE011_TXT_21_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  prompt: "Increased vulnerability to abuse - Listed below are psychosocial issues that people living with dementia face or experience. \nExplain how each issue a"
+  table_idx: 21
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 36BE1250
+  value: Dignity of risk allows the person living with dementia to engage in chosen meaningful activities (e.g. supervised gardening, folding towels) while managing risks safely.
+- field_id: CHCAGE011_TXT_21_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_21
+  prompt: "Increased vulnerability to exploitation - Listed below are psychosocial issues that people living with dementia face or experience. \nExplain how each "
+  table_idx: 21
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5B5E3715
+  value: Dignity of risk allows the person living with dementia to engage in chosen meaningful activities (e.g. supervised gardening, folding towels) while managing risks safely.
+- field_id: CHCAGE011_TXT_22_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List three principles of person-centred practices.
+  table_idx: 22
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '68069307'
+  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+- field_id: CHCAGE011_TXT_22_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List three principles of person-centred practices.
+  table_idx: 22
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5F43710C
+  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+- field_id: CHCAGE011_TXT_22_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: List three principles of person-centred practices.
+  table_idx: 22
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 07FDC93D
+  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+- field_id: CHCAGE011_TXT_22_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by differentiating traditional and person-centred approaches to service delivery in individualised support.
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A6712EA
+  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+- field_id: CHCAGE011_TXT_22_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Complete the table below by differentiating traditional and person-centred approaches to service delivery in individualised support.
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0244381A
+  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+- field_id: CHCAGE011_TXT_22_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Explain the difference between a person-centred or self-directed model and an institutionalised model of support in relation to who has more control i
+  table_idx: 22
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1245CF89
+  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+- field_id: CHCAGE011_TXT_22_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Explain the difference between a person-centred or self-directed model and an institutionalised model of support in relation to who has more control i
+  table_idx: 22
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1B377E82
+  value: Support independence by offering simplified binary choices (e.g. 'Would you like the blue shirt or the green shirt?'), encouraging self-feeding with adapted cutlery.
+- field_id: CHCAGE011_TXT_23_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 3 Col 0
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 125696B0
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 4 Col 0
+  table_idx: 23
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 185AB7A2
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 6 Col 0
+  table_idx: 23
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0791CA89
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 7 Col 0
+  table_idx: 23
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 314D2B7D
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 9 Col 0
+  table_idx: 23
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4C30AE8F
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_10_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 10 Col 0
+  table_idx: 23
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 227B58AF
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_12_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 12 Col 0
+  table_idx: 23
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2FB12615
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_13_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 13 Col 0
+  table_idx: 23
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 65ADDD99
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_15_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 15 Col 0
+  table_idx: 23
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4066CE6A
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_23_16_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 23 Row 16 Col 0
+  table_idx: 23
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5EC7CE74
+  value: Physical abuse (unexplained bruising), emotional abuse (belittling/threatening), financial exploitation (unauthorized account withdrawals), and neglect (untreated sores).
+- field_id: CHCAGE011_TXT_24_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Summarise how the environment impacts supporting a person living with dementia to interact and engage by completing the two diagrams below.
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 70BCD7DD
+  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+- field_id: CHCAGE011_TXT_24_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Summarise how the environment impacts supporting a person living with dementia to interact and engage by completing the two diagrams below.
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1F58504A
+  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+- field_id: CHCAGE011_TXT_24_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Summarise how the environment impacts supporting a person living with dementia to interact and engage by completing the two diagrams below.
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 0128E6CE
+  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+- field_id: CHCAGE011_TXT_24_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Summarise how the environment impacts supporting a person living with dementia to interact and engage by completing the two diagrams below.
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 725268FD
+  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+- field_id: CHCAGE011_TXT_24_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide one example of how you can support a person living with dementia to engage and interact in a good physical environment.
+  table_idx: 24
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0609F3FA
+  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+- field_id: CHCAGE011_TXT_24_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Provide one example of how you can support a person living with dementia to engage and interact in a bad social environment.
+  table_idx: 24
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 337913FB
+  value: Report immediately to the supervisor, notify the Aged Care Quality and Safety Commission under the Serious Incident Response Scheme (SIRS), and record in incident log.
+- field_id: CHCAGE011_TXT_25_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 25 Row 3 Col 0
+  table_idx: 25
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 03AA606A
+  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+- field_id: CHCAGE011_TXT_25_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 25 Row 4 Col 0
+  table_idx: 25
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7CA5B2B9
+  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+- field_id: CHCAGE011_TXT_25_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 25 Row 5 Col 0
+  table_idx: 25
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6C420BF8
+  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+- field_id: CHCAGE011_TXT_25_6_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 25 Row 6 Col 0
+  table_idx: 25
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4BBDFAB6
+  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+- field_id: CHCAGE011_TXT_25_8_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 25 Row 8 Col 0
+  table_idx: 25
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 32E24527
+  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+- field_id: CHCAGE011_TXT_25_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 25 Row 9 Col 0
+  table_idx: 25
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 664D2CB0
+  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+- field_id: CHCAGE011_TXT_25_11_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 25 Row 11 Col 0
+  table_idx: 25
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 195F2106
+  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+- field_id: CHCAGE011_TXT_25_12_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  prompt: Table 25 Row 12 Col 0
+  table_idx: 25
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 057982DB
+  value: Collaborate closely with family members, actively listen to their historical knowledge of the client, provide respite service information, and respect cultural customs.
+- field_id: CHCAGE011_TXT_27_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Verbal communication - Description
+  table_idx: 27
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4CFC82E3
+  value: Clear, concise speech using simple words, calm tone, and one idea at a time.
+- field_id: CHCAGE011_TXT_27_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Verbal communication - One example
+  table_idx: 27
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4B542B06
+  value: 'Example: ''Good morning, John. Here is your warm cup of tea.'''
+- field_id: CHCAGE011_TXT_27_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Non-verbal communication - Description
+  table_idx: 27
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0FE14E42
+  value: Facial expressions, eye contact, relaxed body posture, and reassuring gestures.
+- field_id: CHCAGE011_TXT_27_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Non-verbal communication - One example
+  table_idx: 27
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5183FCF6
+  value: 'Example: Sitting at eye level, smiling warmly, and nodding gently while the person speaks.'
+- field_id: CHCAGE011_TXT_27_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Culturally sensitive communication - Description
+  table_idx: 27
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1A681308
+  value: Demonstrating respect for the person's cultural customs, language preferences, and traditions.
+- field_id: CHCAGE011_TXT_27_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Culturally sensitive communication - One example
+  table_idx: 27
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 25AED88C
+  value: 'Example: Addressing an elder with their preferred honorific title and respecting eye contact customs.'
+- field_id: CHCAGE011_TXT_27_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Culturally safe communication - Description
+  table_idx: 27
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 69FD9121
+  value: Creating an environment where the person feels their identity is respected and free from discrimination.
+- field_id: CHCAGE011_TXT_27_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Culturally safe communication - One example
+  table_idx: 27
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3FB57BD3
+  value: 'Example: Engaging an accredited bilingual carer or interpreter when discussing daily care preferences.'
+- field_id: CHCAGE011_TXT_27_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Reality orientation - Description
+  table_idx: 27
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 56F799A3
+  value: Providing gentle current environmental cues (calendars, clocks) when appropriate without causing distress.
+- field_id: CHCAGE011_TXT_27_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Reality orientation - One example
+  table_idx: 27
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3D99250A
+  value: 'Example: Placing a large-print calendar and wall clock in the resident''s bedroom.'
+- field_id: CHCAGE011_TXT_27_6_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Reassuring words and phrases - Description
+  table_idx: 27
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6466FFE8
+  value: Using empathetic verbal affirmations that convey safety, care, and comfort.
+- field_id: CHCAGE011_TXT_27_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  prompt: Reassuring words and phrases - One example
+  table_idx: 27
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E745DE4
+  value: 'Example: ''You are safe here with me, Arthur. I am right beside you.'''
+- field_id: CHCAGE011_TXT_28_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Reassuring body language - Description
+  table_idx: 28
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0251CF97
+  value: Open arm posture, warm eye contact, and gentle unhurried movements.
+- field_id: CHCAGE011_TXT_28_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Reassuring body language - One example
+  table_idx: 28
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1795786C
+  value: 'Example: Resting a reassuring hand gently on the resident''s forearm during a stressful moment.'
+- field_id: CHCAGE011_TXT_28_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Validation in the form of acceptance of the person’s reality - Description
+  table_idx: 28
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 484C3717
+  value: Entering the person's subjective reality rather than correcting or arguing about facts.
+- field_id: CHCAGE011_TXT_28_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Validation in the form of acceptance of the person’s reality - One example
+  table_idx: 28
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2EEA52F6
+  value: 'Example: If the resident is worried about getting children from school, saying ''You love your children very much; tell me about them.'''
+- field_id: CHCAGE011_TXT_28_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Validation in the form of acknowledgement - Description
+  table_idx: 28
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 71D914DB
+  value: Acknowledging and mirroring the person's underlying emotional state.
+- field_id: CHCAGE011_TXT_28_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Validation in the form of acknowledgement - One example
+  table_idx: 28
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 30020E0B
+  value: 'Example: ''I can see that you are feeling very frustrated right now. I understand.'''
+- field_id: CHCAGE011_TXT_28_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Accepting expressions of distress - Description
+  table_idx: 28
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3AAB4861
+  value: Allowing the person to express crying, anger, or fear without shushing, judging, or dismissing them.
+- field_id: CHCAGE011_TXT_28_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Accepting expressions of distress - One example
+  table_idx: 28
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '58049052'
+  value: 'Example: Staying calmly present beside a crying resident and offering a tissue with a quiet presence.'
+- field_id: CHCAGE011_TXT_28_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Reminiscence - Description
+  table_idx: 28
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4E556803
+  value: Engaging the person in pleasant conversations about positive past life events and achievements.
+- field_id: CHCAGE011_TXT_28_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_28
+  prompt: Reminiscence - One example
+  table_idx: 28
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 3D840AAA
+  value: 'Example: Reviewing a personalized memory box containing old family photos and a favorite gardening trowel.'
+- field_id: CHCAGE011_TXT_29_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Briefly explain each type of stressor.
+  table_idx: 29
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1D0A5FDB
+  value: 'Environmental stressors: External stimuli such as loud alarms, bright fluorescent glare, or crowded rooms that overwhelm sensory processing.'
+- field_id: CHCAGE011_TXT_29_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Briefly explain each type of stressor.
+  table_idx: 29
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 53CA1CCB
+  value: 'Internal physical stressors: Undetected pain, constipation, urinary tract infection, or fatigue producing distress.'
+- field_id: CHCAGE011_TXT_29_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Briefly explain each type of stressor.
+  table_idx: 29
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 78CCAB6D
+  value: 'Psychological stressors: Loss of autonomy, feeling misunderstood, grief, or fear from disorientation.'
+- field_id: CHCAGE011_TXT_29_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Listed below are examples of environmental and accumulated stressors. Briefly describe how each can impact the person living with dementia.
+  table_idx: 29
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 42DCE059
+  value: Loud dining room noise overwhelms acoustic filtering, leading to agitation and refusal to eat.
+- field_id: CHCAGE011_TXT_29_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Listed below are examples of environmental and accumulated stressors. Briefly describe how each can impact the person living with dementia.
+  table_idx: 29
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 059C04B9
+  value: Accumulated minor frustrations across a morning routine trigger an afternoon catastrophic reaction.
+- field_id: CHCAGE011_TXT_29_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: Describe how cumulative stressors can impact the person living with dementia.
+  table_idx: 29
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '76102397'
+  value: Cumulative stressors build up tension until the person reaches a tipping point, resulting in severe agitation, shouting, combativeness, or complete emotional withdrawal.
+- field_id: CHCAGE011_TXT_30_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Listed below are examples of physical stressors. Briefly describe how they can affect the person.
+  table_idx: 30
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 332BF243
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_30_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Listed below are examples of physical stressors. Briefly describe how they can affect the person.
+  table_idx: 30
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 74CBA18B
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_30_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Listed below are examples of physical stressors. Briefly describe how they can affect the person.
+  table_idx: 30
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 4CA9D359
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_30_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Listed below are examples of physical stressors. Briefly describe how they can affect the person.
+  table_idx: 30
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 3D649B03
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_30_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_30
+  prompt: Listed below are examples of physical stressors. Briefly describe how they can affect the person.
+  table_idx: 30
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 50217EAB
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_31_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: How can assistive technologies help maintain and promote a person’s independence?
+  table_idx: 31
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 13D99652
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_31_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: How do assistive technologies support a person’s inclusion?
+  table_idx: 31
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0BB74E88
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_31_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  prompt: How do assistive technologies support a person’s participation?
+  table_idx: 31
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0FD9B557
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Self-care - How assistive technologies can help a person in this life domain
+  table_idx: 33
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 08FD866C
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Self-care - One example of assistive technology that can be used in this life domain.
+  table_idx: 33
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2F404594
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Continence - How assistive technologies can help a person in this life domain
+  table_idx: 33
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 296D070B
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Continence - One example of assistive technology that can be used in this life domain.
+  table_idx: 33
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4FFCE53A
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Hygiene - How assistive technologies can help a person in this life domain
+  table_idx: 33
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5C07247B
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Hygiene - One example of assistive technology that can be used in this life domain.
+  table_idx: 33
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 53C0B628
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Communication - How assistive technologies can help a person in this life domain
+  table_idx: 33
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0266EF5D
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Communication - One example of assistive technology that can be used in this life domain.
+  table_idx: 33
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 307ED88D
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Mobility - How assistive technologies can help a person in this life domain
+  table_idx: 33
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6A0A61BB
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_33_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  prompt: Mobility - One example of assistive technology that can be used in this life domain.
+  table_idx: 33
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 430AA02E
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_34_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  prompt: Transferring - How assistive technologies can help a person in this life domain
+  table_idx: 34
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 51ECD81E
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_34_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  prompt: Transferring - One example of assistive technology that can be used in this life domain.
+  table_idx: 34
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 2A488262
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_34_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  prompt: Cognition - How assistive technologies can help a person in this life domain
+  table_idx: 34
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0B419979
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_34_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  prompt: Cognition - One example of assistive technology that can be used in this life domain.
+  table_idx: 34
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6EA969FB
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_34_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  prompt: Memory loss - How assistive technologies can help a person in this life domain
+  table_idx: 34
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 01536C5E
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_34_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  prompt: Memory loss - One example of assistive technology that can be used in this life domain.
+  table_idx: 34
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7870F357
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_34_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  prompt: Vision - How assistive technologies can help a person in this life domain
+  table_idx: 34
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5C8BDDF4
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_34_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  prompt: Vision - One example of assistive technology that can be used in this life domain.
+  table_idx: 34
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7CCEBBA5
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Hearing - How assistive technologies can help a person in this life domain
+  table_idx: 35
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 371709F2
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Hearing - One example of assistive technology that can be used in this life domain.
+  table_idx: 35
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6CF9C234
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Daily living activities - How assistive technologies can help a person in this life domain
+  table_idx: 35
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 52B760AB
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Daily living activities - One example of assistive technology that can be used in this life domain.
+  table_idx: 35
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 06EB40E0
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Recreation - How assistive technologies can help a person in this life domain
+  table_idx: 35
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 300B14BB
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Recreation - One example of assistive technology that can be used in this life domain.
+  table_idx: 35
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6805DA5F
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Leisure - How assistive technologies can help a person in this life domain
+  table_idx: 35
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3A158BEF
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Leisure - One example of assistive technology that can be used in this life domain.
+  table_idx: 35
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 073C3C80
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Education - How assistive technologies can help a person in this life domain
+  table_idx: 35
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 37BB3FCF
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_35_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  prompt: Education - One example of assistive technology that can be used in this life domain.
+  table_idx: 35
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 47A3C0BF
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Employment - How assistive technologies can help a person in this life domain
+  table_idx: 36
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 69BBBA7A
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Employment - One example of assistive technology that can be used in this life domain.
+  table_idx: 36
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0B928202
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Home - How assistive technologies can help a person in this life domain
+  table_idx: 36
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 398682D2
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Home - One example of assistive technology that can be used in this life domain.
+  table_idx: 36
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 22E3F8FC
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Care residence - How assistive technologies can help a person in this life domain
+  table_idx: 36
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1CD24084
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Care residence - One example of assistive technology that can be used in this life domain.
+  table_idx: 36
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 656A0E50
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Outdoors - How assistive technologies can help a person in this life domain
+  table_idx: 36
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451AB625
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Outdoors - One example of assistive technology that can be used in this life domain.
+  table_idx: 36
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1CD8362F
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Eating - How assistive technologies can help a person in this life domain
+  table_idx: 36
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 556F2530
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_36_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_36
+  prompt: Eating - One example of assistive technology that can be used in this life domain.
+  table_idx: 36
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 480B4981
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_37_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Drinking - How assistive technologies can help a person in this life domain
+  table_idx: 37
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6F538895
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_37_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Drinking - One example of assistive technology that can be used in this life domain.
+  table_idx: 37
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0955EDA5
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_37_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Pressure area management - How assistive technologies can help a person in this life domain
+  table_idx: 37
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0C6260A4
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_37_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Pressure area management - One example of assistive technology that can be used in this life domain.
+  table_idx: 37
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 13D0E1F9
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_37_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Carer support - How assistive technologies can help a person in this life domain
+  table_idx: 37
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2083F414
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_37_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_37
+  prompt: Carer support - One example of assistive technology that can be used in this life domain.
+  table_idx: 37
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6F713168
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_39_0_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  prompt: State/territory
+  table_idx: 39
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7BD99107
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: 'Relevant legislation:'
+  table_idx: 40
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 05DCC84F
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 40
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 01FD3E8B
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: Duty of care - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dementia
+  table_idx: 40
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6D256296
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: 'Duty of care - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 40
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '46992703'
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: 'Duty of care - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 40
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7C7A887C
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: Duty of care - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dementia
+  table_idx: 40
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6D256296
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: 'Relevant legislation:'
+  table_idx: 40
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4C519FEE
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 40
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '72715070'
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: Dignity of risk - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dement
+  table_idx: 40
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3C25534A
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: 'Dignity of risk - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 40
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 04ED00D9
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: 'Dignity of risk - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 40
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 134630F3
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_40_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  prompt: Dignity of risk - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dement
+  table_idx: 40
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 3C25534A
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: 'Relevant legislation:'
+  table_idx: 41
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4B9D4539
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 41
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6B756830
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: Human rights - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dementia
+  table_idx: 41
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6B2EFC6F
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: 'Human rights - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 41
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '55638989'
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: 'Human rights - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 41
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 66A02269
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: Human rights - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dementia
+  table_idx: 41
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 6B2EFC6F
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: 'Relevant legislation:'
+  table_idx: 41
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5F5A514A
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 41
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 26ED7B65
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_41_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: Reporting notifiable incidents in WHS - One example of how you can work in accordance with these legal and ethical requirements when providing support
+  table_idx: 41
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 36AD2B10
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_41_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: 'Reporting notifiable incidents in WHS - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 41
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0F8FA896
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_41_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: 'Reporting notifiable incidents in WHS - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 41
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 154347BB
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_41_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_41
+  prompt: Reporting notifiable incidents in WHS - One example of how you can work in accordance with these legal and ethical requirements when providing support
+  table_idx: 41
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 36AD2B10
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_42_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: 'Relevant legislation:'
+  table_idx: 42
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7C4833E1
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_42_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 42
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 78FB3D10
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_42_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Reporting information and data - One example of how you can work in accordance with these legal and ethical requirements when providing support to peo
+  table_idx: 42
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 5962989B
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_42_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: 'Reporting information and data - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 42
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 42135B32
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_42_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: 'Reporting information and data - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 42
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7B9E68B9
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_42_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Reporting information and data - One example of how you can work in accordance with these legal and ethical requirements when providing support to peo
+  table_idx: 42
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 5962989B
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_42_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: 'Relevant legislation:'
+  table_idx: 42
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6BB5497F
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_42_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 42
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 24D1889F
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_42_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Privacy - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dementia
+  table_idx: 42
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7DCB3187
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_42_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: 'Privacy - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 42
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 079E3987
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_42_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: 'Privacy - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 42
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5C11B38D
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_42_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_42
+  prompt: Privacy - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dementia
+  table_idx: 42
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7DCB3187
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: 'Relevant legislation:'
+  table_idx: 43
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2EAF6097
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 43
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 19195A66
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Confidentiality - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dement
+  table_idx: 43
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7CC61A7B
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: 'Confidentiality - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 43
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2E0BD058
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: 'Confidentiality - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 43
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 16447A6A
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Confidentiality - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dement
+  table_idx: 43
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7CC61A7B
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: 'Relevant legislation:'
+  table_idx: 43
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7163AFAE
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 43
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1857AA16
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Disclosure - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dementia
+  table_idx: 43
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1A835D2E
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: 'Disclosure - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 43
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0CDFA5C2
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: 'Disclosure - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 43
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7AE6CA21
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_43_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_43
+  prompt: Disclosure - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with dementia
+  table_idx: 43
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1A835D2E
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_44_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: 'Relevant legislation:'
+  table_idx: 44
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1380EEE9
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_44_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 44
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 545A0F40
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_44_1_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: Mandatory reporting - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with de
+  table_idx: 44
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1C054C6E
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_44_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: 'Mandatory reporting - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 44
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 68A9D665
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_44_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: 'Mandatory reporting - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 44
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5692DE7F
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_44_2_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: Mandatory reporting - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with de
+  table_idx: 44
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1C054C6E
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_TXT_44_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: 'Relevant legislation:'
+  table_idx: 44
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2719D446
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_44_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: 'Relevant code of ethics or conduct:'
+  table_idx: 44
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 24F1416C
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_44_3_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: Work health and safety - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with
+  table_idx: 44
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7D3716B2
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_44_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: 'Work health and safety - Legal requirements relevant to this area
+
+    Include the relevant legislation in your response.'
+  table_idx: 44
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 696F0CC5
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_44_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: 'Work health and safety - Ethical requirements relevant to this area
+
+    Include your reference in your response.'
+  table_idx: 44
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6449CA77
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_44_4_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_44
+  prompt: Work health and safety - One example of how you can work in accordance with these legal and ethical requirements when providing support to people with
+  table_idx: 44
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 7D3716B2
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_49_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_49
+  prompt: Table 49 Row 3 Col 0
+  table_idx: 49
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5228B255
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_49_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_49
+  prompt: Table 49 Row 4 Col 0
+  table_idx: 49
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1D1DED1C
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_50_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  prompt: Table 50 Row 3 Col 0
+  table_idx: 50
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2B5E9DCF
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_50_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  prompt: Table 50 Row 4 Col 0
+  table_idx: 50
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 02D28CC8
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_50_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  prompt: Table 50 Row 5 Col 0
+  table_idx: 50
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6A4AE318
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_50_7_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  prompt: Table 50 Row 7 Col 0
+  table_idx: 50
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2F7BA315
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_50_8_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  prompt: Table 50 Row 8 Col 0
+  table_idx: 50
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7B637493
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_50_9_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_50
+  prompt: Table 50 Row 9 Col 0
+  table_idx: 50
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 02097D6C
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_52_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_52
+  prompt: 'Location:'
+  table_idx: 52
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 579E258E
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_52_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_52
+  prompt: 'Supervisor:'
+  table_idx: 52
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2ED9B1CA
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_52_4_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_52
+  prompt: 'Contact phone:'
+  table_idx: 52
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6C99FEEA
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_52_5_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_52
+  prompt: 'Setting:'
+  table_idx: 52
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 157F845E
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_53_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  prompt: Day
+  table_idx: 53
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 179C66AB
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_53_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  prompt: Date
+  table_idx: 53
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4502EAAA
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_53_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  prompt: Time
+  table_idx: 53
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1BF16423
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_53_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_53
+  prompt: 'Report completed by:'
+  table_idx: 53
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5E05F5CA
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_CB_54_1_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Personal injury
+  table_idx: 54
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '878432070'
+  value: true
+- field_id: CHCAGE011_CB_54_1_1_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Staff
+  table_idx: 54
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1023554035'
+  value: false
+- field_id: CHCAGE011_CB_54_1_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Customer/client
+  table_idx: 54
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '517673156'
+  value: true
+- field_id: CHCAGE011_CB_54_1_3_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Child
+  table_idx: 54
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  sdt_id: '1963609975'
+  value: false
+- field_id: CHCAGE011_TXT_54_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  prompt: 'Name of the person injured:'
+  table_idx: 54
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 214FF614
+  value: Arthur Pendelton (Resident living with moderate Alzheimer's disease)
+- field_id: CHCAGE011_TXT_54_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  prompt: 'Part of body injured (if relevant):'
+  table_idx: 54
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3BA3C971
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_CB_54_4_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1374579505'
+  value: true
+- field_id: CHCAGE011_CB_54_4_2_2
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 1
+  sdt_id: '-1945146718'
+  value: false
+- field_id: CHCAGE011_CB_54_4_2_3
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 2
+  sdt_id: '187725105'
+  value: false
+- field_id: CHCAGE011_CB_54_4_2_4
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 3
+  sdt_id: '-2127754876'
+  value: true
+- field_id: CHCAGE011_CB_54_4_2_5
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 4
+  sdt_id: '674695908'
+  value: false
+- field_id: CHCAGE011_CB_54_4_2_6
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 5
+  sdt_id: '-1244715739'
+  value: false
+- field_id: CHCAGE011_CB_54_4_2_7
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 6
+  sdt_id: '630906255'
+  value: false
+- field_id: CHCAGE011_CB_54_4_2_8
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 7
+  sdt_id: '-200868590'
+  value: false
+- field_id: CHCAGE011_CB_54_4_2_9
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 8
+  sdt_id: '2064824129'
+  value: false
+- field_id: CHCAGE011_CB_54_4_2_10
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 9
+  sdt_id: '2004702872'
+  value: false
+- field_id: CHCAGE011_CB_54_4_2_11
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: 'Nature of injury sustained:  Abrasions, scrapes  Bite  Broken bone/fracture  Bruise  Burn  Concussio'
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 10
+  sdt_id: '1785620454'
+  value: false
+- field_id: CHCAGE011_TXT_54_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  prompt: "Nature of injury sustained:\n Abrasions, scrapes\n Bite\n Broken bone/fracture\n Bruise\n Burn\n Concussion\n Cut\n Rash\n Sprain\n Swelling\n Other (please spec"
+  table_idx: 54
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0051A6E2
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_54_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  prompt: 'Approximate size/colour of injury:'
+  table_idx: 54
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2E6F2314
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_CB_54_6_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Assault
+  table_idx: 54
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '421082047'
+  value: false
+- field_id: CHCAGE011_CB_54_6_1_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Staff
+  table_idx: 54
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '2060822069'
+  value: false
+- field_id: CHCAGE011_CB_54_6_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Customer/client
+  table_idx: 54
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1523130386'
+  value: false
+- field_id: CHCAGE011_CB_54_6_3_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_54
+  label: Other
+  table_idx: 54
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  sdt_id: '1256328356'
+  value: false
+- field_id: CHCAGE011_TXT_54_6_3_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_54
+  prompt: Other
+  table_idx: 54
+  row_idx: 6
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 69685FAE
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_CB_55_1_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: First aid treatment administered
+  table_idx: 55
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1543057838'
+  value: true
+- field_id: CHCAGE011_TXT_55_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  prompt: (Please specify what/by whom, etc.)
+  table_idx: 55
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 2BA7D706
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_CB_55_2_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Medical aid treatment administered
+  table_idx: 55
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2107773300'
+  value: false
+- field_id: CHCAGE011_TXT_55_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  prompt: (Please specify what/by whom, etc.)
+  table_idx: 55
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3EA38770
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_CB_55_3_0_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Assistance sought
+  table_idx: 55
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '499628358'
+  value: true
+- field_id: CHCAGE011_TXT_55_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_55
+  prompt: Assistance sought
+  table_idx: 55
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4805BF06
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_CB_55_3_1_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Ambulance
+  table_idx: 55
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1876679634'
+  value: true
+- field_id: CHCAGE011_CB_55_3_2_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Police
+  table_idx: 55
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '2085642263'
+  value: false
+- field_id: CHCAGE011_CB_55_3_3_1
+  type: checkbox
+  section: Knowledge Assessment
+  question_ref: Table_55
+  label: Counsellor
+  table_idx: 55
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  sdt_id: '-1041976500'
+  value: false
+- field_id: CHCAGE011_TXT_56_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: 'Who witnessed the incident? (Please use the full name, details of staff’s job title where applicable, and telephone number/s):'
+  table_idx: 56
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1A4AAFDE
+  value: Arthur Pendelton (Resident living with moderate Alzheimer's disease)
+- field_id: CHCAGE011_TXT_56_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: identify
+  prompt: 'NOTE: Be specific. Describe in detail what actually happened, stating the facts in a clear and precise manner. Include the exact location of the incid'
+  table_idx: 56
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6690A033
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_57_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_57
+  prompt: 'This report was compiled by (full name, title, and contact telephone):'
+  table_idx: 57
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 73A46486
+  value: Arthur Pendelton (Resident living with moderate Alzheimer's disease)
+- field_id: CHCAGE011_TXT_57_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_57
+  prompt: On (date and time)
+  table_idx: 57
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1EC647CF
+  value: Documented factual observations in progress notes, informed the Registered Nurse on duty, and updated the positive behaviour support strategies in Arthur's care plan.
+- field_id: CHCAGE011_TXT_57_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_57
+  prompt: 'This report is a true and accurate summary of the incident that occurred (please sign):'
+  table_idx: 57
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4AAC07EF
+  value: At 16:30 resident Arthur exhibited signs of sundowning, pacing the corridor anxiously and asking for his deceased wife. Worker engaged Arthur in folding towels, played 1950s big band music, and offered a warm cup of herbal tea. Resident settled well within 20 minutes.
+- field_id: CHCAGE011_CB_58_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: You have completed all the Knowledge Assessments Questions.
+  table_idx: 58
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1172607243'
+  value: true
+- field_id: CHCAGE011_CB_58_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: 'You have completed the Practical Assessments in this workbook:'
+  table_idx: 58
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-367450486'
+  value: true
+- field_id: CHCAGE011_CB_58_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Case Study Task 1
+  table_idx: 58
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1087886784'
+  value: true
+- field_id: CHCAGE011_CB_58_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Case Study Task 2
+  table_idx: 58
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2032869874'
+  value: true
+- field_id: CHCAGE011_CB_58_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Case Study Task 3
+  table_idx: 58
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1849669112'
+  value: true
+- field_id: CHCAGE011_CB_58_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 58
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '94379991'
+  value: true
+- field_id: CHCAGE011_CB_58_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: This completed workbook
+  table_idx: 58
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1472658093'
+  value: true
+- field_id: CHCAGE011_CB_58_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Task 1
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 58
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1961214800'
+  value: true
+- field_id: CHCAGE011_CB_60_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: The candidate has completed all the Knowledge Assessments Questions.
+  table_idx: 60
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-579901534'
+  value: false
+- field_id: CHCAGE011_CB_60_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: 'The candidate has completed the Practical Assessments in this workbook:'
+  table_idx: 60
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '114489879'
+  value: false
+- field_id: CHCAGE011_CB_60_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Case Study Task 1
+  table_idx: 60
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1048495133'
+  value: false
+- field_id: CHCAGE011_CB_60_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Case Study Task 2
+  table_idx: 60
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-250734005'
+  value: false
+- field_id: CHCAGE011_CB_60_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Case Study Task 3
+  table_idx: 60
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '150807974'
+  value: false
+- field_id: CHCAGE011_CB_60_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 60
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1280181623'
+  value: false
+- field_id: CHCAGE011_CB_60_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: This completed workbook
+  table_idx: 60
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1016224711'
+  value: false
+- field_id: CHCAGE011_CB_60_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 60
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2008746071'
+  value: false
+- field_id: CHCAGE011_TXT_62_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_62
+  prompt: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 62
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 730A0435
+  value: Alex Chen
+- field_id: CHCAGE011_TXT_62_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_62
+  prompt: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 62
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F1CA79
+  value: Care Connect College
+- field_id: CHCAGE011_TXT_62_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_62
+  prompt: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 62
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A6CEC60
+  value: 1300 123 456
+- field_id: CHCAGE011_TXT_62_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_62
+  prompt: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 62
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6127D83D
+  value: info@careconnect.edu.au
+- field_id: CHCAGE011_TXT_62_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_62
+  prompt: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 62
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 165860A4
+  value: ''
+- field_id: CHCAGE011_CB_63_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 1
+  table_idx: 63
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-2015376043'
+  value: false
+- field_id: CHCAGE011_CB_63_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 1 Col 2
+  table_idx: 63
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1465735472'
+  value: false
+- field_id: CHCAGE011_CB_63_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 1
+  table_idx: 63
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-914633780'
+  value: false
+- field_id: CHCAGE011_CB_63_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 2 Col 2
+  table_idx: 63
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1001735680'
+  value: false
+- field_id: CHCAGE011_CB_63_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 1
+  table_idx: 63
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '26071450'
+  value: false
+- field_id: CHCAGE011_CB_63_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 3 Col 2
+  table_idx: 63
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '2014565789'
+  value: false
+- field_id: CHCAGE011_CB_63_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 1
+  table_idx: 63
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1196964969'
+  value: false
+- field_id: CHCAGE011_CB_63_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 4 Col 2
+  table_idx: 63
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-497657052'
+  value: false
+- field_id: CHCAGE011_CB_63_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 1
+  table_idx: 63
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-658303847'
+  value: false
+- field_id: CHCAGE011_CB_63_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 5 Col 2
+  table_idx: 63
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1853691631'
+  value: false
+- field_id: CHCAGE011_CB_63_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 1
+  table_idx: 63
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '345449002'
+  value: false
+- field_id: CHCAGE011_CB_63_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 6 Col 2
+  table_idx: 63
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-511608974'
+  value: false
+- field_id: CHCAGE011_CB_63_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 1
+  table_idx: 63
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1330984361'
+  value: false
+- field_id: CHCAGE011_CB_63_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 7 Col 2
+  table_idx: 63
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1051004797'
+  value: false
+- field_id: CHCAGE011_CB_63_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 1
+  table_idx: 63
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '750553223'
+  value: false
+- field_id: CHCAGE011_CB_63_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 8 Col 2
+  table_idx: 63
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-190303637'
+  value: false
+- field_id: CHCAGE011_CB_63_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 1
+  table_idx: 63
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1982039999'
+  value: false
+- field_id: CHCAGE011_CB_63_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 9 Col 2
+  table_idx: 63
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-52393074'
+  value: false
+- field_id: CHCAGE011_CB_63_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 1
+  table_idx: 63
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '520280753'
+  value: false
+- field_id: CHCAGE011_CB_63_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 1
+  label: Row 10 Col 2
+  table_idx: 63
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '793724599'
+  value: false
+- field_id: CHCAGE011_CB_64_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 1 Col 1
+  table_idx: 64
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1658182640'
+  value: false
+- field_id: CHCAGE011_CB_64_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 1 Col 2
+  table_idx: 64
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-530415254'
+  value: false
+- field_id: CHCAGE011_CB_64_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 2 Col 1
+  table_idx: 64
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '368270462'
+  value: false
+- field_id: CHCAGE011_CB_64_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 2 Col 2
+  table_idx: 64
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1444990576'
+  value: false
+- field_id: CHCAGE011_CB_64_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 3 Col 1
+  table_idx: 64
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1423633402'
+  value: false
+- field_id: CHCAGE011_CB_64_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 3 Col 2
+  table_idx: 64
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1877357983'
+  value: false
+- field_id: CHCAGE011_CB_64_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 4 Col 1
+  table_idx: 64
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1457759545'
+  value: false
+- field_id: CHCAGE011_CB_64_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 4 Col 2
+  table_idx: 64
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-602033168'
+  value: false
+- field_id: CHCAGE011_CB_64_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 5 Col 1
+  table_idx: 64
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1596984803'
+  value: false
+- field_id: CHCAGE011_CB_64_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 5 Col 2
+  table_idx: 64
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '277155078'
+  value: false
+- field_id: CHCAGE011_CB_64_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 6 Col 1
+  table_idx: 64
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1628122573'
+  value: false
+- field_id: CHCAGE011_CB_64_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 6 Col 2
+  table_idx: 64
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '41869887'
+  value: false
+- field_id: CHCAGE011_CB_64_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 7 Col 1
+  table_idx: 64
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1085990598'
+  value: false
+- field_id: CHCAGE011_CB_64_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 7 Col 2
+  table_idx: 64
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1484276261'
+  value: false
+- field_id: CHCAGE011_CB_64_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 8 Col 1
+  table_idx: 64
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631007055'
+  value: false
+- field_id: CHCAGE011_CB_64_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 8 Col 2
+  table_idx: 64
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '132760661'
+  value: false
+- field_id: CHCAGE011_CB_64_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 9 Col 1
+  table_idx: 64
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1814549610'
+  value: false
+- field_id: CHCAGE011_CB_64_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 9 Col 2
+  table_idx: 64
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1261265825'
+  value: false
+- field_id: CHCAGE011_CB_64_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 10 Col 1
+  table_idx: 64
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '725570037'
+  value: false
+- field_id: CHCAGE011_CB_64_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Question 11
+  label: Row 10 Col 2
+  table_idx: 64
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1166288856'
+  value: false
+- field_id: CHCAGE011_CB_65_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 1
+  table_idx: 65
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1835105296'
+  value: false
+- field_id: CHCAGE011_CB_65_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 2 Col 2
+  table_idx: 65
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-970585304'
+  value: false
+- field_id: CHCAGE011_CB_65_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 1
+  table_idx: 65
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1269273552'
+  value: false
+- field_id: CHCAGE011_CB_65_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 3 Col 2
+  table_idx: 65
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '36170325'
+  value: false
+- field_id: CHCAGE011_CB_65_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 1
+  table_idx: 65
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '600309827'
+  value: false
+- field_id: CHCAGE011_CB_65_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Task 1
+  label: Row 4 Col 2
+  table_idx: 65
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1386296548'
+  value: false
+- field_id: CHCAGE011_CB_66_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Row 1 Col 1
+  table_idx: 66
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: CHCAGE011_CB_66_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Row 1 Col 2
+  table_idx: 66
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: CHCAGE011_CB_66_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Row 2 Col 1
+  table_idx: 66
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: CHCAGE011_CB_66_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Row 2 Col 2
+  table_idx: 66
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: CHCAGE011_CB_66_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Row 3 Col 1
+  table_idx: 66
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: CHCAGE011_CB_66_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Row 3 Col 2
+  table_idx: 66
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: CHCAGE011_CB_66_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Row 4 Col 1
+  table_idx: 66
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: CHCAGE011_CB_66_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_66
+  label: Row 4 Col 2
+  table_idx: 66
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: CHCAGE011_CB_67_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_67
+  label: Row 2 Col 1
+  table_idx: 67
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: CHCAGE011_CB_67_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_67
+  label: Row 3 Col 1
+  table_idx: 67
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: CHCAGE011_CB_67_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_67
+  label: Row 4 Col 1
+  table_idx: 67
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: CHCAGE011_TXT_69_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Name of Third-party Contacted
+  table_idx: 69
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A969C06
+  value: ''
+- field_id: CHCAGE011_TXT_69_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 69
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EEC833F
+  value: ''
+- field_id: CHCAGE011_TXT_69_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 69
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '29882929'
+  value: ''
+- field_id: CHCAGE011_TXT_69_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Date contacted
+  table_idx: 69
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CD14B2C
+  value: ''
+- field_id: CHCAGE011_CB_69_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_69
+  label: Yes       No   Assessor’s Notes
+  table_idx: 69
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: CHCAGE011_CB_69_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_69
+  label: Yes       No   Assessor’s Notes
+  table_idx: 69
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: CHCAGE011_TXT_69_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 69
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3273E566
+  value: ''
+- field_id: CHCAGE011_TXT_69_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Name of Third-party Contacted
+  table_idx: 69
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27B75E8F
+  value: ''
+- field_id: CHCAGE011_TXT_69_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 69
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40B34E2B
+  value: ''
+- field_id: CHCAGE011_TXT_69_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 69
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77A6665E
+  value: ''
+- field_id: CHCAGE011_TXT_69_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Date contacted
+  table_idx: 69
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1DAFA096
+  value: ''
+- field_id: CHCAGE011_CB_69_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_69
+  label: Yes       No   Assessor’s Notes
+  table_idx: 69
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: CHCAGE011_CB_69_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_69
+  label: Yes       No   Assessor’s Notes
+  table_idx: 69
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: CHCAGE011_TXT_69_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 69
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 39CAA6A2
+  value: ''
+- field_id: CHCAGE011_TXT_69_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Name of Third-party Contacted
+  table_idx: 69
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D25FAFA
+  value: ''
+- field_id: CHCAGE011_TXT_69_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 69
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451A30E5
+  value: ''
+- field_id: CHCAGE011_TXT_69_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 69
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E4BE0E3
+  value: ''
+- field_id: CHCAGE011_TXT_69_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Date contacted
+  table_idx: 69
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 08D6E752
+  value: ''
+- field_id: CHCAGE011_CB_69_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_69
+  label: Yes       No   Assessor’s Notes
+  table_idx: 69
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: CHCAGE011_CB_69_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_69
+  label: Yes       No   Assessor’s Notes
+  table_idx: 69
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: CHCAGE011_TXT_69_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 69
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18D2A67F
+  value: ''
+- field_id: CHCAGE011_TXT_69_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Name of Third-party Contacted
+  table_idx: 69
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AB2776E
+  value: ''
+- field_id: CHCAGE011_TXT_69_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Role in the Candidate’s Assessment
+  table_idx: 69
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B9C71C7
+  value: ''
+- field_id: CHCAGE011_TXT_69_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Contact Details (Phone number or email address)
+  table_idx: 69
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 23166DAF
+  value: ''
+- field_id: CHCAGE011_TXT_69_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: Date contacted
+  table_idx: 69
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19F6D647
+  value: ''
+- field_id: CHCAGE011_CB_69_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_69
+  label: Yes       No   Assessor’s Notes
+  table_idx: 69
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: CHCAGE011_CB_69_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_69
+  label: Yes       No   Assessor’s Notes
+  table_idx: 69
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: CHCAGE011_TXT_69_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_69
+  prompt: "Yes       No  \nAssessor’s Notes"
+  table_idx: 69
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3BC5CFB0
+  value: ''
+- field_id: CHCAGE011_CB_70_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_70
+  label: Row 1 Col 1
+  table_idx: 70
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: CHCAGE011_CB_70_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_70
+  label: Row 1 Col 2
+  table_idx: 70
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: CHCAGE011_CB_70_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_70
+  label: Row 2 Col 1
+  table_idx: 70
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '77255906'
+  value: false
+- field_id: CHCAGE011_CB_70_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_70
+  label: Row 2 Col 2
+  table_idx: 70
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1240757628'
+  value: false
+- field_id: CHCAGE011_CB_71_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_71
+  label: Row 1 Col 1
+  table_idx: 71
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: CHCAGE011_CB_71_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_71
+  label: Row 1 Col 2
+  table_idx: 71
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: CHCAGE011_TXT_72_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_72
+  prompt: Assessor’s comments/feedback
+  table_idx: 72
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E889375
+  value: ''
+- field_id: CHCAGE011_TXT_73_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_73
+  prompt: Assessor’s name
+  table_idx: 73
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D877E66
+  value: ''
+- field_id: CHCAGE011_TXT_73_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_73
+  prompt: Assessor’s signature
+  table_idx: 73
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
+- field_id: CHCAGE011_TXT_73_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_73
+  prompt: Date signed
+  table_idx: 73
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56908E91
+  value: ''
+- field_id: CHCAGE011_TXT_73_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_73
+  prompt: Assessor’s signature
+  table_idx: 73
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
