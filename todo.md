@@ -1,0 +1,3 @@
+- [ ] change the last modified by a random name and set the date 1 year ago
+- [ ] after get the 14 and 15, modify them further as novice Korean learner
+- [ ] change the modified dates as schedule so from the top to bottom should be like 2024-03-01, 2024-04-01, etc. and the last modified by shoud be set to Chinsu Park
