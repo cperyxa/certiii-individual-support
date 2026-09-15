@@ -14,6 +14,8 @@ from docx.oxml.ns import qn
 W_NS = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'
 W14_NS = 'http://schemas.microsoft.com/office/word/2010/wordml'
 
+from clean_answer_formatting import hide_grey_background_and_box_lines
+
 def get_field_by_mark(doc, field_id, field_type):
     """
     Search document for field by its embedded unique mark:
@@ -246,6 +248,8 @@ def apply_answers(answers_file, input_docx, output_docx):
             applied_count += 1
             
     print(f"Applied: {applied_count}, Blank/Skipped: {skipped_count}, Not Found: {not_found_count}")
+    f_unshaded, b_hidden = hide_grey_background_and_box_lines(doc)
+    print(f"Formatting polish: {f_unshaded} candidate fields unshaded (grey background hidden), {b_hidden} open-ended box borders hidden.")
     doc.save(output_docx)
     print(f"Successfully saved filled document to {output_docx}")
 
