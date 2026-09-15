@@ -1,0 +1,7145 @@
+unit: CHCPAL003
+title: Deliver care services using a palliative approach
+candidate_details:
+  candidate_name: Alex Chen
+  candidate_phone: 0412 345 678
+  candidate_email: alex.chen@careconnectcollege.edu.au
+  rto_name: CareConnect College
+  trainer_assessor_name: Assessment Assessor
+  date: 15/09/2026
+  candidate_declaration_agreed: true
+preliminary_task:
+  selected_state: New South Wales
+  notes: State selected for Question 19
+fields:
+- field_id: CHCPAL003_TXT_1_2_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: First and Last Name - CHCPAL003
+  table_idx: 1
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7C8F9FC5
+  value: Alex Chen
+- field_id: CHCPAL003_TXT_1_3_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Phone - CHCPAL003
+  table_idx: 1
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 276DE6E2
+  value: 0412 345 678
+- field_id: CHCPAL003_TXT_1_4_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_1
+  label: Email - CHCPAL003
+  table_idx: 1
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3B089765
+  value: alex.chen@careconnectcollege.edu.au
+- field_id: CHCPAL003_TXT_2_1_0_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Name:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1EE2BB4D
+  value: Alex Chen
+- field_id: CHCPAL003_TXT_2_1_1_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Signature:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B383DE7
+  value: Alex Chen
+- field_id: CHCPAL003_TXT_2_1_2_1
+  type: text
+  section: Cover Sheet
+  question_ref: Table_2
+  label: 'Date signed:'
+  table_idx: 2
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 37ABCB51
+  value: 15/09/2026
+- field_id: CHCPAL003_CB_3_3_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Australian Capital Territory
+  table_idx: 3
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-697315325'
+  value: false
+- field_id: CHCPAL003_CB_3_3_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: South Australia
+  table_idx: 3
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1825582306'
+  value: false
+- field_id: CHCPAL003_CB_3_4_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: New South Wales
+  table_idx: 3
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '722328609'
+  value: true
+- field_id: CHCPAL003_CB_3_4_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Tasmania
+  table_idx: 3
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '735286758'
+  value: false
+- field_id: CHCPAL003_CB_3_5_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Northern Territory
+  table_idx: 3
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1279222538'
+  value: false
+- field_id: CHCPAL003_CB_3_5_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Victoria
+  table_idx: 3
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1363557391'
+  value: false
+- field_id: CHCPAL003_CB_3_6_0_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Queensland
+  table_idx: 3
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2006784169'
+  value: false
+- field_id: CHCPAL003_CB_3_6_2_1
+  type: checkbox
+  section: Preliminary Task
+  question_ref: Table_3
+  label: Western Australia
+  table_idx: 3
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1828745876'
+  value: false
+- field_id: CHCPAL003_TXT_4_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the four underlying philosophies of the palliative approach.
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4523B292
+  value: Care must address the needs, preferences and values of the client and relevant
+    others.
+- field_id: CHCPAL003_TXT_4_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the four underlying philosophies of the palliative approach.
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 05866149
+  value: Care must be person- and family centred.
+- field_id: CHCPAL003_TXT_4_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the four underlying philosophies of the palliative approach.
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 0F4EE39F
+  value: Care must be accessible to people with a life-limiting illness.
+- field_id: CHCPAL003_TXT_4_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Enumerate the four underlying philosophies of the palliative approach.
+  table_idx: 4
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 0C7BF7A3
+  value: Care affirms life but recognises death as an inevitable part of it.
+- field_id: CHCPAL003_TXT_4_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What are the characteristics of a person-centred palliative approach? List
+    four.
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3FFCCBA4
+  value: Care must address the needs, preferences and values of the client and relevant
+    others.
+- field_id: CHCPAL003_TXT_4_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What are the characteristics of a person-centred palliative approach? List
+    four.
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 601D334F
+  value: Care must be person- and family centred.
+- field_id: CHCPAL003_TXT_4_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What are the characteristics of a person-centred palliative approach? List
+    four.
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 5B464AA5
+  value: Care must be accessible to people with a life-limiting illness.
+- field_id: CHCPAL003_TXT_4_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What are the characteristics of a person-centred palliative approach? List
+    four.
+  table_idx: 4
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 28E6096B
+  value: Care affirms life but recognises death as an inevitable part of it.
+- field_id: CHCPAL003_TXT_4_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What does a holistic palliative approach mean?
+  table_idx: 4
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6585A1CB
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_4_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List down four benefits that a person can receive from palliative care.
+  table_idx: 4
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7214E77D
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_4_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List down four benefits that a person can receive from palliative care.
+  table_idx: 4
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 27019C46
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_4_5_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List down four benefits that a person can receive from palliative care.
+  table_idx: 4
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 03D4F8A2
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_4_5_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List down four benefits that a person can receive from palliative care.
+  table_idx: 4
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 0F85E3BC
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_5_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: What are some examples of irreversible illnesses that a person you will be
+    working with may be exper
+  table_idx: 5
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4876406D
+  value: Advanced Metastatic Cancer
+- field_id: CHCPAL003_TXT_5_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: What are some examples of irreversible illnesses that a person you will be
+    working with may be exper
+  table_idx: 5
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7B926E89
+  value: Dementia (including Alzheimer's disease)
+- field_id: CHCPAL003_TXT_5_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: What are some examples of irreversible illnesses that a person you will be
+    working with may be exper
+  table_idx: 5
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 1C2807AF
+  value: Chronic Obstructive Pulmonary Disease (COPD)
+- field_id: CHCPAL003_TXT_5_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Provided in the table below are the different areas of life of a person who
+    needs palliative care. B
+  table_idx: 5
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 472380D2
+  value: Advanced Metastatic Cancer
+- field_id: CHCPAL003_TXT_5_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Provided in the table below are the different areas of life of a person who
+    needs palliative care. B
+  table_idx: 5
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7B98CFB3
+  value: Dementia (including Alzheimer's disease)
+- field_id: CHCPAL003_TXT_5_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Provided in the table below are the different areas of life of a person who
+    needs palliative care. B
+  table_idx: 5
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 3C121CA0
+  value: Chronic Obstructive Pulmonary Disease (COPD)
+- field_id: CHCPAL003_TXT_5_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Provided in the table below are the different areas of life of a person who
+    needs palliative care. B
+  table_idx: 5
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 6E17C295
+  value: Motor Neurone Disease (MND)
+- field_id: CHCPAL003_TXT_5_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_5
+  label: Provided in the table below are the different areas of life of a person who
+    needs palliative care. B
+  table_idx: 5
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: '51352234'
+  value: Motor Neurone Disease (MND)
+- field_id: CHCPAL003_TXT_6_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: 'Physical need - Provided in the table below are the different types of needs
+    of people dealing with '
+  table_idx: 6
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4552E63C
+  value: Assistance in maintaining good personal hygiene
+- field_id: CHCPAL003_TXT_6_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Emotional need - Provided in the table below are the different types of needs
+    of people dealing with
+  table_idx: 6
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 20FD79E8
+  value: Feeling of assurance through words of affirmation and physical affection
+- field_id: CHCPAL003_TXT_6_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: 'Psychological need - Provided in the table below are the different types
+    of needs of people dealing '
+  table_idx: 6
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 407E8A36
+  value: Opportunities to boost independence and self-confidence (e.g. expression
+    through art, pursuing passion/interests)
+- field_id: CHCPAL003_TXT_6_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: 'Social need - Provided in the table below are the different types of needs
+    of people dealing with a '
+  table_idx: 6
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6D99A3A1
+  value: Interaction with people who have similar interests/hobbies
+- field_id: CHCPAL003_TXT_6_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_6
+  label: Spiritual need - Provided in the table below are the different types of needs
+    of people dealing with
+  table_idx: 6
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 26EB8382
+  value: Opportunities to observe and celebrate religious traditions and celebrations
+- field_id: CHCPAL003_TXT_7_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_7
+  label: Table 7 Row 2 Col 0
+  table_idx: 7
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3B3D48EB
+  value: Intense grief, anxiety, shock, depression, and fear of pain or loss of independence.
+- field_id: CHCPAL003_TXT_9_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  label: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, '
+  table_idx: 9
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2E4E361F
+  value: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, provide the following:'
+- field_id: CHCPAL003_TXT_9_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  label: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, '
+  table_idx: 9
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6A6A18B0
+  value: One practice observed after a person’s death
+- field_id: CHCPAL003_TXT_9_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  label: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, '
+  table_idx: 9
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 272F6CDB
+  value: One practice observed as a person approaches death (i.e. dying)
+- field_id: CHCPAL003_TXT_9_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  label: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, '
+  table_idx: 9
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 1B273B96
+  value: 'For each of the cultural groups listed in the table below, the candidate
+    must provide the following:'
+- field_id: CHCPAL003_TXT_9_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  label: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, '
+  table_idx: 9
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 21B5EB66
+  value: One practice observed after a person’s death
+- field_id: CHCPAL003_TXT_9_0_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_9
+  label: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, '
+  table_idx: 9
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 38BA658E
+  value: Must be an example of a cultural practice observed after a person’s death
+- field_id: CHCPAL003_TXT_10_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  label: 'Listed in the table below are common religions practised in the world. For
+    each religion indicated, '
+  table_idx: 10
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 40E60AB0
+  value: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, provide the following:'
+- field_id: CHCPAL003_TXT_10_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  label: 'Listed in the table below are common religions practised in the world. For
+    each religion indicated, '
+  table_idx: 10
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 08DDAA1E
+  value: One practice observed after a person’s death
+- field_id: CHCPAL003_TXT_10_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  label: 'Listed in the table below are common religions practised in the world. For
+    each religion indicated, '
+  table_idx: 10
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 6C72C7FB
+  value: One practice observed as a person approaches death (i.e. dying)
+- field_id: CHCPAL003_TXT_10_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  label: 'Listed in the table below are common religions practised in the world. For
+    each religion indicated, '
+  table_idx: 10
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 58A2B4A5
+  value: 'For each of the cultural groups listed in the table below, the candidate
+    must provide the following:'
+- field_id: CHCPAL003_TXT_10_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  label: 'Listed in the table below are common religions practised in the world. For
+    each religion indicated, '
+  table_idx: 10
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 0267DEEF
+  value: One practice observed after a person’s death
+- field_id: CHCPAL003_TXT_10_0_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_10
+  label: 'Listed in the table below are common religions practised in the world. For
+    each religion indicated, '
+  table_idx: 10
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 644217F4
+  value: Must be an example of a cultural practice observed after a person’s death
+- field_id: CHCPAL003_TXT_11_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: One’s cultural and religious beliefs, as well as their personal experiences,
+    greatly influence their
+  table_idx: 11
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 72D2495E
+  value: One’s cultural and religious beliefs, as well as their personal experiences,
+    greatly influence their spiritual beliefs. Thus, spiritual beliefs are usually
+    unique and vary from person to person. List two examples of spiritual beliefs
+    that one may have about death.
+- field_id: CHCPAL003_TXT_11_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: One’s cultural and religious beliefs, as well as their personal experiences,
+    greatly influence their
+  table_idx: 11
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 737048D4
+  value: Spiritual beliefs are beliefs that pertain to one’s relationship with a superior
+    being and relate to an existential perspective on life, death and the nature of
+    reality.
+- field_id: CHCPAL003_TXT_11_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: List two examples of spiritual beliefs that one may have about dying.
+  table_idx: 11
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 28415E7E
+  value: One’s cultural and religious beliefs, as well as their personal experiences,
+    greatly influence their spiritual beliefs. Thus, spiritual beliefs are usually
+    unique and vary from person to person. List two examples of spiritual beliefs
+    that one may have about death.
+- field_id: CHCPAL003_TXT_11_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_11
+  label: List two examples of spiritual beliefs that one may have about dying.
+  table_idx: 11
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6CFC7693
+  value: Spiritual beliefs are beliefs that pertain to one’s relationship with a superior
+    being and relate to an existential perspective on life, death and the nature of
+    reality.
+- field_id: CHCPAL003_TXT_12_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_12
+  label: Table 12 Row 2 Col 0
+  table_idx: 12
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1C32E089
+  value: Unconscious bias can cause workers to make unfounded assumptions about a
+    client's cognitive ability or quality of life, leading to patronising communication
+    or undertreatment of pain.
+- field_id: CHCPAL003_TXT_13_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Denial - Briefly describe each stage of grief stated in the table below.
+  table_idx: 13
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6E309443
+  value: In this stage, the bereaved often feel lost, numb and in denial as the reality
+    of death has not fully sunk in.
+- field_id: CHCPAL003_TXT_13_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Anger - Briefly describe each stage of grief stated in the table below.
+  table_idx: 13
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5668FBA9
+  value: In this stage, bottled-up emotions in the denial stage come to the surface,
+    usually in the form of anger. They demand answers to questions like, ‘What did
+    I do to deserve this’ and may also redirect anger to animate or inanimate objects,
+    themselves or the person who died.
+- field_id: CHCPAL003_TXT_13_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Bargaining - Briefly describe each stage of grief stated in the table below.
+  table_idx: 13
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 30E7A3F6
+  value: In this stage, the bereaved tend to imagine ‘what if’ scenarios, playing
+    out the possible interventions they could have done to prevent death due to intense
+    guilt. They also tend to negotiate with a higher being to spare their loved ones.
+- field_id: CHCPAL003_TXT_13_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Depression - Briefly describe each stage of grief stated in the table below.
+  table_idx: 13
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 05B4E4EA
+  value: In this stage, the bereaved is withdrawn due to feelings of emptiness. These
+    manifest in ways like loss of interest in eating or activities usually enjoyed,
+    reduced interaction with others, lethargy, etc.
+- field_id: CHCPAL003_TXT_13_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_13
+  label: Acceptance - Briefly describe each stage of grief stated in the table below.
+  table_idx: 13
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 357DB828
+  value: In this stage, emotions of the bereaved start to stabilise as they begin
+    to accept the reality of loss. They may not be entirely alright with it, but they
+    begin to make an effort to build their lives again and adjust to a life without
+    the person who died.
+- field_id: CHCPAL003_TXT_14_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: List down
+  label: Table 14 Row 2 Col 0
+  table_idx: 14
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 68A88D99
+  value: Participating in formal clinical debriefing sessions with colleagues and
+    supervisors.
+- field_id: CHCPAL003_TXT_14_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: List down
+  label: Table 14 Row 3 Col 0
+  table_idx: 14
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 18074A89
+  value: Participating in formal clinical debriefing sessions with colleagues and
+    supervisors.
+- field_id: CHCPAL003_TXT_14_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: List down
+  label: Table 14 Row 4 Col 0
+  table_idx: 14
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5C98D0C9
+  value: Participating in formal clinical debriefing sessions with colleagues and
+    supervisors.
+- field_id: CHCPAL003_TXT_14_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: List down
+  label: Table 14 Row 5 Col 0
+  table_idx: 14
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1477DFCE
+  value: Participating in formal clinical debriefing sessions with colleagues and
+    supervisors.
+- field_id: CHCPAL003_TXT_15_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe what advance care directives are.
+  table_idx: 15
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '26640486'
+  value: CHCPAL003 Learner Guide, Chapter 3 Opener
+- field_id: CHCPAL003_TXT_15_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Describe the role of advance care directives when delivering care services.
+  table_idx: 15
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 457137A2
+  value: CHCPAL003 Learner Guide, Chapter 3 Opener
+- field_id: CHCPAL003_TXT_15_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify one purpose of advance care directives.
+  table_idx: 15
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 735414D7
+  value: Examples of satisfactory responses are provided below for the assessor’s
+    reference.
+- field_id: CHCPAL003_TXT_15_5_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three types of information that can be found in an advance care directive.
+  table_idx: 15
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '51877865'
+  value: Examples of satisfactory responses are provided below for the assessor’s
+    reference.
+- field_id: CHCPAL003_TXT_15_5_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three types of information that can be found in an advance care directive.
+  table_idx: 15
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2C1606A8
+  value: To provide details on the person’s values, life goals and preferred outcomes
+- field_id: CHCPAL003_TXT_15_5_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three types of information that can be found in an advance care directive.
+  table_idx: 15
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 50D36600
+  value: To provide details on the treatment and care a person would prefer or refuse
+    if they have a life-threatening illness or injury
+- field_id: CHCPAL003_TXT_16_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Briefly explain the importance of regularly checking the person’s individualised
+    plan.
+  table_idx: 16
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 782B52DC
+  value: CHCPAL003 Learner Guide, Chapter 5, Subchapter 5.1
+- field_id: CHCPAL003_TXT_16_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: During the end-of-life phase, a person’s health condition may change very
+    rapidly, which necessitate
+  table_idx: 16
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5D011F6E
+  value: During the end-of-life phase, a person’s health condition may change very
+    rapidly, which necessitates proper coordination of relevant services (e.g. hospitals,
+    emergency services, and the person’s physician). List two things you can do to
+    ensure that relevant services are well-coordinated.
+- field_id: CHCPAL003_TXT_16_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: During the end-of-life phase, a person’s health condition may change very
+    rapidly, which necessitate
+  table_idx: 16
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 60AA3600
+  value: 'Examples of satisfactory responses are provided below for the assessor’s
+    reference:'
+- field_id: CHCPAL003_TXT_16_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: As a palliative care worker, it is vital to provide emotional support to
+    the bereaved (e.g. the pers
+  table_idx: 16
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D4BD9EE
+  value: During the end-of-life phase, a person’s health condition may change very
+    rapidly, which necessitates proper coordination of relevant services (e.g. hospitals,
+    emergency services, and the person’s physician). List two things you can do to
+    ensure that relevant services are well-coordinated.
+- field_id: CHCPAL003_TXT_16_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: As a palliative care worker, it is vital to provide emotional support to
+    the bereaved (e.g. the pers
+  table_idx: 16
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1A682239
+  value: 'Examples of satisfactory responses are provided below for the assessor’s
+    reference:'
+- field_id: CHCPAL003_TXT_17_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Sometimes, clients refuse to truthfully and accurately report the pain they
+    are experiencing, preven
+  table_idx: 17
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3B461A17
+  value: CHCPAL003 Learner Guide, Chapter 1, Subchapter 1.3
+- field_id: CHCPAL003_TXT_17_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Sometimes, clients refuse to truthfully and accurately report the pain they
+    are experiencing, preven
+  table_idx: 17
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0B63AD7D
+  value: CHCPAL003 Learner Guide, Chapter 4, Subchapter 4.1
+- field_id: CHCPAL003_TXT_17_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Sometimes, clients refuse to truthfully and accurately report the pain they
+    are experiencing, preven
+  table_idx: 17
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 3C0B3AFA
+  value: CHCPAL003 Learner Guide, Chapter 4, Subchapter 4.2, Section 4.2.2
+- field_id: CHCPAL003_TXT_18_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: For you to know what steps to apply in providing pain relief and comfort,
+    you need to perform pain a
+  table_idx: 18
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0B0B5697
+  value: Location of the pain
+- field_id: CHCPAL003_TXT_18_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: For you to know what steps to apply in providing pain relief and comfort,
+    you need to perform pain a
+  table_idx: 18
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4D05A0A4
+  value: Pain intensity
+- field_id: CHCPAL003_TXT_18_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: For you to know what steps to apply in providing pain relief and comfort,
+    you need to perform pain a
+  table_idx: 18
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 6BF09FD9
+  value: Duration of pain
+- field_id: CHCPAL003_TXT_18_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: For you to know what steps to apply in providing pain relief and comfort,
+    you need to perform pain a
+  table_idx: 18
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 1869643D
+  value: Description of the pain (e.g. pinpricks, tingling, sharp)
+- field_id: CHCPAL003_TXT_18_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: List three ways to promote pain relief.
+  table_idx: 18
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 17CCD8E7
+  value: Administering prescribed analgesics on time according to the medication chart.
+- field_id: CHCPAL003_TXT_18_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: List three ways to promote pain relief.
+  table_idx: 18
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 28A9D648
+  value: Repositioning the client gently with supportive pillows.
+- field_id: CHCPAL003_TXT_18_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: List three ways to promote pain relief.
+  table_idx: 18
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 3CD3DDF4
+  value: Applying warm or cool compresses as approved in the care plan.
+- field_id: CHCPAL003_TXT_18_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: List three ways to promote comfort.
+  table_idx: 18
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '19454656'
+  value: Providing regular mouth care and applying lip balm to prevent dry mucous
+    membranes.
+- field_id: CHCPAL003_TXT_18_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: List three ways to promote comfort.
+  table_idx: 18
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 11A7FE47
+  value: Ensuring comfortable ambient room temperature, gentle lighting, and quiet
+    environment.
+- field_id: CHCPAL003_TXT_18_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_18
+  label: List three ways to promote comfort.
+  table_idx: 18
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 351BF1CA
+  value: Assisting with personal hygiene and fresh, smooth bed linen.
+- field_id: CHCPAL003_TXT_20_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: The person - Psychological impact during palliative or end-of-life care
+  table_idx: 20
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5C355F56
+  value: Lack of interest in doing things usually enjoyed
+- field_id: CHCPAL003_TXT_20_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: The person - Emotional impact during palliative or end-of-life care
+  table_idx: 20
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7442CEA2
+  value: Feelings of despair or helplessness as they may think their lives have lesser
+    or no more meaning.
+- field_id: CHCPAL003_TXT_20_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: The person’s family - Psychological impact during palliative or end-of-life
+    care
+  table_idx: 20
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 607B372D
+  value: Restlessness (due to thinking of a lot of things that needs to be done)
+- field_id: CHCPAL003_TXT_20_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: The person’s family - Emotional impact during palliative or end-of-life care
+  table_idx: 20
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 1DB92BFB
+  value: Anticipatory grief as they may think that the person may die anytime soon
+- field_id: CHCPAL003_TXT_20_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Carer - Psychological impact during palliative or end-of-life care
+  table_idx: 20
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 76FAADD8
+  value: Depression and anxiety
+- field_id: CHCPAL003_TXT_20_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Carer - Emotional impact during palliative or end-of-life care
+  table_idx: 20
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4312B668
+  value: Feeling of guilt as they may think that they have not done enough to save
+    the person from their state.
+- field_id: CHCPAL003_TXT_20_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Person’s friends - Psychological impact during palliative or end-of-life
+    care
+  table_idx: 20
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 37BB4826
+  value: Panic disorder
+- field_id: CHCPAL003_TXT_20_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Person’s friends - Emotional impact during palliative or end-of-life care
+  table_idx: 20
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6CA6D5EB
+  value: Feeling of guilt as they may think they are not spending enough time with
+    the person.
+- field_id: CHCPAL003_TXT_20_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Colleagues - Psychological impact during palliative or end-of-life care
+  table_idx: 20
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29F7174D
+  value: Reduced focus in some stretches during work hours
+- field_id: CHCPAL003_TXT_20_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_20
+  label: Colleagues - Emotional impact during palliative or end-of-life care
+  table_idx: 20
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 18E14CCF
+  value: Anticipatory grief as they may be dealing with yet another inevitable death
+    of a person
+- field_id: CHCPAL003_TXT_21_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List two nutritional requirements that a person in palliative care may have.
+  table_idx: 21
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '54009222'
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_21_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List two nutritional requirements that a person in palliative care may have.
+  table_idx: 21
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 6A0588A0
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_21_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List two hydration requirements that a person in palliative care may have.
+  table_idx: 21
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 29167A97
+  value: Provision of artificial hydration if the person has difficulties swallowing
+- field_id: CHCPAL003_TXT_21_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List two hydration requirements that a person in palliative care may have.
+  table_idx: 21
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7B918DCF
+  value: Consumption of foods (e.g. fruits and vegetables) with high water content
+- field_id: CHCPAL003_TXT_22_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What is duty of care in the context of palliative care?
+  table_idx: 22
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 12C9E14B
+  value: The legal and professional obligation to take reasonable care to avoid causing
+    foreseeable harm or injury to clients in care.
+- field_id: CHCPAL003_TXT_22_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Your duty of care as an aged care worker must align with the Charter of Aged
+    Care Rights. Based on t
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 46E7DBE2
+  value: Following organizational policies, procedures, and care plans.
+- field_id: CHCPAL003_TXT_22_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Your duty of care as an aged care worker must align with the Charter of Aged
+    Care Rights. Based on t
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 47EB3EEC
+  value: Maintaining required certifications and clinical skills.
+- field_id: CHCPAL003_TXT_22_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Your duty of care as an aged care worker must align with the Charter of Aged
+    Care Rights. Based on t
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 26D9CB10
+  value: Reporting hazards, incidents, and client deterioration promptly.
+- field_id: CHCPAL003_TXT_22_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Your duty of care as an aged care worker must align with the Charter of Aged
+    Care Rights. Based on t
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 0C4FEACD
+  value: Respecting client confidentiality and dignity at all times.
+- field_id: CHCPAL003_TXT_22_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Your duty of care as an aged care worker must align with the Charter of Aged
+    Care Rights. Based on t
+  table_idx: 22
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 0EA71726
+  value: Working within the boundaries of the job role and seeking supervision when
+    required.
+- field_id: CHCPAL003_TXT_23_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify the commonwealth legislation that underpins the Charter of Aged
+    Care Rights.
+  table_idx: 23
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6BF3B7DD
+  value: Aged Care Act 1997 (Cth)
+- field_id: CHCPAL003_TXT_23_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: In the context of duty of care, what are your duties to the person under
+    your care? List three.
+  table_idx: 23
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2E665359
+  value: Aged Care Act 1997
+- field_id: CHCPAL003_TXT_23_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: In the context of duty of care, what are your duties to the person under
+    your care? List three.
+  table_idx: 23
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: '26985719'
+  value: Aged Care Act 1997
+- field_id: CHCPAL003_TXT_23_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: In the context of duty of care, what are your duties to the person under
+    your care? List three.
+  table_idx: 23
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 5FB8DBB4
+  value: Aged Care Act 1997
+- field_id: CHCPAL003_TXT_23_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: According to the Aged Care Quality Standards, what is dignity of risk?
+  table_idx: 23
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3C91FC2F
+  value: Aged Care Act 1997
+- field_id: CHCPAL003_TXT_23_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three ways you must do to uphold dignity of risk for the person.
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0161B6A5
+  value: Actively consulting the client on their daily preferences and routines.
+- field_id: CHCPAL003_TXT_23_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three ways you must do to uphold dignity of risk for the person.
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1CA88EB7
+  value: Supporting the client's dignity of risk while putting reasonable safety measures
+    in place.
+- field_id: CHCPAL003_TXT_23_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three ways you must do to uphold dignity of risk for the person.
+  table_idx: 23
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 06058AB1
+  value: Treating the client with kindness, courtesy, and respect at all times.
+- field_id: CHCPAL003_TXT_24_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Listed in the table below are anti-discrimination laws in Australia. Briefly
+    explain the purpose of '
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 037DA2A4
+  value: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, provide the following:'
+- field_id: CHCPAL003_TXT_24_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Listed in the table below are anti-discrimination laws in Australia. Briefly
+    explain the purpose of '
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 51A3A79A
+  value: One practice observed after a person’s death
+- field_id: CHCPAL003_TXT_24_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Listed in the table below are anti-discrimination laws in Australia. Briefly
+    explain the purpose of '
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 629D8A11
+  value: One practice observed as a person approaches death (i.e. dying)
+- field_id: CHCPAL003_TXT_24_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: 'Listed in the table below are anti-discrimination laws in Australia. Briefly
+    explain the purpose of '
+  table_idx: 24
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 7AC6DCF8
+  value: 'For each of the cultural groups listed in the table below, the candidate
+    must provide the following:'
+- field_id: CHCPAL003_TXT_25_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the four acts that are considered unlawful for a person to do based
+    on race, colour, descent or
+  table_idx: 25
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 350C1077
+  value: Distinction
+- field_id: CHCPAL003_TXT_25_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the four acts that are considered unlawful for a person to do based
+    on race, colour, descent or
+  table_idx: 25
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2AE06A3E
+  value: Exclusion
+- field_id: CHCPAL003_TXT_25_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the four acts that are considered unlawful for a person to do based
+    on race, colour, descent or
+  table_idx: 25
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 7E588B29
+  value: Restriction
+- field_id: CHCPAL003_TXT_25_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the four acts that are considered unlawful for a person to do based
+    on race, colour, descent or
+  table_idx: 25
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 7F3895ED
+  value: Preference
+- field_id: CHCPAL003_TXT_25_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1D018E7F
+  value: Physical
+- field_id: CHCPAL003_TXT_25_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5FC45F3F
+  value: Intellectual
+- field_id: CHCPAL003_TXT_25_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 0B86EE2C
+  value: Sensory
+- field_id: CHCPAL003_TXT_25_1_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 526BD23E
+  value: Neurological
+- field_id: CHCPAL003_TXT_25_1_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 0D6D8093
+  value: Learning and psychosocial disabilities
+- field_id: CHCPAL003_TXT_25_1_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 3CEA3808
+  value: Diseases or illnesses
+- field_id: CHCPAL003_TXT_25_1_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 6
+  para_id: '00746054'
+  value: Physical disfigurement
+- field_id: CHCPAL003_TXT_25_1_0_8
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 7
+  para_id: 0BA02CB1
+  value: Medical conditions
+- field_id: CHCPAL003_TXT_25_1_0_9
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the nine types of disabilities covered in the Disability Discrimination
+    Act 1992.
+  table_idx: 25
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 8
+  para_id: 4139B741
+  value: Work-related injuries
+- field_id: CHCPAL003_TXT_25_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the three types of discrimination identified in the Sex Discrimination
+    Act 1984.
+  table_idx: 25
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3A38E5D3
+  value: Direct discrimination
+- field_id: CHCPAL003_TXT_25_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the three types of discrimination identified in the Sex Discrimination
+    Act 1984.
+  table_idx: 25
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 33D5A945
+  value: Indirect discrimination
+- field_id: CHCPAL003_TXT_25_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: List the three types of discrimination identified in the Sex Discrimination
+    Act 1984.
+  table_idx: 25
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 5A9EB516
+  value: Sexual harassment
+- field_id: CHCPAL003_TXT_25_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: 'It is the right of every old person in palliative care to have their diverse
+    needs met. What is the '
+  table_idx: 25
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6928F6C8
+  value: Aged Care Diversity Framework
+- field_id: CHCPAL003_TXT_25_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: What are the aims of this framework? List two.
+  table_idx: 25
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 23672BB8
+  value: To ensure aged care services are accessible and meet the diverse needs of
+    older Australians.
+- field_id: CHCPAL003_TXT_25_4_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_25
+  label: What are the aims of this framework? List two.
+  table_idx: 25
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7E7A09F7
+  value: To promote inclusive, respectful, and culturally safe care that embraces
+    individuality and dignity.
+- field_id: CHCPAL003_TXT_26_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What four activities does the Privacy Act 1988 cover in relation to handling
+    an individual’s persona
+  table_idx: 26
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 71177C41
+  value: Collection, storage, use, and disclosure of personal and health information.
+- field_id: CHCPAL003_TXT_26_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What four activities does the Privacy Act 1988 cover in relation to handling
+    an individual’s persona
+  table_idx: 26
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2D06AACC
+  value: Collection, storage, use, and disclosure of personal and health information.
+- field_id: CHCPAL003_TXT_26_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What four activities does the Privacy Act 1988 cover in relation to handling
+    an individual’s persona
+  table_idx: 26
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 73D31E36
+  value: Collection, storage, use, and disclosure of personal and health information.
+- field_id: CHCPAL003_TXT_26_2_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What four activities does the Privacy Act 1988 cover in relation to handling
+    an individual’s persona
+  table_idx: 26
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 5715157D
+  value: Collection, storage, use, and disclosure of personal and health information.
+- field_id: CHCPAL003_TXT_26_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2807C937
+  value: 'APP 1: Open and transparent management of personal information'
+- field_id: CHCPAL003_TXT_26_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4DBF1BD8
+  value: 'APP 2: Anonymity and pseudonymity'
+- field_id: CHCPAL003_TXT_26_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 379C17A5
+  value: 'APP 3: Collection of solicited personal information'
+- field_id: CHCPAL003_TXT_26_3_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 7A43D72D
+  value: 'APP 4: Dealing with unsolicited personal information'
+- field_id: CHCPAL003_TXT_26_3_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 17A2C912
+  value: 'APP 5: Notification of the collection of personal information'
+- field_id: CHCPAL003_TXT_26_3_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 5B08646B
+  value: 'APP 6: Use or disclosure of personal information'
+- field_id: CHCPAL003_TXT_26_3_0_7
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 6
+  para_id: 6C015581
+  value: 'APP 7: Direct marketing'
+- field_id: CHCPAL003_TXT_26_3_0_8
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 7
+  para_id: 0A3A20A4
+  value: 'APP 8: Cross-border disclosure of personal information'
+- field_id: CHCPAL003_TXT_26_3_0_9
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 8
+  para_id: 7302E0E8
+  value: 'APP 9: Adoption, use or disclosure of government related identifiers'
+- field_id: CHCPAL003_TXT_26_3_0_10
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 9
+  para_id: 507B205D
+  value: 'APP 10: Quality of personal information'
+- field_id: CHCPAL003_TXT_26_3_0_11
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 10
+  para_id: 1E9561D6
+  value: 'APP 11: Security of personal information'
+- field_id: CHCPAL003_TXT_26_3_0_12
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 11
+  para_id: 63D6FE3F
+  value: 'APP 12: Access to personal information'
+- field_id: CHCPAL003_TXT_26_3_0_13
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List the 13 Australian Privacy Principles in their correct order.
+  table_idx: 26
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 12
+  para_id: 5C2B0D83
+  value: 'APP 13: Correction of personal information'
+- field_id: CHCPAL003_TXT_27_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  label: List the four situations wherein disclosure of private information is acceptable
+    based on the Privac
+  table_idx: 27
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 25A2C376
+  value: List the four situations wherein disclosure of private information is acceptable
+    based on the Privacy Act 1988 (Division 2, Part 16B).
+- field_id: CHCPAL003_TXT_27_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  label: List the four situations wherein disclosure of private information is acceptable
+    based on the Privac
+  table_idx: 27
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 703152BE
+  value: Information is necessary to provide medical care
+- field_id: CHCPAL003_TXT_27_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  label: List the four situations wherein disclosure of private information is acceptable
+    based on the Privac
+  table_idx: 27
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 2F402ACD
+  value: Information may affect public health and safety
+- field_id: CHCPAL003_TXT_27_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  label: List the four situations wherein disclosure of private information is acceptable
+    based on the Privac
+  table_idx: 27
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 5B132263
+  value: Information is necessary to keep the person safe
+- field_id: CHCPAL003_TXT_27_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  label: List two responsibilities you have to maintain the privacy and confidentiality
+    of personal informati
+  table_idx: 27
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56B76019
+  value: List the four situations wherein disclosure of private information is acceptable
+    based on the Privacy Act 1988 (Division 2, Part 16B).
+- field_id: CHCPAL003_TXT_27_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_27
+  label: List two responsibilities you have to maintain the privacy and confidentiality
+    of personal informati
+  table_idx: 27
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1B1A466F
+  value: Information is necessary to provide medical care
+- field_id: CHCPAL003_TXT_28_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify the appropriate responses for the given scenarios.
+  table_idx: 28
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 15B867A9
+  value: CHCPAL003 Learner Guide, Chapter 6, Subchapter 6.1
+- field_id: CHCPAL003_TXT_28_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify the appropriate responses for the given scenarios.
+  table_idx: 28
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 0B19B2DF
+  value: CHCPAL003 Learner Guide, Chapter 6, Subchapter 6.4
+- field_id: CHCPAL003_TXT_28_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: Identify the appropriate responses for the given scenarios.
+  table_idx: 28
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 74EF4BEF
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_29_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three things that you can do to help manage your own emotions while
+    providing palliative ca
+  table_idx: 29
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 32ABE842
+  value: 'Examples of satisfactory responses are provided for the assessor’s reference:'
+- field_id: CHCPAL003_TXT_29_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three things that you can do to help manage your own emotions while
+    providing palliative ca
+  table_idx: 29
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 4168C734
+  value: Familiarising self with the patients’ conditions
+- field_id: CHCPAL003_TXT_29_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Identify three things that you can do to help manage your own emotions while
+    providing palliative ca
+  table_idx: 29
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 42C6CD78
+  value: Seeking help from colleagues
+- field_id: CHCPAL003_TXT_29_1_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three self-care strategies that can help in managing your own emotional
+    responses in palliative
+  table_idx: 29
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7ABD0761
+  value: 'Examples of satisfactory responses are provided for the assessor’s reference:'
+- field_id: CHCPAL003_TXT_29_1_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three self-care strategies that can help in managing your own emotional
+    responses in palliative
+  table_idx: 29
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 40D10BE6
+  value: Familiarising self with the patients’ conditions
+- field_id: CHCPAL003_TXT_29_1_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: List three self-care strategies that can help in managing your own emotional
+    responses in palliative
+  table_idx: 29
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 5BB64176
+  value: Seeking help from colleagues
+- field_id: CHCPAL003_TXT_30_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three signs of a person’s deterioration.
+  table_idx: 30
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7308F6FE
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_30_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three signs of a person’s deterioration.
+  table_idx: 30
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 39F867BC
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_30_2_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three signs of a person’s deterioration.
+  table_idx: 30
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 3FD9B942
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_30_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three signs of a person’s imminent death.
+  table_idx: 30
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 541C3DAB
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_30_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three signs of a person’s imminent death.
+  table_idx: 30
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 5A76BBFC
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_30_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: List three signs of a person’s imminent death.
+  table_idx: 30
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 1D7006B2
+  value: Additional marking guide and benchmark answers are provided below to guide
+    the assessor in assessing the candidate’s responses.
+- field_id: CHCPAL003_TXT_31_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Build trust - Fill out the table below by providing examples of communication
+    strategies you can app
+  table_idx: 31
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 43E14780
+  value: Showing transparency by promptly informing the person of any updates regarding
+    any changes to their care plan
+- field_id: CHCPAL003_TXT_31_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Show empathy - Fill out the table below by providing examples of communication
+    strategies you can ap
+  table_idx: 31
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 72D812AF
+  value: Listening more to what the person has to say rather than doing most of the
+    talking
+- field_id: CHCPAL003_TXT_31_6_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Demonstrate support - Fill out the table below by providing examples of communication
+    strategies you
+  table_idx: 31
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6B588CD7
+  value: Politely asking the person whether they need assistance with a task or not.
+- field_id: CHCPAL003_TXT_31_7_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_31
+  label: Empower - Fill out the table below by providing examples of communication
+    strategies you can apply t
+  table_idx: 31
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0CF2B218
+  value: Using positive words, such as ‘You can do it!’ to encourage the person to
+    accomplish tasks they find challenging
+- field_id: CHCPAL003_TXT_32_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Build trust - The person’s family
+  table_idx: 32
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1A130EF6
+  value: Showing transparency by promptly informing the person of any updates regarding
+    any changes to their care plan
+- field_id: CHCPAL003_TXT_32_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Show empathy - The person’s family
+  table_idx: 32
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 44E1BD07
+  value: Listening more to what the person has to say rather than doing most of the
+    talking
+- field_id: CHCPAL003_TXT_32_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Demonstrate support - The person’s family
+  table_idx: 32
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 3A172E5C
+  value: Politely asking the person whether they need assistance with a task or not.
+- field_id: CHCPAL003_TXT_32_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_32
+  label: Empower - The person’s family
+  table_idx: 32
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6AB60B5D
+  value: Using positive words, such as ‘You can do it!’ to encourage the person to
+    accomplish tasks they find challenging
+- field_id: CHCPAL003_TXT_33_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Build trust - The carer
+  table_idx: 33
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4800CF3A
+  value: Showing transparency by promptly informing the person of any updates regarding
+    any changes to their care plan
+- field_id: CHCPAL003_TXT_33_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Show empathy - The carer
+  table_idx: 33
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 003A572A
+  value: Listening more to what the person has to say rather than doing most of the
+    talking
+- field_id: CHCPAL003_TXT_33_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Demonstrate support - The carer
+  table_idx: 33
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '53748862'
+  value: Politely asking the person whether they need assistance with a task or not.
+- field_id: CHCPAL003_TXT_33_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_33
+  label: Empower - The carer
+  table_idx: 33
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 664B5997
+  value: Using positive words, such as ‘You can do it!’ to encourage the person to
+    accomplish tasks they find challenging
+- field_id: CHCPAL003_TXT_34_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: Build trust - The person’s friends
+  table_idx: 34
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4C19F258
+  value: Showing transparency by promptly informing the person of any updates regarding
+    any changes to their care plan
+- field_id: CHCPAL003_TXT_34_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: Show empathy - The person’s friends
+  table_idx: 34
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4E76D641
+  value: Listening more to what the person has to say rather than doing most of the
+    talking
+- field_id: CHCPAL003_TXT_34_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: Demonstrate support - The person’s friends
+  table_idx: 34
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 20D21178
+  value: Politely asking the person whether they need assistance with a task or not.
+- field_id: CHCPAL003_TXT_34_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_34
+  label: Empower - The person’s friends
+  table_idx: 34
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 198632B3
+  value: Using positive words, such as ‘You can do it!’ to encourage the person to
+    accomplish tasks they find challenging
+- field_id: CHCPAL003_TXT_35_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: Build trust - Your colleagues
+  table_idx: 35
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 43E5CC98
+  value: Showing transparency by promptly informing the person of any updates regarding
+    any changes to their care plan
+- field_id: CHCPAL003_TXT_35_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: Show empathy - Your colleagues
+  table_idx: 35
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 24AD2746
+  value: Listening more to what the person has to say rather than doing most of the
+    talking
+- field_id: CHCPAL003_TXT_35_4_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: Demonstrate support - Your colleagues
+  table_idx: 35
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0F3AA525
+  value: Politely asking the person whether they need assistance with a task or not.
+- field_id: CHCPAL003_TXT_35_5_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_35
+  label: Empower - Your colleagues
+  table_idx: 35
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 74CC480E
+  value: Using positive words, such as ‘You can do it!’ to encourage the person to
+    accomplish tasks they find challenging
+- field_id: CHCPAL003_TXT_36_2_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: When a person dies, a Medical Certificate Cause of Death (MCCD) must be obtained.
+    What are the two t
+  table_idx: 36
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2EA46DF6
+  value: Issued by the attending medical practitioner within 48 hours of death.
+- field_id: CHCPAL003_TXT_36_2_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: When a person dies, a Medical Certificate Cause of Death (MCCD) must be obtained.
+    What are the two t
+  table_idx: 36
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 744DB5FC
+  value: Must accurately state the direct cause of death and contributing medical
+    conditions.
+- field_id: CHCPAL003_TXT_36_3_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: In some cases, a coronial investigation of a person’s death is necessary
+    if the death is a reportabl
+  table_idx: 36
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7E517277
+  value: Sudden, unexpected, or violent death.
+- field_id: CHCPAL003_TXT_36_3_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: In some cases, a coronial investigation of a person’s death is necessary
+    if the death is a reportabl
+  table_idx: 36
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 15A13000
+  value: Death occurring during or as a result of a medical/surgical procedure or
+    anesthesia.
+- field_id: CHCPAL003_TXT_36_3_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: In some cases, a coronial investigation of a person’s death is necessary
+    if the death is a reportabl
+  table_idx: 36
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 2A67CFBD
+  value: Death in care or custody where the person was under state protection.
+- field_id: CHCPAL003_TXT_36_4_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Answer the following
+  label: What agency within your state/territory must be notified of the person’s
+    death?
+  table_idx: 36
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 23822D5B
+  value: NSW State Coroner's Court (Coroners Court of New South Wales) / NSW Police
+    Force.
+- field_id: CHCPAL003_TXT_37_0_0_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Listed in the table below are processes relevant to the disposal of deceased
+    bodies. Identify the le
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2FE838CB
+  value: 'Listed in the table below are different cultural groups. For each of the
+    cultural groups indicated, provide the following:'
+- field_id: CHCPAL003_TXT_37_0_0_2
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Listed in the table below are processes relevant to the disposal of deceased
+    bodies. Identify the le
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2DEC60BF
+  value: One practice observed after a person’s death
+- field_id: CHCPAL003_TXT_37_0_0_3
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Listed in the table below are processes relevant to the disposal of deceased
+    bodies. Identify the le
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 0A9F7241
+  value: One practice observed as a person approaches death (i.e. dying)
+- field_id: CHCPAL003_TXT_37_0_0_4
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Listed in the table below are processes relevant to the disposal of deceased
+    bodies. Identify the le
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 3
+  para_id: 4AFAC3EF
+  value: 'For each of the cultural groups listed in the table below, the candidate
+    must provide the following:'
+- field_id: CHCPAL003_TXT_37_0_0_5
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Listed in the table below are processes relevant to the disposal of deceased
+    bodies. Identify the le
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 4
+  para_id: 25A93E10
+  value: One practice observed after a person’s death
+- field_id: CHCPAL003_TXT_37_0_0_6
+  type: text
+  section: Knowledge Assessment
+  question_ref: Identify
+  label: Listed in the table below are processes relevant to the disposal of deceased
+    bodies. Identify the le
+  table_idx: 37
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 5
+  para_id: 58E50C94
+  value: Must be an example of a cultural practice observed after a person’s death
+- field_id: CHCPAL003_TXT_39_1_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Work role boundaries - Legal consideration
+  table_idx: 39
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1C11F271
+  value: Aged care workers must be careful when performing physical steps (i.e. care
+    processes involving touching the person) to prevent cases of harassment.
+- field_id: CHCPAL003_TXT_39_1_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Work role boundaries - Ethical consideration
+  table_idx: 39
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '37243581'
+  value: An aged care worker must develop and maintain professional relationships
+    with their clients, which means not getting too involved with their client’s personal
+    lives (e.g. finances)
+- field_id: CHCPAL003_TXT_39_2_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Work role responsibilities - Legal consideration
+  table_idx: 39
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0B116859
+  value: Aged care workers must provide close supervision to their clients, following
+    their organisation’s duty of care protocols.
+- field_id: CHCPAL003_TXT_39_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Work role responsibilities - Ethical consideration
+  table_idx: 39
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 73FC5D46
+  value: Aged care workers must respect and consider their client’s decisions by allowing
+    them to experience an acceptable level of risk.
+- field_id: CHCPAL003_TXT_39_3_1_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Work role limitations - Legal consideration
+  table_idx: 39
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7AEF89DE
+  value: Aged care workers must acquire permission or consent first before applying
+    restrictive practices.
+- field_id: CHCPAL003_TXT_39_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_39
+  label: Work role limitations - Ethical consideration
+  table_idx: 39
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 6C6BB776
+  value: Aged care workers must not share false information or unfounded assumptions
+    to their clients, such as making a medical diagnosis that a health specialist
+    can only do.
+- field_id: CHCPAL003_TXT_40_2_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: "Legislation: - Provide the following: \nOne legislation in your state/territory\
+    \ relevant to Voluntary"
+  table_idx: 40
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 049B5F3B
+  value: Voluntary Assisted Dying Act 2022 No 17
+- field_id: CHCPAL003_TXT_40_3_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: "Link: - Provide the following: \nOne legislation in your state/territory\
+    \ relevant to Voluntary Assist"
+  table_idx: 40
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 74F66957
+  value: https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2022-017
+- field_id: CHCPAL003_TXT_40_4_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: "Overview: - Provide the following: \nOne legislation in your state/territory\
+    \ relevant to Voluntary As"
+  table_idx: 40
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 346DD040
+  value: This legislation legalises euthanasia and assisted suicide for adults with
+    advanced, progressive diseases or medical conditions that cause them suffering,
+    and are expected to cause death within 12 months (in case of neurodegenerative
+    conditions) or within 6 months in all other cases.
+- field_id: CHCPAL003_TXT_40_5_2_1
+  type: text
+  section: Knowledge Assessment
+  question_ref: Table_40
+  label: "One section: - Provide the following: \nOne legislation in your state/territory\
+    \ relevant to Voluntary"
+  table_idx: 40
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4D2D57A1
+  value: Division 2 (21) (2) (a)
+- field_id: CHCPAL003_TXT_43_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_43
+  label: 'Outline your organisation’s process for seeking clarification and guidance
+    from health professional '
+  table_idx: 43
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1E9E9FBE
+  value: Outline your organisation’s process for seeking clarification and guidance
+    from health professional regarding pain relief provision.
+- field_id: CHCPAL003_TXT_43_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_43
+  label: 'Outline your organisation’s process for seeking clarification and guidance
+    from health professional '
+  table_idx: 43
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2BB274FC
+  value: Outline your organisation’s process for seeking clarification and guidance
+    from health professional regarding pain relief provision.
+- field_id: CHCPAL003_TXT_44_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_44
+  label: 'Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you '
+  table_idx: 44
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '12663690'
+  value: Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you accessed and reviewed.
+- field_id: CHCPAL003_TXT_44_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_44
+  label: Outline the procedures under the policy relevant to supporting the person
+    with personal care you acc
+  table_idx: 44
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 46C32CC4
+  value: Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you accessed and reviewed.
+- field_id: CHCPAL003_TXT_45_0_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_45
+  label: Briefly describe the purpose of the policy relevant to applying interventions
+    for behaviours of conc
+  table_idx: 45
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7A8359E9
+  value: Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you accessed and reviewed.
+- field_id: CHCPAL003_TXT_45_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_45
+  label: Outline the procedures under the policy relevant to applying interventions
+    for behaviours of concern
+  table_idx: 45
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6ED54064
+  value: Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you accessed and reviewed.
+- field_id: CHCPAL003_TXT_46_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_46
+  label: Outline your organisation’s process for infection control when handling a
+    deceased person’s body.
+  table_idx: 46
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 795C18E8
+  value: Outline your organisation’s process for seeking clarification and guidance
+    from health professional regarding pain relief provision.
+- field_id: CHCPAL003_TXT_46_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_46
+  label: Outline your organisation’s process for providing support to the family after
+    the person’s death.
+  table_idx: 46
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3E286D19
+  value: Outline your organisation’s process for seeking clarification and guidance
+    from health professional regarding pain relief provision.
+- field_id: CHCPAL003_TXT_47_0_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_47
+  label: Outline your organisation’s process for providing support to others (e.g.
+    the person’s friends, asso
+  table_idx: 47
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 059478C7
+  value: Outline your organisation’s process for seeking clarification and guidance
+    from health professional regarding pain relief provision.
+- field_id: CHCPAL003_TXT_47_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_47
+  label: Outline your organisation’s process for handling the personal effects and
+    belongings of the person a
+  table_idx: 47
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 02CABBBE
+  value: Outline your organisation’s process for seeking clarification and guidance
+    from health professional regarding pain relief provision.
+- field_id: CHCPAL003_TXT_47_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_47
+  label: List the documentation requirements your organisation needs to comply with
+    after the person’s death.
+  table_idx: 47
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4683EF52
+  value: List the documentation requirements your organisation needs to comply with
+    after the person’s death.
+- field_id: CHCPAL003_TXT_48_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_48
+  label: Briefly describe the purpose of the organisational process relevant to ensuring
+    the person’s cultura
+  table_idx: 48
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6A4F4474
+  value: Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you accessed and reviewed.
+- field_id: CHCPAL003_TXT_48_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_48
+  label: 'Outline the procedures under the process relevant to ensuring the person’s
+    cultural preferences are '
+  table_idx: 48
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 401EBC07
+  value: Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you accessed and reviewed.
+- field_id: CHCPAL003_TXT_49_0_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_49
+  label: Briefly describe the purpose of the organisational process relevant to ensuring
+    the person’s spiritu
+  table_idx: 49
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 726BBC58
+  value: Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you accessed and reviewed.
+- field_id: CHCPAL003_TXT_49_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_49
+  label: Outline the procedures under the process relevant to ensuring the person’s
+    spiritual and religious p
+  table_idx: 49
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 00E8E4A8
+  value: Briefly describe the purpose of the policy relevant to supporting the person
+    with personal care you accessed and reviewed.
+- field_id: CHCPAL003_TXT_56_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_56
+  label: Table 56 Row 3 Col 0
+  table_idx: 56
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4473EEAD
+  value: Assistance with ADLs (e.g. showering, walking up the stairs)
+- field_id: CHCPAL003_TXT_56_4_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_56
+  label: Table 56 Row 4 Col 0
+  table_idx: 56
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 213A7F2A
+  value: Assistance with mobility
+- field_id: CHCPAL003_TXT_56_5_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_56
+  label: Table 56 Row 5 Col 0
+  table_idx: 56
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4C0C289B
+  value: Assistance with addressing pain that prevents him from sleeping
+- field_id: CHCPAL003_TXT_57_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 687273B7
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 45F51A01
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 26EF29DB
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_4_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7730A3A0
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_6_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5E61B574
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_7_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3C13E62A
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_9_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 61C0C578
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_11_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 243FE040
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_12_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0EDC8BB8
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_13_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2548AA94
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_57_14_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_57
+  label: Psychological
+  table_idx: 57
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6982E77B
+  value: A holistic palliative approach means a wide-reaching approach. In other words,
+    palliative care should not be limited to addressing only the person’s physical
+    or medical needs. It must also address the person’s psychological, emotional,
+    social, cultural and religious needs.
+- field_id: CHCPAL003_TXT_59_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_59
+  label: Table 59 Row 2 Col 0
+  table_idx: 59
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '44678878'
+  value: James’s pain is worsening
+- field_id: CHCPAL003_TXT_59_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_59
+  label: Table 59 Row 3 Col 0
+  table_idx: 59
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 24252E12
+  value: Pain medication is not enough to manage his pain
+- field_id: CHCPAL003_TXT_59_4_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_59
+  label: Table 59 Row 4 Col 0
+  table_idx: 59
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5FE7CC00
+  value: James’s appetite is poor
+- field_id: CHCPAL003_TXT_59_5_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_59
+  label: Table 59 Row 5 Col 0
+  table_idx: 59
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4284D1AA
+  value: He tires easily and has difficulty in breathing
+- field_id: CHCPAL003_TXT_59_6_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_59
+  label: Table 59 Row 6 Col 0
+  table_idx: 59
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 61DFA944
+  value: He has insomnia
+- field_id: CHCPAL003_TXT_59_7_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_59
+  label: Table 59 Row 7 Col 0
+  table_idx: 59
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 718A490E
+  value: He may need additional assistance from other ADLs
+- field_id: CHCPAL003_TXT_70_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_70
+  label: Table 70 Row 2 Col 0
+  table_idx: 70
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 48A9727C
+  value: James still feeling the same pain despite increasing the pain medication
+    dosage
+- field_id: CHCPAL003_TXT_70_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_70
+  label: Table 70 Row 3 Col 0
+  table_idx: 70
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 270697EE
+  value: James’ request to have the pain medication replaced
+- field_id: CHCPAL003_TXT_73_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_73
+  label: Table 73 Row 2 Col 0
+  table_idx: 73
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3E19FD99
+  value: James feels happy that his son John, with whom he had disagreements in the
+    past, is coming to visit him.
+- field_id: CHCPAL003_TXT_73_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_73
+  label: Table 73 Row 3 Col 0
+  table_idx: 73
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 322C0E4B
+  value: James expressed enjoyment in conversing with Lily about similar interests
+    (i.e. a book they both have finished reading)
+- field_id: CHCPAL003_TXT_74_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_74
+  label: Table 74 Row 2 Col 0
+  table_idx: 74
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 66CADEC9
+  value: James’s feeling of tightening in the chest has become worse, especially when
+    he coughs.
+- field_id: CHCPAL003_TXT_74_3_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_74
+  label: Table 74 Row 3 Col 0
+  table_idx: 74
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 6B5E11D8
+  value: James experiences headaches several times a day.
+- field_id: CHCPAL003_TXT_75_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_75
+  label: Table 75 Row 2 Col 0
+  table_idx: 75
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 2F926878
+  value: Air conditioning set to a lower temperature to alleviate his headache
+- field_id: CHCPAL003_TXT_82_0_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_82
+  label: Table 82 Row 0 Col 0
+  table_idx: 82
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 406AFF2A
+  value: James has become less responsive
+- field_id: CHCPAL003_TXT_82_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_82
+  label: Table 82 Row 1 Col 0
+  table_idx: 82
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 303591E1
+  value: James cannot eat food or take oral medication anymore
+- field_id: CHCPAL003_TXT_82_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_82
+  label: Table 82 Row 2 Col 0
+  table_idx: 82
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 021E080E
+  value: James is restless at times
+- field_id: CHCPAL003_TXT_93_0_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_93
+  label: Workplace/organisation
+  table_idx: 93
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 4CB50241
+  value: Care Connect Aged Care & Palliative Services
+- field_id: CHCPAL003_TXT_94_0_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_94
+  label: Name
+  table_idx: 94
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 491D22A6
+  value: Arthur Pendelton
+- field_id: CHCPAL003_TXT_94_1_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_94
+  label: Illness/condition
+  table_idx: 94
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: '33041649'
+  value: Advanced Chronic Obstructive Pulmonary Disease (COPD) and Heart Failure
+- field_id: CHCPAL003_TXT_94_2_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_94
+  label: 'Name of family:'
+  table_idx: 94
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 0063812D
+  value: Dorothy Pendelton (Wife)
+- field_id: CHCPAL003_TXT_94_3_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_94
+  label: 'Name of carer:'
+  table_idx: 94
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 45237E7C
+  value: Dorothy Pendelton
+- field_id: CHCPAL003_TXT_94_4_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_94
+  label: 'Other relevant people:'
+  table_idx: 94
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1C742426
+  value: Clinical care team, palliative physician, community nurse
+- field_id: CHCPAL003_TXT_95_0_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: Name
+  table_idx: 95
+  row_idx: 0
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 594E3DE8
+  value: Margaret Sullivan
+- field_id: CHCPAL003_TXT_95_1_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: Illness/condition
+  table_idx: 95
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12B53806
+  value: Metastatic Breast Cancer (Stage IV)
+- field_id: CHCPAL003_TXT_95_2_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: 'Name of family:'
+  table_idx: 95
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 567DD8B9
+  value: James Sullivan (Son)
+- field_id: CHCPAL003_TXT_95_3_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: 'Name of carer:'
+  table_idx: 95
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 457DD2F1
+  value: James Sullivan
+- field_id: CHCPAL003_TXT_95_4_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_95
+  label: 'Other relevant people:'
+  table_idx: 95
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 078B5B54
+  value: Palliative care team, general practitioner, physiotherapist
+- field_id: CHCPAL003_TXT_98_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_98
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 71D43B2A
+  value: James D.
+- field_id: CHCPAL003_TXT_98_1_0_2
+  type: text
+  section: Practical Assessment
+  question_ref: Table_98
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 498C87BE
+  value: James D.
+- field_id: CHCPAL003_TXT_98_1_0_3
+  type: text
+  section: Practical Assessment
+  question_ref: Table_98
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 98
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 5CD49F49
+  value: James D.
+- field_id: CHCPAL003_TXT_98_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_98
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 98
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 1B0EEFF7
+  value: James D.
+- field_id: CHCPAL003_TXT_98_2_0_2
+  type: text
+  section: Practical Assessment
+  question_ref: Table_98
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 98
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 1FCDF212
+  value: James D.
+- field_id: CHCPAL003_TXT_98_2_0_3
+  type: text
+  section: Practical Assessment
+  question_ref: Table_98
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 98
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 18016B67
+  value: James D.
+- field_id: CHCPAL003_TXT_99_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_99
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 99
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 145EF4FF
+  value: James D.
+- field_id: CHCPAL003_TXT_99_1_0_2
+  type: text
+  section: Practical Assessment
+  question_ref: Table_99
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 99
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 19E98F17
+  value: James D.
+- field_id: CHCPAL003_TXT_99_1_0_3
+  type: text
+  section: Practical Assessment
+  question_ref: Table_99
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 99
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 30231E87
+  value: James D.
+- field_id: CHCPAL003_TXT_99_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_99
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 99
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 00D937A4
+  value: James D.
+- field_id: CHCPAL003_TXT_99_2_0_2
+  type: text
+  section: Practical Assessment
+  question_ref: Table_99
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 99
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 28383B16
+  value: James D.
+- field_id: CHCPAL003_TXT_99_2_0_3
+  type: text
+  section: Practical Assessment
+  question_ref: Table_99
+  label: 'Client needs that fall outside your role as a palliative care worker
+
+
+
+
+    Add more answer fields as ne'
+  table_idx: 99
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 2
+  para_id: 103F90CA
+  value: James D.
+- field_id: CHCPAL003_TXT_101_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_101
+  label: 'Signs of deterioration that the client shows
+
+
+
+    Add more answer fields as necessary'
+  table_idx: 101
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3B4E7CB7
+  value: Consistent with the discussions during the palliative care meeting
+- field_id: CHCPAL003_TXT_101_1_0_2
+  type: text
+  section: Practical Assessment
+  question_ref: Table_101
+  label: 'Signs of deterioration that the client shows
+
+
+
+    Add more answer fields as necessary'
+  table_idx: 101
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7727BE08
+  value: Examples of signs of deterioration that the client possesses
+- field_id: CHCPAL003_TXT_101_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_101
+  label: 'Signs of imminent death that the client shows
+
+
+
+    Add more answer fields as necessary'
+  table_idx: 101
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 60D02495
+  value: Consistent with the discussions during the palliative care meeting
+- field_id: CHCPAL003_TXT_101_2_0_2
+  type: text
+  section: Practical Assessment
+  question_ref: Table_101
+  label: 'Signs of imminent death that the client shows
+
+
+
+    Add more answer fields as necessary'
+  table_idx: 101
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 3EEBBC1D
+  value: Examples of signs of deterioration that the client possesses
+- field_id: CHCPAL003_TXT_102_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_102
+  label: 'Signs of deterioration that the client shows
+
+
+
+    Add more answer fields as necessary'
+  table_idx: 102
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4471D03E
+  value: Consistent with the discussions during the palliative care meeting
+- field_id: CHCPAL003_TXT_102_1_0_2
+  type: text
+  section: Practical Assessment
+  question_ref: Table_102
+  label: 'Signs of deterioration that the client shows
+
+
+
+    Add more answer fields as necessary'
+  table_idx: 102
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 2ED8FC07
+  value: Examples of signs of deterioration that the client possesses
+- field_id: CHCPAL003_TXT_102_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_102
+  label: 'Signs of imminent death that the client shows
+
+
+
+    Add more answer fields as necessary'
+  table_idx: 102
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 7B077415
+  value: Consistent with the discussions during the palliative care meeting
+- field_id: CHCPAL003_TXT_102_2_0_2
+  type: text
+  section: Practical Assessment
+  question_ref: Table_102
+  label: 'Signs of imminent death that the client shows
+
+
+
+    Add more answer fields as necessary'
+  table_idx: 102
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 1
+  para_id: 7BC6D988
+  value: Examples of signs of deterioration that the client possesses
+- field_id: CHCPAL003_TXT_106_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_106
+  label: ACDs
+  table_idx: 106
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4A7B9126
+  value: Refusal of Cardiopulmonary Resuscitation (CPR / DNR)
+- field_id: CHCPAL003_TXT_106_1_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_106
+  label: My Job role
+  table_idx: 106
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7D5C17C8
+  value: Support Worker / Care Assistant
+- field_id: CHCPAL003_TXT_106_1_2_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_106
+  label: How I will implement this according to my job role
+  table_idx: 106
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 017C46F6
+  value: Respect the client's decision not to receive CPR, ensure the palliative care
+    team and supervisor are informed, and provide comfort care instead of initiating
+    resuscitation.
+- field_id: CHCPAL003_TXT_106_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_106
+  label: ACDs
+  table_idx: 106
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 78D2D88A
+  value: Refusal of artificial nutrition and hydration via tube feeding
+- field_id: CHCPAL003_TXT_106_2_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_106
+  label: My Job role
+  table_idx: 106
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 413D6CC5
+  value: Support Worker / Care Assistant
+- field_id: CHCPAL003_TXT_106_2_2_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_106
+  label: How I will implement this according to my job role
+  table_idx: 106
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 4BCA210D
+  value: Support oral comfort care and mouth hygiene rather than artificial feeding,
+    ensuring the client is comfortable and moistening lips as per care plan.
+- field_id: CHCPAL003_TXT_108_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_108
+  label: ACD
+  table_idx: 108
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56D02E76
+  value: Refusal of Cardiopulmonary Resuscitation (CPR / DNR)
+- field_id: CHCPAL003_TXT_108_1_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_108
+  label: Relevant legislative requirement
+  table_idx: 108
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 1D45A222
+  value: 'Guardianship Act 1987 (NSW) / Advance Care Directives Common Law: A valid
+    advance care directive refusing medical treatment is legally binding and must
+    be respected by care staff.'
+- field_id: CHCPAL003_TXT_108_1_2_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_108
+  label: How I will implement this according to the legislative requirements
+  table_idx: 108
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0B934EBF
+  value: Adhere to the client's legally binding refusal of life-sustaining treatment
+    by not initiating CPR and immediately alerting the supervising registered nurse.
+- field_id: CHCPAL003_TXT_108_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_108
+  label: ACD
+  table_idx: 108
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 22A3EE97
+  value: Refusal of artificial nutrition and hydration via tube feeding
+- field_id: CHCPAL003_TXT_108_2_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_108
+  label: Relevant legislative requirement
+  table_idx: 108
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5ED0DF52
+  value: 'Consent to Medical and Dental Treatment (Guardianship Act 1987 NSW): Competent
+    adults have the right to refuse medical interventions including artificial nutrition.'
+- field_id: CHCPAL003_TXT_108_2_2_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_108
+  label: How I will implement this according to the legislative requirements
+  table_idx: 108
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 0604E888
+  value: Comply with the client's refusal of invasive artificial nutrition while continuing
+    to offer palliative comfort measures and oral hydration.
+- field_id: CHCPAL003_TXT_110_1_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_110
+  label: ACD
+  table_idx: 110
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3E1D9A34
+  value: Refusal of Cardiopulmonary Resuscitation (CPR / DNR)
+- field_id: CHCPAL003_TXT_110_1_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_110
+  label: Relevant ethical requirement
+  table_idx: 110
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 10B19E3A
+  value: 'Code of Conduct for Aged Care: Principle of respecting individual autonomy,
+    dignity, and self-determination in end-of-life choices.'
+- field_id: CHCPAL003_TXT_110_1_2_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_110
+  label: How I will implement this according to the ethical requirements
+  table_idx: 110
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 090FC8AD
+  value: Uphold the client's autonomous choice by ensuring care aligns with their
+    expressed wishes and dignity is maintained.
+- field_id: CHCPAL003_TXT_110_2_0_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_110
+  label: ACD
+  table_idx: 110
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: '31579988'
+  value: Refusal of artificial nutrition and hydration via tube feeding
+- field_id: CHCPAL003_TXT_110_2_1_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_110
+  label: Relevant ethical requirement
+  table_idx: 110
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 08A9BB45
+  value: 'Beneficence and Non-maleficence: Providing compassionate comfort care while
+    avoiding non-beneficial, burdensome interventions.'
+- field_id: CHCPAL003_TXT_110_2_2_1
+  type: text
+  section: Practical Assessment
+  question_ref: Table_110
+  label: How I will implement this according to the ethical requirements
+  table_idx: 110
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 7281F6C4
+  value: Provide palliative comfort, oral moistening, and emotional support without
+    imposing unwanted invasive procedures.
+- field_id: CHCPAL003_CB_121_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: You have completed all the Knowledge Assessments Questions.
+  table_idx: 121
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-911084596'
+  value: false
+- field_id: CHCPAL003_CB_121_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: 'You have completed the Practical Assessments in this workbook:'
+  table_idx: 121
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1161735576'
+  value: false
+- field_id: CHCPAL003_CB_121_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 1
+  table_idx: 121
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '106015635'
+  value: false
+- field_id: CHCPAL003_CB_121_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 2
+  table_idx: 121
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1745936886'
+  value: false
+- field_id: CHCPAL003_CB_121_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 3.1
+  table_idx: 121
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1580364648'
+  value: false
+- field_id: CHCPAL003_CB_121_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 3.2
+  table_idx: 121
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-153837944'
+  value: false
+- field_id: CHCPAL003_CB_121_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 4 Supplementary Question
+  table_idx: 121
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1315865670'
+  value: false
+- field_id: CHCPAL003_CB_121_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 5.1
+  table_idx: 121
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-178894492'
+  value: false
+- field_id: CHCPAL003_CB_121_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 5.1 Supplementary Questions
+  table_idx: 121
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-793210721'
+  value: false
+- field_id: CHCPAL003_CB_121_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 5.2
+  table_idx: 121
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1911265402'
+  value: false
+- field_id: CHCPAL003_CB_121_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 5.3
+  table_idx: 121
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-786121212'
+  value: false
+- field_id: CHCPAL003_CB_121_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 5.3 Supplementary Question
+  table_idx: 121
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-71432207'
+  value: false
+- field_id: CHCPAL003_CB_121_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 6.1
+  table_idx: 121
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '559299058'
+  value: false
+- field_id: CHCPAL003_CB_121_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Case Study Task 6.2
+  table_idx: 121
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1300412672'
+  value: false
+- field_id: CHCPAL003_CB_121_16_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Practical Assignment Task 1
+  table_idx: 121
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1889247452'
+  value: false
+- field_id: CHCPAL003_CB_121_17_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Practical Assignment Task 2
+  table_idx: 121
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1235350819'
+  value: false
+- field_id: CHCPAL003_CB_121_18_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Practical Assignment Task 3
+  table_idx: 121
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1462117211'
+  value: false
+- field_id: CHCPAL003_CB_121_19_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_121
+  label: Practical Assignment Task 4
+  table_idx: 121
+  row_idx: 19
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '469333528'
+  value: false
+- field_id: CHCPAL003_CB_122_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 1 – Client 1
+  table_idx: 122
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-511460203'
+  value: false
+- field_id: CHCPAL003_CB_122_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 1 – Client 2
+  table_idx: 122
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '412669679'
+  value: false
+- field_id: CHCPAL003_CB_122_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 1 Supplementary Questions
+  table_idx: 122
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1748959704'
+  value: false
+- field_id: CHCPAL003_CB_122_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 2.1 – Client 1
+  table_idx: 122
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1122610622'
+  value: false
+- field_id: CHCPAL003_CB_122_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 2.1 – Client 2
+  table_idx: 122
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '66935775'
+  value: false
+- field_id: CHCPAL003_CB_122_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 2.1 Supplementary Questions
+  table_idx: 122
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-592711328'
+  value: false
+- field_id: CHCPAL003_CB_122_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 2.2 – Client 1
+  table_idx: 122
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-168095526'
+  value: false
+- field_id: CHCPAL003_CB_122_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 2.2 – Client 2
+  table_idx: 122
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1029413437'
+  value: false
+- field_id: CHCPAL003_CB_122_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 3.1 – Client 1
+  table_idx: 122
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1355159353'
+  value: false
+- field_id: CHCPAL003_CB_122_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 3.1 – Client 2
+  table_idx: 122
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '714320404'
+  value: false
+- field_id: CHCPAL003_CB_122_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 3.2 – Client 1
+  table_idx: 122
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '529544569'
+  value: false
+- field_id: CHCPAL003_CB_122_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 3.2 – Client 2
+  table_idx: 122
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1449308619'
+  value: false
+- field_id: CHCPAL003_CB_122_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 4.1
+  table_idx: 122
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1886320317'
+  value: false
+- field_id: CHCPAL003_CB_122_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 4.2
+  table_idx: 122
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1767216818'
+  value: false
+- field_id: CHCPAL003_CB_122_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Workplace Assessment Task 4.3
+  table_idx: 122
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '602454071'
+  value: false
+- field_id: CHCPAL003_CB_122_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: 'You have saved and submitted the following evidence:'
+  table_idx: 122
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1780760082'
+  value: false
+- field_id: CHCPAL003_CB_122_16_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: This completed workbook
+  table_idx: 122
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1658829720'
+  value: false
+- field_id: CHCPAL003_CB_122_17_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 122
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1643413916'
+  value: false
+- field_id: CHCPAL003_CB_122_18_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Case Study Task 3.2 – Progress Notes
+  table_idx: 122
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '582963068'
+  value: false
+- field_id: CHCPAL003_CB_122_19_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_122
+  label: Case Study Task 3.2 – Organisational policies and procedures for documenting
+    and reporting
+  table_idx: 122
+  row_idx: 19
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1040481732'
+  value: false
+- field_id: CHCPAL003_CB_123_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 1 – Process for seeking clarification and guidance
+    from health professiona
+  table_idx: 123
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '767126685'
+  value: false
+- field_id: CHCPAL003_CB_123_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 1 – Process for seeking clarification and guidance
+    from health professiona
+  table_idx: 123
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '679778066'
+  value: false
+- field_id: CHCPAL003_CB_123_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 2 – Policies and procedures for supporting the
+    person with personal care
+  table_idx: 123
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-457336767'
+  value: false
+- field_id: CHCPAL003_CB_123_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 2 – Policies and procedures for applying interventions
+    for behaviours of c
+  table_idx: 123
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1178000711'
+  value: false
+- field_id: CHCPAL003_CB_123_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 3 – Process for infection control
+  table_idx: 123
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1415361149'
+  value: false
+- field_id: CHCPAL003_CB_123_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 3 – Process for providing support to family after
+    the person’s death
+  table_idx: 123
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-827120782'
+  value: false
+- field_id: CHCPAL003_CB_123_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 3 – Process for providing support to others after
+    the person’s death
+  table_idx: 123
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '337965665'
+  value: false
+- field_id: CHCPAL003_CB_123_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 3 – Process for handling of the personal effects
+    and belongings of the per
+  table_idx: 123
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-217673947'
+  value: false
+- field_id: CHCPAL003_CB_123_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 3 – Documentation requirements
+  table_idx: 123
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-266849681'
+  value: false
+- field_id: CHCPAL003_CB_123_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 4 – Process for ensuring that cultural preferences
+    are considered when car
+  table_idx: 123
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '751787373'
+  value: false
+- field_id: CHCPAL003_CB_123_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Practical Assignment Task 4 – Process for ensuring that spiritual and religious
+    preferences are cons
+  table_idx: 123
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1717855606'
+  value: false
+- field_id: CHCPAL003_CB_123_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Workplace Assessment Task 1 – Meeting Minutes (Client 1)
+  table_idx: 123
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1118068833'
+  value: false
+- field_id: CHCPAL003_CB_123_12_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Workplace Assessment Task 1 – Meeting Minutes (Client 2)
+  table_idx: 123
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-414312548'
+  value: false
+- field_id: CHCPAL003_CB_123_13_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Workplace Assessment Task 2.1 – Progress Notes (Client 1)
+  table_idx: 123
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-41595553'
+  value: false
+- field_id: CHCPAL003_CB_123_14_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Workplace Assessment Task 2.1 – Progress Notes (Client 2)
+  table_idx: 123
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1665469835'
+  value: false
+- field_id: CHCPAL003_CB_123_15_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Workplace Assessment Task 2.2 – Portfolio (Client 1)
+  table_idx: 123
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-763754704'
+  value: false
+- field_id: CHCPAL003_CB_123_16_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_123
+  label: Workplace Assessment Task 2.2 – Portfolio (Client 2)
+  table_idx: 123
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '391087531'
+  value: false
+- field_id: CHCPAL003_CB_124_0_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 3.1 – Progress Notes (Client 1)
+  table_idx: 124
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1197356717'
+  value: false
+- field_id: CHCPAL003_CB_124_1_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 3.1 – Progress Notes (Client 2)
+  table_idx: 124
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-513151519'
+  value: false
+- field_id: CHCPAL003_CB_124_2_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 3.1 – Portfolio (Client 1)
+  table_idx: 124
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '846293070'
+  value: false
+- field_id: CHCPAL003_CB_124_3_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 3.1 – Portfolio (Client 2)
+  table_idx: 124
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1024164138'
+  value: false
+- field_id: CHCPAL003_CB_124_4_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 3.2 – Meeting Minutes (Client 1)
+  table_idx: 124
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '717939689'
+  value: false
+- field_id: CHCPAL003_CB_124_5_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 3.2 – Meeting Minutes (Client 2)
+  table_idx: 124
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-705562077'
+  value: false
+- field_id: CHCPAL003_CB_124_6_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 3.2 – Copy of Progress Notes (Client 1)
+  table_idx: 124
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1865940207'
+  value: false
+- field_id: CHCPAL003_CB_124_7_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 3.2 – Copy of Progress Notes (Client 2)
+  table_idx: 124
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-826129538'
+  value: false
+- field_id: CHCPAL003_CB_124_8_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 4.1 – Self-Care Plan (Part I)
+  table_idx: 124
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1954851585'
+  value: false
+- field_id: CHCPAL003_CB_124_9_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 4.2 – Any supplementary evidence of accessing bereavement
+    care
+  table_idx: 124
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '257493348'
+  value: false
+- field_id: CHCPAL003_CB_124_10_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 4.2 – Any supplementary evidence of accessing support
+    of other team member
+  table_idx: 124
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1886796011'
+  value: false
+- field_id: CHCPAL003_CB_124_11_0_1
+  type: checkbox
+  section: Candidate Checklist
+  question_ref: Table_124
+  label: Workplace Assessment Task 4.3 – Self-Care Plan (Part II)
+  table_idx: 124
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-622927534'
+  value: false
+- field_id: CHCPAL003_CB_126_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: The candidate has completed all the Knowledge Assessments Questions.
+  table_idx: 126
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2146505646'
+  value: false
+- field_id: CHCPAL003_CB_126_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: 'The candidate has completed the Practical Assessments in this workbook:'
+  table_idx: 126
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1746223373'
+  value: false
+- field_id: CHCPAL003_CB_126_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 1
+  table_idx: 126
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-350036867'
+  value: false
+- field_id: CHCPAL003_CB_126_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 2
+  table_idx: 126
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '308371921'
+  value: false
+- field_id: CHCPAL003_CB_126_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 3.1
+  table_idx: 126
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-343015572'
+  value: false
+- field_id: CHCPAL003_CB_126_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 3.2
+  table_idx: 126
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1376197241'
+  value: false
+- field_id: CHCPAL003_CB_126_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 4
+  table_idx: 126
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-452873360'
+  value: false
+- field_id: CHCPAL003_CB_126_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 4 Supplementary Question
+  table_idx: 126
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-558092541'
+  value: false
+- field_id: CHCPAL003_CB_126_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 5.1
+  table_idx: 126
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '645170965'
+  value: false
+- field_id: CHCPAL003_CB_126_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 5.1 Supplementary Questions
+  table_idx: 126
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-488181668'
+  value: false
+- field_id: CHCPAL003_CB_126_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 5.2
+  table_idx: 126
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1621989184'
+  value: false
+- field_id: CHCPAL003_CB_126_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 5.3
+  table_idx: 126
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-347414542'
+  value: false
+- field_id: CHCPAL003_CB_126_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 5.3 Supplementary Question
+  table_idx: 126
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1527700691'
+  value: false
+- field_id: CHCPAL003_CB_126_15_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 6.1
+  table_idx: 126
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1078290748'
+  value: false
+- field_id: CHCPAL003_CB_126_16_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Case Study Task 6.2
+  table_idx: 126
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1176152834'
+  value: false
+- field_id: CHCPAL003_CB_126_17_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Practical Assignment Task 1
+  table_idx: 126
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-854575203'
+  value: false
+- field_id: CHCPAL003_CB_126_18_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Practical Assignment Task 2
+  table_idx: 126
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-498814157'
+  value: false
+- field_id: CHCPAL003_CB_126_19_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Practical Assignment Task 3
+  table_idx: 126
+  row_idx: 19
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '358555745'
+  value: false
+- field_id: CHCPAL003_CB_126_20_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_126
+  label: Practical Assignment Task 4
+  table_idx: 126
+  row_idx: 20
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1996842238'
+  value: false
+- field_id: CHCPAL003_CB_127_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 1 – Client 1
+  table_idx: 127
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1126309672'
+  value: false
+- field_id: CHCPAL003_CB_127_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 1 – Client 2
+  table_idx: 127
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '460232514'
+  value: false
+- field_id: CHCPAL003_CB_127_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 1 Supplementary Questions
+  table_idx: 127
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1552041669'
+  value: false
+- field_id: CHCPAL003_CB_127_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 2.1 – Client 1
+  table_idx: 127
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '477267176'
+  value: false
+- field_id: CHCPAL003_CB_127_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 2.1 – Client 2
+  table_idx: 127
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '536170023'
+  value: false
+- field_id: CHCPAL003_CB_127_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 2.1 Supplementary Questions
+  table_idx: 127
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '203064284'
+  value: false
+- field_id: CHCPAL003_CB_127_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 2.2 – Client 1
+  table_idx: 127
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1958021448'
+  value: false
+- field_id: CHCPAL003_CB_127_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 2.2 – Client 2
+  table_idx: 127
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1673981965'
+  value: false
+- field_id: CHCPAL003_CB_127_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 3.1 – Client 1
+  table_idx: 127
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1684357951'
+  value: false
+- field_id: CHCPAL003_CB_127_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 3.1 – Client 2
+  table_idx: 127
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1814936621'
+  value: false
+- field_id: CHCPAL003_CB_127_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 3.2 – Client 1
+  table_idx: 127
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1525440661'
+  value: false
+- field_id: CHCPAL003_CB_127_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 3.2 – Client 2
+  table_idx: 127
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '2026129269'
+  value: false
+- field_id: CHCPAL003_CB_127_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 4.1
+  table_idx: 127
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1426110207'
+  value: false
+- field_id: CHCPAL003_CB_127_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 4.2
+  table_idx: 127
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '122279258'
+  value: false
+- field_id: CHCPAL003_CB_127_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Workplace Assessment Task 4.3
+  table_idx: 127
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1478575458'
+  value: false
+- field_id: CHCPAL003_CB_127_15_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: 'The candidate has saved and submitted the following evidence:'
+  table_idx: 127
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '141243508'
+  value: false
+- field_id: CHCPAL003_CB_127_16_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: This completed workbook
+  table_idx: 127
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1901353663'
+  value: false
+- field_id: CHCPAL003_CB_127_17_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Assessment Workbook Cover Sheet signed and scanned
+  table_idx: 127
+  row_idx: 17
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '114955614'
+  value: false
+- field_id: CHCPAL003_CB_127_18_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Case Study Task 3.2 – Progress Notes
+  table_idx: 127
+  row_idx: 18
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '154960704'
+  value: false
+- field_id: CHCPAL003_CB_127_19_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_127
+  label: Case Study Task 3.2 – Organisational policies and procedures for documenting
+    and reporting
+  table_idx: 127
+  row_idx: 19
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1659223385'
+  value: false
+- field_id: CHCPAL003_CB_128_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 1 – Process for seeking clarification and guidance
+    from health professiona
+  table_idx: 128
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1473173003'
+  value: false
+- field_id: CHCPAL003_CB_128_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 1 – Process for seeking clarification and guidance
+    from health professiona
+  table_idx: 128
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-732227718'
+  value: false
+- field_id: CHCPAL003_CB_128_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 2 – Policies and procedures for supporting the
+    person with personal care
+  table_idx: 128
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-416176185'
+  value: false
+- field_id: CHCPAL003_CB_128_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 2 – Policies and procedures for applying interventions
+    for behaviours of c
+  table_idx: 128
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-491635655'
+  value: false
+- field_id: CHCPAL003_CB_128_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 3 – Process for infection control
+  table_idx: 128
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1421951286'
+  value: false
+- field_id: CHCPAL003_CB_128_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 3 – Process for providing support to family after
+    the person’s death
+  table_idx: 128
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1096779585'
+  value: false
+- field_id: CHCPAL003_CB_128_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 3 – Process for providing support to others after
+    the person’s death
+  table_idx: 128
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1522233080'
+  value: false
+- field_id: CHCPAL003_CB_128_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 3 – Process for handling of the personal effects
+    and belongings of the per
+  table_idx: 128
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1118261031'
+  value: false
+- field_id: CHCPAL003_CB_128_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 3 – Documentation requirements
+  table_idx: 128
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-262071010'
+  value: false
+- field_id: CHCPAL003_CB_128_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 4 – Process for ensuring that cultural preferences
+    are considered when car
+  table_idx: 128
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1466689815'
+  value: false
+- field_id: CHCPAL003_CB_128_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Practical Assignment Task 4 – Process for ensuring that spiritual and religious
+    preferences are cons
+  table_idx: 128
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2034020701'
+  value: false
+- field_id: CHCPAL003_CB_128_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Workplace Assessment Task 1 – Meeting Minutes (Client 1)
+  table_idx: 128
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '620966662'
+  value: false
+- field_id: CHCPAL003_CB_128_12_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Workplace Assessment Task 1 – Meeting Minutes (Client 2)
+  table_idx: 128
+  row_idx: 12
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-992561197'
+  value: false
+- field_id: CHCPAL003_CB_128_13_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Workplace Assessment Task 2.1 – Progress Notes (Client 1)
+  table_idx: 128
+  row_idx: 13
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2006195915'
+  value: false
+- field_id: CHCPAL003_CB_128_14_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Workplace Assessment Task 2.1 – Progress Notes (Client 2)
+  table_idx: 128
+  row_idx: 14
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '223334194'
+  value: false
+- field_id: CHCPAL003_CB_128_15_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Workplace Assessment Task 2.2 – Portfolio (Client 1)
+  table_idx: 128
+  row_idx: 15
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '691495496'
+  value: false
+- field_id: CHCPAL003_CB_128_16_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_128
+  label: Workplace Assessment Task 2.2 – Portfolio (Client 2)
+  table_idx: 128
+  row_idx: 16
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1010064257'
+  value: false
+- field_id: CHCPAL003_CB_129_0_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 3.1 – Progress Notes (Client 1)
+  table_idx: 129
+  row_idx: 0
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '199981630'
+  value: false
+- field_id: CHCPAL003_CB_129_1_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 3.1 – Progress Notes (Client 2)
+  table_idx: 129
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-240414444'
+  value: false
+- field_id: CHCPAL003_CB_129_2_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 3.1 – Portfolio (Client 1)
+  table_idx: 129
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '421762417'
+  value: false
+- field_id: CHCPAL003_CB_129_3_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 3.1 – Portfolio (Client 2)
+  table_idx: 129
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-2138326030'
+  value: false
+- field_id: CHCPAL003_CB_129_4_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 3.2 – Meeting Minutes (Client 1)
+  table_idx: 129
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1678802069'
+  value: false
+- field_id: CHCPAL003_CB_129_5_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 3.2 – Meeting Minutes (Client 2)
+  table_idx: 129
+  row_idx: 5
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-170957167'
+  value: false
+- field_id: CHCPAL003_CB_129_6_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 3.2 – Copy of Progress Notes (Client 1)
+  table_idx: 129
+  row_idx: 6
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '598766887'
+  value: false
+- field_id: CHCPAL003_CB_129_7_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 3.2 – Copy of Progress Notes (Client 2)
+  table_idx: 129
+  row_idx: 7
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1575192758'
+  value: false
+- field_id: CHCPAL003_CB_129_8_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 4.1 – Self-Care Plan (Part I)
+  table_idx: 129
+  row_idx: 8
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '-1456859329'
+  value: false
+- field_id: CHCPAL003_CB_129_9_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 4.2 – Any supplementary evidence of accessing bereavement
+    care
+  table_idx: 129
+  row_idx: 9
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '304980373'
+  value: false
+- field_id: CHCPAL003_CB_129_10_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 4.2 – Any supplementary evidence of accessing support
+    of other team member
+  table_idx: 129
+  row_idx: 10
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '1164129078'
+  value: false
+- field_id: CHCPAL003_CB_129_11_0_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_129
+  label: Workplace Assessment Task 4.3 – Self-Care Plan (Part II)
+  table_idx: 129
+  row_idx: 11
+  col_idx: 0
+  index_in_cell: 0
+  sdt_id: '40949147'
+  value: false
+- field_id: CHCPAL003_TXT_131_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_131
+  label: Candidate’s Name - RECORD OF ASSESSMENT
+  table_idx: 131
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 730A0435
+  value: Alex Chen
+- field_id: CHCPAL003_TXT_131_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_131
+  label: RTO Name - RECORD OF ASSESSMENT
+  table_idx: 131
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 12F1CA79
+  value: Care Connect College
+- field_id: CHCPAL003_TXT_131_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_131
+  label: RTO Contact Number - RECORD OF ASSESSMENT
+  table_idx: 131
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5A6CEC60
+  value: 1300 123 456
+- field_id: CHCPAL003_TXT_131_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_131
+  label: RTO Email Address - RECORD OF ASSESSMENT
+  table_idx: 131
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 6127D83D
+  value: info@careconnectcollege.edu.au
+- field_id: CHCPAL003_TXT_131_5_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_131
+  label: Assessor’s Name - RECORD OF ASSESSMENT
+  table_idx: 131
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 165860A4
+  value: ''
+- field_id: CHCPAL003_CB_132_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 1 Col 1
+  table_idx: 132
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1628122573'
+  value: false
+- field_id: CHCPAL003_CB_132_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 1 Col 2
+  table_idx: 132
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '41869887'
+  value: false
+- field_id: CHCPAL003_CB_132_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 2 Col 1
+  table_idx: 132
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1085990598'
+  value: false
+- field_id: CHCPAL003_CB_132_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 2 Col 2
+  table_idx: 132
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1484276261'
+  value: false
+- field_id: CHCPAL003_CB_132_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 3 Col 1
+  table_idx: 132
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1631007055'
+  value: false
+- field_id: CHCPAL003_CB_132_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 3 Col 2
+  table_idx: 132
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '132760661'
+  value: false
+- field_id: CHCPAL003_CB_132_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 4 Col 1
+  table_idx: 132
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1814549610'
+  value: false
+- field_id: CHCPAL003_CB_132_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 4 Col 2
+  table_idx: 132
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1261265825'
+  value: false
+- field_id: CHCPAL003_CB_132_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 5 Col 1
+  table_idx: 132
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '725570037'
+  value: false
+- field_id: CHCPAL003_CB_132_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 5 Col 2
+  table_idx: 132
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1166288856'
+  value: false
+- field_id: CHCPAL003_CB_132_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 6 Col 1
+  table_idx: 132
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-505900124'
+  value: false
+- field_id: CHCPAL003_CB_132_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 6 Col 2
+  table_idx: 132
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1490907186'
+  value: false
+- field_id: CHCPAL003_CB_132_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 7 Col 1
+  table_idx: 132
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1584533219'
+  value: false
+- field_id: CHCPAL003_CB_132_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 7 Col 2
+  table_idx: 132
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '545338417'
+  value: false
+- field_id: CHCPAL003_CB_132_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 8 Col 1
+  table_idx: 132
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '14047396'
+  value: false
+- field_id: CHCPAL003_CB_132_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 8 Col 2
+  table_idx: 132
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-505902743'
+  value: false
+- field_id: CHCPAL003_CB_132_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 9 Col 1
+  table_idx: 132
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-107664991'
+  value: false
+- field_id: CHCPAL003_CB_132_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 9 Col 2
+  table_idx: 132
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '984200767'
+  value: false
+- field_id: CHCPAL003_CB_132_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 10 Col 1
+  table_idx: 132
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1407189684'
+  value: false
+- field_id: CHCPAL003_CB_132_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 10 Col 2
+  table_idx: 132
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-508059763'
+  value: false
+- field_id: CHCPAL003_CB_132_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 11 Col 1
+  table_idx: 132
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1079257690'
+  value: false
+- field_id: CHCPAL003_CB_132_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 11 Col 2
+  table_idx: 132
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1295290655'
+  value: false
+- field_id: CHCPAL003_CB_132_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 12 Col 1
+  table_idx: 132
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-646815186'
+  value: false
+- field_id: CHCPAL003_CB_132_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 12 Col 2
+  table_idx: 132
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1219509432'
+  value: false
+- field_id: CHCPAL003_CB_132_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 13 Col 1
+  table_idx: 132
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-718901240'
+  value: false
+- field_id: CHCPAL003_CB_132_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_132
+  label: Row 13 Col 2
+  table_idx: 132
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1040126839'
+  value: false
+- field_id: CHCPAL003_CB_133_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 1 Col 1
+  table_idx: 133
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1233464153'
+  value: false
+- field_id: CHCPAL003_CB_133_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 1 Col 2
+  table_idx: 133
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1325940450'
+  value: false
+- field_id: CHCPAL003_CB_133_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 2 Col 1
+  table_idx: 133
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1563135058'
+  value: false
+- field_id: CHCPAL003_CB_133_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 2 Col 2
+  table_idx: 133
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-680969951'
+  value: false
+- field_id: CHCPAL003_CB_133_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 3 Col 1
+  table_idx: 133
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '141783774'
+  value: false
+- field_id: CHCPAL003_CB_133_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 3 Col 2
+  table_idx: 133
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-588305640'
+  value: false
+- field_id: CHCPAL003_CB_133_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 4 Col 1
+  table_idx: 133
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1202626419'
+  value: false
+- field_id: CHCPAL003_CB_133_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 4 Col 2
+  table_idx: 133
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1534457494'
+  value: false
+- field_id: CHCPAL003_CB_133_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 5 Col 1
+  table_idx: 133
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1568452993'
+  value: false
+- field_id: CHCPAL003_CB_133_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 5 Col 2
+  table_idx: 133
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1828576586'
+  value: false
+- field_id: CHCPAL003_CB_133_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 6 Col 1
+  table_idx: 133
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1066645695'
+  value: false
+- field_id: CHCPAL003_CB_133_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 6 Col 2
+  table_idx: 133
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1068189391'
+  value: false
+- field_id: CHCPAL003_CB_133_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 7 Col 1
+  table_idx: 133
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1004511231'
+  value: false
+- field_id: CHCPAL003_CB_133_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 7 Col 2
+  table_idx: 133
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1067954543'
+  value: false
+- field_id: CHCPAL003_CB_133_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 8 Col 1
+  table_idx: 133
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1121446996'
+  value: false
+- field_id: CHCPAL003_CB_133_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_133
+  label: Row 8 Col 2
+  table_idx: 133
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '51515034'
+  value: false
+- field_id: CHCPAL003_CB_134_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 2 Col 1
+  table_idx: 134
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-423648821'
+  value: false
+- field_id: CHCPAL003_CB_134_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 2 Col 2
+  table_idx: 134
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1559977519'
+  value: false
+- field_id: CHCPAL003_CB_134_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 3 Col 1
+  table_idx: 134
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1821266641'
+  value: false
+- field_id: CHCPAL003_CB_134_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 3 Col 2
+  table_idx: 134
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1250465682'
+  value: false
+- field_id: CHCPAL003_CB_134_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 4 Col 1
+  table_idx: 134
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '267597037'
+  value: false
+- field_id: CHCPAL003_CB_134_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 4 Col 2
+  table_idx: 134
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-903223013'
+  value: false
+- field_id: CHCPAL003_CB_134_5_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 5 Col 1
+  table_idx: 134
+  row_idx: 5
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '795329298'
+  value: false
+- field_id: CHCPAL003_CB_134_5_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 5 Col 2
+  table_idx: 134
+  row_idx: 5
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-287900000'
+  value: false
+- field_id: CHCPAL003_CB_134_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 6 Col 1
+  table_idx: 134
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1291041228'
+  value: false
+- field_id: CHCPAL003_CB_134_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 6 Col 2
+  table_idx: 134
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1952472035'
+  value: false
+- field_id: CHCPAL003_CB_134_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 7 Col 1
+  table_idx: 134
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '362325148'
+  value: false
+- field_id: CHCPAL003_CB_134_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 7 Col 2
+  table_idx: 134
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1755772163'
+  value: false
+- field_id: CHCPAL003_CB_134_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 8 Col 1
+  table_idx: 134
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-972901185'
+  value: false
+- field_id: CHCPAL003_CB_134_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 8 Col 2
+  table_idx: 134
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-308560139'
+  value: false
+- field_id: CHCPAL003_CB_134_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 9 Col 1
+  table_idx: 134
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-793748668'
+  value: false
+- field_id: CHCPAL003_CB_134_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 9 Col 2
+  table_idx: 134
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2141559366'
+  value: false
+- field_id: CHCPAL003_CB_134_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 10 Col 1
+  table_idx: 134
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-988942989'
+  value: false
+- field_id: CHCPAL003_CB_134_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 10 Col 2
+  table_idx: 134
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1953543690'
+  value: false
+- field_id: CHCPAL003_CB_134_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 11 Col 1
+  table_idx: 134
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '291254639'
+  value: false
+- field_id: CHCPAL003_CB_134_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 11 Col 2
+  table_idx: 134
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1867645116'
+  value: false
+- field_id: CHCPAL003_CB_134_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 12 Col 1
+  table_idx: 134
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '908035077'
+  value: false
+- field_id: CHCPAL003_CB_134_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 12 Col 2
+  table_idx: 134
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '144015733'
+  value: false
+- field_id: CHCPAL003_CB_134_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 13 Col 1
+  table_idx: 134
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1501389291'
+  value: false
+- field_id: CHCPAL003_CB_134_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 13 Col 2
+  table_idx: 134
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-587769238'
+  value: false
+- field_id: CHCPAL003_CB_134_14_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 14 Col 1
+  table_idx: 134
+  row_idx: 14
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-320117427'
+  value: false
+- field_id: CHCPAL003_CB_134_14_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_134
+  label: Row 14 Col 2
+  table_idx: 134
+  row_idx: 14
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-2000727241'
+  value: false
+- field_id: CHCPAL003_CB_135_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 1 Col 1
+  table_idx: 135
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-52079770'
+  value: false
+- field_id: CHCPAL003_CB_135_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 1 Col 2
+  table_idx: 135
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1293586827'
+  value: false
+- field_id: CHCPAL003_CB_135_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 2 Col 1
+  table_idx: 135
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-619375282'
+  value: false
+- field_id: CHCPAL003_CB_135_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 2 Col 2
+  table_idx: 135
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1535955441'
+  value: false
+- field_id: CHCPAL003_CB_135_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 3 Col 1
+  table_idx: 135
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1020749001'
+  value: false
+- field_id: CHCPAL003_CB_135_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 3 Col 2
+  table_idx: 135
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1100561103'
+  value: false
+- field_id: CHCPAL003_CB_135_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 4 Col 1
+  table_idx: 135
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1064370009'
+  value: false
+- field_id: CHCPAL003_CB_135_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 4 Col 2
+  table_idx: 135
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1813134651'
+  value: false
+- field_id: CHCPAL003_CB_135_6_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 6 Col 1
+  table_idx: 135
+  row_idx: 6
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1233282449'
+  value: false
+- field_id: CHCPAL003_CB_135_6_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 6 Col 2
+  table_idx: 135
+  row_idx: 6
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-814256973'
+  value: false
+- field_id: CHCPAL003_CB_135_7_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 7 Col 1
+  table_idx: 135
+  row_idx: 7
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1577087207'
+  value: false
+- field_id: CHCPAL003_CB_135_7_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 7 Col 2
+  table_idx: 135
+  row_idx: 7
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1354340528'
+  value: false
+- field_id: CHCPAL003_CB_135_8_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 8 Col 1
+  table_idx: 135
+  row_idx: 8
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522459827'
+  value: false
+- field_id: CHCPAL003_CB_135_8_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 8 Col 2
+  table_idx: 135
+  row_idx: 8
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1220972543'
+  value: false
+- field_id: CHCPAL003_CB_135_9_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 9 Col 1
+  table_idx: 135
+  row_idx: 9
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1254782572'
+  value: false
+- field_id: CHCPAL003_CB_135_9_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 9 Col 2
+  table_idx: 135
+  row_idx: 9
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '164364033'
+  value: false
+- field_id: CHCPAL003_CB_135_10_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 10 Col 1
+  table_idx: 135
+  row_idx: 10
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '57983969'
+  value: false
+- field_id: CHCPAL003_CB_135_10_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 10 Col 2
+  table_idx: 135
+  row_idx: 10
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1201662096'
+  value: false
+- field_id: CHCPAL003_CB_135_11_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 11 Col 1
+  table_idx: 135
+  row_idx: 11
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1612700285'
+  value: false
+- field_id: CHCPAL003_CB_135_11_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 11 Col 2
+  table_idx: 135
+  row_idx: 11
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '44966731'
+  value: false
+- field_id: CHCPAL003_CB_135_12_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 12 Col 1
+  table_idx: 135
+  row_idx: 12
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1284421733'
+  value: false
+- field_id: CHCPAL003_CB_135_12_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 12 Col 2
+  table_idx: 135
+  row_idx: 12
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1475569500'
+  value: false
+- field_id: CHCPAL003_CB_135_13_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 13 Col 1
+  table_idx: 135
+  row_idx: 13
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1944533254'
+  value: false
+- field_id: CHCPAL003_CB_135_13_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 13 Col 2
+  table_idx: 135
+  row_idx: 13
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1048919444'
+  value: false
+- field_id: CHCPAL003_CB_135_14_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 14 Col 1
+  table_idx: 135
+  row_idx: 14
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '512045704'
+  value: false
+- field_id: CHCPAL003_CB_135_14_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 14 Col 2
+  table_idx: 135
+  row_idx: 14
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-600102262'
+  value: false
+- field_id: CHCPAL003_CB_135_15_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 15 Col 1
+  table_idx: 135
+  row_idx: 15
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '794093443'
+  value: false
+- field_id: CHCPAL003_CB_135_15_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 15 Col 2
+  table_idx: 135
+  row_idx: 15
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '99842446'
+  value: false
+- field_id: CHCPAL003_CB_135_16_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 16 Col 1
+  table_idx: 135
+  row_idx: 16
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1617206961'
+  value: false
+- field_id: CHCPAL003_CB_135_16_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 16 Col 2
+  table_idx: 135
+  row_idx: 16
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1798255734'
+  value: false
+- field_id: CHCPAL003_CB_135_17_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 17 Col 1
+  table_idx: 135
+  row_idx: 17
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-629096311'
+  value: false
+- field_id: CHCPAL003_CB_135_17_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 17 Col 2
+  table_idx: 135
+  row_idx: 17
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1493254834'
+  value: false
+- field_id: CHCPAL003_CB_135_18_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 18 Col 1
+  table_idx: 135
+  row_idx: 18
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1353339211'
+  value: false
+- field_id: CHCPAL003_CB_135_18_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 18 Col 2
+  table_idx: 135
+  row_idx: 18
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-1213888282'
+  value: false
+- field_id: CHCPAL003_CB_135_19_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 19 Col 1
+  table_idx: 135
+  row_idx: 19
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1312526227'
+  value: false
+- field_id: CHCPAL003_CB_135_19_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 19 Col 2
+  table_idx: 135
+  row_idx: 19
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1556510903'
+  value: false
+- field_id: CHCPAL003_CB_135_20_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 20 Col 1
+  table_idx: 135
+  row_idx: 20
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1369259234'
+  value: false
+- field_id: CHCPAL003_CB_135_20_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_135
+  label: Row 20 Col 2
+  table_idx: 135
+  row_idx: 20
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-267086905'
+  value: false
+- field_id: CHCPAL003_CB_136_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_136
+  label: Row 1 Col 1
+  table_idx: 136
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1308628380'
+  value: false
+- field_id: CHCPAL003_CB_136_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_136
+  label: Row 1 Col 2
+  table_idx: 136
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1740131518'
+  value: false
+- field_id: CHCPAL003_CB_136_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_136
+  label: Row 2 Col 1
+  table_idx: 136
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1439518010'
+  value: false
+- field_id: CHCPAL003_CB_136_2_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_136
+  label: Row 2 Col 2
+  table_idx: 136
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-313950761'
+  value: false
+- field_id: CHCPAL003_CB_136_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_136
+  label: Row 3 Col 1
+  table_idx: 136
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '226878065'
+  value: false
+- field_id: CHCPAL003_CB_136_3_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_136
+  label: Row 3 Col 2
+  table_idx: 136
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-501118779'
+  value: false
+- field_id: CHCPAL003_CB_136_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_136
+  label: Row 4 Col 1
+  table_idx: 136
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1907799721'
+  value: false
+- field_id: CHCPAL003_CB_136_4_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_136
+  label: Row 4 Col 2
+  table_idx: 136
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '-999803871'
+  value: false
+- field_id: CHCPAL003_CB_137_2_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_137
+  label: Row 2 Col 1
+  table_idx: 137
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-390652190'
+  value: false
+- field_id: CHCPAL003_CB_137_3_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_137
+  label: Row 3 Col 1
+  table_idx: 137
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-314569455'
+  value: false
+- field_id: CHCPAL003_CB_137_4_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_137
+  label: Row 4 Col 1
+  table_idx: 137
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '-1522312909'
+  value: false
+- field_id: CHCPAL003_TXT_139_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Name of Third-party Contacted
+  table_idx: 139
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 5A969C06
+  value: ''
+- field_id: CHCPAL003_TXT_139_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Role in the Candidate’s Assessment
+  table_idx: 139
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 5EEC833F
+  value: ''
+- field_id: CHCPAL003_TXT_139_1_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Contact Details (Phone number or email address)
+  table_idx: 139
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  para_id: '29882929'
+  value: ''
+- field_id: CHCPAL003_TXT_139_1_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Date contacted
+  table_idx: 139
+  row_idx: 1
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 4CD14B2C
+  value: ''
+- field_id: CHCPAL003_CB_139_1_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_139
+  label: Yes       No   Assessor’s Notes
+  table_idx: 139
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '2002856654'
+  value: false
+- field_id: CHCPAL003_CB_139_1_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_139
+  label: Yes       No   Assessor’s Notes
+  table_idx: 139
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1411080501'
+  value: false
+- field_id: CHCPAL003_TXT_139_1_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 139
+  row_idx: 1
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3273E566
+  value: ''
+- field_id: CHCPAL003_TXT_139_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Name of Third-party Contacted
+  table_idx: 139
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 27B75E8F
+  value: ''
+- field_id: CHCPAL003_TXT_139_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Role in the Candidate’s Assessment
+  table_idx: 139
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 40B34E2B
+  value: ''
+- field_id: CHCPAL003_TXT_139_2_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Contact Details (Phone number or email address)
+  table_idx: 139
+  row_idx: 2
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 77A6665E
+  value: ''
+- field_id: CHCPAL003_TXT_139_2_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Date contacted
+  table_idx: 139
+  row_idx: 2
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 1DAFA096
+  value: ''
+- field_id: CHCPAL003_CB_139_2_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_139
+  label: Yes       No   Assessor’s Notes
+  table_idx: 139
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '866488482'
+  value: false
+- field_id: CHCPAL003_CB_139_2_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_139
+  label: Yes       No   Assessor’s Notes
+  table_idx: 139
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-73510641'
+  value: false
+- field_id: CHCPAL003_TXT_139_2_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 139
+  row_idx: 2
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 39CAA6A2
+  value: ''
+- field_id: CHCPAL003_TXT_139_3_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Name of Third-party Contacted
+  table_idx: 139
+  row_idx: 3
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 4D25FAFA
+  value: ''
+- field_id: CHCPAL003_TXT_139_3_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Role in the Candidate’s Assessment
+  table_idx: 139
+  row_idx: 3
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 451A30E5
+  value: ''
+- field_id: CHCPAL003_TXT_139_3_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Contact Details (Phone number or email address)
+  table_idx: 139
+  row_idx: 3
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 5E4BE0E3
+  value: ''
+- field_id: CHCPAL003_TXT_139_3_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Date contacted
+  table_idx: 139
+  row_idx: 3
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 08D6E752
+  value: ''
+- field_id: CHCPAL003_CB_139_3_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_139
+  label: Yes       No   Assessor’s Notes
+  table_idx: 139
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '375582146'
+  value: false
+- field_id: CHCPAL003_CB_139_3_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_139
+  label: Yes       No   Assessor’s Notes
+  table_idx: 139
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1986920157'
+  value: false
+- field_id: CHCPAL003_TXT_139_3_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 139
+  row_idx: 3
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 18D2A67F
+  value: ''
+- field_id: CHCPAL003_TXT_139_4_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Name of Third-party Contacted
+  table_idx: 139
+  row_idx: 4
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0AB2776E
+  value: ''
+- field_id: CHCPAL003_TXT_139_4_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Role in the Candidate’s Assessment
+  table_idx: 139
+  row_idx: 4
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 7B9C71C7
+  value: ''
+- field_id: CHCPAL003_TXT_139_4_2_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Contact Details (Phone number or email address)
+  table_idx: 139
+  row_idx: 4
+  col_idx: 2
+  index_in_cell: 0
+  para_id: 23166DAF
+  value: ''
+- field_id: CHCPAL003_TXT_139_4_3_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: Date contacted
+  table_idx: 139
+  row_idx: 4
+  col_idx: 3
+  index_in_cell: 0
+  para_id: 19F6D647
+  value: ''
+- field_id: CHCPAL003_CB_139_4_4_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_139
+  label: Yes       No   Assessor’s Notes
+  table_idx: 139
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  sdt_id: '1662740443'
+  value: false
+- field_id: CHCPAL003_CB_139_4_4_2
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_139
+  label: Yes       No   Assessor’s Notes
+  table_idx: 139
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 1
+  sdt_id: '-1737544256'
+  value: false
+- field_id: CHCPAL003_TXT_139_4_4_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_139
+  label: "Yes       No  \nAssessor’s Notes"
+  table_idx: 139
+  row_idx: 4
+  col_idx: 4
+  index_in_cell: 0
+  para_id: 3BC5CFB0
+  value: ''
+- field_id: CHCPAL003_CB_140_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_140
+  label: Row 1 Col 1
+  table_idx: 140
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '871422130'
+  value: false
+- field_id: CHCPAL003_CB_140_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_140
+  label: Row 1 Col 2
+  table_idx: 140
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1849670029'
+  value: false
+- field_id: CHCPAL003_CB_141_1_1_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_141
+  label: Row 1 Col 1
+  table_idx: 141
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  sdt_id: '1355767970'
+  value: false
+- field_id: CHCPAL003_CB_141_1_2_1
+  type: checkbox
+  section: Assessor Section
+  question_ref: Table_141
+  label: Row 1 Col 2
+  table_idx: 141
+  row_idx: 1
+  col_idx: 2
+  index_in_cell: 0
+  sdt_id: '1857234466'
+  value: false
+- field_id: CHCPAL003_TXT_142_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_142
+  label: Assessor’s comments/feedback
+  table_idx: 142
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 0E889375
+  value: ''
+- field_id: CHCPAL003_TXT_143_1_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_143
+  label: Assessor’s name
+  table_idx: 143
+  row_idx: 1
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 3D877E66
+  value: ''
+- field_id: CHCPAL003_TXT_143_1_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_143
+  label: Assessor’s signature
+  table_idx: 143
+  row_idx: 1
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
+- field_id: CHCPAL003_TXT_143_2_0_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_143
+  label: Date signed
+  table_idx: 143
+  row_idx: 2
+  col_idx: 0
+  index_in_cell: 0
+  para_id: 56908E91
+  value: ''
+- field_id: CHCPAL003_TXT_143_2_1_1
+  type: text
+  section: Assessor Section
+  question_ref: Table_143
+  label: Assessor’s signature
+  table_idx: 143
+  row_idx: 2
+  col_idx: 1
+  index_in_cell: 0
+  para_id: 29EB2E3E
+  value: ''
